@@ -30,7 +30,18 @@ python3 updateHostsFile.py --auto
 tail -n +$(grep "# Start StevenBlack" -n hosts | cut -f1 -d:) hosts | grep '^0.0.0.0' | awk '{print $2}' >> ../stevenblack.dns
 popd
 
-
 ## adaway
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > adaway.dns
 curl -s https://adaway.org/hosts.txt | grep -v -e '^#' -e 'localhost' -e '^$' | less | awk '{print $2}' >> adaway.dns
+
+# disconnectme
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > disconnectme.dns
+curl -s https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt >> disconnectme.dns
+
+# pgl
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > pgl.dns
+curl -s 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext' | grep -v -e '^#' -e 'localhost' -e '^$' | less | awk '{print $2}' >> pgl.dns
+
+# easylist
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > easylist.dns
+curl -s https://v.firebog.net/hosts/Easylist.txt >> easylist.dns

@@ -25,6 +25,17 @@ Source: [Hosts](https://github.com/StevenBlack/hosts)
 
 ## adaway.dns
 
-Source: https://firebog.net/
+Source: [Firebog](https://firebog.net/)
 
+## disconnectme.dns
+
+Source: [Firebog](https://firebog.net/)
+
+## pgl.dns
+
+Source: [Firebog](https://firebog.net/)
+
+## easylist.dns
+
+Source: [Firebog](https://firebog.net/)
 
