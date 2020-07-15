@@ -45,3 +45,9 @@ curl -s 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintr
 # easylist
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > easylist.dns
 curl -s https://v.firebog.net/hosts/Easylist.txt >> easylist.dns
+
+# MVPS
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > mvps.dns
+curl -s 'http://winhelp2002.mvps.org/hosts.txt' | grep -v -e '^#' -e 'localhost' -e '^$' | sed 's/\r$//' |less | awk '{print $2}' >> mvps.dns
+
+
