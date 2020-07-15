@@ -23,14 +23,14 @@
 # After executing the script, remember to commit the changes
 
 
-## hosts
+# hosts
 pushd hosts
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : mixed\n# Confidence      : 4\n#\n" > ../stevenblack.dns
 python3 updateHostsFile.py --auto
 tail -n +$(grep "# Start StevenBlack" -n hosts | cut -f1 -d:) hosts | grep '^0.0.0.0' | awk '{print $2}' >> ../stevenblack.dns
 popd
 
-## adaway
+# adaway
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > adaway.dns
 curl -s https://adaway.org/hosts.txt | grep -v -e '^#' -e 'localhost' -e '^$' | less | awk '{print $2}' >> adaway.dns
 
