@@ -47,7 +47,10 @@ echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Cat
 curl -s https://v.firebog.net/hosts/Easylist.txt >> easylist.dns
 
 # MVPS
-echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : ads\n# Confidence      : 4\n#\n" > mvps.dns
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Mixed\n# Confidence      : 4\n#\n" > mvps.dns
 curl -s 'http://winhelp2002.mvps.org/hosts.txt' | grep -v -e '^#' -e 'localhost' -e '^$' | sed 's/\r$//' |less | awk '{print $2}' >> mvps.dns
 
-
+# Ultimate
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Mixed\n# Confidence      : 4\n#\n" > ultimate.dns
+curl -s 'https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts0' | grep -v -e '^#' -e 'localhost' -e '^$' -e 'broadcasthost' -e '0.0.0.0$' | sed 's/\r$//' |sed 's/\local$//' | less | awk '{print $2}' >> ultimate.dns
+curl -s 'https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts1' | grep -v -e '^#' -e 'localhost' -e '^$' -e 'broadcasthost' -e '0.0.0.0$' | sed 's/\r$//' |sed 's/\local$//' | less | awk '{print $2}' >> ultimate.dns
