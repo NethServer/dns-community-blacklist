@@ -8,8 +8,16 @@
 # Confidence      : 4
 #
 
-
-
+quantummetric.com # Cydia/Bigboss
+cydia.saurik.com.cdngc.net # Cydia/Bigboss
+production-ultimate-assets.ratecity.com.au # NewsCorp
+saber.srvcs.tumblr.com # Tumblr
+fd-fp3.wg1.b.yahoo.com # Tumblr
+usc.adserver.snapads.com # Snapchat
+euw.adserver.snapads.com # Snapchat
+ad-cdn.technoratimedia.com # LA Times
+content.synapsys.us # LA Times
+engine.fyber.com # Mobile games
 yt.moatads.com
 us.intellitxt.com
 evolveplatform.net
@@ -20,6 +28,7 @@ a1.adstore.jp
 ad.fyber.angsrvr.com
 ade.googlesyndication.com
 www.vungle.com
+e5019.e2.akamaiedge.net # Vungle
 rules.noadblock.org
 wildcard.moatads.com.edgekey.net
 sdk.appsflyer.com
@@ -49,19 +58,16 @@ sdk.iad-06.braze.com
 ads-eu.amillionads.com
 ad.mopub.com
 pool.tumblr.iponweb.net
-
 coin-hive.com
 coinhiveproxy.com
 jsecoin.com
 crypto-loot.com
-
 bannertrack.net
 serve.bannertrack.net
 yasni.bannertrack.net
 adtrackers.net
 zoover.adtrackers.net
 serve.adtrackers.net
-
 instartlogic.com
 www.instartlogic.com
 opencache.com
@@ -74,7 +80,6 @@ insnw.net
 www.insnw.ne
 inscname.net
 www.inscname.net
-
 thefilter.com
 www.thefilter.com
 api211.thefilter.com
@@ -85,15 +90,21 @@ d3hmp0045zy3cs.cloudfront.net
 docj27ko03fnu.cloudfront.net
 rpxnow.com
 nexus.ensighten.com
-
 www.summerhamster.com
 summerhamster.com
 www.roosterfirework.com
 roosterfirework.com
-
+ls.srvcs.tumblr.com # Tumblr
+deliver.oztam.com.au # ABC iView
+collector.abc-host.net.au # ABC iView
 cws.conviva.com
+app-analytics.snapchat.com # Snapchat
 telemetry.nvidia.com
 telemetry.gfe.nvidia.com
+telemetry.malwarebytes.com # Malwarebytes
+tags.tiqcdn.com # Ancestery
+open.oneplus.net # Android
+ctoid.net # HSTS Supercookie http://bit.ly/2xJJUPP
 metrics.plex.tv
 analytics.plex.tv
 invisioncloudstats.com
@@ -101,15 +112,20 @@ api.branch.io
 www.usekahuna.com
 gate.hockeyapp.net
 msmetrics.ws.sonos.com
+analytics.kidoz.net # Hopster
 sdk.kidoz.net
 cdn.kidoz.net
 advertising.oriel.io
+www.adiode.com # Anti adblock
 adiode.com
+d35fgcharv2shj.cloudfront.net # Adobe telemetry
 rules.quantcount.com
 api.viafoura.co
 placements.tapjoy.com
 content.tapjoy.com
 rpc.tapjoy.com
+api.redshell.io # https://redd.it/8pud8b
+in.treasuredata.com # RedShell
 tracking.monsido.com
 stats.zotabox.com
 static.zotabox.com
@@ -120,6 +136,8 @@ fast-nc.appcues.com
 analytics.servogram.io
 ancestry.siteintercept.qualtrics.com
 www.movable-ink-2183.com
+assets.micpn.com # MovableInk
+ink1001.com # MovableInk
 c.tracking.goodgamestudios.com
 cdn.monsido.com
 incoming.telemetry.mozilla.org
@@ -144,10 +162,14 @@ is-tracking-pixel-api-prod.appspot.com
 rs.fullstory.com
 api-lytics.macpaw.com
 www.fullstory.com
+gate.datacaciques.com # 3rd party eBay Seller Metrics
 adc-ad-assets.adtilt.com
 file-cdn.beeketing.com
+static-assets-queue-it.net # https://bit.ly/2NQzE0I
 acdn.adnxs.com
+iphone.aut5.com # https://t.co/8OWVnDjucG
 update.aut5.com
+analytics.ff.avast.com # CCleaner Temeletry
 ip-info.ff.avast.com
 ipm-provider.ff.avast.com
 v7event.stats.avast.com
@@ -181,10 +203,17 @@ piano.io
 trk.klclick.com
 collectorb.tvsquared.com
 stats.graitec.net
-
+aloseks.org # Phishing
+shortyz.co # Phishing
+groceriesgiftcards.com # Phishing
+campingforthefunofit.com # Phishing
+cameforcameand33212.com # OSXMokes
+jikenick12and67.com # OSXMokes
+startdigitaal.nl # DDE Exploit via @MalwareTechBlog
+uaswitcher.org # Chrome User-Agent Switcher trojan
+api.data-monitor.info # As above
 exclusive-vouchers.com
 specialdeals.g5e.com
-
 aax-eu.amazon-adsystem.com
 adnxs.com
 api.amplitude.com
@@ -204,7 +233,6 @@ promoted.soundcloud.com
 pv.medialead.de
 securepubads.g.doubleclick.net
 wetter.pushwoosh.com
-
 ads.a2epub.com
 ads.fakulteti.mk
 ads.latinongroup.com
@@ -337,8 +365,6 @@ bibugal.network
 hoshiwa.com
 wetral.com
 galikos.com
-
-
 2znp09oa.com
 4jnzhl0d0.com
 5mcwl.pw
