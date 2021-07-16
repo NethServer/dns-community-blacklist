@@ -3535,6 +3535,7 @@ wgo.mmstat.com
 yt.mmstat.com
 ali-stats.jpush.cn
 api.jpush.cn
+config-junion.jpush.cn
 config.jpush.cn
 gd-stats.jpush.cn
 im.jpush.cn
@@ -7192,13 +7193,10 @@ matomo.cloud
 cdn.matomo.cloud
 cuoituoitrevn.matomo.cloud
 oxiivn.matomo.cloud
-opecloud.com
 papi.tagger.opecloud.com
 profiles.tagger.opecloud.com
 tagger.opecloud.com
-tagger-admeira.opecloud.com
-tagger-hoydigital.opecloud.com
-wwwr.opecloud.com
+www.tagger.opecloud.com
 api.petametrics.com
 api-eu-central-1.petametrics.com
 api-eu-west-1.petametrics.com
@@ -7906,11 +7904,12 @@ sw.wpu.sh
 tw.wpu.sh
 wpu.sh
 adbrix.io
-adtouch.adbrix.io
 adtouch-qa.adbrix.io
+adtouch.adbrix.io
 applinks.adbrix.io
-event.adbrix.io
 event-qa.adbrix.io
+event.adbrix.io
+gdpr-qa.adbrix.io
 gdpr.adbrix.io
 rm-lo-sdk.adbrix.io
 static.adbrix.io
@@ -11164,6 +11163,7 @@ mdc.meitustat.com
 meepo.meitustat.com
 meitustat.com
 rabbit.meitustat.com
+web-rabbit.meitustat.com
 www.meitustat.com
 adui.tg.meitu.com
 pre-adui.tg.meitu.com
@@ -12152,8 +12152,13 @@ summitmedia.fuseplatform.net
 vidmatic.fuseplatform.net
 sourcetobin.com
 static.sourcetobin.com
+fgp.philacct.com
 philacct.com
 static.philacct.com
+cdn.contineljs.com
+contineljs.com
+defaultdsp.contineljs.com
+static.contineljs.com
 cdn.surfcountor.com
 ck.surfcountor.com
 cms.surfcountor.com
@@ -12541,6 +12546,8 @@ api.bongdadem.net
 bongdadem.net
 cdn.bongdadem.net
 www.bongdadem.net
+ads-thanhnien-vn.cdn.ampproject.org
+cdn-bongdadem-net.cdn.ampproject.org
 5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
 ad-admin.vnay.vn
@@ -12673,7 +12680,6 @@ bgadx.com
 bluemaulpuffs.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
-cdn-bongdadem-net.cdn.ampproject.org
 cdnasset.dantri.com.vn
 chiasephim.xyz
 click-ads.saoteen.net
@@ -16884,12 +16890,12 @@ a3cloud.net
 acint.net
 adentify.com
 adj.st
+adlog.foxitcloud.com
 advanced-web-analytics.com
 akuaba.chez.com
 analysis.polarisoffice.com
 analytics-au.clickdimensions.com
 analytics-ca.clickdimensions.com
-analytics-digit-in.cdn.ampproject.org
 analytics-eu.clickdimensions.com
 analytics-production.hapyak.com
 analytics-statistics.machbird.com
@@ -17023,6 +17029,7 @@ dynatrace.com
 e.crashlytics.com
 e2.platform88798.com
 edigitalsurvey.com
+emltrk.com
 ethtrader.de
 etl.tindersparks.com
 events.apester.com
@@ -17037,7 +17044,6 @@ fathomseo.com
 firsthive.com
 flagcounter.com
 freegeoip.net
-frog.wix.com
 front.optimonk.com
 fullstory.com
 g.3gl.net
@@ -17120,6 +17126,7 @@ log.tutuapp.com
 log.umsns.com
 log.ventunotech.com
 log.ys7.com
+logger.foxitcloud.com
 logger.unsplash.com
 logging.goclean.tech
 logreport-v2.easy4ipcloud.com
@@ -17174,7 +17181,6 @@ p.trvdp.com
 p.typekit.net
 pebed.dm.gg
 pegloang.com
-pi.pardot.com
 ping.kitidi.com
 pingback.issuu.com
 pipedream.wistia.com
