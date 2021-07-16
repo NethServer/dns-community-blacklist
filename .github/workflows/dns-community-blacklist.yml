@@ -1,0 +1,24 @@
+name: Update DNS Blacklists
+
+on:
+  schedule:
+    - cron:  '* */3 * * *'
+
+jobs:
+  update-blacklists:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: download-blacklists
+        run: ./download.sh
+
+      - name: Get date
+        id: date
+        run: echo "::set-output name=date::$(date +%c)"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "[Bot] Update DNS Blacklists (${{ steps.date.outputs.date }})"
+          commit_user_name: "@dnutan"
+          commit_user_email: dnutan+gh@mailbox.org
+          commit_author: dnutan <dnutan+gh@mailbox.org>
