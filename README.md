@@ -2,30 +2,20 @@
 
 This is an example of a blacklist DNS git repository suitable for [NethServer Threat Shield](https://github.com/NethServer/nethserver-blacklist/).
 
-The blacklist has been generated using [Hosts](https://github.com/StevenBlack/hosts).
-
 Keep in mind this repository might not be updated so often as the original sources.
 
 
 To update the lists:
 
-- install all required tools
 - execute `download.sh`
 - commit changes
 
-## Install pre-requisites
 
-The following tools will be used by the `download.sh` script.
-```
-yum install git
-git clone --depth=1 https://github.com/StevenBlack/hosts.git
-cd hosts
-pip3 install --user -r requirements.txt
-```
 
-## community.dns
+## stevenblack.dns
 
-Unified hosts files (adware + malware) from several well-curated sources
+Unified hosts files (adware + malware) from several well-curated sources  
+(includes lists from abuse_ch, adaway, adguard, bigdargon/hostsVN, digitalside, fademind, mvps, pgl/yoyo...)
 
 Source: [Steven Black Hosts](https://github.com/StevenBlack/hosts)
 
@@ -57,7 +47,8 @@ Source: [MVPS](https://winhelp2002.mvps.org/)
 
 ## ultimate.dns
 
-The Ultimate Hosts Blacklist (UHB) is one of the world's largest curated and unified hosts file
+The Ultimate Hosts Blacklist (UHB) is one of the world's largest curated and unified hosts file  
+(includes lists from anudeepND, bigdargon/hostsVN, disconnectme, fademind, pgl/yoyo, quidsup, wally3K...)
 
 Source: [Ultimate Hosts Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
 
