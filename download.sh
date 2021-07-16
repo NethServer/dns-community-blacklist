@@ -23,12 +23,9 @@
 # After executing the script, remember to commit the changes
 
 
-# hosts
-pushd hosts
-echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Mixed\n# Confidence      : 4\n#\n" > ../stevenblack.dns
-python3 updateHostsFile.py --auto
-tail -n +$(grep "# Start StevenBlack" -n hosts | cut -f1 -d:) hosts | grep '^0.0.0.0' | awk '{print $2}' >> ../stevenblack.dns
-popd
+# stevenblack hosts
+echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Mixed\n# Confidence      : 4\n#\n" > stevenblack.dns
+curl -fsS https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | grep '^0.0.0.0' |grep -v -e '0.0.0.0 0.0.0.0' | awk '{print $2}' >> stevenblack.dns
 
 # adaway
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Ads\n# Confidence      : 4\n#\n" > adaway.dns
