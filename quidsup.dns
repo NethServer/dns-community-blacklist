@@ -238,6 +238,7 @@ ads.linkedin.com #LinkedIn - Advertising
 ads.mindfactory.de #Mindfactory.de - Tracker
 ads.msn.com #Microsoft - Advertising
 ads.nordcurrent.com #nordcurrent.com - Advertising
+ads.proboards.com #proboards.com - Advertising
 ads.samba.tv #Samba - Advertising
 ads.sedemosmi.tv #sedemosmi.tv - Advertising
 ads.superawesome.tv #SuperAwesome Kids - Advertising
@@ -382,7 +383,6 @@ analytics.archive.org #Archive.Org - Tracker
 analytics.arecontvision.com #arecontvision.com - Tracker
 analytics.autodesk.com #Autodesk.Com - Tracker
 analytics.barnebys.sh #barnebys.sh - Tracker
-analytics.bluemosh.com #bluemosh.com - Tracker
 analytics.brave.com #Brave Browser - Tracker
 analytics.businessinsider.com #businessinsider.com - Tracker
 analytics.cappasity.com #cappasity.com - Tracker
@@ -455,7 +455,6 @@ analytics.prod.mybuddy.ai #Mybuddy.Ai - Tracker
 analytics.qiqiuyun.net #qiqiuyun.net - Tracker
 analytics.query.yahoo.com #Yahoo - Tracker
 analytics.quizizz.com #Quizizz.Com - Tracker
-analytics.retell.speechkit.ru #speechkit.ru - Tracker
 analytics.rodpub.com #rodpub.com - Tracker
 analytics.rosehosting.com #rosehosting.com - Tracker
 analytics.routemehome.org #routemehome.org - Tracker
@@ -814,6 +813,7 @@ clkrev.com #RevenueHits - Tracker
 clksite.com #RevenueHits - Tracker
 clksite.com #Unknown - Advertising
 closealert.com #CloseAlert - Tracker
+clouderrorreporting.googleapis.com #Google - Tracker
 cluodlfare.com #Unknown - Tracker
 cmail.link #Campaign Monitor Pty - Tracker
 cmail1.com #Campaign Monitor Pty - Tracker
@@ -895,7 +895,6 @@ countly.server2devgame.com #Server2devgame.com - Tracker
 coveritlive.com #CoveritLive - Tracker
 cp4srvng.xyz #Unknown - Advertising
 cpex.cz #Czech Publisher Exchange - Advertising
-cpiytrk2.com #insanely.org - Tracker
 cpmstars.com #CPMStars - Advertising
 cpx.to #Unknown - Tracker
 cqcounter.com #Unknown - Tracker
@@ -1725,12 +1724,12 @@ metadsp.co.uk #Avid - Advertising
 metalyzer.com #Unknown - Tracker
 meteora.co #Unknown - Tracker
 meteora.us #Unknown - Tracker
-metric.gstatic.com #Google - Tracker
 metric.ipv6test.com #Unknown - Tracker
 metric.ipv6test.net #Unknown - Tracker
 metrics-lxc136.aviasales.ru #aviasales.ru - Tracker
 metrics.aftonbladet.se #aftonbladet.se - Tracker
 metrics.allrecipes.co.uk #Allrecipes.Co.Uk - Tracker
+metrics.articulate.com #articulate.com - Tracker
 metrics.asos.com #Asos.Com - Tracker
 metrics.cbc.ca #cbc.ca - Tracker
 metrics.corus.ca #Iobit - Tracker
@@ -2856,6 +2855,7 @@ mkt10899.com #IBM Silverpop - Advertising
 mkt109.com #IBM Silverpop - Advertising
 mkt1090.com #IBM Silverpop - Advertising
 mkt10900.com #IBM Silverpop - Advertising
+mkt10901.com #IBM Silverpop - Advertising
 mkt10902.com #IBM Silverpop - Advertising
 mkt10903.com #IBM Silverpop - Advertising
 mkt10904.com #IBM Silverpop - Advertising
@@ -2895,21 +2895,31 @@ mkt10949.com #IBM Silverpop - Advertising
 mkt1095.com #IBM Silverpop - Advertising
 mkt10950.com #IBM Silverpop - Advertising
 mkt10951.com #IBM Silverpop - Advertising
+mkt10952.com #IBM Silverpop - Advertising
 mkt10953.com #IBM Silverpop - Advertising
 mkt10954.com #IBM Silverpop - Advertising
 mkt10955.com #IBM Silverpop - Advertising
 mkt10956.com #IBM Silverpop - Advertising
 mkt10957.com #IBM Silverpop - Advertising
+mkt10959.com #IBM Silverpop - Advertising
 mkt1096.com #IBM Silverpop - Advertising
 mkt10960.com #IBM Silverpop - Advertising
 mkt10961.com #IBM Silverpop - Advertising
+mkt10963.com #IBM Silverpop - Advertising
 mkt10964.com #IBM Silverpop - Advertising
 mkt10966.com #IBM Silverpop - Advertising
 mkt10969.com #IBM Silverpop - Advertising
 mkt1097.com #IBM Silverpop - Advertising
 mkt10972.com #IBM Silverpop - Advertising
+mkt10974.com #IBM Silverpop - Advertising
+mkt10975.com #IBM Silverpop - Advertising
+mkt10978.com #IBM Silverpop - Advertising
 mkt1098.com #IBM Silverpop - Advertising
+mkt10981.com #IBM Silverpop - Advertising
+mkt10982.com #IBM Silverpop - Advertising
+mkt10986.com #IBM Silverpop - Advertising
 mkt1099.com #IBM Silverpop - Advertising
+mkt10991.com #IBM Silverpop - Advertising
 mkt110.com #IBM Silverpop - Advertising
 mkt1100.com #IBM Silverpop - Advertising
 mkt1101.com #IBM Silverpop - Advertising
@@ -12765,6 +12775,7 @@ msgfocus.com #Unknown - Tracker
 mssg.guru #Unknown - Advertising
 mthsense.com #mthsense - Tracker
 mtrcs.samba.tv #Samba.tv - Tracker
+mtrl.me #Unknown - Tracker
 multi-feeds.com #Multi Feeds - Tracker
 muvmobile.com #MUV - Tracker
 mxapis.com #maxtraffic.com - Tracker
@@ -12896,6 +12907,7 @@ onclickperformance.com #Unknown - Advertising
 onclicktop.com #Unknown - Tracker
 onedmp.com #Unknown - Tracker
 onefeed.co.uk #Onefeed - Tracker
+oneittelemetry.blob.core.windows.net #Microsoft - Tracker
 onesignal.com #OneSignal - Tracker
 onestat.com #Unknown - Tracker
 onetag-sys.com #Unknown - Tracker
@@ -13026,6 +13038,7 @@ pixel.nymag.com #nymag.com - Tracker
 pixel.redditmedia.com #Reddit - Tracker
 pixel.smr8.ru #smr8.ru - Tracker
 pixel.spotify.com #Spotify - Tracker
+pixel.staticworld.net #staticworld.net - Tracker
 pixel.watch #ClickMeter - Tracker
 pixel.wp.com #Wordpress - Tracker
 pixel.yola.com #Yola - Tracker
@@ -13327,10 +13340,7 @@ seat.it #Seat PG - Tracker
 secretmedia.com #Unknown - Tracker
 securedvisit.com #4cite - Tracker
 securemetrics.apple.com #Adobe - Tracker
-securemetrics.eagletac.com #Adobe - Tracker
-securemetrics.jewish.museum #Adobe - Tracker
 securemetrics.net.ws #Adobe - Tracker
-securemetrics.r2d2netflix.com #Adobe - Tracker
 securepaths.com #Forensiq - Tracker
 segment.com #Segment - Tracker
 sekindo.com #Sekindo - Advertising
@@ -13469,13 +13479,11 @@ smetrics.abbott #Adobe - Tracker
 smetrics.abbvie.com #Adobe - Tracker
 smetrics.abercrombie.com #Adobe - Tracker
 smetrics.accaglobal.com #Adobe - Tracker
-smetrics.act4yourheart.com #Adobe - Tracker
 smetrics.active.com #Adobe - Tracker
 smetrics.activecommunities.com #Adobe - Tracker
 smetrics.aem.playstation.com #Adobe - Tracker
 smetrics.aetn.com #Adobe - Tracker
 smetrics.aetnamedicare.com #Adobe - Tracker
-smetrics.aia.co.kr #Adobe - Tracker
 smetrics.aia.com #Adobe - Tracker
 smetrics.airbank.cz #Adobe - Tracker
 smetrics.airbnb.hk #Adobe - Tracker
@@ -13508,7 +13516,6 @@ smetrics.ariba.com #Adobe - Tracker
 smetrics.army.mod.uk #Adobe - Tracker
 smetrics.as.com #Adobe - Tracker
 smetrics.ascentric.co.uk #Adobe - Tracker
-smetrics.aservoequihaler.com #Adobe - Tracker
 smetrics.atlanticsuperstore.ca #Adobe - Tracker
 smetrics.atomic.com #Adobe - Tracker
 smetrics.atresplayer.com #Adobe - Tracker
@@ -13557,7 +13564,6 @@ smetrics.bestegg.com #Adobe - Tracker
 smetrics.bestinver.es #Adobe - Tracker
 smetrics.bet.com #Adobe - Tracker
 smetrics.betdaq-nba.com #Adobe - Tracker
-smetrics.bi-druginforequest.com #Adobe - Tracker
 smetrics.binge.com.au #Adobe - Tracker
 smetrics.bingle.com.au #Adobe - Tracker
 smetrics.bipimedicine.com #Adobe - Tracker
@@ -13565,19 +13571,10 @@ smetrics.bkstr.com #Adobe - Tracker
 smetrics.bloombergtax.com #Adobe - Tracker
 smetrics.bmc.com #Adobe - Tracker
 smetrics.bmo.com #Adobe - Tracker
+smetrics.bncollege.com #Adobe - Tracker
 smetrics.bnymellon.com #Adobe - Tracker
-smetrics.boehringer-ingelheim.be #Adobe - Tracker
-smetrics.boehringer-ingelheim.ch #Adobe - Tracker
 smetrics.boehringer-ingelheim.com #Adobe - Tracker
-smetrics.boehringer-ingelheim.cz #Adobe - Tracker
 smetrics.boehringer-ingelheim.de #Adobe - Tracker
-smetrics.boehringer-ingelheim.dk #Adobe - Tracker
-smetrics.boehringer-ingelheim.fi #Adobe - Tracker
-smetrics.boehringer-ingelheim.hu #Adobe - Tracker
-smetrics.boehringer-ingelheim.nl #Adobe - Tracker
-smetrics.boehringer-ingelheim.pl #Adobe - Tracker
-smetrics.boehringer-ingelheim.pt #Adobe - Tracker
-smetrics.boehringer-ingelheim.sk #Adobe - Tracker
 smetrics.boostmobile.com #Adobe - Tracker
 smetrics.boozallen.com #Adobe - Tracker
 smetrics.boston.com #Adobe - Tracker
@@ -13599,7 +13596,6 @@ smetrics.carphonewarehouse.com #Adobe - Tracker
 smetrics.cars.com #Adobe - Tracker
 smetrics.carters.com #Adobe - Tracker
 smetrics.cartersoshkosh.ca #Adobe - Tracker
-smetrics.casinosplendido.com #Adobe - Tracker
 smetrics.casio-intl.com #Adobe - Tracker
 smetrics.casio.com #Adobe - Tracker
 smetrics.casio.jp #Adobe - Tracker
@@ -13652,7 +13648,7 @@ smetrics.costcobusinessdelivery.com #Adobe - Tracker
 smetrics.cottages.com #Adobe - Tracker
 smetrics.couponcabin.com #Adobe - Tracker
 smetrics.cox.com #Adobe - Tracker
-smetrics.craingenomeweb.com #Adobe - Tracker
+smetrics.crain360dx.com #Adobe - Tracker
 smetrics.crainprecisiononcologynews.com #Adobe - Tracker
 smetrics.crainsdetroit.com #Adobe - Tracker
 smetrics.crainsnewyork.com #Adobe - Tracker
@@ -13893,7 +13889,6 @@ smetrics.maplesoft.com #Adobe - Tracker
 smetrics.marcus.com #Adobe - Tracker
 smetrics.maritimeintelligence.informa.com #Adobe - Tracker
 smetrics.markandgraham.com #Adobe - Tracker
-smetrics.marketfor.com #Adobe - Tracker
 smetrics.marksandspencer.com #Adobe - Tracker
 smetrics.marriott.com #Adobe - Tracker
 smetrics.marriottvacationclub.com #Adobe - Tracker
@@ -13925,7 +13920,6 @@ smetrics.michaelkors.it #Adobe - Tracker
 smetrics.michaelkors.uk #Adobe - Tracker
 smetrics.michaels.com #Adobe - Tracker
 smetrics.miles-and-more.com #Adobe - Tracker
-smetrics.minsteronline.co.uk #Adobe - Tracker
 smetrics.mistore.jp #Adobe - Tracker
 smetrics.misumi-ec.com #Adobe - Tracker
 smetrics.mitsubishi-motors.co.jp #Adobe - Tracker
@@ -14045,7 +14039,6 @@ smetrics.potterybarn.com #Adobe - Tracker
 smetrics.potterybarnkids.com #Adobe - Tracker
 smetrics.poweredbyeinstein.com #Adobe - Tracker
 smetrics.premierinn.com #Adobe - Tracker
-smetrics.previcox.com #Adobe - Tracker
 smetrics.princess.com #Adobe - Tracker
 smetrics.prinovaglobal.com #Adobe - Tracker
 smetrics.privilege.com #Adobe - Tracker
@@ -14158,12 +14151,10 @@ smetrics.sony.jp #Adobe - Tracker
 smetrics.sothebys.com #Adobe - Tracker
 smetrics.sourceesb.com #Adobe - Tracker
 smetrics.southaustralia.com #Adobe - Tracker
-smetrics.southerncomfort.com #Adobe - Tracker
 smetrics.southwest.com #Adobe - Tracker
 smetrics.southwesthotels.com #Adobe - Tracker
 smetrics.spdrs.com #Adobe - Tracker
 smetrics.speedousa.com #Adobe - Tracker
-smetrics.srpmarketplace.com #Adobe - Tracker
 smetrics.stanfordhealthcare.org #Adobe - Tracker
 smetrics.staples.com #Adobe - Tracker
 smetrics.staplesadvantage.com #Adobe - Tracker
@@ -14174,7 +14165,6 @@ smetrics.statestreet.com #Adobe - Tracker
 smetrics.statnews.com #Adobe - Tracker
 smetrics.stgeorge.com.au #Adobe - Tracker
 smetrics.striderite.com #Adobe - Tracker
-smetrics.studien-biberach.de #Adobe - Tracker
 smetrics.stwater.co.uk #Adobe - Tracker
 smetrics.suncorp.com.au #Adobe - Tracker
 smetrics.sunglasshut.com #Adobe - Tracker
@@ -14205,11 +14195,11 @@ smetrics.tfl.gov.uk #Adobe - Tracker
 smetrics.tgw.com #Adobe - Tracker
 smetrics.theathletesfoot.com.au #Adobe - Tracker
 smetrics.thebay.com #Adobe - Tracker
-smetrics.thegpsa.org #Adobe - Tracker
 smetrics.thelawyer.com #Adobe - Tracker
 smetrics.theweathernetwork.com #Adobe - Tracker
 smetrics.thewhitecompany.com #Adobe - Tracker
 smetrics.thingspeak.com #Adobe - Tracker
+smetrics.thoughtworks.com #Adobe - Tracker
 smetrics.three.co.uk #Three.Co.Uk - Tracker
 smetrics.three.ie #Adobe - Tracker
 smetrics.thrivent.com #Adobe - Tracker
@@ -14302,11 +14292,9 @@ smetrics.worldbank.org #Adobe - Tracker
 smetrics.worldmarket.com #Adobe - Tracker
 smetrics.wrs.com.sg #Adobe - Tracker
 smetrics.wyndhamhotels.com #Adobe - Tracker
-smetrics.xn--sanandrbnk-wmb07gh39y.com #Adobe - Tracker
-smetrics.xn--sananerbank-4ob92i.com #Adobe - Tracker
-smetrics.xn--sananerbnk-zkb34hh39y.com #Adobe - Tracker
-smetrics.xn--santandrcbank-vzb.com #Adobe - Tracker
+smetrics.xn--yourbanksanandr-p8b07k.com #Adobe - Tracker
 smetrics.xn--yourbanksantandr-1dc.com #Adobe - Tracker
+smetrics.xn--yourbanksantanr-y5b0l.com #Adobe - Tracker
 smetrics.xn--yoursantanrbank-u5b6h.com #Adobe - Tracker
 smetrics.yaencontre.com #Adobe - Tracker
 smetrics.ybs.co.uk #Adobe - Tracker
@@ -14400,6 +14388,7 @@ stats.digitalcontactmails.net #digitalcontactmails.net - Tracker
 stats.ebay.com #eBay - Tracker
 stats.elementary.io #Elementary.io - Tracker
 stats.ft.com #FinancialTimes - Tracker
+stats.gcp.smartmailcloud.com #smartmailcloud.com - Tracker
 stats.glb.paypal.com #Paypal.Com - Tracker
 stats.grml.org #grml.org - Tracker
 stats.iobit.com #Iobit - Tracker
@@ -14420,8 +14409,6 @@ stats.rs-online.com #RS - Tracker
 stats.ryzeo.com #Ryzeo - Tracker
 stats.searchanise.com #Searchanise.Com - Tracker
 stats.shell-tips.com #shell-tips.com - Tracker
-stats.thomasvitale.com #thomasvitale.com - Tracker
-stats.ttit.de #ttit.de - Tracker
 stats.unity3d.com #Unity3d.Com - Tracker
 stats.vashurok.ru #Vashurok.Ru - Tracker
 stats.videodelivery.net #Cloudflare - Tracker
@@ -14627,7 +14614,6 @@ track.sublytics-5df8eec4bca66.com #Sublytics - Tracker
 track.sublytics-5f04ec02ca223.com #Sublytics - Tracker
 track.sublytics-600afc6bd3e89.com #Sublytics - Tracker
 track.sublytics-602424689e430.com #Sublytics - Tracker
-track.sublytics-6047af68d60b9.com #Sublytics - Tracker
 track.thesaurus.com #Thesaurus.Com - Tracker
 track.tproger.ru #Tproger.ru - Tracker
 track.untd.com #UnitedOnline - Tracker
@@ -14881,7 +14867,6 @@ weborama.com #Weborama - Tracker
 weborama.fr #Weborama - Tracker
 weborama.io #Weborama - Tracker
 webserviceaward.com #Web Service Award - Tracker
-websiteperform.com #Unknown - Tracker
 webspectator.com #WebSpectator - Tracker
 webstat.channel4.com #Channel4 - Tracker
 webtradehub.com #Unknown - Advertising
@@ -14968,32 +14953,6 @@ zemanta.com #Outbrain - Advertising
 zencdn.net #Brightcove - Advertising
 zeotap.com #Zeotap - Tracker
 zeusclicks.com #Zeus Clicks - Tracker
-zg9tywlubmftzw5ldza.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzc.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze0.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze1.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze2.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze3.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze4.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldze5.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzew.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzex.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzey.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzez.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzg.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzi.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzi0.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzi1.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldziw.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzix.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldziy.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldziz.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzk.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzm.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzq.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzu.com #Unknown Tracker - Tracker
-zg9tywlubmftzw5ldzy.com #Unknown Tracker - Tracker
 zkcdn.net #Adzerk - Advertising
 znaptag.com #Znaptag - Advertising
 zoomanalytics.co #Zoom Analytics - Tracker
