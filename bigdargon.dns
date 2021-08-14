@@ -2725,7 +2725,6 @@ js-agent.newrelic.com
 log-api.newrelic.com
 metric-api.newrelic.com
 mobile-collector.newrelic.com
-mobile-crash-origin.newrelic.com
 mobile-crash.newrelic.com
 staging-insights-collector.newrelic.com
 bam.eu01.nr-data.net
@@ -8979,6 +8978,8 @@ adashx.m.taobao.com
 apoll.m.taobao.com
 c-adash.m.taobao.com
 m-adash.m.taobao.com
+umengacs.m.taobao.com
+umengjmacs.m.taobao.com
 adashbc.ut.taobao.com
 adashx.ut.taobao.com
 adashx4ae.ut.taobao.com
@@ -12721,6 +12722,12 @@ media.myad.vn
 realtime.myad.vn
 viralink.myad.vn
 www.myad.vn
+fptad.com
+partner.fptad.com
+www.fptad.com
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
 ad-admin.vnay.vn
@@ -12876,7 +12883,6 @@ dt.vnecdn.com
 duamilsyr.com
 ff.imacdn.com
 financial-agent.headlines.pw
-fptad.com
 genmonet.com
 ghimc.vn
 go.vnecdn.com
@@ -15549,6 +15555,7 @@ marketing.nyi.net
 marketing.osijek031.com
 marketo.net
 marketron.com
+markofathenaluk.com
 maroonspider.com
 mas.sector.sk
 massicrathem.info
@@ -16799,6 +16806,7 @@ urechar.com
 urlcash.net
 uruswan.com
 usapromotravel.com
+uselnk.com
 usemax.de
 useriq.com
 userreplay.com
@@ -16865,6 +16873,7 @@ vogueoatgap.com
 voicevegetable.com
 voradu.com
 voredi.com
+vounaipu.net
 vpon.com
 vrs.cz
 vs.tucows.com
@@ -16922,6 +16931,7 @@ wethornsprecede.com
 wetrack.it
 whaiweel.com
 whaleads.com
+whazugho.com
 whenu.com
 whereapps.com
 whirlwealth.com
