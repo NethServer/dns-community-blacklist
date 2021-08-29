@@ -123,6 +123,8 @@ service-api.accesstrade.vn
 static.accesstrade.vn
 track.accesstrade.vn
 tags.acmeaom.com
+activemetering.com
+track.activemetering.com
 as.ad-brix.com
 campaign.ad-brix.com
 config.ad-brix.com
@@ -982,6 +984,9 @@ alpha-events.aerserv.com
 debug.aerserv.com
 events.aerserv.com
 prod-ads.aerserv.com
+metrics.aetn.com
+pulse.svod.aetnd.com
+insights.vip.aetnd.com
 track.afcpatrk.com
 cdn.go.affec.tv
 map.go.affec.tv
@@ -1211,6 +1216,7 @@ adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 audience-164723144.us-east-1.elb.amazonaws.com
+detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com
 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 log-collectors-73517960.us-east-1.elb.amazonaws.com
 lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
@@ -2201,6 +2207,7 @@ sjc-tr.contextweb.com
 sjc-tr-bgp.contextweb.com
 tag-st.contextweb.com
 contineljs.com
+conviva.com
 cws.conviva.com
 133446f3fa16c4a2f02e9f45a1d9d640705b7b62.cws.conviva.com
 268a2000018370f5f35b29272d1942aa2ff7b6a9.cws.conviva.com
@@ -3608,6 +3615,8 @@ vars.hotjar.com
 vc.hotjar.io
 howdoesin.net
 click.howdoesin.net
+hrzn-nxt.com
+hmi-hershey.hrzn-nxt.com
 hs-analytics.net
 analytics.htmedia.in
 api.huqindustries.co.uk
@@ -3661,6 +3670,8 @@ ssl-s.idio.co
 game.idoing3d.com
 server.idreams.pl
 d.ifengimg.com
+adlog.ifood.tv
+log.ifood.tv
 igaworks.com
 dedao.igetget.com
 entree.igetget.com
@@ -3754,6 +3765,7 @@ secure-uk.imrworldwide.com
 secure-us.imrworldwide.com
 static.imrworldwide.com
 uaid-linkage.imrworldwide.com
+imtwjwoasak.com
 imwx.com
 trk.in25app.com
 ads.indeed.com
@@ -3987,6 +3999,8 @@ pangolin16.isnssdk.com
 tnc16-alisg.isnssdk.com
 tnc16-useast1a.isnssdk.com
 banners.isoftmarketing.com
+ispot.tv
+pi.ispot.tv
 pt.ispot.tv
 api.iterable.com
 assets.iterable.com
@@ -4267,6 +4281,7 @@ mrtbmopub-nj.lfstmedia.com
 njinmobirtb.lfstmedia.com
 scadxrtb.lfstmedia.com
 tracking.lg.com
+us.ibs.lgappstv.com
 b-code.liadm.com
 snap.licdn.com
 licensebuttons.net
@@ -4323,6 +4338,8 @@ param.lionmobi.com
 parameter.lionmobi.com
 updater.lionmobi.com
 tracking.listhub.net
+litix.io
+18lus0524edvcif1pa0hruc0e.litix.io
 player.stats.live-video.net
 server.iad.liveperson.net
 lptag.liveperson.net
@@ -5250,6 +5267,8 @@ app.networkad.net
 networld.hk
 wpm.neustar.biz
 rum-collector.wpm.neustar.biz
+newrelic.com
+insights-collector.newrelic.com
 us.tags.newscgp.com
 nex8.net
 cs.nex8.net
@@ -5342,6 +5361,7 @@ gannett.hb.omtrdc.net
 hulu.hb.omtrdc.net
 allstate.sc.omtrdc.net
 audible.sc.omtrdc.net
+fox.com.ssl.d2.sc.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
 dsg.sc.omtrdc.net
 abcnews.tt.omtrdc.net
@@ -6196,6 +6216,9 @@ api.radar.io
 proximitykit.radiusnetworks.com
 beacon.rallydev.com
 client.rave-api.com
+ravm.tv
+display.ravm.tv
+hb-t5u9.raps.ravm.tv
 sdk-h5-cdn.rayjoy.com
 rayjump.com
 adx-tk.rayjump.com
@@ -6305,6 +6328,9 @@ metric-android-am.road404.com
 ads.roblox.com
 metrics.roblox.com
 analytics.rogersmedia.com
+p.ads.roku.com
+austin.logs.roku.com
+scribe.logs.roku.com
 roosterfirework.com
 rotaban.ru
 ads-cloud.rovio.com
@@ -6476,6 +6502,8 @@ profiles.segment.com
 whitelabel-apricot.xid.segment.com
 api.segment.io
 cdn.segment.io
+segmentapis.com
+silver-fir.cd.segmentapis.com
 cdn.segmentify.com
 dce1.segmentify.com
 dcetr4.segmentify.com
@@ -6825,6 +6853,7 @@ spotscenered.info
 engine.spotscenered.info
 aka.spotxcdn.com
 cdn.spotxcdn.com
+spotxchange.com
 den01-event.spotxchange.com
 den01-search.spotxchange.com
 event.spotxchange.com
@@ -6840,6 +6869,7 @@ iad02.sync.search.spotxchange.com
 sin01.sync.search.spotxchange.com
 sin01-event.spotxchange.com
 sin01-search.spotxchange.com
+springserve.com
 bc-ssb-iad.springserve.com
 cdn.springserve.com
 datplus.springserve.com
@@ -7267,6 +7297,8 @@ opera-server.thinknearhub.com
 smaato-server.thinknearhub.com
 thinknear-hosted.thinknearhub.com
 thrtle.com
+tidaltv.com
+trk.tidaltv.com
 registration.tiltingpoint.io
 utctime.tiltingpoint.io
 tia.timeinc.net
@@ -7449,10 +7481,12 @@ yun.tuitiger.com
 ma.tune.com
 analytics.ma.tune.com
 marketing.tunity.com
+turn.com
 ad.turn.com
 cdns.turn.com
 ad2.cdns.turn.com
 img.cdns.turn.com
+d.turn.com
 d-sjc2.turn.com
 img.turn.com
 presentation-ams1.turn.com
@@ -7704,12 +7738,13 @@ ads-d.viber.com
 sourcepoint.vice.com
 bis.vidazoo.com
 bisdr.vidazoo.com
-bisdr.vidazoo.com
 inventory.vidazoo.com
 pl.vidazoo.com
 static.vidazoo.com
 wserver.vidazoo.com
 ads.videoadex.com
+videoamp.com
+b.videoamp.com
 ads-secure.videohub.tv
 adserver.videohub.tv
 nginx13.iad1.videohub.tv
