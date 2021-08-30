@@ -318,7 +318,6 @@ aax-eu.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
-aax-fe-pek.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -5343,7 +5342,6 @@ vcm-match.dotomi.com
 1rx.io
 a-ams.1rx.io
 a-ap.1rx.io
-acp.1rx.io
 ad.1rx.io
 adserve-ams.1rx.io
 adserve-nj.1rx.io
@@ -6446,7 +6444,6 @@ static.newsmaxfeednetwork.com
 t.newsmaxfeednetwork.com
 tracking.newsmaxfeednetwork.com
 www.newsmaxfeednetwork.com
-accountreview.outbrain.com
 adngin.outbrain.com
 alldcs-distinct.outbrain.com
 alldcs.outbrain.com
@@ -8057,7 +8054,6 @@ cignal.io
 criteo.cignal.io
 www.cignal.io
 admin-boost.districtm.net
-admin-boost-staging.districtm.net
 app.districtm.net
 artifactory.districtm.net
 auth.districtm.net
@@ -8809,17 +8805,12 @@ static.lalaping.com
 o.wowreality.info
 r.wowreality.info
 wowreality.info
-ads.programattik.com
-programattik.com
-ssp.programattik.com
-www.programattik.com
 cdn.rmtag.com
 intljs.rmtag.com
 js.rmtag.com
 rmtag.com
 admin.mediaforge.com
 ads.mediaforge.com
-ads-cluster.mediaforge.com
 amp.mediaforge.com
 ampadmin.mediaforge.com
 amp-cl1.mediaforge.com
@@ -10339,17 +10330,6 @@ www.clicktripz.com
 cdn.resonate.com
 resonate.com
 www.resonate.com
-a.cdn.intentmedia.net
-a.intentmedia.net
-a1.cdn.intentmedia.net
-a2.cdn.intentmedia.net
-adapters.cdn.intentmedia.net
-adcache.intentmedia.net
-ca.intentmedia.net
-intentmedia.net
-m.cdn.intentmedia.net
-m.intentmedia.net
-performance.intentmedia.net
 bk.r-ad.ne.jp
 r-ad.ne.jp
 tm.r-ad.ne.jp
@@ -10767,7 +10747,6 @@ script.crsspxl.com
 tag.crsspxl.com
 ado.pro-market.net
 ads.pro-market.net
-ads2.pro-market.net
 fei.pro-market.net
 ha.pro-market.net
 pbid.pro-market.net
@@ -12664,8 +12643,6 @@ hub.omarketer.viettelpost.vn
 omarketer.viettelpost.vn
 url.omarketer.viettelpost.vn
 wss.omarketer.viettelpost.vn
-adconnect.vn
-static.adconnect.vn
 api.bongdadem.net
 bongdadem.net
 cdn.bongdadem.net
@@ -12896,6 +12873,7 @@ sbbanner.com
 sda.tamdiem247.com
 serving-ad.tv24.vn
 shop.vnay.vn
+static.adconnect.vn
 static.mvot.vn
 stc-nas.nixcdn.com
 stc.nas.nixcdn.com
@@ -13271,7 +13249,6 @@ ad.bizo.com
 ad.caradisiac.com
 ad.centrum.cz
 ad.cgi.cz
-ad.choiceradio.com
 ad.clix.pt
 ad.cooks.com
 ad.digitallook.com
@@ -13623,7 +13600,6 @@ ads.economist.com
 ads.edbindex.dk
 ads.egrana.com.br
 ads.einmedia.com
-ads.elcarado.com
 ads.electrocelt.com
 ads.elitetrader.com
 ads.emirates.net.ae
@@ -13653,7 +13629,6 @@ ads.gamigo.de
 ads.gaming-universe.de
 ads.gawker.com
 ads.geekswithblogs.net
-ads.getlucky.com
 ads.goclean.tech
 ads.goyk.com
 ads.gplusmedia.com
@@ -13669,7 +13644,6 @@ ads.harvard.edu
 ads.hbv.de
 ads.hearstmags.com
 ads.heartlight.org
-ads.heias.com
 ads.hollywood.com
 ads.horsehero.com
 ads.horyzon-media.com
@@ -13715,8 +13689,6 @@ ads.miarroba.com
 ads.mmania.com
 ads.mobilautomaten.com
 ads.mobilebet.com
-ads.motor-forum.nl
-ads.motormedia.nl
 ads.ncm.com
 ads.ndtv1.com
 ads.networksolutions.com
@@ -13797,7 +13769,6 @@ ads.uknetguide.co.uk
 ads.ultimate-guitar.com
 ads.uncrate.com
 ads.usatoday.com
-ads.valueimpression.com
 ads.verticalresponse.com
 ads.vgchartz.com
 ads.videosz.com
@@ -13873,7 +13844,6 @@ adserver.break-even.it
 adserver.cams.com
 adserver.com
 adserver.digitoday.com
-adserver.finditquick.com
 adserver.freecity.de
 adserver.friendfinder.com
 adserver.hardsextube.com
@@ -13945,7 +13915,6 @@ adspot.co
 adsrevenue.net
 adsrocket.net
 adsrv.deviantart.com
-adsrv.vidnt.com
 adsrveys.com
 adsstat.com
 adstage.io
@@ -15216,7 +15185,6 @@ heap.com
 hebadu.com
 heeteefu.com
 hegarberetrof.pro
-heias.com
 hellobar.com
 hentaicounter.com
 heratheacle.com
@@ -15389,6 +15357,7 @@ intelligenceadx.com
 intellilinks.com
 intellipopup.com
 intellitxt.com
+intentmedia.net
 intergi.com
 internalads.gammae.com
 internetfuel.com
