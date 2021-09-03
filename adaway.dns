@@ -2001,7 +2001,6 @@ g2c.cloud-elements.com
 ailoganalyticsportal-eus.cloudapp.net
 bi-analytics.cloudapp.net
 bkt.clouddn.com
-tls10.newrelic.com.cdn.cloudflare.net
 metrics.cloudflarebolt.com
 static.cloudflareinsights.com
 us-central1-adaptive-growth.cloudfunctions.net
@@ -2977,9 +2976,6 @@ tracking.admarketplace.net.edgekey.net
 clicktale.net.edgekey.net
 cdn-dsa.clicktale.net.edgekey.net
 everestjs.net.edgekey.net
-go-mpulse.net.edgekey.net
-ip46s2.go-mpulse.net.edgekey.net
-wildcard46.go-mpulse.net.edgekey.net
 marketo.net.edgekey.net
 wildcard.marketo.net.edgekey.net
 owneriq.net.edgekey.net
@@ -3155,7 +3151,6 @@ pixel.facebook.com
 fam-ad.com
 fastapi.net
 mparticle.map.fastly.net
-newrelic.map.fastly.net
 confiant-integrations.global.ssl.fastly.net
 sonar-iad.xx.fbcdn.net
 aimg.fc2.com
@@ -3369,10 +3364,6 @@ cdn.gmossp-sp.jp
 adn-d.sp.gmossp-sp.jp
 adn-i.sp.gmossp-sp.jp
 adn-j.sp.gmossp-sp.jp
-go-mpulse.net
-c.go-mpulse.net
-s.go-mpulse.net
-s2.go-mpulse.net
 log.go.com
 sw88.go.com
 tredir.go.com
@@ -5168,10 +5159,6 @@ app.networkad.net
 networld.hk
 wpm.neustar.biz
 rum-collector.wpm.neustar.biz
-newrelic.com
-insights-collector.newrelic.com
-js-agent.newrelic.com
-mobile-collector.newrelic.com
 www.newsbreak.com
 us.tags.newscgp.com
 nex8.net
