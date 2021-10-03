@@ -512,6 +512,7 @@ analytics.ovh.com #Ovh.Com - Tracker
 analytics.pinterest.com #pinterest.com - Tracker
 analytics.playinfinity.cn #playinfinity.cn - Tracker
 analytics.plex.tv #plex.tv - Tracker
+analytics.predb.de #Matomo - Tracker
 analytics.prod.mybuddy.ai #Mybuddy.Ai - Tracker
 analytics.qiqiuyun.net #qiqiuyun.net - Tracker
 analytics.query.yahoo.com #Yahoo - Tracker
@@ -796,6 +797,8 @@ ccmp.eu #Experian - Advertising
 cdn-net.com #CDN.net - Advertising
 cdn-rum.ngenix.net #ngenix.net - Tracker
 cdn4ads.com #Unknown - Advertising
+cdnads.com #Unknown - Advertising
+cdnativepush.com #Unknown - Advertising
 cdntrf.com #Unknown - Advertising
 cdxr53.com #CedexisRadar - Tracker
 cedexis-radar.net #CedexisRadar - Tracker
@@ -1375,6 +1378,7 @@ gumgum.com #GumGum - Tracker
 guomob.com #Unknown - Advertising
 gw100-10.com #Lead Forensics - Tracker
 gwallet.com #RadiumOne - Advertising
+h5v.eu #Highfivve - Advertising
 hackers.lv #Unknown - Tracker
 hanapinmarketing.com #Unknown - Advertising
 hand.bid #Handbid - Advertising
@@ -1499,6 +1503,7 @@ intercom.com #Intercom - Tracker
 intercom.io #Unknown - Tracker
 intergi.com #InterGient - Advertising
 intergient.com #InterGient - Advertising
+interstitial-07.com #Unknown - Advertising
 invitemedia.com #Unknown - Tracker
 invoc.us #Unknown - Tracker
 ioam.de #Unknown - Tracker
@@ -2942,6 +2947,7 @@ mkt10964.com #IBM Silverpop - Advertising
 mkt10965.com #IBM Silverpop - Advertising
 mkt10966.com #IBM Silverpop - Advertising
 mkt10967.com #IBM Silverpop - Advertising
+mkt10968.com #IBM Silverpop - Advertising
 mkt10969.com #IBM Silverpop - Advertising
 mkt1097.com #IBM Silverpop - Advertising
 mkt10970.com #IBM Silverpop - Advertising
@@ -3012,6 +3018,7 @@ mkt11037.com #IBM Silverpop - Advertising
 mkt11038.com #IBM Silverpop - Advertising
 mkt1104.com #IBM Silverpop - Advertising
 mkt11041.com #IBM Silverpop - Advertising
+mkt11044.com #IBM Silverpop - Advertising
 mkt1105.com #IBM Silverpop - Advertising
 mkt11057.com #IBM Silverpop - Advertising
 mkt11058.com #IBM Silverpop - Advertising
@@ -3023,14 +3030,27 @@ mkt11073.com #IBM Silverpop - Advertising
 mkt11074.com #IBM Silverpop - Advertising
 mkt11075.com #IBM Silverpop - Advertising
 mkt11077.com #IBM Silverpop - Advertising
+mkt11078.com #IBM Silverpop - Advertising
 mkt1108.com #IBM Silverpop - Advertising
 mkt11080.com #IBM Silverpop - Advertising
 mkt11081.com #IBM Silverpop - Advertising
 mkt11082.com #IBM Silverpop - Advertising
 mkt11083.com #IBM Silverpop - Advertising
+mkt11087.com #IBM Silverpop - Advertising
+mkt11088.com #IBM Silverpop - Advertising
+mkt11089.com #IBM Silverpop - Advertising
 mkt1109.com #IBM Silverpop - Advertising
+mkt11090.com #IBM Silverpop - Advertising
+mkt11091.com #IBM Silverpop - Advertising
+mkt11095.com #IBM Silverpop - Advertising
+mkt11096.com #IBM Silverpop - Advertising
+mkt11097.com #IBM Silverpop - Advertising
+mkt11098.com #IBM Silverpop - Advertising
 mkt111.com #IBM Silverpop - Advertising
 mkt1110.com #IBM Silverpop - Advertising
+mkt11102.com #IBM Silverpop - Advertising
+mkt11103.com #IBM Silverpop - Advertising
+mkt11104.com #IBM Silverpop - Advertising
 mkt1111.com #IBM Silverpop - Advertising
 mkt1112.com #IBM Silverpop - Advertising
 mkt1113.com #IBM Silverpop - Advertising
@@ -13199,6 +13219,7 @@ prscripts.com #Unknown - Advertising
 prudencewiserelapse.com #cloud-dns-tech - Advertising
 prx.wayfair.com #wayfair.com - Tracker
 ps7894.com #Unknown - Advertising
+pseepsie.com #Unknown - Advertising
 pshtrk.com #Spiroox - Tracker
 psma01.com #AdWise - Advertising
 psma02.com #AdWise - Advertising
@@ -13228,6 +13249,7 @@ pulsemgr.com #Unknown - Tracker
 pump.to #Unknown - Tracker
 purch.com #Purch - Tracker
 purpleads.io #PurpleAds - Advertising
+pushagim.com #Unknown - Advertising
 pusher.com #Pusher - Tracker
 pusherapp.com #Pusher - Advertising
 pushlinck.com #Unknown - Advertising
@@ -13443,6 +13465,7 @@ secretmedia.com #Unknown - Tracker
 securedvisit.com #4cite - Tracker
 securemetrics.apple.com #Adobe - Tracker
 securemetrics.dubevdrea.com #Adobe - Tracker
+securemetrics.healthnavigator.info #Adobe - Tracker
 securemetrics.net.ws #Adobe - Tracker
 securepaths.com #Forensiq - Tracker
 seedtag.com #Seedtag - Advertising
@@ -13904,6 +13927,7 @@ smetrics.hbsp.harvard.edu #Adobe - Tracker
 smetrics.hctra.org #Adobe - Tracker
 smetrics.hdfcbank.com #Adobe - Tracker
 smetrics.healthengine.com.au #Adobe - Tracker
+smetrics.healthnavigator.info #Adobe - Tracker
 smetrics.healthnetcalifornia.com #Adobe - Tracker
 smetrics.healthpartners.com #Adobe - Tracker
 smetrics.heartgard.com #Adobe - Tracker
@@ -14113,6 +14137,7 @@ smetrics.nvidia.com #Adobe - Tracker
 smetrics.nyandcompany.com #Adobe - Tracker
 smetrics.nykaa.com #Adobe - Tracker
 smetrics.nykaafashion.com #Adobe - Tracker
+smetrics.nykaaman.com #Adobe - Tracker
 smetrics.nyulangone.org #Adobe - Tracker
 smetrics.o2online.de #Adobe - Tracker
 smetrics.oakley.com #Adobe - Tracker
@@ -14875,6 +14900,7 @@ update.browser.qq.com #QQ - Tracker
 update.com #Aurea - Advertising
 update.fbsbx.com #Facebook - Tracker
 updpct.info #Sergii Mykolaenko - Tracker
+upgulpinon.com #Unknown - Advertising
 uplynk.com #Uplynk - Advertising
 upsales.com #Upsales Nordic - Tracker
 upscore.com #UpScore - Tracker
@@ -14891,9 +14917,11 @@ userreplay.net #Unknown - Tracker
 userreport.com #User Report - Tracker
 userzoom.com #Unknown - Tracker
 utarget.ru #Unknown - Tracker
+v1sts.me #Unknown - Advertising
 v6lvs.com #Unknown Chinese - Tracker
 va-endpoint.com #Visitor Analytics - Tracker
 vacaneedasap.com #Unknown - Tracker
+vaebard.com #Unknown - Advertising
 vaicore.site #Kochava - Tracker
 vaicore.store #Kochava - Tracker
 vaicore.xyz #Kochava - Tracker
