@@ -942,6 +942,7 @@ count-us.rudo.video #Rudo.video - Tracker
 counter.dsp.groupminteraction.ru #groupminteraction.ru - Tracker
 counter.nv.ua #Nv.Ua - Tracker
 counter.pushauction.com #PushAuction - Tracker
+counter.rambler.ru #rambler.ru - Tracker
 counter.simplybook.me #simplybook.me - Tracker
 counter.tengrinews.kz #Tengrinews.Kz - Tracker
 counter.theconversation.com #theconversation.com - Tracker
@@ -1370,6 +1371,7 @@ gslb-ns.net #AppNexus Inc - Tracker
 gslb.com #AppNexus Inc - Tracker
 gssprt.jp #GENIEE - Advertising
 gu-web.net #Guardian - Tracker
+gumbolersgthb.com #Unknown - Tracker
 gumgum.com #GumGum - Tracker
 guomob.com #Unknown - Advertising
 gw100-10.com #Lead Forensics - Tracker
@@ -1455,6 +1457,7 @@ improving.duckduckgo.com #DuckDuckGo - Tracker
 imrworldwide.com #Nielsen - Advertising
 imshopping.com #Blackhawk Network - Advertising
 in-page-push.com #Unknown - Advertising
+inbenta.io #Inbenta - Tracker
 incoming-telemetry.thunderbird.net #Thunderbird - Tracker
 incoming.telemetry.mozilla.org #Mozilla - Tracker
 indexexchange.com #Index Exchange - Advertising
@@ -2891,6 +2894,7 @@ mkt10907.com #IBM Silverpop - Advertising
 mkt10908.com #IBM Silverpop - Advertising
 mkt1091.com #IBM Silverpop - Advertising
 mkt10911.com #IBM Silverpop - Advertising
+mkt10912.com #IBM Silverpop - Advertising
 mkt10913.com #IBM Silverpop - Advertising
 mkt10914.com #IBM Silverpop - Advertising
 mkt10915.com #IBM Silverpop - Advertising
@@ -3005,7 +3009,9 @@ mkt11025.com #IBM Silverpop - Advertising
 mkt11026.com #IBM Silverpop - Advertising
 mkt11027.com #IBM Silverpop - Advertising
 mkt11028.com #IBM Silverpop - Advertising
+mkt11029.com #IBM Silverpop - Advertising
 mkt1103.com #IBM Silverpop - Advertising
+mkt11030.com #IBM Silverpop - Advertising
 mkt11031.com #IBM Silverpop - Advertising
 mkt11032.com #IBM Silverpop - Advertising
 mkt11033.com #IBM Silverpop - Advertising
@@ -3013,14 +3019,22 @@ mkt11036.com #IBM Silverpop - Advertising
 mkt11037.com #IBM Silverpop - Advertising
 mkt11038.com #IBM Silverpop - Advertising
 mkt1104.com #IBM Silverpop - Advertising
+mkt11040.com #IBM Silverpop - Advertising
 mkt11041.com #IBM Silverpop - Advertising
+mkt11043.com #IBM Silverpop - Advertising
 mkt11044.com #IBM Silverpop - Advertising
+mkt11045.com #IBM Silverpop - Advertising
+mkt11047.com #IBM Silverpop - Advertising
 mkt1105.com #IBM Silverpop - Advertising
+mkt11050.com #IBM Silverpop - Advertising
+mkt11053.com #IBM Silverpop - Advertising
 mkt11057.com #IBM Silverpop - Advertising
 mkt11058.com #IBM Silverpop - Advertising
+mkt11059.com #IBM Silverpop - Advertising
 mkt1106.com #IBM Silverpop - Advertising
 mkt11060.com #IBM Silverpop - Advertising
 mkt11061.com #IBM Silverpop - Advertising
+mkt11066.com #IBM Silverpop - Advertising
 mkt1107.com #IBM Silverpop - Advertising
 mkt11073.com #IBM Silverpop - Advertising
 mkt11074.com #IBM Silverpop - Advertising
@@ -3044,9 +3058,11 @@ mkt11097.com #IBM Silverpop - Advertising
 mkt11098.com #IBM Silverpop - Advertising
 mkt111.com #IBM Silverpop - Advertising
 mkt1110.com #IBM Silverpop - Advertising
+mkt11100.com #IBM Silverpop - Advertising
 mkt11102.com #IBM Silverpop - Advertising
 mkt11103.com #IBM Silverpop - Advertising
 mkt11104.com #IBM Silverpop - Advertising
+mkt11107.com #IBM Silverpop - Advertising
 mkt1111.com #IBM Silverpop - Advertising
 mkt1112.com #IBM Silverpop - Advertising
 mkt1113.com #IBM Silverpop - Advertising
@@ -13818,6 +13834,7 @@ smetrics.doingbusiness.org #Adobe - Tracker
 smetrics.dominos.com #Adobe - Tracker
 smetrics.dreamlabdata.com #Adobe - Tracker
 smetrics.dryerventwizard.com #Adobe - Tracker
+smetrics.earpros.com #Adobe - Tracker
 smetrics.eastdane.com #Adobe - Tracker
 smetrics.eastwestbank.com #Adobe - Tracker
 smetrics.edc.ca #Adobe - Tracker
@@ -13881,6 +13898,7 @@ smetrics.frontier.com #Adobe - Tracker
 smetrics.frontline.com #Adobe - Tracker
 smetrics.ftd.com #Adobe - Tracker
 smetrics.g-shock.com #Adobe - Tracker
+smetrics.gaes.es #Adobe - Tracker
 smetrics.gatesnotes.com #Adobe - Tracker
 smetrics.gcimetrics.com #Adobe - Tracker
 smetrics.gehealthcare.com #Adobe - Tracker
@@ -14088,6 +14106,8 @@ smetrics.mrhandyman.com #Adobe - Tracker
 smetrics.mrporter.com #Adobe - Tracker
 smetrics.mrrooter.com #Adobe - Tracker
 smetrics.msg.com #Adobe - Tracker
+smetrics.msgentertainment.com #Adobe - Tracker
+smetrics.msgsports.com #Adobe - Tracker
 smetrics.murata.com #Adobe - Tracker
 smetrics.mutua.es #Adobe - Tracker
 smetrics.mycontrolcard.com #Adobe - Tracker
@@ -14155,7 +14175,6 @@ smetrics.otsuka-us.com #Adobe - Tracker
 smetrics.oxfam.org.uk #Adobe - Tracker
 smetrics.pacificsaleskitchenandbath.com #Adobe - Tracker
 smetrics.pacsun.com #Adobe - Tracker
-smetrics.pagoda.com #Adobe - Tracker
 smetrics.panasonic.biz #Adobe - Tracker
 smetrics.panasonic.net #Adobe - Tracker
 smetrics.pandora.net #Adobe - Tracker
@@ -14282,7 +14301,6 @@ smetrics.shopbop.com #Adobe - Tracker
 smetrics.shopmyexchange.com #Adobe - Tracker
 smetrics.shoppersdrugmart.ca #Adobe - Tracker
 smetrics.shoppremiumoutlets.com #Adobe - Tracker
-smetrics.showtickets.com #Adobe - Tracker
 smetrics.showtime.com #Adobe - Tracker
 smetrics.showtimeanytime.com #Adobe - Tracker
 smetrics.siriusxm.com #Adobe - Tracker
@@ -14308,6 +14326,7 @@ smetrics.southwest.com #Adobe - Tracker
 smetrics.southwesthotels.com #Adobe - Tracker
 smetrics.spdrs.com #Adobe - Tracker
 smetrics.speedousa.com #Adobe - Tracker
+smetrics.ssfcu.org #Adobe - Tracker
 smetrics.stanfordhealthcare.org #Adobe - Tracker
 smetrics.staples.com #Adobe - Tracker
 smetrics.staplesadvantage.com #Adobe - Tracker
@@ -14318,7 +14337,6 @@ smetrics.statestreet.com #Adobe - Tracker
 smetrics.statnews.com #Adobe - Tracker
 smetrics.stgeorge.com.au #Adobe - Tracker
 smetrics.strategiesforqualitycare.com #Adobe - Tracker
-smetrics.striderite.com #Adobe - Tracker
 smetrics.stwater.co.uk #Adobe - Tracker
 smetrics.suncorp.com.au #Adobe - Tracker
 smetrics.sunglasshut.com #Adobe - Tracker
@@ -14463,6 +14481,7 @@ smetrics.xn--yourbanksantner-x5b8679j.com #Adobe - Tracker
 smetrics.xn--yoursantanrbank-u5b6h.com #Adobe - Tracker
 smetrics.yaencontre.com #Adobe - Tracker
 smetrics.yahoo-shit.com #Adobe - Tracker
+smetrics.yahoobridal.com #Adobe - Tracker
 smetrics.ybs.co.uk #Adobe - Tracker
 smetrics.yellow.com.au #Adobe - Tracker
 smetrics.yellowpages.com.au #Adobe - Tracker
@@ -14802,6 +14821,7 @@ tracking.shopstyle.co.uk #shopstyle.co.uk - Tracker
 tracking.volo-mobile.com #Volo - Tracker
 tracking.websitealive.com #Websitealive.Com - Tracker
 tracking.wetter.at #wetter.at - Tracker
+tracking.wpnetwork.eu #Unknown - Tracker
 trackivation.com #Unknown - Tracker
 trackized.com #Unknown - Tracker
 trackjs.com #Unknown - Tracker
