@@ -521,6 +521,7 @@ yjaxc.yahoo.co.jp
 affiliate.rakuten.co.jp
 static.affiliate.rakuten.co.jp
 xml.affiliate.rakuten.co.jp
+rat.rakuten.co.jp
 an.facebook.com
 pixel.facebook.com
 o.update.fbsbx.com
@@ -3264,15 +3265,16 @@ pmetrics.getclicky.com
 static.getclicky.com
 widgets.getclicky.com
 www.getclicky.com
+adfstat.yandex.ru
+adsdk.yandex.ru
 an.yandex.ru
 awaps.yandex.ru
 awsync.yandex.ru
 bs.yandex.ru
+clck.yandex.ru
 informer.yandex.ru
 mc.yandex.ru
-adsdk.yandex.ru
 metrika.yandex.ru
-clck.yandex.ru
 share.yandex.ru
 adfox.yandex.ru
 matchid.adfox.yandex.ru
@@ -4829,12 +4831,6 @@ i.clean.gg
 j.clean.gg
 k.clean.gg
 mirroring.clean.gg
-condenast.insight.omtrdc.net
-hb-api.omtrdc.net
-heartbeats.omtrdc.net
-omtrdc.net
-tt.omtrdc.net
-www.omtrdc.net
 ugdturner.com
 dev.ugdturner.com
 prod.ugdturner.com
@@ -5975,6 +5971,7 @@ aj1872.online
 aj1873.online
 aj1874.online
 aj1985.online
+aj1987.online
 bj1010.online
 bj1052.online
 bj1083.online
@@ -11400,6 +11397,15 @@ marketgid.com
 www.marketgid.com
 vercel-insights.com
 vitals.vercel-insights.com
+appads.in
+req.appads.in
+sg-tracker.appads.in
+www.appads.in
+api-apac.bidmachine.io
+api-eu.bidmachine.io
+api-us.bidmachine.io
+balanced-collect.deltadna.net
+balanced-engage.deltadna.net
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -13495,6 +13501,7 @@ adgear.com
 adgoto.com
 adgridwork.com
 adgroups.net
+adhbkatqyzqd.com
 adhese.be
 adhese.com
 adhoc4.net
@@ -13615,6 +13622,7 @@ adrotic.girlonthenet.com
 adru.net
 ads-bi.zenkube.com
 ads-click.com
+ads-ios-sdk.ogury.co
 ads-trk.vidible.tv
 ads.4tube.com
 ads.5ci.lt
@@ -14123,6 +14131,7 @@ adz2you.com
 adz2you.net
 adzbazar.com
 adzones.com
+aentafmxkmhea.com
 af-ad.co.uk
 affbuzzads.com
 affec.tv
@@ -14182,6 +14191,7 @@ alb.reddit.com
 alcanceadnetwork.com
 alclick.com
 alenty.com
+algorix.co
 alignclamstram.com
 alipromo.com
 all4spy.com
@@ -14283,7 +14293,9 @@ aspboxant.club
 assets.purch.com
 assets1.exgfnetwork.com
 assignedlikecrawford.com
+associalbde.xyz
 assuremath.com
+astancerta.fun
 at-adserver.alltop.com
 at.adtech.redventures.io
 at.cbsi.com
@@ -14449,6 +14461,7 @@ behavioralengine.com
 belstat.com
 belstat.nl
 belyyeusy.com
+bemachopor.com
 bepiletussar.casa
 berp.com
 besguses.pro
@@ -14484,6 +14497,7 @@ blacurlik.com
 blast4traffic.com
 blastcahs.com
 blingbucks.com
+blis.com
 blockadsnot.com
 blogads.com
 blogcounter.de
@@ -14690,6 +14704,7 @@ clickonometrics.pl
 clicks.equantum.com
 clicks.mods.de
 clickserve.cc-dt.com
+clickserve.dartsearch.net
 clicktag.de
 clickthruserver.com
 clickthrutraffic.com
@@ -14886,6 +14901,7 @@ defectivesun.com
 defyraspypuke.com
 delegatediscussion.com
 deligrassdull.com
+deliver.ptgncdn.com
 deliver.vkcdnservice.com
 deloo.de
 deloplen.com
@@ -14962,6 +14978,7 @@ drumcash.com
 drydrum.com
 dsfjhfhyry2hh8jo09.com
 dsp.io
+dtv5loup63fac.cloudfront.net
 dtxngr.com
 dxgo95ahe73e8.cloudfront.net
 dyecowwhy.com
@@ -15061,6 +15078,7 @@ erosyndc.com
 errortablet.com
 esellerate.net
 estat.com
+esusivebe.top
 etahub.com
 etargetnet.com
 ethnictyrosky.com
@@ -15324,6 +15342,7 @@ hgub2polye.com
 hgzuqrtzt.com
 hh-btr.com
 hidden.gogoceleb.com
+higherincomparablehandicraft.com
 highfalutinroom.com
 highmaidfhr.com
 highprofitnetwork.com
@@ -15424,6 +15443,7 @@ ilyf4amifh.com
 imagecash.net
 images-pw.secureserver.net
 images.footballaddicts.se
+imagineposition.com
 imarketservices.com
 imatmobile.com
 img.media3s.xyz
@@ -15523,6 +15543,7 @@ ivykiosk.com
 ivypixel.com
 iwanttodeliver.com
 iwhugaul.com
+iwofkvupfz.com
 j93557g.com
 jadeitite.com
 jaduda.com
@@ -15611,6 +15632,7 @@ leaurned-fundonals.com
 lecap-services.fr
 legolas-media.com
 leiki.com
+lemmatechnologies.com
 lettucelimit.com
 levelrate.de
 lfstmedia.com
@@ -15622,6 +15644,7 @@ lightboxcdn.com
 lightcushion.com
 lightningcast.net
 lightspeedcash.com
+lilureem.com
 limeclassycaption.com
 link-booster.de
 link4ads.com
@@ -15658,6 +15681,7 @@ lokinatoer5.com
 lologhfd.com
 longinglettuce.com
 loopme.biz
+loopme.com
 lop.com
 lorybnfh.com
 loudloss.com
@@ -15669,6 +15693,7 @@ lsdstgcv.com
 lucidmedia.com
 lucklayed.info
 lumpyleaf.com
+lumses.com
 lunarads.com
 lvyabgbohlv.com
 lytics.io
@@ -15686,6 +15711,7 @@ madserve.org
 madvertise.de
 magnetic.com
 magnificentmist.com
+magnite.com
 malware-scan.com
 manage.com
 mancehostic.site
@@ -15706,6 +15732,7 @@ marketron.com
 markmansonbooklst.com
 markofathenaluk.com
 maroonspider.com
+mars.media
 mas.sector.sk
 massicrathem.info
 mastermind.com
@@ -15791,6 +15818,7 @@ mindlytix.com
 mindmemobile.com
 minormeeting.com
 minotaur107.com
+mintegral.com
 mintrace.com
 missionsection.com
 misstrends.com
@@ -15945,12 +15973,14 @@ nexac.com
 nextgencounter.com
 ng3.ads.warnerbros.com
 nicksstevmark.com
+nikmldjhvxuov.xyz
 ninkorant.online
 nitratory.com
 nitroclicks.com
 noiselessplough.com
 noisysortcasualty.com
 nolrougn.com
+nomorepecans.com
 nondescriptcrowd.com
 nondescriptsmile.com
 nondescriptstocking.com
@@ -16062,6 +16092,7 @@ ousseventi.info
 oustoope.com
 out-there-media.com
 outabsola.com
+outsliggooa.com
 outtimburrtor.com
 overture.com
 ovlliiwtxgjlz.com
@@ -16147,6 +16178,7 @@ pgpartner.com
 pheedo.com
 phizzle.com
 phluant.com
+phoaraut.com
 phobygipi.pro
 phoenix-widget.com
 phonearena.com
@@ -16191,6 +16223,7 @@ plutothejewel.com
 pndelfast.com
 pocitadlo.cz
 pointroll.com
+pokkt.com
 pontiflex.com
 pop-under.ru
 pop.bid
@@ -16309,6 +16342,7 @@ pushqwer.com
 puwpush.com
 puzzlingfall.com
 pvclouds.com
+pzhuzlwjiymfos.com
 q.azcentral.com
 qctop.com
 qnsr.com
@@ -16340,6 +16374,7 @@ radiate.com
 radiumone.com
 railwayrainstorm.com
 rakamu.com
+ralijqugghwqil.com
 ramp.purch.com
 rampanel.com
 rampidads.com
@@ -16396,6 +16431,7 @@ referralware.com
 refersion.com
 reflectivereward.com
 refnippod.com
+reforge.in
 refraintupaiid.com
 regnow.com
 reinvigorate.net
@@ -16424,6 +16460,7 @@ revenuedirect.com
 revmob.com
 revstats.com
 rhythmnewmedia.com
+rhythmone.com
 ribunews.com
 richaudience.com
 richmails.com
@@ -16448,6 +16485,7 @@ robotreplay.com
 rockabox.co
 rocketfuel.com
 roia.biz
+romepoptahul.com
 roolgage.com
 rose.ixbt.com
 rot.spotsniper.ru
@@ -16817,6 +16855,7 @@ tedioustooth.com
 teenrevenue.com
 teenyvolcano.com
 teethfan.com
+telaria.com
 teliad.de
 temelio.com
 tendertest.com
@@ -16991,6 +17030,7 @@ tyroo.com
 uarating.com
 uberads.com
 ubermedia.com
+ucfunnel.com
 uebadu.com
 ueikno.com
 uge521.com
@@ -17049,6 +17089,7 @@ vattingbalak.com
 vebadu.com
 veille-referencement.com
 veinteractive.com
+velismedia.com
 velocecdn.com
 velocitycdn.com
 velti.com
@@ -17060,6 +17101,7 @@ verblife-3.co
 vericlick.com
 vertadnet.com
 veruta.com
+verve.com
 vervemobile.com
 vervewireless.com
 vetdeberg.com
@@ -17105,6 +17147,7 @@ vtracy.de
 w3i.com
 w55c.net
 wa.and.co.uk
+waisheph.com
 warlog.info
 warlog.ru
 warp.ly
@@ -17128,6 +17171,7 @@ webangel.ru
 webcontentassessor.com
 webcounter.cz
 webcounter.goweb.de
+webeyemob.com
 webmasterplan.com
 webmasterplan.de
 weboohost.com
@@ -17595,6 +17639,7 @@ cognitivlabs.com
 collect.igodigital.com
 collect.usefathom.com
 collector.apester.com
+collector.githubapp.com
 collector.leaddyno.com
 collector.unsplash.com
 collector.xhamster.com
@@ -17847,6 +17892,7 @@ salesloft.com
 sam4m.com
 saspreview.com
 sc-static.net
+sdk-monitoring.ogury.co
 selfishsnake.com
 semantiqo.com
 sessions.bugsnag.com
@@ -17959,6 +18005,7 @@ vdtrack.com
 vectaury.io
 vercel-analytics.com
 vilagnomad.com
+visitor-analytics.io
 visitor.pixplug.in
 vizu.com
 vkcache.com
