@@ -21,6 +21,7 @@ api.247-inc.net
 tie.247-inc.net
 247realmedia.com
 s0.2mdn.net
+cms-xch-chicago.33across.com
 ssc.33across.com
 360in.com
 ad.360in.com
@@ -124,6 +125,7 @@ track.accesstrade.vn
 tags.acmeaom.com
 activemetering.com
 track.activemetering.com
+ums.acuityplatform.com
 as.ad-brix.com
 campaign.ad-brix.com
 config.ad-brix.com
@@ -218,6 +220,7 @@ track.addict-mobile.net
 api.addthis.com
 api-public.addthis.com
 cw.addthis.com
+dlx.addthis.com
 e.dlx.addthis.com
 m.dlx.addthis.com
 p.dlx.addthis.com
@@ -325,8 +328,11 @@ sxj8.adj.st
 fraud.adjoe.zone
 prod.fraud.adjoe.zone
 prod.adjoe.zone
+app.adjust.com
 s2s.adjust.com
 ulink.adjust.com
+view.adjust.com
+dsp.adkernel.com
 dsp-uswest.adkernel.com
 static-rtb.adkernel.com
 sync.adkernel.com
@@ -362,6 +368,7 @@ js12.adlooxtracking.com
 js13.adlooxtracking.com
 js14.adlooxtracking.com
 js15.adlooxtracking.com
+cs.admanmedia.com
 async01.admantx.com
 euasync01.admantx.com
 usasync01.admantx.com
@@ -509,6 +516,7 @@ apn-winners-eu-west-1-rtb.adroll.com
 apn-winners-us-east-1-rtb.adroll.com
 apn-winners-us-west-2-rtb.adroll.com
 app.adroll.com
+d.adroll.com
 index-winners-ap-southeast-1-rtb.adroll.com
 index-winners-eu-west-1-rtb.adroll.com
 index-winners-us-east-1-rtb.adroll.com
@@ -759,6 +767,7 @@ iotapi.adups.com
 ph5t.adups.com
 push5.adups.com
 f.aduwant.com
+nep.advangelists.com
 cdn.advanseads.com
 count.advanseads.com
 delivery.advanseads.com
@@ -1458,6 +1467,7 @@ stats.avast.com
 avazunativeads.com
 api.c.avazunativeads.com
 cdn.avazutracking.net
+ads.avct.cloud
 avocarrot.com
 ads.avocarrot.com
 sdklogs.avocarrot.com
@@ -1501,6 +1511,7 @@ sts.batmobi.net
 batmobil.net
 dsp.batmobil.net
 bayctrk.com
+network.bazaarvoice.com
 apps.nexus.bazaarvoice.com
 analytics-static.ugc.bazaarvoice.com
 flagpoles.gnl-live.bbcverticals.com
@@ -1544,6 +1555,7 @@ platform.bidgear.com
 source.bidgear.com
 vn-platform.bidgear.com
 media.bidr.io
+prod.bidr.io
 event.prod.bidr.io
 ap-northeast-1.event.prod.bidr.io
 cnv.event.prod.bidr.io
@@ -1561,6 +1573,7 @@ blisspoint.us-west-2.stinger-ad.bidr.io
 fanserv.us-west-2.stinger-ad.bidr.io
 bidsopt.com
 gce-or.bidswitch.net
+gce-sc.bidswitch.net
 grid.bidswitch.net
 sandbox.bidswitch.net
 x.bidswitch.net
@@ -1623,6 +1636,7 @@ em.bm23.com
 hosting-source.bm23.com
 incoming.bm23.com
 bnmla.com
+match.bnmla.com
 p.bokecc.com
 events.api.boomtrain.com
 onsiterecs.api.boomtrain.com
@@ -1642,12 +1656,13 @@ atlantisjs.brafton.com
 brainient.com
 tag.brainient.com
 client-analytics.braintreegateway.com
-adservices.brandcdn.com
 branch.io
 api.branch.io
 api2.branch.io
 cdn.branch.io
 vulcan.branch.io
+dmp.brand-display.com
+adservices.brandcdn.com
 cdn.brandmetrics.com
 iad-01.braze.com
 andromeda.iad-01.braze.com
@@ -1989,6 +2004,7 @@ api.connecto.io
 push.connecto.io
 server.connecto.io
 noclick.connexity.com
+pxl.connexity.net
 mgr.consensu.org
 admiral.mgr.consensu.org
 adroll.mgr.consensu.org
@@ -2092,6 +2108,7 @@ sample-api-v2.crazyegg.com
 script.crazyegg.com
 tracking.crazyegg.com
 ads.creative-serving.com
+creativecdn.com
 crispadvertising.com
 api.crispadvertising.com
 cdn2.crispadvertising.com
@@ -2291,6 +2308,7 @@ ad-hub.dable.io
 static.dable.io
 databerries.com
 tracker.databrain.com
+logs.datadoghq.com
 media.datahc.com
 redirect.datahc.com
 stats.datawrapper.de
@@ -2374,6 +2392,7 @@ bestbuy.demdex.net
 condenast.demdex.net
 dickssportinggoods.demdex.net
 disney.demdex.net
+dpm.demdex.net
 fandangollc.demdex.net
 foxnet.demdex.net
 foxnews.demdex.net
@@ -2451,6 +2470,7 @@ ff.doubleclick.net
 fls.doubleclick.net
 3243857.fls.doubleclick.net
 8272590.fls.doubleclick.net
+g.doubleclick.net
 adx.g.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
@@ -2795,6 +2815,8 @@ everestads.net
 dco-assets.everestads.net
 everesttech.net
 ads.everesttech.net
+cm.everesttech.net
+sync-tm.everesttech.net
 c.evidon.com
 iabmap.evidon.com
 info.evidon.com
@@ -2817,6 +2839,7 @@ us-west.load.exelator.com
 load-apne1.exelator.com
 load77.exelator.com
 loada.exelator.com
+loadm.exelator.com
 loadr.exelator.com
 loadus.exelator.com
 ssl.exelator.com
@@ -2835,6 +2858,7 @@ beacons2.extremereach.io
 cdn1.extremereach.io
 cdn2.extremereach.io
 vast.extremereach.io
+ps.eyeota.net
 mcs.eyereturn.com
 orion.eyereturn.com
 p3.eyereturn.com
@@ -2952,6 +2976,7 @@ ads.aws.fwmrm.net
 prd.ads.aws.fwmrm.net
 g13v.prd.ads.aws.fwmrm.net
 nbcu.prd.ads.aws.fwmrm.net
+v.fwmrm.net
 api.fyber.com
 api-rewarded-video.fyber.com
 banner.fyber.com
@@ -3084,11 +3109,18 @@ log1.golfrival.net
 adcdn.goo.ne.jp
 owb101.goo.ne.jp
 secure.gooddata.com
+www.google-analytics.com
 ads.google.com
 adservice.google.com
 crashlytics2.l.google.com
 s0-2mdn-net.l.google.com
+www.googleadservices.com
 static.googleadsserving.cn
+crashlyticsreports-pa.googleapis.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+www.googletagmanager.com
+www.googletagservices.com
 displayads-formats.googleusercontent.com
 gop1.co
 aos.gop1.co
@@ -3113,6 +3145,7 @@ static.gridsumdissector.com
 api.growthbeat.com
 api.growthpush.com
 hearst.gscontxt.net
+csi.gstatic.com
 phar.gu-web.net
 guardianapps.co.uk
 nextgen.guardianapps.co.uk
@@ -3253,6 +3286,7 @@ api.icloseli.com
 relaycn.icloseli.com
 metrics.icloud.com
 id1.cn
+id5-sync.com
 a.idio.co
 api.idio.co
 i.idio.co
@@ -3277,6 +3311,7 @@ sdk.open.phone.igexin.com
 talk.igexin.com
 open.talk.igexin.com
 sdk.open.talk.igexin.com
+collect.igodigital.com
 10870841.collect.igodigital.com
 wass.ihsmarkit.com
 api.ihuman.com
@@ -3329,6 +3364,7 @@ linkto-ext-hp-com.ct.impactradius.com
 customtraffic.impactradius.com
 goto-target-com.customtraffic.impactradius.com
 partners-hotwire-com.impactradius.com
+impression.link
 cdn-gl.imrworldwide.com
 cloudapi.imrworldwide.com
 cm.imrworldwide.com
@@ -3638,6 +3674,7 @@ im64.jpush.cn
 s.jpush.cn
 stats.jpush.cn
 sis.jpush.io
+cdn.jsdelivr.net
 c.jsrdn.com
 s.jsrdn.com
 juiceadv.com
@@ -3852,6 +3889,7 @@ njinmobirtb.lfstmedia.com
 scadxrtb.lfstmedia.com
 tracking.lg.com
 b-code.liadm.com
+i.liadm.com
 p.liadm.com
 rp.liadm.com
 rp4.liadm.com
@@ -4024,6 +4062,7 @@ tracker.marinsm.com
 mm.markandmini.com
 marketgid.com
 jsc.marketgid.com
+device.marketingcloudapis.com
 ab-mknodepub.marketo.com
 abrtp1.marketo.com
 abrtp1-cdn.marketo.com
@@ -4200,6 +4239,7 @@ cdnaimg-ra.media.net
 contextual.media.net
 cs.media.net
 forbes.media.net
+hblg.media.net
 hbx.media.net
 lg3.media.net
 mycdn.media.net
@@ -4810,6 +4850,7 @@ app.networkad.net
 networld.hk
 wpm.neustar.biz
 rum-collector.wpm.neustar.biz
+mobile-collector.newrelic.com
 www.newsbreak.com
 us.tags.newscgp.com
 nex8.net
@@ -4859,6 +4900,7 @@ dd.nytimes.com
 a.et.nytimes.com
 meter-svc.nytimes.com
 cdn.o333o.com
+aws.oath.cloud
 consent.cmp.oath.com
 service.cmp.oath.com
 oclaserver.com
@@ -4897,15 +4939,18 @@ api.omniture.com
 appservice5.omniture.com
 sc5.omniture.com
 upload.omnivirt.com
+hb.omtrdc.net
 espn.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 gannett.hb.omtrdc.net
 hulu.hb.omtrdc.net
+sc.omtrdc.net
 allstate.sc.omtrdc.net
 audible.sc.omtrdc.net
 fox.com.ssl.d2.sc.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
 dsg.sc.omtrdc.net
+tt.omtrdc.net
 abcnews.tt.omtrdc.net
 allstate.tt.omtrdc.net
 audible.tt.omtrdc.net
@@ -4955,6 +5000,8 @@ openstat.net
 log.opentracker.net
 update.openx.com
 s.update.openx.com
+rtb.openx.net
+us-u.openx.net
 adx.ads.oppomobile.com
 bdapi.ads.oppomobile.com
 bjdata.ads.oppomobile.com
@@ -4972,6 +5019,7 @@ bx.optimix.asia
 bx01.optimix.asia
 api.optimizely.com
 app.optimizely.com
+logx.optimizely.com
 events.mobile.optimizely.com
 origin.optimost.io
 sdk-cdn.optimove.net
@@ -5068,6 +5116,7 @@ api.parse.com
 api.parsely.com
 cdn.parsely.com
 p1.parsely.com
+pixel.parsely.com
 srv.pixel.parsely.com
 static.parsely.com
 b.stats.paypal.com
@@ -5130,6 +5179,7 @@ rum-collector-2.pingdom.net
 rum-static.pingdom.net
 ads.pinger.com
 cf-ads.pinger.com
+s.pinimg.com
 v8.analytics.pinsightmedia.com
 cm.pinsightmedia.com
 fusion-files-cf.pinsightmedia.com
@@ -5139,6 +5189,7 @@ topapps-func.pinsightmedia.com
 trackdat.pinsightmedia.com
 ads.pinterest.com
 analytics.pinterest.com
+ct.pinterest.com
 log.pinterest.com
 trk.pinterest.com
 pippio.com
@@ -5518,8 +5569,10 @@ rlcdn.com
 api.rlcdn.com
 ats.rlcdn.com
 cdn.rlcdn.com
+di.rlcdn.com
 ei.rlcdn.com
 geo.rlcdn.com
+id.rlcdn.com
 idsync.rlcdn.com
 rc-ext-geo.rlcdn.com
 so.rlcdn.com
@@ -5716,6 +5769,7 @@ ios-quinoa-config-prod.sense360eng.com
 ios-quinoa-personal-identify-prod.sense360eng.com
 quinoa-personal-identify-prod.sense360eng.com
 api.sentiance.com
+ingest.sentry.io
 servebom.com
 ads.servebom.com
 ads2.servebom.com
@@ -5823,6 +5877,7 @@ i.singular.net
 sdk-api-v1.singular.net
 t.singular.net
 sitemaji.com
+pixel-sync.sitescout.com
 assistjs.skimresources.com
 go.skimresources.com
 i.skimresources.com
@@ -5880,6 +5935,7 @@ itx4-secure.smartadserver.com
 itx5.smartadserver.com
 itx5-secure.smartadserver.com
 na.smartadserver.com
+prg.smartadserver.com
 prg3429.smartadserver.com
 prg8.smartadserver.com
 prga.smartadserver.com
@@ -5911,6 +5967,7 @@ ww2060-sgp.smartadserver.com
 ww2951.smartadserver.com
 ww3050.smartadserver.com
 ww3232.smartadserver.com
+www9.smartadserver.com
 smartclip.net
 stats.smartclip.net
 sxp.smartclip.net
@@ -6097,6 +6154,7 @@ cdn.stackadapt.com
 evm1.stackadapt.com
 uw.evm1.stackadapt.com
 evm2.stackadapt.com
+srv.stackadapt.com
 east.srv.stackadapt.com
 sync.srv.stackadapt.com
 tags.srv.stackadapt.com
@@ -6289,6 +6347,7 @@ sink-prod-us-east-1-star.swrve.com
 banner.synergy-e.com
 n.systemlog.me
 events.tabmo.io
+15.taboola.com
 am-match.taboola.com
 am-sync.taboola.com
 am-trc-events.taboola.com
@@ -6469,6 +6528,7 @@ ampmetrics.techcrunch.com
 p11.techlab-cdn.com
 ad-cdn.technoratimedia.com
 prebid.technoratimedia.com
+sync.technoratimedia.com
 error-collector.ted.com
 metrics.ted.com
 api.videometrics.ted.com
@@ -6502,6 +6562,7 @@ thinknear-hosted.thinknearhub.com
 thrtle.com
 tidaltv.com
 trk.tidaltv.com
+analytics.tiktok.com
 registration.tiltingpoint.io
 utctime.tiltingpoint.io
 tia.timeinc.net
@@ -6721,6 +6782,9 @@ sdkgw.us1.twilio.com
 ads.twitter.com
 ads-api.twitter.com
 ads-bidder-api.twitter.com
+analytics.twitter.com
+platform.twitter.com
+de.tynt.com
 p.typekit.net
 lightstep-collector.api.ua.com
 uberads.com
@@ -7094,6 +7158,7 @@ engage.vzw.com
 w3i.com
 ads.w55c.net
 i.w55c.net
+pm.w55c.net
 tags.w55c.net
 smetrics.walgreens.com
 drfdisvc.walmart.com
@@ -7359,12 +7424,15 @@ jogger.zdbb.net
 ns.zdbb.net
 static.zdbb.net
 zplayer-trk.zdn.vn
+b1sync.zemanta.com
 images2.zemanta.com
 analytics.zendesk.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 online-prod.zenmxapps.com
 tracking-server-prod-1.zenmxapps.com
+mwzeom.zeotap.com
+spl.zeotap.com
 bms.zeptolab.com
 www.zergnet.com
 content.zeronaught.com
