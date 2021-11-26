@@ -315,6 +315,7 @@ adserver.pressboard.ca #Pressboard.ca - Advertising
 adserver.wolterskluwer.pl #Revive Adserver - Advertising
 adservice.google.co.uk #Google - Advertising
 adservice.google.com #Google - Advertising
+adservice.google.com.pk #Google - Advertising
 adsfac.eu #Unknown - Advertising
 adsgaga.com #AdsGaga - Advertising
 adsgainer.com #Unknown - Advertising
@@ -448,13 +449,16 @@ analytics.api.vatominc.com #Vatom - Tracker
 analytics.archive.org #Archive.Org - Tracker
 analytics.arecontvision.com #arecontvision.com - Tracker
 analytics.autodesk.com #Autodesk.Com - Tracker
+analytics.awsmcafeeccs.mcafee.com #McAfee - Tracker
 analytics.barnebys.sh #barnebys.sh - Tracker
 analytics.bluemosh.com #bluemosh.com - Tracker
 analytics.bmj.com #bmj.com - Tracker
 analytics.brave.com #Brave Browser - Tracker
 analytics.businessinsider.com #businessinsider.com - Tracker
 analytics.cappasity.com #cappasity.com - Tracker
+analytics.ccs.mcafee.com #McAfee - Tracker
 analytics.chase.com #Chase.Com - Tracker
+analytics.chegg.com #chegg.com - Tracker
 analytics.cincopa.com #cincopa.com - Tracker
 analytics.civicplus.com #Civicplus.com - Tracker
 analytics.ckju.net #ckju.net - Tracker
@@ -516,6 +520,7 @@ analytics.move.ru #Move.Ru - Tracker
 analytics.ngs.ru #ngs.ru - Tracker
 analytics.nike.com #Nike.Com - Tracker
 analytics.ninjakiwi.com #ninjakiwi.com - Tracker
+analytics.ns1.ff.avast.com #Avast - Tracker
 analytics.oneplus.cn #oneplus.cn - Tracker
 analytics.ovh.com #Ovh.Com - Tracker
 analytics.pinterest.com #pinterest.com - Tracker
@@ -1104,6 +1109,7 @@ dmtracker.com #Unknown - Tracker
 dmtrk.net #Unknown - Tracker
 dmtry.com #Unknown - Tracker
 dmvbdfblevxvx.com #Unknown - Tracker
+dn360.net #Unknown - Advertising
 docalytics.com #Docalytics - Tracker
 doctorhousing.com #AdMeasures - Advertising
 dohi.se #Dohi - Tracker
@@ -1297,7 +1303,6 @@ fikri-ayo.com #Unknown - Advertising
 fimserve.com #Rubicon - Tracker
 final-aws-01.com #Lead Forensics - Tracker
 final-azr-01.com #Lead Forensics - Tracker
-firebaseio.com #Firebase - Tracker
 firebaselogging.googleapis.com #Firebase - Tracker
 fitanalytics.com #Fit Analytics - Tracker
 flagcounter.com #Flag Counter - Tracker
@@ -1867,6 +1872,7 @@ metrigo.com #Unknown - Tracker
 metrika.bestofworldcontent.com #bestofworldcontent.com - Tracker
 metrika.mos.ru #Mos.Ru - Tracker
 metrika.myseldon.com #myseldon.com - Tracker
+metrika.thisistheplacetowatch.com #thisistheplacetowatch.com - Tracker
 mfadsrvr.com #BidSwitch - Advertising
 mgid.com #mgid - Advertising
 micpn.com #Unknown - Tracker
@@ -12906,6 +12912,7 @@ sex-affiliation.com #Unknown - Tracker
 sexualpitfall.com #AdMeasures - Advertising
 sg-living.co.jp #Unknown - Tracker
 shareaholic.com #Shareaholic - Tracker
+shareaholic.net #Shareaholic - Tracker
 sharethis.com #Sharethis - Advertising
 sharethrough.com #Sharethrough - Advertising
 shemedia.com #SHE Media - Advertising
@@ -14123,6 +14130,8 @@ telemetry.dailymotion.com #dailymotion.com - Tracker
 telemetry.dropbox.com #Dropbox - Tracker
 telemetry.geo.dmcdn.net #dmcdn.net - Tracker
 telemetry.gfe.nvidia.com #Nvidia - Tracker
+telemetry.insights.video.a2z.com #a2z.com - Tracker
+telemetry.intel.com #Intel - Tracker
 telemetry.malwarebytes.com #Malwarebytes - Tracker
 telemetry.microsoft.com #Microsoft - Tracker
 telemetry.microsoft.com.nsatc.net #Microsoft - Tracker
@@ -14310,7 +14319,6 @@ twisto.cz #Unknown - Tracker
 twndo77864.com #Unknown - Advertising
 tworismo.com #WhiteOps - Tracker
 tynt.com #33Across - Tracker
-typekit.net #Adobe - Tracker
 tyroo.com #Unknown - Tracker
 tyroodr.com #Unknown - Tracker
 uadx.com #Unknown - Advertising
