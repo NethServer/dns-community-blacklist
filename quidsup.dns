@@ -90,7 +90,6 @@ ad-serverparc.nl #Unknown - Advertising
 ad-stir.com #Ad Stir - Advertising
 ad-stub-tvc.cdnvideo.ru #cdnvideo.ru - Advertising
 ad.12dt.com #12dt.com - Advertising
-ad.aniu.tv #Revive Adserver - Advertising
 ad.daum.net #Daum - Advertising
 ad.ettoday.net #ETtoday - Advertising
 ad.gt #Unknown - Advertising
@@ -261,10 +260,8 @@ ads.nordcurrent.com #nordcurrent.com - Advertising
 ads.pointermedia.hu #Revive Adserver - Advertising
 ads.press24.mk #Revive Adserver - Advertising
 ads.proboards.com #proboards.com - Advertising
-ads.republica.com.uy #Revive Adserver - Advertising
 ads.samartdigitalmedia.com #Revive Adserver - Advertising
 ads.samba.tv #Samba - Advertising
-ads.sedemosmi.tv #sedemosmi.tv - Advertising
 ads.shasha.ps #Revive Adserver - Advertising
 ads.superawesome.tv #SuperAwesome Kids - Advertising
 ads.tcsemotion.com #Revive Adserver - Advertising
@@ -273,7 +270,6 @@ ads.thescottishsun.co.uk #thescottishsun.co.uk - Advertising
 ads.thesun.co.uk #thesun.co.uk - Advertising
 ads.thesun.ie #thesun.ie - Advertising
 ads.thetimes.co.uk #thetimes.co.uk - Advertising
-ads.tirabol.cat #Revive Adserver - Advertising
 ads.tutotoons.com #tutotoons.com - Advertising
 ads.twitter.com #Twitter - Advertising
 ads.uh.ro #Revive Adserver - Advertising
@@ -691,7 +687,6 @@ beacons5.gvt2.com #Google - Tracker
 beacons5.gvt3.com #Google - Tracker
 beaconsinspace.com #BeaconsInSpace - Tracker
 bedspursueclueless.com #Unknown - Advertising
-beehiveclergyman.com #AdMeasures - Advertising
 beemray.com #Beemray - Tracker
 begun.ru #Begun - Tracker
 behalfplead.com #AdMeasures - Advertising
@@ -977,7 +972,6 @@ counter.theconversation.com #theconversation.com - Tracker
 counter.yandro.ru #Yandro.ru - Tracker
 countess.twitch.tv #Twitch - Tracker
 coveritlive.com #CoveritLive - Tracker
-cp4srvng.xyz #Unknown - Advertising
 cpex.cz #Czech Publisher Exchange - Advertising
 cpmnetworkcontent.com #AdMeasures - Advertising
 cpmprofitablecontent.com #AdMeasures - Advertising
@@ -1059,7 +1053,6 @@ demdex.com #Adobe - Tracker
 demdex.net #Adobe - Tracker
 denetsuk.com #Unknown - Advertising
 deployads.com #Unknown - Advertising
-depreciatewide.com #cloud-dns-tech - Advertising
 detmir-stats.ru #Grafana - Tracker
 devaccess.easy4ipcloud.com #easy4ipcloud.com - Advertising
 device-metrics-us.amazon.com #Amazon - Tracker
@@ -1221,7 +1214,6 @@ encasedandelionhauled.com #cloud-dns-tech - Advertising
 encouragingpast.com #AdMeasures - Advertising
 enecto.com #Enecto - Tracker
 engage.wixapps.net #Wix - Tracker
-engagement.sandesh.com #Revive Adserver - Advertising
 engagesciences.com # - Tracker
 engageya.com #Engageya - Advertising
 england365.gr #Revive Adserver - Advertising
@@ -1337,7 +1329,6 @@ fyre.co #Unknown - Tracker
 g2afse.com #Affise - Tracker
 g2crowd.com #G2crowd - Tracker
 gadsatz.com #AdMeasures - Advertising
-gadspms.com #cloud-dns-tech - Advertising
 gadspmz.com #cloud-dns-tech - Advertising
 gall-tarquin.com #Unknown - Tracker
 gallup.eset.com #ESET - Tracker
@@ -1757,7 +1748,6 @@ m6r.eu #MBR Targeting - Tracker
 madcpms.com #AdMeasures - Advertising
 madisonlogic.com #Unknown - Tracker
 madsips.com #AdMeasures - Advertising
-madslimz.com #cloud-dns-tech - Advertising
 magic1.info #Unknown Chinese - Tracker
 magnetmail.net #Real Magnet Media - Tracker
 magnificentmanlyyeast.com #AdMeasures - Advertising
@@ -3043,6 +3033,7 @@ mkt11064.com #IBM Silverpop - Advertising
 mkt11065.com #IBM Silverpop - Advertising
 mkt11066.com #IBM Silverpop - Advertising
 mkt11067.com #IBM Silverpop - Advertising
+mkt11068.com #IBM Silverpop - Advertising
 mkt1107.com #IBM Silverpop - Advertising
 mkt11071.com #IBM Silverpop - Advertising
 mkt11072.com #IBM Silverpop - Advertising
@@ -3113,9 +3104,25 @@ mkt11134.com #IBM Silverpop - Advertising
 mkt11137.com #IBM Silverpop - Advertising
 mkt11138.com #IBM Silverpop - Advertising
 mkt1114.com #IBM Silverpop - Advertising
+mkt11140.com #IBM Silverpop - Advertising
+mkt11145.com #IBM Silverpop - Advertising
+mkt11147.com #IBM Silverpop - Advertising
+mkt11148.com #IBM Silverpop - Advertising
+mkt11149.com #IBM Silverpop - Advertising
 mkt1115.com #IBM Silverpop - Advertising
+mkt11150.com #IBM Silverpop - Advertising
+mkt11152.com #IBM Silverpop - Advertising
+mkt11154.com #IBM Silverpop - Advertising
+mkt11155.com #IBM Silverpop - Advertising
+mkt11157.com #IBM Silverpop - Advertising
+mkt11158.com #IBM Silverpop - Advertising
+mkt11159.com #IBM Silverpop - Advertising
 mkt1116.com #IBM Silverpop - Advertising
+mkt11161.com #IBM Silverpop - Advertising
+mkt11164.com #IBM Silverpop - Advertising
+mkt11167.com #IBM Silverpop - Advertising
 mkt1117.com #IBM Silverpop - Advertising
+mkt11171.com #IBM Silverpop - Advertising
 mkt1118.com #IBM Silverpop - Advertising
 mkt1119.com #IBM Silverpop - Advertising
 mkt1120.com #IBM Silverpop - Advertising
@@ -13137,6 +13144,7 @@ smetrics.boehringer-ingelheim.com #Adobe - Tracker
 smetrics.boehringerconnect.co.uk #Adobe - Tracker
 smetrics.boostmobile.com #Adobe - Tracker
 smetrics.boozallen.com #Adobe - Tracker
+smetrics.boss.info #Adobe - Tracker
 smetrics.boston.com #Adobe - Tracker
 smetrics.bostonglobe.com #Adobe - Tracker
 smetrics.brinksprepaidmastercard.com #Adobe - Tracker
@@ -13229,6 +13237,7 @@ smetrics.ctv.ca #Adobe - Tracker
 smetrics.cua.com.au #Adobe - Tracker
 smetrics.cultura.com #Adobe - Tracker
 smetrics.currys.co.uk #Adobe - Tracker
+smetrics.cyrillus.fr #Adobe - Tracker
 smetrics.cytivalifesciences.com #Adobe - Tracker
 smetrics.darty.com #Adobe - Tracker
 smetrics.deakin.edu.au #Adobe - Tracker
@@ -13254,7 +13263,6 @@ smetrics.dominos.com #Adobe - Tracker
 smetrics.dreamlabdata.com #Adobe - Tracker
 smetrics.dryerventwizard.com #Adobe - Tracker
 smetrics.earpros.com #Adobe - Tracker
-smetrics.eastdane.com #Adobe - Tracker
 smetrics.eastwestbank.com #Adobe - Tracker
 smetrics.edc.ca #Adobe - Tracker
 smetrics.eddiebauer.com #Adobe - Tracker
@@ -13425,6 +13433,7 @@ smetrics.kaiserpermanente.org #Adobe - Tracker
 smetrics.kanebo-cosmetics.jp #Adobe - Tracker
 smetrics.kao.co.jp #Adobe - Tracker
 smetrics.kao.com #Adobe - Tracker
+smetrics.karcher.ru #Adobe - Tracker
 smetrics.kawai-juku.ac.jp #Adobe - Tracker
 smetrics.kay.com #Adobe - Tracker
 smetrics.kayosports.com.au #Adobe - Tracker
@@ -13683,6 +13692,7 @@ smetrics.riteaid.com #Adobe - Tracker
 smetrics.robeco.com #Adobe - Tracker
 smetrics.roche.de #Adobe - Tracker
 smetrics.rockettes.com #Adobe - Tracker
+smetrics.roland.com #Adobe - Tracker
 smetrics.rolex.com #Adobe - Tracker
 smetrics.roomandboard.com #Adobe - Tracker
 smetrics.royalcaribbean.com #Adobe - Tracker
