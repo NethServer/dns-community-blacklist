@@ -1856,6 +1856,7 @@ ids.cdnwidget.com
 pixel.cdnwidget.com
 u.cdnwidget.com
 api.monedata.iomericreceiver.cellrebel.com
+metricreceiver.cellrebel.com
 celltick.com
 contentapi.celltick.com
 celtra.com
@@ -2119,6 +2120,7 @@ locatorpp.corevm.com
 monetize-api.coronalabs.com
 stats.coronalabs.com
 count.ly
+static.cloud.coveo.com
 smetrics.cox.com
 cpmstar.com
 cdne.cpmstar.com
@@ -4397,6 +4399,7 @@ metrilo.com
 p.metrilo.com
 shoparty.metrilo.com
 t.metrilo.com
+analytics.metrix.ir
 rtb.mfadsrvr.com
 rtb-use.mfadsrvr.com
 rtb-usw.mfadsrvr.com
@@ -4748,6 +4751,7 @@ ec.moengage.com
 image.moengage.com
 websdk.moengage.com
 mologiq.net
+api.monedata.io
 ad.monetate.net
 af.monetate.net
 api.monetate.net
@@ -4997,6 +5001,7 @@ mgine.offerstrack.net
 midoweb.offerstrack.net
 mobfloral.offerstrack.net
 mobnerve.offerstrack.net
+sdk-monitoring.ogury.co
 cloud.ogury.io
 medias.cloud.ogury.io
 prod.cloud.ogury.io
@@ -6269,6 +6274,7 @@ startapp.com
 init.startappexchange.com
 startappservice.com
 adimpression.startappservice.com
+adsmetadata.startappservice.com
 adwin.startappservice.com
 click.startappservice.com
 dts.startappservice.com
@@ -6571,6 +6577,8 @@ track.tappx.com
 imp.track.tappx.com
 www.tapresearch.com
 api.taps.io
+api.tapsell.ir
+plus.tapsell.ir
 api.tapstream.com
 reporting.tapstream.com
 cdnsonata.taptapnetworks.com
