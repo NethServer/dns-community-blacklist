@@ -25,7 +25,6 @@
 247.ai #[24]7 - Tracker
 247inc.net #[24]7 - Tracker
 247realmedia.com #AppNexus Inc - Tracker
-247realmedia.org #AppNexus Inc - Tracker
 254a.com #Yieldr - Tracker
 2bps53igop02.com #AdMeasures - Advertising
 2mdnsys.com #Unknown - Advertising
@@ -299,6 +298,7 @@ adserver.boersen-zeitung.de #Revive Adserver - Advertising
 adserver.diariodosertao.com.br #Revive Adserver - Advertising
 adserver.doccheck.com #doccheck.com - Advertising
 adserver.earlygame.com #earlygame.com - Tracker
+adserver.html.it #html.it - Advertising
 adserver.lenouvelliste.com #Revive Adserver - Advertising
 adserver.logisticaprofesional.com #Revive Adserver - Advertising
 adserver.maispb.com.br #Revive Adserver - Advertising
@@ -311,6 +311,7 @@ adservice.google.co.in #Google - Advertising
 adservice.google.co.uk #Google - Advertising
 adservice.google.com #Google - Advertising
 adservice.google.com.pk #Google - Advertising
+adservice.google.pt #Google - Advertising
 adsfac.eu #Unknown - Advertising
 adsgaga.com #AdsGaga - Advertising
 adsgainer.com #Unknown - Advertising
@@ -395,6 +396,7 @@ affinity.com #AdTech - Advertising
 affise.com #Affise - Tracker
 afftrack.com #AffTrack - Tracker
 afftrack.pro #AffTrack - Tracker
+afftrk.altex.ro #altex.ro - Tracker
 aftv-serving.bid #Bebi - Advertising
 agafurretor.com #Unknown - Advertising
 agentanalytics.com #agentanalytics.com - Tracker
@@ -448,6 +450,7 @@ analytics.autodesk.com #Autodesk.Com - Tracker
 analytics.awscommon.mcafee.com #McAfee - Tracker
 analytics.awsmcafeeccs.mcafee.com #McAfee - Tracker
 analytics.barnebys.sh #barnebys.sh - Tracker
+analytics.binaryfortress.com #binaryfortress.com - Tracker
 analytics.bluemosh.com #bluemosh.com - Tracker
 analytics.bmj.com #bmj.com - Tracker
 analytics.brave.com #Brave Browser - Tracker
@@ -683,6 +686,7 @@ bdex.com #Big Data Exchange - Tracker
 beacon.direct.asda.com #asda.com - Tracker
 beacon.dropbox.com #Dropbox - Tracker
 beacon.flow.io #Flow - Tracker
+beacon.lynx.cognitivlabs.com #Between Digital - Tracker
 beacon.my.salesforce.com #Salesforce - Advertising
 beacon.riskified.com #riskified.com - Tracker
 beacon.searchspring.io #Searchspring - Tracker
@@ -887,6 +891,7 @@ clicktale.net #Clicktale - Tracker
 clicktracks.com #Aurea - Advertising
 clicktripz.com #Clicktripz - Advertising
 client-event-reporter.twitch.tv #Twitch - Tracker
+client-stats.gaijin.net #gaijin.net - Tracker
 client-telemetry.roblox.com #Roblox.com - Tracker
 clientgear.com #YeahTargeter - Tracker
 clinch.co #Clinch - Tracker
@@ -993,7 +998,6 @@ crazyegg.com #Crazy Egg - Tracker
 crealytics.com #Crealytics - Tracker
 createsend.com #Campaign Monitor Pty - Tracker
 createsend.email #Campaign Monitor Pty - Tracker
-createsend.gallery #Campaign Monitor Pty - Tracker
 createsend1.com #Campaign Monitor Pty - Tracker
 createsend11.com #Campaign Monitor Pty - Tracker
 createsend12.com #Campaign Monitor Pty - Tracker
@@ -1334,7 +1338,6 @@ g2afse.com #Affise - Tracker
 g2crowd.com #G2crowd - Tracker
 gadsatz.com #AdMeasures - Advertising
 gadspmz.com #cloud-dns-tech - Advertising
-gall-tarquin.com #Unknown - Tracker
 gallup.eset.com #ESET - Tracker
 gameanalytics.com #GameAnalytics - Tracker
 gamned.com #Gamned - Advertising
@@ -1453,6 +1456,7 @@ hitslink.com #HitsLink - Tracker
 hitsteps.net #Hitsteps - Tracker
 hlserve.com #Hotline Communications - Tracker
 hotjar.com #Hotjar - Tracker
+hotlog.ru #HotLog - Tracker
 hprofits.com #HProfits - Advertising
 hrb1tng0.com #Lead Forensics - Tracker
 hs-analytics.com #Hubspot - Tracker
@@ -1532,7 +1536,6 @@ inscname.net #instartlogic - Tracker
 inside-graph.com #Inside - Tracker
 insightexpressai.com #Insight Express - Tracker
 insightfirst.com #AppNexus Inc - Tracker
-insightfirst.net #AppNexus Inc - Tracker
 insights.video.a2z.com #a2z.com - Tracker
 inskinad.com #Inskinad - Advertising
 inskinmedia.com #Inskinad - Advertising
@@ -1663,6 +1666,7 @@ legacy-telemetry.malwarebytes.com #Malwarebytes - Tracker
 legolas-media.com #Unknown - Tracker
 leiki.com #Leiki - Tracker
 lemonpi.io #LemonPI - Tracker
+letmeads.com #Letmids - Advertising
 levexis.com #Unknown - Tracker
 leya.tech #Unknown - Tracker
 lfstmedia.com #LifeStreet - Tracker
@@ -1724,8 +1728,10 @@ loginradius.com #LoginRadius - Tracker
 logmatic.io #Logmatic - Tracker
 lognormal.net #Unknown - Tracker
 logs.amap.com #Amap.Com - Tracker
+logs.autofi.com #autofi.com - Tracker
 logs.boardkingsgame.com #Boardkingsgame.com - Tracker
 logs.dashlane.com #dashlane.com - Tracker
+logs.game.qq.com #QQ - Tracker
 logs.roku.com #roku.com - Tracker
 logs.unchecky.com #Unchecky.Com - Tracker
 logserver.hicloud.com #hicloud.com - Tracker
@@ -1833,7 +1839,6 @@ metric.ipv6test.com #Unknown - Tracker
 metric.ipv6test.net #Unknown - Tracker
 metrics-lxc136.aviasales.ru #aviasales.ru - Tracker
 metrics.aftonbladet.se #aftonbladet.se - Tracker
-metrics.allrecipes.co.uk #Allrecipes.Co.Uk - Tracker
 metrics.articulate.com #articulate.com - Tracker
 metrics.asos.com #Asos.Com - Tracker
 metrics.beyondwords.io #beyondwords.io - Tracker
@@ -12352,10 +12357,7 @@ nativendo.de #Seeding Alliance - Advertising
 navrcholu.cz #Navrcholu - Tracker
 ncaudienceexchange.com #News IQ - Tracker
 nedstat.com #comScore - Tracker
-nedstat.info #comScore - Tracker
 nedstat.net #comScore - Tracker
-nedstat.org #comScore - Tracker
-nedstatpro.com #comScore - Tracker
 nedstatpro.net #comScore - Tracker
 neodatagroup.com #NeoData Intelligence - Tracker
 net.ar #Unknown - Tracker
@@ -12705,6 +12707,7 @@ px.staticfiles.at #Staticfiles.At - Tracker
 pxi.pub #Unknown - Tracker
 pxl.api-aws.dailymotion.com #dailymotion.com - Tracker
 pxl.indeed.com #Indeed.Com - Tracker
+pxl.iqm.com #iqm.com - Tracker
 pxlad.io #Unknown - Tracker
 pxlsrv.net #AppNexus Inc - Tracker
 pxltgr.com #WhiteOps - Tracker
@@ -14037,6 +14040,7 @@ stats.merriam-webster.com #Merriam Webster - Tracker
 stats.mos.ru #mos.ru - Tracker
 stats.newsweek.com #Newsweek.Com - Tracker
 stats.nextcloud.com #Nextcloud.Com - Tracker
+stats.norton.com #norton.com - Tracker
 stats.opkode.com #opkode.com - Tracker
 stats.paypal.com #PayPal - Tracker
 stats.qnapclub.eu #Qnapclub.Eu - Tracker
@@ -14502,6 +14506,7 @@ web-analytics-de.huami.com #Huami.com - Tracker
 web-analytics.huami.com #huami.com - Tracker
 web-metrica.yandex.ru #Yandex - Tracker
 webads.eu #WebAds - Advertising
+webads.nl #WebAds - Advertising
 webcollage.com #Webcollage - Tracker
 webcollage.net #Webcollage - Tracker
 webcontentassessor.com #Web Content Assessor - Tracker
@@ -14537,7 +14542,6 @@ wisepops.com #WisePops - Tracker
 wistia.net #Unknown - Tracker
 wmgroup.us #WMG - Advertising
 wogaa.sg #Singapore Government - Tracker
-woopic.com #Orange - Tracker
 woopra.com #Unknown - Tracker
 worldtable.co #Worldtable - Tracker
 wowanalytics.co.uk #Unknown - Tracker
