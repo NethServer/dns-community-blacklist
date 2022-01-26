@@ -1128,7 +1128,6 @@ static.apester.com
 apis.com.br
 app-adforce.jp
 analytics.app-adforce.jp
-app-measurement.com
 cdn-api.appadhoc.com
 experiment.appadhoc.com
 sdk.appadhoc.com
@@ -1962,13 +1961,6 @@ cpx.to
 s.cpx.to
 crasheye.cn
 rp.crasheye.cn
-crashlytics.com
-api.crashlytics.com
-e.crashlytics.com
-firebase-settings.crashlytics.com
-reports.crashlytics.com
-settings.crashlytics.com
-update.crashlytics.com
 sample-api-v2.crazyegg.com
 script.crazyegg.com
 tracking.crazyegg.com
@@ -2697,7 +2689,6 @@ rtb-creatives.fiksu.com
 sdk.fiksu.com
 ads.fingersoft.net
 ads3.fingersoft.net
-famobi-01.firebaseio.com
 firstimpression.io
 cdn.firstimpression.io
 ecdn.firstimpression.io
@@ -2928,7 +2919,6 @@ googleadservices.com
 pagead2.googleadservices.com
 www.googleadservices.com
 static.googleadsserving.cn
-crashlyticsreports-pa.googleapis.com
 googlesyndication.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
@@ -5391,6 +5381,7 @@ config.samsungads.com
 etl.xlmc.sandai.net
 execution-use.ci360.sas.com
 ak-ns.sascdn.com
+mobileconfig.sascdn.com
 track.saygames.io
 saymedia.com
 embed.tempest-identity.prod.saymedia.com
