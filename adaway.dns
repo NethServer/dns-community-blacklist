@@ -649,6 +649,13 @@ adstune.com
 adsunflower.com
 folder.adsunflower.com
 rebootv5.adsunflower.com
+cdn.adswizz.com
+deliveryengine.cox.adswizz.com
+delivery-cdn-cf.adswizz.com
+cox.deliveryengine.adswizz.com
+streamguys.deliveryengine.adswizz.com
+synchroscript.deliveryengine.adswizz.com
+synchrobox.adswizz.com
 zc.adswizz.com
 adsymptotic.com
 api.adsymptotic.com
@@ -967,6 +974,8 @@ statics-marketingsites-eus-ms-com.akamaized.net
 co.akisinn.info
 int.akisinn.info
 int.akisinn.site
+17de4c16.akstat.io
+17de4c17.akstat.io
 p.alcmpn.com
 alexametrics.com
 certify.alexametrics.com
@@ -1008,6 +1017,7 @@ ws-eu.amazon-adsystem.com
 z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
 aan.amazon.com
+fls-na.amazon.com
 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
 adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com
@@ -1086,6 +1096,7 @@ analysys.cn
 analytics.analytics-egain.com
 cloud-emea.analytics-egain.com
 cloud-us.analytics-egain.com
+analyticssystems.net
 andomedia.com
 go1.aniview.com
 gov.aniview.com
@@ -1707,6 +1718,7 @@ ssum-sec.casalemedia.com
 castplatform.com
 pa.wme.catchmedia.com
 ad.cauly.co.kr
+vod-gcs-cedexis.cbsaavideo.com
 production-cmp.isgprivacy.cbsi.com
 doppler-reporting.cbsivideo.com
 tealium.cbsnews.com
@@ -1923,6 +1935,7 @@ contineljs.com
 cdn-3.convertexperiments.com
 conviva.com
 47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
+87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 cws-eu.conviva.com
 cws-hulu.conviva.com
@@ -2376,6 +2389,8 @@ controller.duokanbox.com
 mobile.controller.duokanbox.com
 fm.duokanbox.com
 stat.duokanbox.com
+be.durationmedia.net
+tag.durationmedia.net
 ak.dxsvr.com
 rc.dxsvr.com
 tls.dxsvr.com
@@ -2776,6 +2791,7 @@ prd.ads.aws.fwmrm.net
 g13v.prd.ads.aws.fwmrm.net
 nbcu.prd.ads.aws.fwmrm.net
 v.fwmrm.net
+7f077.v.fwmrm.net
 api.fyber.com
 api-rewarded-video.fyber.com
 dau.fyber.com
@@ -2874,6 +2890,7 @@ cdn.gmossp-sp.jp
 adn-d.sp.gmossp-sp.jp
 adn-i.sp.gmossp-sp.jp
 adn-j.sp.gmossp-sp.jp
+c.go-mpulse.net
 s.go-mpulse.net
 log.go.com
 sw88.go.com
@@ -3734,6 +3751,7 @@ api.locately.com
 sparkle.locationlabs.com
 api.locuslabs.com
 assets.locuslabs.com
+rest.locuslabs.com
 smetrics.loft.com
 api.logentries.com
 data.logentries.com
@@ -4457,6 +4475,7 @@ secure-cdn.mplxtms.com
 mpnrs.com
 r.mradx.net
 r0.mradx.net
+ad.mrtnsvr.com
 msads.net
 ads.msn.com
 a.ads1.msn.com
@@ -4623,6 +4642,7 @@ appservice5.omniture.com
 sc5.omniture.com
 omtrdc.net
 hb.omtrdc.net
+cbsinteractive.hb.omtrdc.net
 espn.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 hulu.hb.omtrdc.net
@@ -4632,6 +4652,7 @@ allstate.sc.omtrdc.net
 audible.sc.omtrdc.net
 bamtech.sc.omtrdc.net
 carfax.sc.omtrdc.net
+coxcommunications.sc.omtrdc.net
 fox.com.ssl.d2.sc.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
 kroger.sc.omtrdc.net
@@ -5164,6 +5185,7 @@ vg-setting.rayjump.com
 assets.rbl.ms
 rbnt.org
 realclever.com
+ac.realvu.net
 cdn.rebel.ai
 recreativ.ru
 track.recreativ.ru
@@ -5187,6 +5209,7 @@ researchnow.com
 tag.researchnow.com
 ds.reson8.com
 idsync.reson8.com
+cdn.resonate.com
 static.cdn.responsys.net
 restartad.com
 api2.restartad.com
@@ -5897,6 +5920,7 @@ api.swrve.com
 30572.api.swrve.com
 30736.api.swrve.com
 30819.api.swrve.com
+31123.api.swrve.com
 3193.api.swrve.com
 3285.api.swrve.com
 3426.api.swrve.com
@@ -5935,6 +5959,7 @@ content.swrve.com
 30572.content.swrve.com
 30736.content.swrve.com
 30819.content.swrve.com
+31123.content.swrve.com
 3285.content.swrve.com
 3616.content.swrve.com
 3696.content.swrve.com
@@ -5959,6 +5984,7 @@ eu-api.swrve.com
 eu-content.swrve.com
 6379.eu-content.swrve.com
 6384.eu-content.swrve.com
+31123.identity.swrve.com
 link.swrve.com
 banner.synergy-e.com
 n.systemlog.me
@@ -6796,6 +6822,9 @@ app.wootric.com
 eligibility.wootric.com
 production.wootric.com
 survey.wootric.com
+content.worldnow.com
+ftpcontent.worldnow.com
+kake.images.worldnow.com
 wowanalytics.co.uk
 lbal.wowanalytics.co.uk
 t.wowanalytics.co.uk
