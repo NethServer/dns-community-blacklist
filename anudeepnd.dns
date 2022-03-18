@@ -4916,8 +4916,6 @@ api.manage.ensighten.com
 api.market.pubnative.net
 api.mediavoice.com
 api-metrics.flurry.com
-api.micloud.xiaomi.net
-api.miui.security.xiaomi.com
 api.mixpanel.com
 api.mobileapptracking.com
 api.mobile.cnzz.com
@@ -5151,7 +5149,6 @@ app-lon08.marketo.com
 app.magnetic.com
 app.manage.ensighten.com
 app.marketo.com
-app.market.xiaomi.com
 app-measurement.com
 app.mediaplex.com
 appmetrica.webvisor.com
@@ -8190,7 +8187,6 @@ data-service.mopub.com
 data.stage.insert.io
 datastore.rediff.com
 datatracker.crittercism.com
-data.unacademy.com
 data-viz-challenge.localytics.com
 dataxpandauto.t.domdex.com
 dataxpandcareers.t.domdex.com
@@ -18306,7 +18302,6 @@ secure.addthis.com
 secure.adnxs.com
 secure-ads.mopub.com
 secure.advertising.com
-secure-api.gravity.com
 secure-app.mediaplex.com
 secure-asia.imrworldwide.com
 secure-assets.rubiconproject.com
@@ -35839,8 +35834,6 @@ v2-publidash-api.voodoo.io
 co4.telecommand.telemetry.microsoft.com.akadns.net
 telemetry.dropbox.com
 telemetry.v.dropbox.com
-us04logfiles.zoom.us
-logfiles-va-zd1.zoom.us
 tracking.edvisors.com
 ads.foodieblogroll.com
 adeventtracker.spotify.com
@@ -39971,7 +39964,6 @@ svc-stat.linkury.com
 us.linkury.com
 vc-stats.linkury.com
 ws-cloud.linkury.com
-logfiles.zoom.us
 d2r1yp2w7bby2u.cloudfront.net
 clicks.beap.bc.yahoo.com
 bifrost-api.hotstar.com
@@ -40288,7 +40280,6 @@ adservice.google.co.zw
 adservice.google.cat
 adservice.google.org
 adservice.google.net
-improving.duckduckgo.com
 p3a.brave.com
 img.img-taboola.com
 ascstats.iobit.com
@@ -42067,15 +42058,6 @@ wren.condenastdigital.com
 js-sec.indexww.com
 chegginc.demdex.net
 log.zoom.us
-logfiles-va-3.zoom.us
-logfiles-va-4.zoom.us
-logfiles-va-5.zoom.us
-logfiles-va-6.zoom.us
-logfiles-va-za1.zoom.us
-logfiles-va-zd1.zoom.us
-logfiles-va.zoom.us
-logfiles.zoom.us
-us04logfiles.zoom.us
 analytics.chegg.com
 log.gomlab.com
 gomlab-log-17054681.us-east-1.elb.amazonaws.com
