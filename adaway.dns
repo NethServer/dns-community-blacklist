@@ -1763,6 +1763,7 @@ live.chartboost.com
 ssp-events.chartboost.com
 t.chartboost.com
 t2.chartboost.com
+v-ak.chartboost.com
 v2.chartboost.com
 www.chartboost.com
 chartboosts.com
@@ -3195,6 +3196,8 @@ targeting.influencemobile.com
 image.influenster.com
 images.informatm.com
 studcat.infra.systems
+inhousedsp.com
+content.inhousedsp.com
 adapi.inlcorp.com
 sdk.inlocomedia.com
 sdk-analytics.inlocomedia.com
@@ -3218,6 +3221,7 @@ config-ltvp.inmobi.com
 de.inmobi.com
 b.de.inmobi.com
 e.de.inmobi.com
+ic.de.inmobi.com
 glance.inmobi.com
 analytics.glance.inmobi.com
 id.analytics.glance.inmobi.com
@@ -3228,6 +3232,8 @@ in.api.glance.inmobi.com
 glance-internal.inmobi.com
 analytics-prod2.glance-internal.inmobi.com
 content-prod3.glance-internal.inmobi.com
+s.iff.inmobi.com
+dspbeacons.error.ihasdsp.inmobi.com
 imces.inmobi.com
 pulse.inmobi.com
 carpet.pulse.inmobi.com
@@ -3257,6 +3263,8 @@ inmobicdn.net
 l.inmobicdn.net
 glance.l.inmobicdn.net
 i.l.inmobicdn.net
+i.l-dsp.inmobicdn.net
+supply.inmobicdn.net
 inner-active.mobi
 ad-tag.inner-active.mobi
 cdn2.inner-active.mobi
@@ -3422,6 +3430,8 @@ err.izooto.com
 jampp.com
 cdn.jampp.com
 imgx.jampp.com
+imp-lb-us2.jampp.com
+static.jampp.com
 jdoqocy.com
 www.jdoqocy.com
 api.jeeng.com
@@ -4575,8 +4585,8 @@ prod-m-node-1212.nexage.com
 ccpa.psg.nexstardigital.net
 segment.psg.nexstardigital.net
 nextclick.pl
-us-tracking.nextdoor.com
 uk-tracking.nextdoor.com
+us-tracking.nextdoor.com
 ads.nicovideo.jp
 apps.nielsen.com
 onsite-tag-logs.apps.nielsen.com
@@ -4681,8 +4691,6 @@ advrts.onelouder.com
 apicosdk.onemt.co
 apicssdk.onemt.co
 click.oneplus.com
-api.onesignal.com
-cdn.onesignal.com
 onetag-sys.com
 geolocation.onetrust.com
 online-metrix.net
@@ -5176,6 +5184,9 @@ sg-setting.rayjump.com
 sg01.rayjump.com
 tknet.rayjump.com
 us01.rayjump.com
+vg-aws-us-east-1a-hb.rayjump.com
+vg-aws-us-east-1b-hb.rayjump.com
+vg-new-hb.rayjump.com
 vg-setting.rayjump.com
 assets.rbl.ms
 rbnt.org
