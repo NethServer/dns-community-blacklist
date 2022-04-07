@@ -414,6 +414,7 @@ media.adnetwork.vn
 track.adnetwork.vn
 adnium.com
 a.adnium.com
+prebids.adnsx.com
 nym1-ib.adnxs-simple.com
 acdn.adnxs.com
 adscale-emea.adnxs.com
@@ -1175,6 +1176,7 @@ cdn.appdynamics.com
 trk.apperol.com
 appflood.com
 atracking-auto.appflood.com
+inapps.appflyer.com
 creative-cdn.appgrowth.com
 appia.com
 ad.appier.net
@@ -1307,6 +1309,8 @@ appdiscovery.apptap.com
 api.apptentive.com
 app-icons.apptentive.com
 sdk.apptentive.com
+brahe.apptimize.com
+md-a-c.apptimize.com
 apptornado.com
 applift-a.apptornado.com
 applift-b.apptornado.com
@@ -1471,6 +1475,8 @@ imp-dsp.bidgear.com
 platform.bidgear.com
 source.bidgear.com
 vn-platform.bidgear.com
+cdn.bidmatrixdsp.com
+us-trk.bidmatrixdsp.com
 bidr.io
 media.bidr.io
 prod.bidr.io
@@ -2927,6 +2933,7 @@ www.googleadservices.com
 static.googleadsserving.cn
 googlesyndication.com
 ade.googlesyndication.com
+pagead.googlesyndication.com
 pagead2.googlesyndication.com
 tpc.googlesyndication.com
 displayads-formats.googleusercontent.com
@@ -3432,8 +3439,6 @@ cdn.jampp.com
 imgx.jampp.com
 imp-lb-us2.jampp.com
 static.jampp.com
-jdoqocy.com
-www.jdoqocy.com
 api.jeeng.com
 users.api.jeeng.com
 sdk.jeeng.com
@@ -5597,6 +5602,7 @@ ets-ap-southeast-1.track.smaato.net
 ets-eu-west-1.track.smaato.net
 ets-us-east-1.track.smaato.net
 vet-us-east-1.track.smaato.net
+smadex.com
 cm.smadex.com
 creatives.smadex.com
 geo-tracker.smadex.com
@@ -6819,6 +6825,7 @@ opensdk.wlanbanlv.com
 identity.api.wmcdp.io
 logs.psm.wmcdp.io
 api.wonderpush.com
+woobids.com
 static.woopra.com
 api.wootric.com
 app.wootric.com
