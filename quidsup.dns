@@ -1850,6 +1850,7 @@ metrics.hitman.io #First Party - Tracker
 metrics.icloud.com #Apple - Tracker
 metrics.ionos.com #ionos.com - Tracker
 metrics.ionos.de #ionos.de - Tracker
+metrics.media-amazon.com #Amazon - Tracker
 metrics.mzstatic.com #Apple - Tracker
 metrics.pico.tools #pico.tools - Tracker
 metrics.plex.tv #plex.tv - Tracker
@@ -3253,6 +3254,7 @@ mkt11277.com #IBM Silverpop - Advertising
 mkt11278.com #IBM Silverpop - Advertising
 mkt11279.com #IBM Silverpop - Advertising
 mkt1128.com #IBM Silverpop - Advertising
+mkt11280.com #IBM Silverpop - Advertising
 mkt11281.com #IBM Silverpop - Advertising
 mkt11282.com #IBM Silverpop - Advertising
 mkt11285.com #IBM Silverpop - Advertising
@@ -3281,12 +3283,17 @@ mkt11309.com #IBM Silverpop - Advertising
 mkt1131.com #IBM Silverpop - Advertising
 mkt11312.com #IBM Silverpop - Advertising
 mkt11313.com #IBM Silverpop - Advertising
+mkt11315.com #IBM Silverpop - Advertising
 mkt11316.com #IBM Silverpop - Advertising
 mkt11319.com #IBM Silverpop - Advertising
 mkt1132.com #IBM Silverpop - Advertising
 mkt11320.com #IBM Silverpop - Advertising
 mkt11324.com #IBM Silverpop - Advertising
+mkt11325.com #IBM Silverpop - Advertising
 mkt1133.com #IBM Silverpop - Advertising
+mkt11331.com #IBM Silverpop - Advertising
+mkt11332.com #IBM Silverpop - Advertising
+mkt11336.com #IBM Silverpop - Advertising
 mkt1134.com #IBM Silverpop - Advertising
 mkt1135.com #IBM Silverpop - Advertising
 mkt1136.com #IBM Silverpop - Advertising
@@ -12747,7 +12754,6 @@ ppchero.com #Unknown - Tracker
 ppjol.net #Unknown - Tracker
 preanalytication.com #Unknown - Tracker
 prebid.org #Prebid - Tracker
-pressingmiscellaneoustry.com #AdMeasures - Advertising
 pricespider.com #Price Spider - Tracker
 prijspakkertje.nl #Unknown - Advertising
 primis.tech #Primis - Advertising
@@ -13232,6 +13238,7 @@ smetrics.bankinter.com #Adobe - Tracker
 smetrics.bankofmelbourne.com.au #Adobe - Tracker
 smetrics.banter.com #Adobe - Tracker
 smetrics.barclays.co.uk #Barclays.Co.Uk - Tracker
+smetrics.bbb.org #Adobe - Tracker
 smetrics.bbva.com.ar #Adobe - Tracker
 smetrics.bbva.com.co #Adobe - Tracker
 smetrics.bbva.com.uy #Adobe - Tracker
@@ -14325,6 +14332,7 @@ tracker.tutotoons.com #tutotoons.com - Tracker
 trackerhqu.com #trackerhqu.com - Tracker
 trackerrysrv.com #Trackerry - Tracker
 tracking-analytics.net #Unknown - Tracker
+tracking.aegpresents.com #First Party - Tracker
 tracking.atreemo.com #atreemo.com - Tracker
 tracking.cmjump.com.au #Unknown - Tracker
 tracking.csgipe.com #csgipe.com - Tracker
