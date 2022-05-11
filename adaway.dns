@@ -1005,6 +1005,7 @@ aax-fe.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-east-retail-direct.amazon-adsystem.com
 c.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
@@ -1017,6 +1018,7 @@ ws-eu.amazon-adsystem.com
 z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
 aan.amazon.com
+aax-us-east-retail-direct.amazon.com
 fls-na.amazon.com
 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
