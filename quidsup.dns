@@ -541,7 +541,6 @@ analytics.query.yahoo.com #Yahoo - Tracker
 analytics.quizizz.com #Quizizz.Com - Tracker
 analytics.regex101.com #First Party - Tracker
 analytics.rodpub.com #rodpub.com - Tracker
-analytics.rosehosting.com #rosehosting.com - Tracker
 analytics.samsungknox.com #Samsung - Tracker
 analytics.schoolwires.com #schoolwires.com - Tracker
 analytics.sem-track.com #sem-track.com - Tracker
@@ -1770,7 +1769,6 @@ logger.zcoup.com #Zcoup.com - Tracker
 loggly.com #Loggly - Tracker
 loginradius.com #LoginRadius - Tracker
 logmatic.io #Logmatic - Tracker
-lognormal.net #Unknown - Tracker
 logs.amap.com #Amap.Com - Tracker
 logs.autofi.com #autofi.com - Tracker
 logs.boardkingsgame.com #Boardkingsgame.com - Tracker
@@ -3406,6 +3404,7 @@ mkt11353.com #IBM Silverpop - Advertising
 mkt11354.com #IBM Silverpop - Advertising
 mkt11355.com #IBM Silverpop - Advertising
 mkt11356.com #IBM Silverpop - Advertising
+mkt11357.com #IBM Silverpop - Advertising
 mkt11358.com #IBM Silverpop - Advertising
 mkt11359.com #IBM Silverpop - Advertising
 mkt1136.com #IBM Silverpop - Advertising
@@ -3445,6 +3444,7 @@ mkt11393.com #IBM Silverpop - Advertising
 mkt11394.com #IBM Silverpop - Advertising
 mkt11396.com #IBM Silverpop - Advertising
 mkt11397.com #IBM Silverpop - Advertising
+mkt11398.com #IBM Silverpop - Advertising
 mkt11399.com #IBM Silverpop - Advertising
 mkt1140.com #IBM Silverpop - Advertising
 mkt11400.com #IBM Silverpop - Advertising
@@ -3453,6 +3453,7 @@ mkt11404.com #IBM Silverpop - Advertising
 mkt11405.com #IBM Silverpop - Advertising
 mkt11406.com #IBM Silverpop - Advertising
 mkt11407.com #IBM Silverpop - Advertising
+mkt11409.com #IBM Silverpop - Advertising
 mkt1141.com #IBM Silverpop - Advertising
 mkt11410.com #IBM Silverpop - Advertising
 mkt11411.com #IBM Silverpop - Advertising
@@ -14022,7 +14023,6 @@ smetrics.seb.ee #Adobe - Tracker
 smetrics.seb.lv #Adobe - Tracker
 smetrics.seguro.mediaset.es #Adobe - Tracker
 smetrics.sephora.com #Adobe - Tracker
-smetrics.service-plans.io #Adobe - Tracker
 smetrics.sfr.fr #Adobe - Tracker
 smetrics.shangri-la.com #Adobe - Tracker
 smetrics.shannons.com.au #Adobe - Tracker
