@@ -9,7 +9,7 @@
 #
 
 # Prigent-Crypto, parsed and mirrored for https://firebog.net
-# Updated 02SEP22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 08SEP22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 
 # List corrections can be requested at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -7730,6 +7730,7 @@ ethertrench.com
 etherx2.info
 etherzero.org
 ethfans.org
+ethlive.net
 ethmedialab.info
 ethmine.org
 ethmining.live
@@ -12723,6 +12724,7 @@ terethat.ru
 terracoin.org
 terrahash.cc
 terrapool.io
+tesla-arkinvest.info
 tesoro.network
 testfront.tk
 testnet-btcp.th
