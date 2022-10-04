@@ -52,6 +52,7 @@
 9nl.com #ClickMeter - Tracker
 a-mo.net #Unknown - Advertising
 a.mobify.com #Mobify - Advertising
+a1.api.bbc.co.uk #BBC - Tracker
 a1webstats.com #A1Webstats - Tracker
 a2dfp.net #Unknown - Tracker
 a8723.com #Admedo - Advertising
@@ -73,6 +74,7 @@ abtest.mistat.xiaomi.com #Xiaomi.com - Tracker
 ac24horas.com #Revive Adserver - Advertising
 acadiaanalytics.com #Unknown - Tracker
 accompanycollapse.com #AdMeasures - Advertising
+accscdn.m.taobao.com #Taobao - Advertising
 aceark.pro #Scam - Tracker
 acexedge.com #WhiteOps - Advertising
 achievablecpmrevenue.com #AdMeasures - Advertising
@@ -124,6 +126,7 @@ adage.com #Ad Age - Advertising
 adalliance.io #Ad Alliance - Advertising
 adalyser.com #Adalyser - Advertising
 adap.tv #AOL - Advertising
+adashx4ae.ut.taobao.com #Taobao - Advertising
 adbetnetwork.com #adbetnetwork - Advertising
 adblade.com #Adblade - Advertising
 adblender.ru #AdBlender - Advertising
@@ -326,6 +329,7 @@ adservice.google.ca #Google - Advertising
 adservice.google.co.in #Google - Advertising
 adservice.google.co.uk #Google - Advertising
 adservice.google.com #Google - Advertising
+adservice.google.com.pe #Google - Advertising
 adservice.google.com.pk #Google - Advertising
 adservice.google.pt #Google - Advertising
 adsessionserv.com #Unknown - Advertising
@@ -466,6 +470,7 @@ alternativecpmgate.com #AdMeasures - Advertising
 alternativeprofitablegate.com #AdMeasures - Advertising
 altitude-arena.com #Altitude ARENA - Tracker
 altmetric.com #Altmetric - Tracker
+amdcopen.m.taobao.com #Taobao - Advertising
 amgdgt.com #Amobee - Tracker
 amnyescsmgcagjj.com #Unknown - Advertising
 amobee.com #Amobee - Tracker
@@ -483,6 +488,7 @@ analytics-api.samsunghealthcn.com #Samsung - Tracker
 analytics-egain.com #eGain - Tracker
 analytics-static.ugc.bazaarvoice.com #BazaarVoice - Tracker
 analytics.163.com #163.com - Tracker
+analytics.300624.com #Wondershare - Tracker
 analytics.74.ru #74.Ru - Tracker
 analytics.api.vatominc.com #Vatom - Tracker
 analytics.archive.org #Archive.Org - Tracker
@@ -614,6 +620,7 @@ andmlb.kshwtj.com #Unknown - Advertising
 android-stat.acestream.net #Acestream.net - Tracker
 android.bugly.qq.com #QQ - Tracker
 androidlog.ws.pho.to #pho.to - Tracker
+androidtvwatsonfe-pa.googleapis.com #Google Android TV - Advertising
 angorch-cdr7.com #Lead Forensics - Tracker
 aniview.com #Aniview - Advertising
 anm.co.uk #Associated Newspapers - Advertising
@@ -630,11 +637,13 @@ api-analytics-ru.huami.com #Huami.com - Tracker
 api-analytics-us.huami.com #Huami.com - Tracker
 api-telemetry.servers.getgo.com #LogMeIn - Tracker
 api.action-media.ru #action-media.ru - Tracker
+api.ad.intl.xiaomi.com #Xiaomi - Tracker
 api.ahagamecenter.com #Infinix Tracker - Tracker
 api.edgeoffer.microsoft.com #Microsoft - Advertising
 api.eu-west-1.aiv-delivery.net #Amazon - Tracker
 api.gateway.kik-live.com #Unknown - Advertising
 api.mediation.amberweather.com #First Party - Advertising
+api.miwifi.com #Xiaomi - Tracker
 api.us-east-1.aiv-delivery.net #Amazon - Tracker
 api.us-west-2.aiv-delivery.net #Amazon - Tracker
 api16-access-sg.pangle.io #First Party - Tracker
@@ -660,6 +669,7 @@ appendixwarmingauthors.com #AdMeasures - Advertising
 appier.net #Appier - Tracker
 applift.com #AppLift - Tracker
 applog.matrix.easebar.com #First Party - Tracker
+applog.uc.cn #First Party - Tracker
 applog.zaycev.net #Zaycev.net - Tracker
 applogs-v2.pixelfederation.com #Pixelfederation.com - Tracker
 applovin.com #AppLovin - Tracker
@@ -701,6 +711,7 @@ asia-monitor-stsdk.vivoglobal.com #Vivo - Tracker
 asia-vcode-od.vivoglobal.com #Vivo - Tracker
 asianmedia.com #Asian Media - Advertising
 astutemetrics.com #Astute - Tracker
+at-o.net #AT Internet - Tracker
 atdmt.com #Facebook - Advertising
 atemda.com #WO Programmatic Digital - Tracker
 atgsvcs.com #Unknown - Tracker
@@ -736,6 +747,21 @@ ayads.co #Ayads - Advertising
 ayc0zsm69431gfebd.xyz #Unknown - Tracker
 azalead.com #Azalead - Tracker
 b42rracj.com #AdMeasures - Advertising
+backstory.ebay.ca #eBay - Tracker
+backstory.ebay.co.uk #eBay - Tracker
+backstory.ebay.com #eBay - Tracker
+backstory.ebay.com.au #eBay - Tracker
+backstory.ebay.com.hk #eBay - Tracker
+backstory.ebay.com.my #eBay - Tracker
+backstory.ebay.com.sg #eBay - Tracker
+backstory.ebay.de #eBay - Tracker
+backstory.ebay.es #eBay - Tracker
+backstory.ebay.fr #eBay - Tracker
+backstory.ebay.ie #eBay - Tracker
+backstory.ebay.it #eBay - Tracker
+backstory.ebay.nl #eBay - Tracker
+backstory.ebay.ph #eBay - Tracker
+backstory.ebay.pl #eBay - Tracker
 badskates.com #AdMeasures - Advertising
 bae5tracker.com #Lead Forensics - Tracker
 bakeronerousfollowing.com #AdMeasures - Advertising
@@ -750,6 +776,7 @@ basebanner.com #Basebanner - Tracker
 basis.net #Centro - Tracker
 bat.bing.com #Microsoft - Tracker
 bat.r.msn.com #Microsoft - Tracker
+batch.com #Unknown - Tracker
 batchgeo.com #BatchGeo - Tracker
 baynote.net #Baynote - Tracker
 bcloudhost.com #AdMeasures - Advertising
@@ -982,6 +1009,7 @@ clickdimensions.com #ClickDimensions - Tracker
 clickfrog.ru #ClickFrog - Tracker
 clickfunnels.com #ClickFunnels - Tracker
 clickfuse.com #Unknown - Tracker
+clickhz.meizu.com #Meizu - Tracker
 clickio.com #Unknown - Tracker
 clickiocdn.com #Clickio - Advertising
 clickmeter.com #ClickMeter - Tracker
@@ -1135,6 +1163,7 @@ curulate.com #Curulate - Advertising
 cusperbid.com #Unknown - Tracker
 custobar.com #Custobar - Tracker
 customer.io #Customer.io - Tracker
+customerevents.netflix.com #Netflix - Tracker
 customize.cz #Customize.cz - Tracker
 custora.com #Custora - Tracker
 cwqljsecvr.com #Unknown - Advertising
@@ -1248,6 +1277,7 @@ dragonspontaneous.com #cloud-dns-tech - Advertising
 drawingwheels.com #AdMeasures - Advertising
 dressipi.com #Unknown - Tracker
 drift.com #Drift - Tracker
+driftt.com #Drift - Tracker
 driv-analytics.com #Unknown - Tracker
 ds.shalltry.com #Infinix Tracker - Tracker
 dsch.ninja #Distilled SCH - Advertising
@@ -1377,6 +1407,7 @@ eum-appdynamics.com #AppDynamics - Tracker
 evasiondemandedlearning.com #AdMeasures - Advertising
 eventcapture03.com #Lead Forensics - Tracker
 eventcapture06.com #Lead Forensics - Tracker
+eventlog.willow.tv #First Party - Tracker
 events.gfe.nvidia.com #Nvidia - Tracker
 eventstream.dodopizza.com #dodopizza.com - Advertising
 ever-track-51.com #Lead Forensics - Tracker
@@ -1443,6 +1474,7 @@ fastly-insights.com #Fastly - Tracker
 fatmedia.io #Fatmedia - Tracker
 faultspiano.com #AdMeasures - Advertising
 fbot.me #Friendbuy - Tracker
+federatedml-pa.googleapis.com #Google - Tracker
 feedbackify.com #Feedbackify - Advertising
 femetrics.grammarly.io #Grammarly - Tracker
 ferventhoaxresearch.com #AdMeasures - Advertising
@@ -1496,6 +1528,7 @@ ftads.net #Unknown - Advertising
 ftd.agency #Unknown - Advertising
 ftjcfx.com #Conversant - Tracker
 fullstory.com #Unknown - Tracker
+functional.events.data.microsoft.com #Microsoft - Tracker
 furstraitsbrowse.com #AdMeasures - Advertising
 futilereposerefreshments.com #AdMeasures - Advertising
 fwmrm.net #FreeWheel - Advertising
@@ -1542,6 +1575,7 @@ gettraff.com #Getraff - Tracker
 gigaonclick.com #Unknown - Advertising
 giosg.com #Giosg - Tracker
 girlbuffalo.com #cloud-dns-tech - Advertising
+glassboxdigital.io #Glassbox Digital - Tracker
 glenprejudice.com #AdMeasures - Advertising
 glersakr.com #Unknown - Advertising
 glimr.io #glimr.io - Tracker
@@ -1921,6 +1955,7 @@ locallogic.co #Local Logic - Tracker
 localytics.com #Localytics - Tracker
 log-ingestion-eu.samsungacr.com #Samsung - Tracker
 log-va.tiktokv.com #TikTok - Tracker
+log.api.zaloapp.com #Zalo - Tracker
 log.core.cloud.vewd.com #vewd.com - Tracker
 log.espn.com #Disney - Tracker
 log.gns.go.com #Disney - Tracker
@@ -1930,6 +1965,7 @@ log.olark.com #Olark - Tracker
 log.pinterest.com #Pinterest - Tracker
 log.popin.cc #popin.cc - Tracker
 log.quora.com #Quora - Tracker
+log.showmax.com #First Party - Tracker
 log.spotify.com #Spotify - Tracker
 log.strm.yandex.ru #Yandex.Ru - Tracker
 log.tapatalk.com #First Party - Tracker
@@ -2084,6 +2120,7 @@ metrics.gfycat.com #First Party - Tracker
 metrics.hackerrank.com #Hackerrank.com - Tracker
 metrics.hitman.io #First Party - Tracker
 metrics.icloud.com #Apple - Tracker
+metrics.indazn.com #First Party - Advertising
 metrics.ionos.com #ionos.com - Tracker
 metrics.ionos.de #ionos.de - Tracker
 metrics.kmsmep.com #Bread Financial - Tracker
@@ -12905,6 +12942,7 @@ nl02.net #NetLine - Advertising
 nl03.net #NetLine - Advertising
 nmp1.com #Email Vision - Advertising
 nobeta.com.br #NoBeta - Advertising
+norma-external-collect.meizu.com #Meizu - Tracker
 nosto.com #Nosto - Tracker
 notes-analytics-events.apple.com #Apple - Tracker
 notifymetric.com #Push Ads - Tracker
@@ -12917,6 +12955,7 @@ npcwfrohnshriw.com #Unknown - Advertising
 npttech.com #Rubicon - Tracker
 nqs.nice264.com #NicePeopleAtWork - Tracker
 nr-data.net #New Relic - Tracker
+nrdp.nccp.netflix.com #Netflix - Tracker
 ns1p.net #NS1 - Tracker
 nsfwadds.com #NSFW Adds - Advertising
 nster.net #Unknown - Tracker
@@ -13018,7 +13057,9 @@ owebanalytics.com #Unknown - Tracker
 owneriq.net #Unknown - Tracker
 ox.autolive.be #Revive Adserver - Advertising
 ox.ghanasoccernet.com #Revive Adserver - Advertising
+p-cg64-slinganalytics.movetv.com #First Party - Tracker
 p-td.com #Unknown - Tracker
+p.typekit.net #Adobe - Tracker
 p.yotpo.com #Yotpo - Tracker
 paas-vpc01-dms-edge-fk.easy4ipcloud.com #easy4ipcloud.com - Advertising
 padsims.com #AdMeasures - Advertising
@@ -13313,6 +13354,7 @@ realtime.email #Unknown - Advertising
 realytics.io #Realytics - Tracker
 rebelmouse.io #Rebelmouse - Tracker
 rebrandly.com #ClickMeter - Tracker
+redevents-bigdata.redefine.pl #First Party - Tracker
 redeye.international #Unknown - Tracker
 redir.metaservices.microsoft.com #Microsoft - Tracker
 redirecting2.net #Unknown - Tracker
@@ -13419,6 +13461,7 @@ rundsp.com #Unknown - Tracker
 ruralstring.com #Unknown - Advertising
 rutpunishsnitch.com #AdMeasures - Advertising
 s-onetag.com #OneTag - Advertising
+s.deepl.com #First Party - Tracker
 s01.riotpixels.net #riotpixels.net - Advertising
 s3network1.com #Lead Forensics - Tracker
 s3t3d2y8.ackcdn.net #Unknown - Advertising
@@ -13438,6 +13481,7 @@ salesmanago.pl #SalesManago - Advertising
 salutationcheerlessdemote.com #AdMeasures - Advertising
 samsungadhub.com #Samsung - Advertising
 samsungads.com #Samsung - Advertising
+sanalytics.disneyplus.com #Adobe - Tracker
 sanalytics.verizon.com #Verizon - Tracker
 sanalytics.verizonwireless.com #Verizon - Tracker
 sas15k01.com #Lead Forensics - Tracker
@@ -14506,6 +14550,7 @@ smilewanted.com #Smile Wanted - Tracker
 smpush.com #Push Ads - Advertising
 smrk.io #Smarkio - Tracker
 snackly.co #Unknown - Tracker
+snap.licdn.com #LinkedIn - Tracker
 snapads.com #SnapAds - Advertising
 snapengage.com #SnapEngage - Tracker
 snaplytics.io #Snaplytics - Tracker
@@ -14576,13 +14621,13 @@ stat.mixi.media #mixi.media - Tracker
 stat.swedbank.se #swedbank.se - Tracker
 stat.techtimes.com #techtimes.com - Tracker
 stat.torchbrowser.com #torchbrowser.com - Tracker
+stat24.com #Stat.pl - Tracker
 statcounter.com #StatCounter - Tracker
 static.clmbtech.com #Times Internet - Advertising
 static.cloudflareinsights.com #Cloudflare - Tracker
 stats.addsearch.com #Addsearch - Tracker
 stats.api.xiaomi.net #Xiaomi.Net - Tracker
 stats.bbc.co.uk #BBC - Tracker
-stats.bbc.net.uk #BBC - Tracker
 stats.brave.com #Brave.Com - Tracker
 stats.captaincore.io #captaincore.io - Tracker
 stats.ctvnews.ca #ctvnews.ca - Tracker
@@ -14683,6 +14728,7 @@ survey-poll.com #comScore - Tracker
 surveyi.com #Surveyi - Tracker
 survicate.com #Survicate - Tracker
 survio.com #Survio - Tracker
+svibeacon.onezapp.com #First Party - Tracker
 sw-rail-7.com #Lead Forensics - Tracker
 swallowcrockerybless.com #AdMeasures - Advertising
 switchadhub.com #Unknown - Advertising
@@ -14737,6 +14783,7 @@ telemetry-dce.gfe.nvidia.com #Nvidia - Tracker
 telemetry-experiment.cdn.mozilla.net #Mozilla - Tracker
 telemetry-in.battle.net #Blizzard - Tracker
 telemetry-incoming.r53-2.services.mozilla.com #Mozilla - Tracker
+telemetry.acronis.com #First Party - Tracker
 telemetry.api.2kcoretech.online #2K - Tracker
 telemetry.api.playstation.com #Sony - Tracker
 telemetry.api.swiftkey.com #Swiftkey - Tracker
@@ -14793,6 +14840,7 @@ tms-api.shalltry.com #Infinix Tracker - Tracker
 tnc16-useast1a.isnssdk.com #ByteDance - Tracker
 tns-counter.ru #Unknown - Tracker
 tns-cs.net #Direkte - Tracker
+tongji.meizu.com #Meizu - Tracker
 tonsilyearling.com #AdMeasures - Advertising
 toolmatrix.plus #Shalltry Group - Tracker
 topaz-analytics.com #Topaz Solutions - Tracker
@@ -14973,6 +15021,8 @@ umbel.com #Unknown - Tracker
 umeng.co #Umeng - Tracker
 umeng.com #Umeng - Tracker
 umengcloud.com #Umeng - Tracker
+umengjmacs.m.taobao.com #Taobao - Advertising
+unagi-na.amazon.com #Amazon WorkSpaces - Tracker
 unanimis.co.uk #Unanimis - Advertising
 undertone.com #Perion - Advertising
 undrininvereb.info #Unknown - Advertising
@@ -15162,6 +15212,7 @@ wistia.net #Unknown - Tracker
 wkqcnkstso.com #Unknown - Advertising
 wmgroup.us #WMG - Advertising
 wogaa.sg #Singapore Government - Tracker
+woodpecker.uc.cn #First Party - Advertising
 woollenthawewe.com #AdMeasures - Advertising
 woopra.com #Unknown - Tracker
 worldtable.co #Worldtable - Tracker
