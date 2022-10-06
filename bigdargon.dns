@@ -388,7 +388,6 @@ saber.srvcs.tumblr.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 analytics.query.yahoo.com
-app.ssp.yahoo.com
 bats.video.yahoo.com
 beap-bc.yahoo.com
 geo.query.yahoo.com
@@ -447,6 +446,8 @@ ssp.gemini.yahoo.com
 pclick.yahoo.com
 rtb.pclick.yahoo.com
 real.pclick.yahoo.com
+app.ssp.yahoo.com
+c2shb.ssp.yahoo.com
 ads-verify.yap.yahoo.com
 ads.yap.yahoo.com
 m.yap.yahoo.com
@@ -9767,6 +9768,16 @@ s6.yovoads.com
 yovoads.com
 connect.idocdn.com
 tracker.idocdn.com
+img.scupio.com
+pixel-api.scupio.com
+prebid.scupio.com
+rec.scupio.com
+scupio.com
+www.scupio.com
+api.applovefrom.com
+logger.applovefrom.com
+2performant.com
+event.2performant.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11268,6 +11279,7 @@ analytics.bkav.com
 analytics.bkav.com.vn
 analytics.bluemotionmedia.vn
 analytics.diamondstarfinancial.com.vn
+analytics.evgcdn.net
 analytics.fsoft.com.vn
 analytics.hub-js.com
 analytics.jamstackvietnam.com
@@ -12160,6 +12172,7 @@ ads.soft32.com
 ads.space.com
 ads.stackoverflow.com
 ads.sun.com
+ads.sunmaker.com
 ads.suomiautomaatti.com
 ads.superawesome.tv
 ads.supplyframe.com
@@ -13105,6 +13118,7 @@ cj.com
 cjbmanagement.com
 cjlog.com
 cjt1.net
+cjt3w2kxrv.com
 claria.com
 claroads.com
 claroadsclick.com
@@ -13470,6 +13484,7 @@ dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
 docksalmon.com
+doerscharre.com
 dogconcurrencesauce.com
 dolesminced.com
 dollsdeclare.com
@@ -15748,6 +15763,7 @@ switchads.com
 swordfishdc.com
 swordgoose.com
 swpsvc.com
+sya9yncn3q.com
 sync.quantumdex.io
 sync.vmweb.net
 syndapop.com
@@ -16758,7 +16774,6 @@ e.viously.com
 e2.platform88798.com
 emltrk.com
 ethtrader.de
-event.2performant.com
 event.condenastdigital.com
 event.stat.wedobest.com.cn
 event.wedobest.com.cn
