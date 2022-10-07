@@ -8,8 +8,8 @@
 # Confidence      : 4
 #
 
-# Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Easyprivacy, parsed and mirrored for https://firebog.net
+# Updated 24SEP22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -1210,7 +1210,6 @@ aa.tvguide.com
 aa.tweakers.nl
 aaucna.casasbahia.com.br
 aa.wowma.jp
-aaxwall.com
 aazfby.auto.de
 abackchain.com
 abacksoda.com
@@ -1522,7 +1521,6 @@ acton.unifilabs.com
 act-on.up.edu.pe
 actoramusement.com
 act.pivotpointsecurity.com
-act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 act.soneticscorp.com
 actuallysheep.com
 actuallysnake.com
@@ -2273,7 +2271,6 @@ analytics.givealittle.co
 analytics.global.sky.com
 analytics.greenmountainenergy.com
 analytics.groupe-seb.com
-analytics.growthphysics.com
 analytics.gvim.mobi
 analytics-gw.games.wanmei.com
 analytics.hashnode.com
@@ -2526,7 +2523,6 @@ analytics.yola.net
 analytics.yomedia.vn
 analytics.yourbankcard.com
 analytics.ziftsolutions.com
-analytics-zone-1.api.leadfamly.com
 analytic.texas.aaa.com
 analytic.underarmour.com
 analyze.full-marke.com
@@ -2620,6 +2616,7 @@ app.hokiesports.com
 app.info.coopenae.fi.cr
 appinfosoryz.carte-gr.total.fr
 apple.www.letv.com
+applicationinsights.azure.com
 applink.getbambu.com
 applog.yiche.com
 apply.bpost.be
@@ -3701,7 +3698,6 @@ contact.tsr-net.co.jp
 contact-us.adp.ca
 contadores.miarroba.com
 contadores.miarroba.es
-content22.bmoharris.com
 content.bondbrothers.com
 content.brain-storm-email.com
 content.ceriumnetworks.com
@@ -4552,6 +4548,7 @@ d.m-net.de
 dmpcdn.el-mundo.net
 dmpxs.com
 dmtgo.upc.biz
+dn0qt3r0xannq.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 d.nativendo.de
 dna.uol.com.br
@@ -4611,7 +4608,6 @@ dripappliance.com
 driverequest.com
 drivingdirt.com
 drlimmode9ddd.cloudfront.net
-d.rp-online.de
 ds2.independer.nl
 ds-aksb-a.akamaihd.net
 dsbahmgppc0j4.cloudfront.net
@@ -5369,7 +5365,6 @@ felix.data.tm-awx.com
 f-emc.ngsp.gov.vn
 feqbqn.rent.com
 fezoua.carfixer.co.kr
-ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffrmwn.musinsa.com
 fgfukd.sakazen.co.jp
 fgjfwz.legami.com
@@ -6230,7 +6225,6 @@ intent.macworld.co.uk
 intent.pcworld.idg.com.au
 intent.techadvisor.com
 interestsmoke.com
-internal-analytics.odoo.com
 internalsink.com
 interworks.cloud.actonservice.com
 intg.snapchat.com
@@ -6257,6 +6251,7 @@ iqjwrk.crocodile.co.jp
 iqlhlp.ab-in-den-urlaub.ch
 iq.sixaxisllc.com
 irqewz.vilebrequin.com
+irqs.ioam.de
 irs01.com
 isc-tracking.eventim.com
 isebis.takamiclinic.or.jp
@@ -6414,7 +6409,6 @@ kiddbs.baby-calendar.jp
 kiki.rireetchansons.fr
 kiks.auto.ru
 kimkgj.bibloo.pl
-kinesis.eu-west-1.amazonaws.com
 kiqwal.autoscout24.es
 kistacity.viessmann.se
 kitchen.juicer.cc
@@ -6768,7 +6762,6 @@ logger.yp.ca
 logging.api.intuit.com
 loggingapi.spingo.com
 logging.carambo.la
-logging.cmp-resources.link
 logging.je-apps.com
 logging.prefixbox.com
 logging.wilmaa.com
@@ -6819,7 +6812,6 @@ log.snapdeal.com
 logs.naukri.com
 logs-partners.coupang.com
 logs.spilgames.com
-logstash-3.radio-canada.ca
 logstat.caixin.com
 logs.thebloggernetwork.com
 log.superweb.ws
@@ -6838,7 +6830,6 @@ log.worldsoft-cms.info
 logx.mtime.cn
 logx.mtime.com
 logx.optimizely.com
-log.zdnet.co.kr
 log.zongheng.com
 loloclicks.biz
 longinglettuce.com
@@ -7319,7 +7310,6 @@ mbns.bruker.com
 mcad.mods-clinic.com
 mcangelus.com
 mc.bruker.com
-mcc-tags.cisco.com
 mcdmetrics.aaa.com
 mcs-va.tiktokv.com
 mc.webvisor.com
@@ -7604,7 +7594,6 @@ metrics.maxizoo.be
 metrics.maxizoo.fr
 metrics.maxizoo.ie
 metrics.maxizoo.pl
-metrics.mdstrm.com
 metrics.medical.roche.de
 metrics.meiers-weltreisen.de
 metrics.mein-dertour.de
@@ -7836,7 +7825,6 @@ mjnpya.marktplaats.nl
 mklik.gazeta.pl
 mkt.animalsafety.neogen.com
 mkt.bluestate.co
-mktcs.cloudapps.cisco.com
 mkt.emea.neogen.com
 mkt.foodsafety.neogen.com
 mktg.aa.f5.com
@@ -7890,6 +7878,7 @@ mpglie.apartmentguide.com
 m.photoshelter.com
 mp.huangye.miui.com
 mqsicr.smiggle.co.uk
+mqs.ioam.de
 mqvyob.vidaxl.fi
 mrpdata.net
 msafoy.eyebuydirect.com
@@ -8664,7 +8653,6 @@ p.milliyet.com.tr
 pm.pmu.fr
 pm.redbull.com
 p.neil.gg
-pnekru6pxrum-a.akamaihd.net
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 p.nqueue.io
@@ -8756,7 +8744,6 @@ p.tencentmind.com
 pt.ispot.tv
 ptracker.nurturehq.com
 ptsc.shoplocal.com
-pub.servidoresge.com
 pub.sheknows.com
 pubtm.com
 puffypaste.com
@@ -9034,6 +9021,7 @@ rloddo.olx.bg
 rlog.popin.cc
 rmgdapfnccsharpprd.azurewebsites.net
 r.my.com
+rndntpmgnj-a.akamaihd.net
 rnffgv.wemakeprice.com
 rnybul.gismeteo.kz
 rnybul.gismeteo.ru
@@ -9864,7 +9852,6 @@ seed.bitcoinstats.com
 seed.bitcoin.wiz.biz
 seed.btc.petertodd.org
 seedscissors.com
-segmentor.snowfox-ai.com
 segra.actonservice.com
 seg.sharethis.com
 selectionship.com
@@ -9923,6 +9910,7 @@ s.freelanceratecalculator.com
 sftrack.searchforce.net
 sg3.notarize.com
 s.glimesh.tv
+sgphctileh-a.akamaihd.net
 sg.promo.skf.com
 s.grace.com
 s.guelphmercury.com
@@ -12074,7 +12062,6 @@ stat.turb.pw
 stat.tvigle.ru
 statuesquebrush.com
 stat.umsu.de
-stat.u.sb
 stat.uuu9.com
 stat.valica.it
 stat.vulkanvegas.com
@@ -12425,7 +12412,6 @@ tags.aljazeera.net
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
-tags.cmp.tail.digital
 tags.creativille.co.uk
 tags.esri.rw
 tags.fullcontact.com
@@ -12624,7 +12610,6 @@ test.emails.tlc.com
 test.emails.travelchannel.com
 test-eml.postmates.com
 test-fleet-eml.postmates.com
-testingmetriksbre.ru
 test.shoppers.instacartemail.com
 teststocking.com
 test.vast
@@ -13263,7 +13248,6 @@ track.thebase.in
 track.thesaurus.com
 track.tiara.daum.net
 track.tiara.kakao.com
-track.tom.com
 track.tomwx.net
 track.uc.cn
 track.ultimate-guitar.com
@@ -13949,6 +13933,7 @@ tsj0.madeindesign.com
 t.skimresources.com
 t.smile.eu
 t.splicky.com
+tspmagic.tumblr.com
 ts.popsugar.com
 t.spot.im
 tsppvi.amara.com
@@ -14017,6 +14002,7 @@ ugdturner.com
 ugmarketing.smu.edu.sg
 uhm26jyr11zv.www.freecodecamp.org
 uhn9.up-france.fr
+uhytajrtpo-a.akamaihd.net
 uid.mediacorp.sg
 uie.data.cbc.ca
 uijciz.gunze.jp
@@ -14180,7 +14166,6 @@ videostat-new.index.hu
 videostats.kakao.com
 vidstat.taboola.com
 views.arabnews.com
-views.b1tv.ro
 views.cancan.ro
 views.emikajewelry.com
 views.romaniatv.net
@@ -14503,7 +14488,6 @@ wttd.madeleine.gr
 wttd.madeleine-mode.at
 wttd.madeleine-mode.ch
 wt.vhb.de
-wup-content23.bmoharris.com
 wvvw.france24.com
 wvvw.francemediasmonde.com
 wvvw.infomigrants.net
@@ -15064,6 +15048,7 @@ zucks.net.zimg.jp
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
+zvsuhljiha-a.akamaihd.net
 zvvpcz.puravita.ch
 zvvsvr.kettner-edelmetalle.de
 zwatgf.megaknihy.cz
