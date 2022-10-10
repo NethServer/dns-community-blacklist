@@ -8,8 +8,8 @@
 # Confidence      : 4
 #
 
-# Admiral, parsed and mirrored for https://firebog.net
-# Updated 02SEP22 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Admiral, parsed and mirrored by https://firebog.net
+# Updated 10OCT22 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -262,7 +262,6 @@ fuzzyflavor.com
 fuzzyweather.com
 ga87z2o.com
 gammamaximum.com
-getadmiral.com # third-party
 giddycoat.com
 giftedglue.com
 giftedthumb.com
