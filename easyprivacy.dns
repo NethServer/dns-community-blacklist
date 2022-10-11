@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -4140,6 +4140,7 @@ data.decathlon.it
 data.decathlon.pl
 data.digitalks.az
 datadog-service.mvfglobal.com
+datadome.patreon.com
 data.dreambaby.be
 data.dreamland.be
 data.eca.nespresso.com
@@ -7662,6 +7663,7 @@ metrics.readme.io
 metrics.reallymoving.com
 metrics.realsimple.com
 metrics.recunia.de
+metrics.redgifs.com
 metrics.refinitiv.com
 metrics.regions.com
 metrics.restockit.com
@@ -8236,6 +8238,7 @@ onuf69iegl2e.staging-lfg-app.alpacafinance.org
 o.opentable.com
 op-drive-sto.carrefour.fr
 open.delivery.net
+openfpcdn.io
 operationkettle.com
 oph7o.montecarlosbm-corporate.com
 ophan.theguardian.com
@@ -8795,6 +8798,7 @@ px.mountain.com
 pxmzlk.redfin.com
 px.owneriq.net
 px.pandora.com
+px.redgifs.com
 pxsg.pandora.com
 px.spiceworks.com
 px.staticfiles.at
