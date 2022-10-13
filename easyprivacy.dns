@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -13070,7 +13070,6 @@ tracking.cspire.com
 tracking.customerly.io
 tracking.deutscheladies.de
 tracking.devoteladies.de
-tracking.digitalocean.com
 tracking.dominanteladies.de
 tracking-driver.staging.goshare.co
 tracking.drum.io
@@ -13605,7 +13604,6 @@ tr.kommunikation.younited-credit.com
 tr.kontakt.younited-credit.com
 tr.kpyn.espmp-cufr.net
 trkpzz.dcinside.com
-trkr.shoppingminds.net
 tr.krus.espmp-agfr.net
 trk.s.sephora.com
 trk.techtarget.com
