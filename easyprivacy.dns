@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 14OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 17OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2364,6 +2364,7 @@ analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
+analytics.oyorooms.com
 analytics.paddle.com
 analytics.pagefly.io
 analytics.partcommunity.com
@@ -2882,6 +2883,7 @@ beacon2.indieclick.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdnma.com
+beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
 beacon.qq.com
@@ -4538,6 +4540,7 @@ dl1d2m8ri9v3j.cloudfront.net
 dlabiznesu.pracuj.pl
 dl.benefits.express-scripts.com
 dl.correspondence.evernorth.com
+dl.episerver.net
 dlesjf.jutarnji.hr
 dl.health-programs.express-scripts.com
 dl.mail.express-scripts.com
@@ -5206,6 +5209,7 @@ eventapi.libring.com
 event-api.rdstation.com.br
 event-api.reverb.com
 eventbus.intuit.com
+event-collector.moviesanywhere.com
 event.csdn.net
 event.evtm.53.com
 eventgateway.soundcloud.com
@@ -5557,6 +5561,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g9508048080.co
 g9706132415.co
 g990421675.co
 g990421676.co
@@ -6789,6 +6794,7 @@ loginlog.sdo.com
 log.invodo.com
 logistics.osmworldwide.com
 log.kibboko.com
+log.kslogs.ru
 log.kuwo.cn
 loglady.skypicker.com
 log.mappy.net
@@ -8805,6 +8811,7 @@ px.pandora.com
 px.redgifs.com
 pxsg.pandora.com
 px.spiceworks.com
+px.srvcs.tumblr.com
 px.staticfiles.at
 px.wp.pl
 pylon.micstatic.com
@@ -9125,6 +9132,7 @@ s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
 s4.parkeren-utrecht.nl
 s4s51f00a3o7.www.eldorado.gg
+s5.charliehebdo.fr
 s.80000hours.org
 saa.247sports.com
 saa-aem.hamamatsu.com
@@ -11889,7 +11897,6 @@ stats.nddmed.com
 stats.nebula.fi
 stats.nerdbusiness.com
 stats.netbopdev.co.uk
-stats.netdna-storage.com
 stats-newyork1.bloxcms.com
 stats.nicolabricot.com
 stats.nrcaknights.com
@@ -12879,7 +12886,6 @@ topichawaii.com
 top.skyzone.ro
 topspin.npo.nl
 top.wn.com
-torimochi.line-apps.com
 torpidtongue.com
 torpidtoothpaste.com
 torropinto.viessmann.es
