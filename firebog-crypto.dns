@@ -9,7 +9,7 @@
 #
 
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 19OCT22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 17OCT22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 
 # List corrections can be requested at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -6740,6 +6740,7 @@ coin-mining.eu
 coin-mining.net
 coin-service.com
 coin-services.info
+coinbase.com
 coinbin.org
 coinblind.com
 coinblockers.com
@@ -53020,11 +53021,9 @@ zyr2giga.link
 zyra2giga.link
 zyraxe2giga.link
 zyraxes.e2giga.link
-zyraxes.evolu2giga.link
 zyraxes.evoluti2giga.link
 zyraxes.evolutio2giga.link
 zyraxes.evolution-projec2giga.link
-zyraxes.evolution-project.go.ro2giga.link
 zyraxes.evolution-project.go2giga.link
 zyraxes2giga.link
 zyrk.ea2giga.link
