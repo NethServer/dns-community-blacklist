@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 19OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2136,6 +2136,7 @@ analytics00.meride.tv
 analytics.126.net
 analytics.163.com
 analytics-1.cavai.com
+analytics2-meride-tv.akamaized.net
 analytics.30m.com
 analytics.aasaam.com
 analytics.aba.com
@@ -2478,6 +2479,7 @@ analytics.tnt-tv.pl
 analytics.top10-charts.com
 analytics.touchnote.io
 analytics.tout.com
+analytics-tracking.meetup.com
 analytics.tradedoubler.com
 analytics.traderlink.com
 analytics.tribeca.vidavee.com
@@ -2715,6 +2717,7 @@ asp.taishokunext.com
 as.rollingstone.de
 assets.garron.blog
 assets.garron.me
+assets.instacart.com
 assets.webmanufaktur.ch
 as.stylebook.de
 astat.nikkei.com
@@ -3341,10 +3344,12 @@ ciszhp.motorradfrage.net
 cjbdme.conquer.org
 cjcqls.onbuy.com
 ck.connatix.com
+ckies.net
 ckozwx.n11.com
 ckpxtt.justfly.com
 clamcelery.com
 clammytree.com
+clarice.streema.com
 clarity.ms
 clarium.global.ssl.fastly.net
 cl.canva.com
@@ -3552,6 +3557,7 @@ collect-ap2.attraqt.io
 collect.asics.com
 collect.banggood.com
 collect.cap.ch
+collect.chaordicsystems.com
 collect.cloudsponge.com
 collect.elvia.ch
 collect-eu.attraqt.io
@@ -3794,6 +3800,7 @@ counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
 counter.rambler.ru
+counter.reddigital.ru
 counter.scribblelive.com
 counters.freewebs.com
 counter.sibnet.ru
@@ -3856,6 +3863,7 @@ crta.metro.co.uk
 crumbs.robinhood.com
 cruntn.receno.com
 crwdcntrl.net
+cryo.socialblade.com
 cs0010sbeda.theory-clinic.com
 cs0010sbeda.theory-diet.com
 cs0010sbeda.theory-kumatarumi.com
@@ -5142,6 +5150,7 @@ eproof.drudgereport.com
 epro.sogou.com
 epwa.europarl.europa.eu
 eqkwat.histoiredor.com
+eq.userneeds.com
 eqy.link
 erb.tremblant.ca
 erlfhw.glamira.com.au
@@ -7653,6 +7662,7 @@ metrics.nutropin.com
 metrics.nvidia.com
 metrics.octanner.com
 metrics.omniture.com
+metrics.onshape.com
 metrics.optum.com
 metrics.outsourcing-pharma.com
 metrics.parcelforce.com
@@ -7755,6 +7765,7 @@ metrics.tv2.dk
 metrics.uhc.com
 metrics.uol.com.br
 metrics.ups.com
+metrics.userguiding.com
 metrics.usopen.org
 metrics.us.playstation.com
 metrics.valuecityfurniture.com
@@ -8527,6 +8538,7 @@ pixel.yola.com
 pixelzirkus.gameforge.com
 pix.hyj.mobi
 pixiedust.buzzfeed.com
+pixmg.com
 pix.pub
 pixrealm.com
 pix.revjet.com
@@ -11889,6 +11901,7 @@ stats.mos.ru
 stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 statsmp2.emol.com
+stats.mpthemes.net
 stats.muasamcong.gov.vn
 stats.muchbetteradventures.com
 stats.myangular.life
@@ -12547,6 +12560,7 @@ t.clic2buy.com
 t.comms.thetimes.co.uk
 tcsayn.okkane.co.kr
 t.dailymail.co.uk
+td.airdroid.com
 td.ecomms.originenergy.com.au
 tdep.bunzlonline.nl
 tdep.growwwdigital.com
@@ -12605,6 +12619,7 @@ telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telem.sre.gopuff.com
 te.limango.de
 te.mirapodo.de
 tempttalk.com
@@ -14130,6 +14145,7 @@ userexperience.thehut.net
 userfly.com
 user-metrics.onthemarket.com
 usersegment.wpdigital.net
+user.userguiding.com
 usgamer-us.usgamer.net
 us.lucanet.com
 usmetric.rediff.com
