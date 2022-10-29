@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2151,6 +2151,7 @@ analytics.ae.com
 analytics.agoda.com
 analytics.aimtell.com
 analytics.aita.gov.vn
+analytics.algolia.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.americanfunds.com
@@ -5390,6 +5391,7 @@ f-emc.ngsp.gov.vn
 feqbqn.rent.com
 fezoua.carfixer.co.kr
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
+ffe390afd658c19dcbf707e0597b846d.de
 ffrmwn.musinsa.com
 fgfukd.sakazen.co.jp
 fgjfwz.legami.com
@@ -5475,6 +5477,7 @@ fphfdx.partswarehouse.com
 fp.measure.office.com
 fpptmv.mrmarvis.co.uk
 fprfvt.recambioscoches.es
+fptls.com
 fpt.microsoft.com
 fpxau.net
 fpxewa.ilmeteo.it
