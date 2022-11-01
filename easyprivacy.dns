@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 31OCT22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3824,6 +3824,7 @@ count.me.uk
 count.munhwa.com
 count.paycounter.com
 count.rin.ru
+count-server.sharethis.com
 count.upc.rakuten.co.jp
 count.xxxssk.com
 count.yandeg.ru
@@ -11578,6 +11579,7 @@ stat.flytechb.com
 stat.funshion.net
 stat.glaze.ai
 stat.guiasjuridicas.es
+stat.i3.dmm.com
 static-tracking.klaviyo.com
 stat.ipsoa.it
 statistic2.reichelt.de
@@ -11737,6 +11739,7 @@ stats.davidickedelivery.com
 stats.davidlms.com
 stats-dc1.frz.io
 stats.deva.guru
+stats-dev.brid.tv
 stats.devenet.eu
 stats.devenet.info
 stats.digiexpert.store
@@ -12480,6 +12483,7 @@ tags.newscgp.com
 tags.op-palvelut.fi
 tags.refinery89.com
 tags.soloway.ru
+tag.statshop.fr
 tagtracking.vibescm.com
 tag.triboomedia.it
 takingbackjuly.com
