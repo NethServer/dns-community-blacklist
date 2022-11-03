@@ -9,7 +9,7 @@
 #
 
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 31OCT22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 02NOV22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 
 # List corrections can be requested at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -53025,6 +53025,7 @@ zyraxes.evolu2giga.link
 zyraxes.evoluti2giga.link
 zyraxes.evolutio2giga.link
 zyraxes.evolution-pro2giga.link
+zyraxes.evolution-proje2giga.link
 zyraxes.evolution-projec2giga.link
 zyraxes.evolution-project.g2giga.link
 zyraxes.evolution-project.go.ro2giga.link
