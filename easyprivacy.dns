@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09NOV22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 07NOV22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3435,7 +3435,6 @@ click.udimg.com
 click.uol.com.br
 click.vgnett.no
 client-analytics.braintreegateway.com
-client-analytics.mts.ru
 client-log.box.com
 client-metrics.chess.com
 clientservice.alphasimplex.com
@@ -8645,7 +8644,6 @@ plausible.reactpreview.com
 plausible.redchamp.net
 plausible.regex.help
 plausible.riok.ch
-plausible.safing.io
 plausible.simplelogin.io
 plausible.slope.io
 plausible.staging.sketch.com
