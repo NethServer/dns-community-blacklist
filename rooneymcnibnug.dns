@@ -74353,3 +74353,12 @@ ads-preprod.chef.games.snapchat.com
 adsapisam.snapchat.com
 telemetry.us.transcend.io
 telemetry.transcend.io
+metrics.brave.com
+ads-static.brave.com
+ads-serve.brave.com
+ads.aws-internal.brave.com
+stats.bsg.brave.com
+ads-serve.aws-internal.brave.com
+metric-proxy.brave.com
+geo.ads.brave.com
+adblock-data.s3.brave.com
