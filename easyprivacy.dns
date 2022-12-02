@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28NOV22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 30NOV22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -4275,6 +4275,7 @@ dcclaa.elle.de
 dcclaa.harpersbazaar.de
 dcclaa.instyle.de
 dcclaa.slowlyveggie.de
+dcinfos-cache.abtasty.com
 dc.kfz-steuercheck.de
 dckquo.holzprofi24.de
 dc.plussizetech.com
@@ -11893,6 +11894,7 @@ stats.koehrer.de
 stats.kongressen.com
 stats.krauss.io
 stats.kryptoslogic.com
+stats.ksearchnet.com
 stats.larsroettig.dev
 stats.lastfm.matthiasloibl.com
 stats.laxallstars.com
