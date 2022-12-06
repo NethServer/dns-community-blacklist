@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02DEC22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 05DEC22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -45,6 +45,7 @@
 12build.actonservice.com
 13js1lbtbj3.sparkloop.app
 150.net.zooplus.fr
+1558334541.rsc.cdn77.org
 16ao.mathon.fr
 16i6nuuc2ej.koelewijn.nl
 173.net.zooplus.de
@@ -2160,7 +2161,6 @@ analytics.allovoisins.com
 analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
-analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -2320,6 +2320,7 @@ analytics.m7g.twitch.tv
 analytics.macklin.me
 analytics.mail-corp.com
 analytics.mailmunch.co
+analytics.makeitmeme.com
 analytics.mambaui.com
 analytics.matchbin.com
 analytics.mbga.jp
@@ -4896,6 +4897,7 @@ ed.emp-shop.pl
 ed.emp-shop.se
 ed.emp-shop.sk
 edge.adobedc.net
+edge.staging.fullstory.com
 ed.large.be
 ed.large.nl
 edmi.nextinpact.com
