@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07DEC22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 09DEC22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2590,6 +2590,7 @@ api.bunzlaucastle.com
 api.decentralize.today
 api.dt.gl
 api.elliehuxtable.com
+api-js.mixpanel.com
 api.nobeta.com.br
 api.ryanyao.design
 api.wipmania.com
@@ -3602,6 +3603,7 @@ collector.xhamster.com
 collector.xhamster.desi
 collect.rewardstyle.com
 collect.state.centrum24.pl
+collect.thunder-io.com
 collect.tianya.cn
 collect.usefathom.com
 collect-v6.51.la
@@ -5106,6 +5108,7 @@ embpyf.flaghouse.com
 emc.dr-stick.shop
 emea.kollmorgen.com
 emea.promo.skf.com
+e.metarouter.io
 emetrics.bose.com
 em.getsimpleprints.com
 em-info2.thermofisher.com
@@ -5532,6 +5535,7 @@ fresnel-events.vimeocdn.com
 fretfulfurniture.com
 friendwool.com
 frightenedpotato.com
+frog.editorx.com
 froglytics.eventfrog.ch
 frog.yuanfudao.com
 fronttoad.com
@@ -5932,6 +5936,7 @@ hit.interia.pl
 hit.meta.ua
 hit.mybestpro.com
 hits.antena3.com
+hits.cyberdrop.me
 hits.dealer.com
 hits.eluniversal.com.mx
 hitserver.ibope.com.br
@@ -7968,6 +7973,7 @@ m.photoshelter.com
 mp.huangye.miui.com
 mqsicr.smiggle.co.uk
 mqvyob.vidaxl.fi
+mradx.net
 mrpdata.net
 msafoy.eyebuydirect.com
 mseeru.faz.net
