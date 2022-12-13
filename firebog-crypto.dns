@@ -9,7 +9,7 @@
 #
 
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 09DEC22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 12DEC22 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 
 # List corrections can be requested at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -53050,6 +53050,7 @@ zy-o-12giga.link
 zy-o-132giga.link
 zy-o-135-d2giga.link
 zy-o-135-doc2giga.link
+zy-o-135-docsg2giga.link
 zy-o-135-docsgh-ci-a2giga.link
 zy-o-1352giga.link
 zy2giga.link
