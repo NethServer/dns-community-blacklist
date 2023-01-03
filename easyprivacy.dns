@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 30DEC22 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3241,6 +3241,7 @@ cars.smartleasing.com.au
 carte.fleet-page.total.fr
 carzbz.braincandy.net
 carzbz.triviatoday.com
+casalemedia.com
 cashbeet.com
 caspionlog.appspot.com
 ca.ssl.holdmybeerconsulting.com
@@ -3276,6 +3277,7 @@ cdn-rum.ngenix.net
 cdn.usefathom.com
 cdtm.cdiscount.com
 ceggfe.msc-kreuzfahrten.de
+ce.lijit.com
 cellstats.mako.co.il
 census.misterspex.at
 census.misterspex.ch
@@ -5180,6 +5182,7 @@ erp.qwic.nl
 erraticreaction.com
 err.ifengcloud.ifeng.com
 error-collector.ted.com
+error.fc2.com
 errors.snackly.co
 error.videonow.ru
 ert5.rmcsport.tv
@@ -5480,7 +5483,6 @@ fn-pz.com
 foamyfood.com
 fog.pixual.co
 foodpackaging.kpfilms.com
-forecast.huffingtonpost.fr
 forecasttiger.com
 foregoingfowl.com
 foretellfifth.com
@@ -6004,7 +6006,6 @@ hsadspixel.net
 hs-analytics.net
 hsleadflows.net
 hspbotdetection.azurewebsites.net
-hstats.hepsiburada.com
 htmgrl.jollyroom.no
 hub.firestonecompleteautocare.com
 hub.hubinternational.com
@@ -6840,7 +6841,6 @@ logging.cmp-resources.link
 logging.je-apps.com
 logging.wilmaa.com
 logg.kiwi.com
-log-global.aliyuncs.com
 log.go.com
 log.gs3.goo.ne.jp
 loggychops.paulsmith.site
@@ -7946,6 +7946,7 @@ mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
+monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 monu.delivery
 mon.us.tiktokv.com
@@ -10116,7 +10117,6 @@ sls2.loisirsencheres.com
 slx.searchdiscovery.com
 smallbeginner.com
 s.mannes.tech
-smashquartz.com
 smashshoe.com
 smashsurprise.com
 smatning.volkswagen.se
@@ -11639,7 +11639,6 @@ stat.bill.harding.blog
 stat.boredomtherapy.com
 stat.caijing.com.cn
 stat.canal-plus.com
-stat.cdngeek.com
 stat.clichehosting.de
 stat.cncenter.cz
 statdb.pressflex.com
@@ -14230,7 +14229,6 @@ uploads.owa.net.zooplus.fr
 upstats.yadro.ru
 upwwgd.zentempel.com
 upz1.destinia.lt
-uqd.io
 urbanairship.com
 urc.taboolasyndication.com
 ureoaw.netthandelen.no
