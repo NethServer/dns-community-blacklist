@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 06JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2460,7 +2460,6 @@ analytics.surfline.com
 analytics.surov.fi
 analytics.sweep.net
 analytics.sydney.edu.au
-analytics.synchrony.com
 analytics.synedat.com
 analytics.tabichan.jp
 analytics.tbs.com
@@ -7951,7 +7950,6 @@ mond.post.ch
 mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
-monitoring.iraiser.eu
 monitor.music.qq.com
 montpalatin.handicap.fr
 monu.delivery
@@ -9157,7 +9155,6 @@ rs.mail.ru
 rs.sinajs.cn
 rs.smc.tf
 r.stripe.com
-rsx.afterpay.com
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
@@ -14054,6 +14051,7 @@ tr.urfk06y.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
 trusted-web-seal.cybertrust.ne.jp
 trust.mitutoyo.com
+trust-provider.com
 trust.titanhq.com
 tru.webelapp.com
 tr.videofutur.fr
