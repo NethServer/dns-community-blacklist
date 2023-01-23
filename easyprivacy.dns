@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 18JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2448,7 +2448,6 @@ analytics.southjerseyquakers.org
 analytics.spark.co.nz
 analytics.springboardvideo.com
 analytics.sprint.com
-analytics.spun.com.br
 analytics.ss88.us
 analyticsssl.forcepoint.com
 analytics.staticiv.com
@@ -5650,7 +5649,6 @@ g.bit.pt
 gbmfid.1mg.com
 gbqofs.com
 gcoiys.cutsclothing.com
-gct.americanexpress.com
 gcudsn.tradetested.co.nz
 gcwubi.happypancake.fi
 gdm1.toner.fr
@@ -6448,6 +6446,7 @@ jpaatr.astellas.jp
 jprbql.jdsports.fr
 jptobh.network.com.tr
 jrucbb.guestreservations.com
+js-agent.newrelic.com
 jscoinminer.com
 jshkyh.29cm.co.kr
 jslog.post.cz
@@ -6830,6 +6829,7 @@ log.51cto.com
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
+log-api.newrelic.com
 logbak.hicloud.com
 log.bitauto.com
 log.china.cn
@@ -12565,7 +12565,6 @@ tag.flagship.io
 tagger.opecloud.com
 tagger.ope.scmp.com
 tag.goldenbees.fr
-tag.imagino.com
 tag.leadplace.fr
 tag.lexer.io
 tag-manager.playbuzz.com
@@ -12947,7 +12946,6 @@ tk.undiz.com
 tk.viapresse.com
 tkvxdj.cars.com
 tkykzv.polisorb.com
-tla.traderlink.com
 t.leady.com
 t.leady.cz
 t.locasun.co.uk
