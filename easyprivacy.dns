@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28JAN23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3579,6 +3579,7 @@ collect.iteam-dress.com
 collect.meilleurtaux.com
 collector2c.zhihuishu.com
 collector-api.99designs.com
+collector.api.video
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
@@ -12565,6 +12566,7 @@ t.allmodern.com
 t.andarpersassi.it
 tangibleteam.com
 t.ao.argyleforum.com
+tao.barstoolsports.com
 t.ao.consumerfinancereport.com
 t.appsflyer.com
 targetab.t-mobile.com
@@ -14452,6 +14454,7 @@ wbtrkk.teufel.ch
 wbtrkk.teufel.de
 wco.crownpeak.com
 wcs.naver.com
+wct-2.com
 wdatatats.net.zooplus.com
 wearbasin.com
 weare.ballymoregroup.com
