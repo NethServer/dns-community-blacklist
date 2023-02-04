@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 01FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3565,7 +3565,6 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
-collect.alphastream.io
 collect-ap2.attraqt.io
 collect.asics.com
 collect.banggood.com
@@ -6604,6 +6603,7 @@ lflbey.gate31.ru
 lfmhcb.sefamerve.com
 l.franceculture.fr
 lgm.averydennison.com
+lg.tr.pandora.tv
 lgzkzp.bauhaus.at
 lh3pvljbkong.www.nookgaming.com
 lhrzel.enterprise.com.tr
@@ -6831,7 +6831,6 @@ log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
 log.f-tra.com
-log-gateway.zoom.us
 log.genyt.net
 logger.bzu.kr
 logger.kataweb.it
@@ -6900,6 +6899,7 @@ log.suumo.jp
 logs.viadata.store
 logs.viavideo.digital
 logs.vmixcore.com
+log.sv.pandora.tv
 log.tagtic.cn
 logtake.weidian.com
 log.targetpush.co.kr
@@ -8797,6 +8797,7 @@ primate.dmarcdigests.com
 printerplasma.com
 prism.buerokrucker.ch
 prism.drivingkyoto.com
+prism.pandora.tv
 prism.raumgleiter.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
@@ -9979,7 +9980,6 @@ sep02.hinagiku-life.jp
 separateshow.com
 sephora-qa.branchstaging.com
 s.ergotherapieblog.de
-serpentshampoo.com
 serv1swork.com
 servcliente.marathon-sports-ec.com
 servedby.o2.co.uk
