@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -8651,6 +8651,7 @@ plausible.bostad.shop
 plausible.bots.gg
 plausible.brandonly.me
 plausiblecdn.co
+plausible.citynews.ovh
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
