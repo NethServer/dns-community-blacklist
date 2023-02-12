@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2243,6 +2243,7 @@ analytics.disneyplus.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
 analytics.ecosia.org
+analytics.edgekey.net
 analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
@@ -7952,6 +7953,7 @@ monitor.azure.com
 monitor.channel4.com
 monitoring.iraiser.eu
 monitor.music.qq.com
+monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 monu.delivery
 mon.us.tiktokv.com
@@ -11640,6 +11642,7 @@ start.smartanalyst.com
 stas.outbrain.com
 stat.24liveplus.com
 stat.5-tv.ru
+stat.absolutist.com
 stat.acca.it
 stat.altalex.com
 stat.api.2gis.ru
@@ -12958,6 +12961,7 @@ tms.hft.factor75.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 tms-st.cdn.ngenix.net
+tm.swp.de
 tm.tradetracker.net
 tm.uol.com.br
 tm.urssaf.fr
@@ -13411,6 +13415,7 @@ track-srv.vietnamnet.vn
 tracksrv.zdf.de
 track.strife.com
 track.sunmedia.tv
+track.tappx.com
 track.tcppu.com
 track.td3x.com
 track.tesiteca.it
@@ -14122,6 +14127,7 @@ tt.rbs.co.uk
 tugngs.tui.com
 tukuru.cotta.jp
 tumblebirds.com
+tumbleicicle.com
 turboeagle.co
 turbolion.io
 tutorthing.com
