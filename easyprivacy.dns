@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 15FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2227,6 +2227,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.corusent.com
 analytics.daasrv.net
+analytics.dashboard.fingerprint.com
 analytics.datahc.com
 analytics.data.lloydsbankinggroup.com
 analytics.dephibank.com
@@ -3018,6 +3019,7 @@ bluekai.com
 bluemarblepayroll.actonservice.com
 blushingbeast.com
 blushingboundary.com
+blushingbread.com
 blushingwar.com
 blyrvv.hm.com
 b.lyst.com
@@ -3228,6 +3230,7 @@ candid.zone
 cannonjudo.com
 capablecows.com
 capablecup.com
+capping.sirius.press
 ca.promo.skf.com
 captcha-display.com
 capture-api.ap3prod.com
@@ -3451,6 +3454,7 @@ click.vgnett.no
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
 client-log.box.com
+client-logger.salemove.com
 client-metrics.chess.com
 clientservice.alphasimplex.com
 clinical.questdiagnostics.com
@@ -4776,6 +4780,7 @@ earthquakescarf.com
 earthycopy.com
 ea.smallable.com
 ea.smartbox.com
+easycompute.systems
 eat9.thebeat925.ca
 ea.telecommandeonline.com
 ea.tool-fitness.com
@@ -5332,6 +5337,7 @@ expansioneggnog.com
 experianmatch.info
 experience.contextly.com
 experienceeggs.com
+experiments.sparanoid.net
 experts.cutter.com
 explore.bytelab.uk
 explore.coursefinders.com
@@ -5576,6 +5582,7 @@ fumblingform.com
 fumblingselection.com
 functionalcrown.com
 fundraising.centuryresources.com
+funnelserv.systems
 funnyairplane.com
 furnishings.bellacor.com
 furryfork.com
@@ -6912,6 +6919,7 @@ log.worldsoft-cms.info
 logx.optimizely.com
 log.zdnet.co.kr
 log.zongheng.com
+lokalwerben.t-online.de
 loloclicks.biz
 longinglettuce.com
 l.ooyala.com
@@ -7389,6 +7397,7 @@ maz.zba.jp
 mbainfo.ust.hk
 mbhs.hrm.healthgrades.com
 mbns.bruker.com
+mb-tracking.com
 mcad.mods-clinic.com
 mcangelus.com
 mc.bruker.com
@@ -7407,6 +7416,7 @@ mdws.ccunl.ca
 mdws.chinookfinancial.com
 mdws.kawarthacu.com
 mdws.vermilioncreditunion.com
+measlymiddle.com
 measure.ameblo.jp
 measurecaption.com
 measure.refinery89.com
@@ -7905,6 +7915,7 @@ mit.db.com
 mit.deutsche-bank.de
 mit.dws.com
 mit.dws.de
+mitour.de
 mit.postbank.de
 mit.researchlog.db.com
 mit.researchlog.dbresearch.com
@@ -10039,6 +10050,7 @@ s.hdsupplysolutions.com
 sheeta.nrj-play.fr
 shinesavage.com
 shinestuart.com
+shiveringspot.com
 shockingship.com
 shopbreakfast.com
 shop.iwantclips.com
@@ -11757,6 +11769,7 @@ stats.blog.sublimesecurity.com
 stats.bluebillywig.com
 stats.bmxdevils.be
 stats.boscabeatha.ie
+stats.bouyguestelecom.fr
 statsbox.info
 stats-bq.stylight.net
 stats.breathly.app
@@ -14147,6 +14160,7 @@ twn36gx4109r.loveisblank.com
 twoeej.carrefour.fr
 twus-mms.theweek.com
 txfryh.terra.com.br
+txrx.bol.com
 txv0.destinia.hu
 txvoin.with2.net
 t.y8.com
@@ -14629,7 +14643,6 @@ wjq.ma.tarnkappe.info
 wkctj.baidu.com
 wknd.ai
 wl-analytics.tsp.li
-wl.jd.com
 wl-pixel.index.digital
 wmgroup.us
 womanear.com
