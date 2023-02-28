@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 27FEB23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3611,6 +3611,7 @@ collector.rn.de
 collector.schibsted.io
 collector.sspinc.io
 collector.statowl.com
+collector-videoplayer.5centscdn.net
 collector.wawlabs.com
 collector.xhamster2.com
 collector.xhamster.com
@@ -6463,6 +6464,7 @@ jshkyh.29cm.co.kr
 jslog.post.cz
 jswlpe.modainpelle.com
 jtyutq.chaussures.fr
+jubbie.de
 jujtcq.amnibus.com
 jumbo.zomato.com
 juniper.starleaf.com
@@ -13785,6 +13787,7 @@ trk.geico.com
 trklink.luisaviaroma.com
 tr.klse.espmp-agfr.net
 trk.m1.stadiumgoods.com
+trk-maiorum.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trkn.us
