@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29MAR23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 27MAR23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2116,7 +2116,6 @@ a.mobify.com
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 amplify.strategic-i.com
-ampltd2.medal.tv
 ampltd.top.gg
 ams-pageview-public.s3.amazonaws.com
 a.munters.com
@@ -2250,7 +2249,6 @@ analytics.dvidshub.net
 analytics.ecosia.org
 analytics.edgekey.net
 analytics.eggoffer.com
-analyticsehnwe.servicebus.windows.net
 analytics.eikko.ai
 analytics.eikondigital.it
 analytics.eleague.com
@@ -4076,7 +4074,6 @@ d25ezbwokoefx6.cloudfront.net
 d276.ourmidland.com
 d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
-d2ef20sk9hi1u3.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
@@ -4661,7 +4658,6 @@ dppublishinginc.actonservice.com
 dp.shoprunner.com
 dqqfrs.qatarairways.com
 dqs3.darjeeling.fr
-dr3fr5q4g2ul9.cloudfront.net
 drabsize.com
 draconiancurve.com
 dragon.moneycoach.io
@@ -6113,7 +6109,6 @@ ig.nadex.com
 igorsgtest.branch.rocks
 igrid.org
 ihmnnz.flo.com.tr
-ih.newegg.com
 iiajtl.zeit.de
 iidoys.wearpact.com
 iigcqr.linio.com.mx
@@ -6940,6 +6935,7 @@ logs.spilgames.com
 logstash-3.radio-canada.ca
 logstat.caixin.com
 logs.thebloggernetwork.com
+log.suumo.jp
 logs.viadata.store
 logs.viavideo.digital
 logs.vmixcore.com
@@ -7746,7 +7742,6 @@ metrics.nab.com.au
 metrics.nba.com
 metrics.nero.com
 metrics.nespresso.com
-metrics.newegg.com
 metrics.news.com.au
 metrics.nfl.com
 metrics.nfm.com
@@ -13170,7 +13165,6 @@ tracer.autoscout24.ch
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
-track.360playvid.info
 track.91app.io
 track.99acres.com
 track.bannedcelebs.com
