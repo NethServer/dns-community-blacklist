@@ -9,7 +9,7 @@
 #
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 07APR23 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 05APR23 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # List corrections can be requested at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -1703,6 +1703,7 @@ clickedyclick.com
 clickexperts.net
 clickhere.egroups.com
 clickhereforcellphones.com
+clickhouse.com
 clickhype.com
 clickintext.com
 clicklink.jp
