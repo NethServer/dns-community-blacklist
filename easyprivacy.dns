@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07APR23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10APR23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2524,6 +2524,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.wavebox.io
 analytics.webgains.io
 analytics.webpushr.com
 analytics.websolute.it
@@ -2905,6 +2906,7 @@ beacon2.indieclick.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdnma.com
+beaconcdn.qq.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
@@ -3839,6 +3841,7 @@ counter.megaindex.ru
 counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
+counter.powr.io
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
@@ -4266,6 +4269,7 @@ data.skistar1.test.cjmadobe.com
 data.smartinfo.future.smart.com
 data.smartmkt.future.smart.com
 data.socio.realmadrid.net
+data.sportdeutschland.tv
 data.srf.ch
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
@@ -5187,6 +5191,7 @@ engagefront.theweathernetwork.com
 engage.mhainc.com
 engage.physicstoday.org
 engage.td.org
+engineertrick.com
 engine.traceparts.com
 eniobs.moncler.com
 en.johnhardy.com
@@ -5206,6 +5211,7 @@ eofwfj.ria.com
 eokzre.jd-sports.com.au
 eozwcp.jetex.com
 e.passfolio.us
+epimetheus.navigator.web.de
 epm.mailperformance.com
 eproof.drudgereport.com
 epro.sogou.com
@@ -7157,7 +7163,6 @@ marketing.discoversaratoga.org
 marketing.discoverx.com
 marketing.diverseco.com.au
 marketing.dnacenter.com
-marketing.dropbox.com
 marketing.dryvit.com
 marketing.egsifinancial.com
 marketing.electroquip.co.nz
@@ -8903,6 +8908,7 @@ przucu.elkjop.no
 pseptk.kueski.com
 psqsjg.coach.com
 pstat.akathists.com
+pstt.mtb-news.de
 psychedelicchess.com
 pt.crossmediaservices.com
 p.tencentmind.com
@@ -14470,6 +14476,7 @@ visit-prod-us.occa.ocs.oraclecloud.com
 visits.tommi.space
 visit.theglobeandmail.com
 visit.webhosting.yahoo.com
+visit.xchina.pics
 visor.sberbank.ru
 vivaciousveil.com
 vkanalytics.net
