@@ -9,7 +9,7 @@
 #
 
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 19APR23 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 17APR23 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 
 # List corrections can be requested at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -8536,6 +8536,7 @@ grftpool.com
 grhqitjkih.bid
 gridcash.net
 gridcoin.co
+gridcoin.us
 gridiogrid.com
 grin-pool.org
 grinmint.com
