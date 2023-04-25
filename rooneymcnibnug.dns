@@ -942,8 +942,6 @@ pardot.com
 js.pardot.com
 go.pardot.com
 identity.pardot.com
-_spf.pardot.com
-s._spf.pardot.com
 pi.pardot.com
 pi-phx.pardot.com
 pi-phx-lb1.pardot.com
@@ -5864,7 +5862,6 @@ cync-eu.exe.bid
 dip-eu.exe.bid
 dsp.exe.bid
 dsp-eu.exe.bid
-dsp-eu-.exe.bid
 dsp-scsg.exe.bid
 dsp-usa.exe.bid
 eu.exe.bid
@@ -26681,7 +26678,7 @@ rabbit.ops.callrail.com
 rabbitmq.ops.callrail.com
 ringo-bot.ops.callrail.com
 tools.ops.callrail.com
-outping--.callrail.com
+outping.callrail.com
 pipe.callrail.com
 plivoback.callrail.com
 poweredbysearch.callrail.com
@@ -33048,7 +33045,7 @@ dev.bnc.lt
 qa.bnc.lt
 thirdparty.bnc.lt
 epsilon.thirdparty.bnc.lt
-cdn.broadcast.a
+cdn.broadcast.am
 moonpig.api.ssopt.net
 www.moonpig.api.ssopt.net
 www3.bedbathandbeyond.ca.ssopt.net
