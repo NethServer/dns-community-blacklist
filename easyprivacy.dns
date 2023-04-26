@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26APR23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 24APR23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2145,9 +2145,9 @@ analytics.126.net
 analytics.163.com
 analytics-1.cavai.com
 analytics2-3-meride-tv.akamaized.net
+analytics2.dashboard.fingerprint.com
 analytics2-meride-tv.akamaized.net
 analytics.30m.com
-analytics4.dashboard.fingerprint.com
 analytics.aasaam.com
 analytics.aba.com
 analytics.academy.com
@@ -2233,6 +2233,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.corusent.com
 analytics.daasrv.net
+analytics.dashboard.fingerprint.com
 analytics.datahc.com
 analytics.data.lloydsbankinggroup.com
 analytics.dealer.com
@@ -4382,7 +4383,6 @@ dd.auspost.com.au
 ddguhg.wickes.co.uk
 ddioce.wolverine.com
 ddlbr.timesclub.co
-dd.nytimes.com
 ddrvjrfwnij7n.cloudfront.net
 deadpantruck.com
 deafeningdock.com
@@ -5575,14 +5575,15 @@ fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-cdn.decrypt.co
 fpa-events.decrypt.co
+fpa.fingerprint.com
 fpapi.io
 fpaux.net
 fpavx.net
 fpaxu.net
 fpb8.esce.fr
+fpb.fingerprint.com
 fp-cdn.azureedge.net
 fpcdn.io
-fpc.fingerprint.com
 fphfdx.partswarehouse.com
 fp.measure.office.com
 fpnpmcdn.net
@@ -7514,7 +7515,6 @@ mediasolutions.netinsight.net
 mediasource.actonservice.com
 mediatescarf.com
 mediaxpf.com
-mediaxpv.com
 mediniku.viessmann.lt
 med.linzesshcp.com
 med.saphris.com
