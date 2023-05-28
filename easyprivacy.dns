@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3888,6 +3888,7 @@ beaconcdn.qq.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
+beacon.klm.com
 beacon.qq.com
 beacon.riskified.com
 beacon.samsclub.com
@@ -6673,9 +6674,11 @@ ep.regis.edu
 eproof.drudgereport.com
 epro.sogou.com
 epwa.europarl.europa.eu
+eq-beacon.stream.co.jp
 eqclicks.movember.com
 eqingl.ivet.bg
 eqkwat.histoiredor.com
+eq-player-log.cdnext.stream.ne.jp
 eq.userneeds.com
 eqy.link
 erb.tremblant.ca
@@ -7064,7 +7067,6 @@ fltuyy.philippemodel.com
 fly.caljetelite.com
 flznib.weblio.jp
 fmbankva.actonservice.com
-fme.safe.com
 fmqidg.letras.com
 fmqidg.letras.mus.br
 fmqidg.ouvirmusica.com.br
@@ -8942,7 +8944,6 @@ laurel.rovicorp.com
 lawyers.rigbycooke.com.au
 l.azarlive.com
 lb.billing01.email-allstate.com
-l.bfmtv.com
 lbgfqn.onward.co.jp
 l.bigbasket.com
 l.biglion.ru
@@ -9004,10 +9005,8 @@ lettucelimit.com
 level.badlandgame.com
 lexvek.gap.ae
 lfercl.tcb-beauty.net
-l.franceculture.fr
 lfxdqs.mamasandpapas.ae
 lgbdxo.azazie.com
-l.gentside.com
 lgm.averydennison.com
 lgzkzp.bauhaus.at
 lhasalimited.actonservice.com
@@ -10103,7 +10102,6 @@ marketing.yostlabs.com
 marketing.zwei.com
 market-keyade.macif.fr
 marketreports.autovistagroup.com
-mark.isbank.com.tr
 marriedbelief.com
 marshinsurance.actonservice.com
 marsupial.roleup.com
