@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18JUL23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 21JUL23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2651,6 +2651,7 @@ analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
 analytics.kongregate.io
+analytics.kooapp.com
 analytics.krieselreihe.com
 analytics.laregione.ch
 analytics.lifestyledemocracy.com
@@ -2900,6 +2901,7 @@ api.dt.gl
 api.elliehuxtable.com
 api.fuck.education
 api-js.mixpanel.com
+a.pikabu.ru
 api.nobeta.com.br
 api.ryanyao.design
 apis.4bn.xyz
@@ -4416,6 +4418,7 @@ collector.appconsent.io
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
+collector.dmp.cnna.io
 collector.fiverr.com
 collector.getyourguide.com
 collector.githubapp.com
@@ -5153,6 +5156,7 @@ data.nexxt.com
 datanoticias.prisasd.com
 data.notificaciones.ficohsa.com
 data.notifications.portal.cooperlighting.com
+data.nrk.no
 data.onlyyou.palladiumhotelgroup.com
 data.ouigo.com
 data.pepephone.com
@@ -6709,11 +6713,13 @@ fpc.singleplatform.com
 fpc.trimarkusa.com
 fpc.utexas.edu
 fpghll.rossmann.hu
+fp.heavybit.com
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
 fpt.inxinternational.com
 fptls2.com
+fptls3.com
 fptls.com
 fpt.microsoft.com
 fpxewa.ilmeteo.it
@@ -7345,6 +7351,7 @@ gr.a23.in
 gracefulsock.com
 grado.ufv.es
 gramombird.com
+grandfatherguitar.com
 grandioseguide.com
 grandmotherunit.com
 grayoranges.com
@@ -10746,6 +10753,7 @@ metrics.yellowbook.com
 metric.thecapitalgrille.com
 metric.worldcat.org
 metric.yp.com
+metrika.kontur.ru
 metrix.emagister.com
 metrix.publix.com
 metroaverage.com
@@ -10834,6 +10842,7 @@ mixpanel-proxy.ted.com
 m.jarvisinvest.com
 mjca-yijws.global.ssl.fastly.net
 mjnpya.marktplaats.nl
+mj-snowplow-static-js.s3.amazonaws.com
 mjwnxc.julbie.com
 mk.appwebel.com
 mklik.gazeta.pl
@@ -11786,6 +11795,7 @@ photographpan.com
 phpstat.cntcm.com.cn
 ph.roturadepantalla.com
 phsmobile.actonservice.com
+ph.thenextweb.com
 phyins.actonservice.com
 physicalbikes.com
 p.ianmjones.com
@@ -12081,6 +12091,8 @@ p.marqueplace.com
 pm.boostintegrated.com
 pm.dailykos.com
 p.meilentrio.de
+p.metrilo.com
+pm.geniusmonkey.com
 p.milliyet.com.tr
 pm.pmu.fr
 pm.redbull.com
@@ -12578,6 +12590,7 @@ remaja.indonesiya.com
 remarketing.oncourselearning.com
 remnkv.doda.jp
 removeads.workers.dev
+remp.nv.ua
 rem-track.bild.de
 renting.aldautomotive.es
 rent.mgrc.com
@@ -13785,6 +13798,7 @@ sherlock.nicolabigwood.uk
 shesubscriptions.com
 shinesavage.com
 shinestuart.com
+shirtsidewalk.com
 shiveringspot.com
 shiverscissors.com
 shockinggrass.com
@@ -17535,6 +17549,7 @@ t.centreinthesquare.com
 tc.europcar.com
 tc.europcar.com.au
 t.cfjump.com
+tc.geniusmonkey.com
 t.channeladvisor.com
 t.chartwayarena.com
 t.cincinnatiarts.org
@@ -17796,6 +17811,7 @@ threechurch.com
 threetruck.com
 throattrees.com
 thrombus.net.anwalt.de
+thtk.temu.com
 thumbs.net.anwalt.de
 thumos.fileside.app
 thunderingrose.com
@@ -17979,6 +17995,7 @@ t.mashable.com
 t.meangreensports.com
 t.menepe.com
 tm-eps.neutrino.nu
+t.metrilo.com
 tmetrix.my.chick-fil-a.com
 t.mgoblue.com
 t.miamihurricanes.com
@@ -18348,6 +18365,7 @@ tracking.dealeranalytics.com
 tracking.deutscheladies.de
 tracking.devoteladies.de
 tracking.dfinsolutions.com
+tracking.diginetica.net
 tracking.digitalocean.com
 tracking.direxion.com
 tracking.dominanteladies.de
@@ -20671,6 +20689,7 @@ whrsen.itemmania.com
 why3.inseec.education
 wiar9wff0ma9.ping.t3.gg
 widgetbe.com
+widget.educationdynamics.com
 widget-pixels.outbrain.com
 wigglygeese.com
 wigglyindustry.com
