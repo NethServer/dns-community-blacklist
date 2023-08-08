@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 07AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -11145,6 +11145,7 @@ net.home24.com
 net.iberia.com
 netinsight.actonservice.com
 net.jumia.com.eg
+netlify-rum.netlify.app
 netmailcsr11.net.anwalt.de
 net.steiner-vision.de
 net.toom.de
