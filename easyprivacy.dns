@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3310,6 +3310,7 @@ audio-ak-spotify-com.akamaized.net.iberostar.com
 audioarctic.com
 audit.303br.net
 audit.median.hu
+audit.qiuwen.net.cn
 audit.shaa.it
 audsoa.narumiya-online.jp
 auforex.americanexpress.com
@@ -12288,7 +12289,6 @@ ptrenx.vidaxl.com.au
 ptsc.shoplocal.com
 ptw-i.actonservice.com
 p.typekit.net
-pubgw.yahoo.com
 publicidad.daviviendaintl.com
 publicschoolworks.actonservice.com
 publish.tagstorm.com
