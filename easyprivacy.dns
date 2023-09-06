@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 06SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2693,6 +2693,7 @@ analytics.myhermes.de
 analytics.nascar.com
 analytics.naturequant.com
 analytics.ncaa.com
+analytics.neoogilvy.uy
 analytics.netshops.com
 analytics.newscred.com
 analytics.nike.com
@@ -3420,6 +3421,7 @@ banstat.nadavi.net
 barbarousnerve.com
 b.arenum.games
 barium.cheezdev.com
+barnes.send.cm
 baseballbone.com
 basketballbelieve.com
 basket.mondo.link
@@ -4053,6 +4055,7 @@ cars.autopia.com.au
 carscannon.com
 cars.smartfleetaustralia.com.au
 cars.smartleasing.com.au
+cartkitten.com
 cartoon.hardalist.com
 carvecakes.com
 cascadion.thermo.com
@@ -4317,7 +4320,6 @@ cltxxq.cruises.united.com
 clumsycar.com
 clumsyrock.com
 cmass.massmedian.co.jp
-cm.bilibili.com
 cmc.americanexpress.co.uk
 cm-exchange.toast.com
 cmflinks.provesio.com
@@ -5261,6 +5263,7 @@ dc.stenaline.se
 dc.stenalinetravel.com
 dd6zx4ibq538k.cloudfront.net
 dd.auspost.com.au
+dd.betano.com
 d.delahorro.app
 d.deloitte.fr
 ddlbr.timesclub.co
@@ -5422,6 +5425,7 @@ diboji.class101.net
 differentcoat.com
 difficultfog.com
 digianalytics.airtel.in
+digi-ping.com
 digital.acutx.org
 digital.anicom-sompo.co.jp
 digital.aptaracorp.com
@@ -6909,7 +6913,6 @@ geo.brobible.com
 geoedge.be
 geo.emol.cl
 geo.ertya.com
-geo.gfycat.com
 geo.gorillanation.com
 geoip.apps.avada.io
 geoip.ativo.com
@@ -8692,7 +8695,6 @@ lettucecopper.com
 lettucelimit.com
 level.badlandgame.com
 levelbehavior.com
-lexa.realestate.com.au
 leynqj.newport.se
 lfmhcb.sefamerve.com
 l.getpyfl.com
@@ -8706,6 +8708,7 @@ liadm.com
 l.ialoc.app
 l.iamfy.co
 library.daptiv.com
+librato-collector.genius.com
 liecso.e-himart.co.kr
 lieudetravail.ricoh.fr
 lifestyle.tradeshow.globalsources.com
@@ -9310,6 +9313,7 @@ lk.vrstories.com
 lld.fordlease.fr
 l.lilyzhou.com
 llkdiu.chacos.com
+llntrack.messe-duesseldorf.de
 l.lottery.com
 lltrck.com
 l.lyfshort.com
@@ -9433,6 +9437,7 @@ log.zongheng.com
 lokalwerben.t-online.de
 longinglettuce.com
 longingtrees.com
+loopcybersec.com
 looseloaf.com
 l.ooyala.com
 lorenzourban.com
@@ -11175,6 +11180,7 @@ netinsight.actonservice.com
 net.jumia.com.eg
 netlify-rum.netlify.app
 netmailcsr11.net.anwalt.de
+netstat.yunnan.cn
 net.steiner-vision.de
 net.toom.de
 network.armycadets.com
@@ -11637,6 +11643,7 @@ pabgey.siepomaga.pl
 pabxoe.olx.ua
 packagingsolutions.filamatic.com
 pacstainless.actonservice.com
+pac.thescottishsun.co.uk
 pac.thesun.co.uk
 paddleangle.com
 page1solutions.actonservice.com
@@ -13190,6 +13197,7 @@ screechingstove.com
 sc.restplatzboerse.de
 scribblestring.com
 scribe.wongnai.com
+script.ac
 script-sh.d2cdm.jp
 scripts.psyma.com
 scrollservice.com
@@ -16106,6 +16114,7 @@ ssr.streamrail.net
 s.srvsynd.com
 ss.silkandsonder.com
 sstats2.gq.com
+sstats.adobe.com
 sstats.cotswoldoutdoor.com
 sstats.daicompanies.com
 sstats.deloitte.com
@@ -16290,6 +16299,7 @@ statistics.jfmedier.dk
 statistics.klicktel.de
 statistics.rbi-nl.com
 statistics.riskommunal.net
+statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.wibiya.com
@@ -17866,6 +17876,7 @@ tic.net.anwalt.de
 ticomix.actonservice.com
 tics.seeker.gg
 tidymitten.com
+tif.ionos.com
 tightpowder.com
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
@@ -17880,6 +17891,7 @@ tim.nextinpact.com
 t.indeed.com
 t.indonesiya.com
 tinytendency.com
+t.ionos.com
 tippcom01.tipp24.com
 tipstats.onepagelove.com
 tirandoalmedio.net.anwalt.de
@@ -18389,6 +18401,7 @@ tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cat898.com
+tracking.cdiscount.com
 tracking.cengage.com
 tracking.cerdmann.com
 tracking.changehealthcare.com
@@ -20757,10 +20770,14 @@ wkctj.baidu.com
 wknd.ai
 wkympu.agnesb.co.jp
 wl-analytics.tsp.li
+wlct-one.de
+wlct-two.de
 wlkojk.orange.ro
 wlp3.aegon.es
 wl-pixel.index.digital
 wlptux.habitaclia.com
+wlt-alice.de
+wlt-jupiter.de
 wlwtcr.toptoon.com
 wmgroup.us
 wmizdm.relax-job.com
@@ -21377,6 +21394,7 @@ zelten.fritz-berger.de
 zenaps.com
 zenedge.actonservice.com
 zestycrime.com
+zfctrack.net
 zhctrack.net
 zhihu-web-analytics.zhihu.com
 zimadifirenze.net.anwalt.de
