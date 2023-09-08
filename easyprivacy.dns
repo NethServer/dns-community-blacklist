@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2581,7 +2581,6 @@ analytics.cookiefirst.dev
 analytics.crowdkeep.com
 analytics.cycleworld.com
 analytics.daasrv.net
-analytics.dealer.com
 analytics.designspiration.com
 analytics.deutscher-apotheker-verlag.de
 analytics.developer.riotgames.com
@@ -4103,6 +4102,7 @@ cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdnhst.xyz
 cdn.net.elogia.net
+cdnral.com
 cdn-rum.ngenix.net
 cdn.usefathom.com
 cdrive.compellent.com
@@ -4712,6 +4712,7 @@ counter.jdi5.com
 counter.live4members.com
 counter.maases.com
 counter.megaindex.ru
+counter.nv.ua
 counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
@@ -4982,6 +4983,7 @@ d1gp8joe0evc8s.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
+d1qbbgtcslwdbx.cloudfront.net
 d1qnmu4nrib73p.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d1r27qvpjiaqj3.cloudfront.net
@@ -8532,6 +8534,7 @@ kiddbs.baby-calendar.jp
 kighmh.nelson.nl
 kiki.rireetchansons.fr
 kimcil.indonesiya.com
+kinesis.us-east-1.analytics.edmentum.com
 kingnews.burgerking.co.za
 kingsandqueens.splowser.com
 kistacity.viessmann.se
@@ -10530,6 +10533,7 @@ metric.sdl.com
 metrics.dollargeneral.com
 metrics.doppiocdn.com
 metrics.doppiocdn.org
+metrics.doppiostreams.com
 metrics-dra.dt.hicloud.com
 metrics.drklein.de
 metrics.drsfostersmith.com
@@ -11788,7 +11792,7 @@ p.e-bot7.com
 pedropanther.com
 pegasusplate.com
 pegasus.unifygroup.com
-peiq.de
+peiq.services
 p.ejs.dev
 pemskb.unitedcinemas.jp
 penspade.com
@@ -18157,6 +18161,7 @@ tp.imwalking.de
 t.pittsburghpanthers.com
 tp.jelmoli-shop.ch
 t.playhousesquare.org
+t.playwayfinder.com
 tp.limango.de
 tp.mirapodo.de
 t.pmu.fr
