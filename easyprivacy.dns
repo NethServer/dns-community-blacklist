@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 18SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2884,6 +2884,7 @@ aod.echovisuals.com
 ao-freegeoip.herokuapp.com
 a.oney.es
 aoohaq.micromania.fr
+a.opumo.net
 aoqcqh.eavalyne.lt
 aorta.clickagy.com
 apac.adpinfo.com
@@ -2910,6 +2911,7 @@ api.digitalpiloten.org
 api.dt.gl
 api.elliehuxtable.com
 api.fuck.education
+api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 a.pikabu.ru
 api.nobeta.com.br
@@ -7709,6 +7711,7 @@ id5-sync.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 i.degoo.com
+identification.hotmart.com
 i-dev.villa.ge
 idg1.idgarages.com
 idianw.warmteservice.nl
@@ -9381,6 +9384,7 @@ loader.zeroform.com
 log000.goo.ne.jp
 log2.sina.cn
 log.adplex.co.kr
+log-ads.r7.com
 log.aimtell.com
 log.aliyuncs.com
 logbak.hicloud.com
@@ -18426,6 +18430,7 @@ tracking.allopneus.com
 tracking.americaneagle.com
 tracking.apac.business.samsung.com
 tracking-api-4lasu2nlcq-ew.a.run.app
+tracking-api.hotmart.com
 tracking.arbor.edu
 tracking.asialadies.de
 tracking.atea.dk
