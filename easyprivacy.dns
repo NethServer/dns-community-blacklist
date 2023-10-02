@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 02OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2543,6 +2543,7 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.basistheory.com
+analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
 analytics.belgacom.be
 analytics.bestreviews.com
@@ -2621,6 +2622,7 @@ analytics.freemake.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
+analytics.gamesdrive.net
 analytics.gazeta.pl
 analytics.geekyminds.net
 analytics.geoutletstore.com
@@ -3975,7 +3977,6 @@ by.mywd.com
 b.your.rewardsemail.dominos.ca
 byqdtp.interpark.com
 b.ysh.io
-byspotify.com
 bzclk.baidu.com
 b.zedge.me
 bzqxze.remixshop.com
@@ -7052,7 +7053,6 @@ get.sakay.ph
 get.schoolbuddy.app
 get.seedly.sg
 get.sidekick.health
-get.smart-guide.org
 get.snapask.com
 get.somontreal.ca
 get.speaky.com
@@ -11947,6 +11947,7 @@ pixel.barion.com
 pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
+pixel.byspotify.com
 pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
@@ -20258,6 +20259,7 @@ uhd5nn09mgml.fort-shop.kiev.ua
 uhm26jyr11zv.www.freecodecamp.org
 uhn9.up-france.fr
 uh.nakanohito.jp
+uidapi.com
 uid.mediacorp.sg
 uim.tifbs.net
 uinpmz.iichi.com
