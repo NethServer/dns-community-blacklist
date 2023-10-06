@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 06OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -6432,6 +6432,7 @@ event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
 event.csdn.net
 event.evtm.53.com
+eventexistence.com
 eventgateway.soundcloud.com
 event.getblue.io
 event.grassicpas.com
