@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 30OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -2765,6 +2765,7 @@ analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
 analytics.skinit.com
+analytics.skroutz.gr
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -4450,6 +4451,7 @@ collect.alphastream.io
 collect-ap2.attraqt.io
 collect.asics.com
 collect.banggood.com
+collect.bannercrowd.net
 collect.chaordicsystems.com
 collect.cloudsponge.com
 collect-eu.attraqt.io
@@ -6551,6 +6553,7 @@ evivdj.novasol.fi
 evnt.iol.it
 evrget.nikkan-gendai.com
 ev.stellarlabs.ai
+evt-api.ntm.eu
 evt.houzz.com
 eworfe.babyartikel.de
 exchangedetail.com
@@ -7628,6 +7631,7 @@ hits.antena3.com
 hits.cyberdrop.me
 hits.dealer.com
 hitserver.ibope.com.br
+hits.getelevar.com
 hits.informer.com
 hit.skrz.cz
 hits.letras.mus.br
@@ -10359,6 +10363,7 @@ matrix.elecle.bike
 mat.socy.es
 matsubun.matsubun.com
 matt.mercadolivre.com.br
+maxepv.com
 maxtrafixx.tech
 maz.zba.jp
 mbainfo.ust.hk
@@ -11077,6 +11082,7 @@ mond.post.ch
 money.clerkie.io
 monicaatron.com
 mon.ingservices.nl
+monitor-api.blackcrow.ai
 monitor.azure.com
 monitor.channel4.com
 monitor-frontend-collector.a.bybit-aws.com
@@ -18722,6 +18728,7 @@ tracking.my.hq.com
 tracking.myregus.com
 tracking.myspacesworks.com
 tracking.mysurance.co.jp
+tracking-na.hawksearch.com
 tracking.nasdaq.com
 tracking.netcologne.de
 tracking.netsuite.com
@@ -18929,6 +18936,7 @@ track.uc.cn
 track.ultimate-guitar.com
 track.unidata.ai
 track.untd.com
+track.uppromote.com
 track-v4.ipadpresence.com
 track.veedio.it
 track.venatusmedia.com
@@ -21506,6 +21514,7 @@ x.gldn.io
 xjq5.belambra.be
 xlvvy4msxr.coolinastore.com
 xovq5nemr.com
+xp2023-pix.s3.amazonaws.com
 xray.mail.ru
 xseedwealth.actonservice.com
 xuc.monteleone.fr
