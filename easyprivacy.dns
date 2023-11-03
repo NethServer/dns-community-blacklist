@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01NOV23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 03NOV23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -6473,6 +6473,7 @@ event.mrtnsvr.com
 event.ortec.com
 eventos.cihac.com
 eventos.usj.es
+event.platform.tunein.com
 event.raise3d.cn
 events2.www.edenfantasys.com
 events.air.tv
