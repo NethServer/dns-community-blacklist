@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -4166,6 +4166,7 @@ analytics.vedantu.com
 analytics.vendemore.com
 analytics.villagehouse.jp
 analytics.virginaustralia.com
+analytics.vixcloud.co
 analytics.wavebox.io
 analytics.wayland.app
 analytics-wcms.joins.net
@@ -9042,6 +9043,7 @@ ed.emp-shop.no
 ed.emp-shop.pl
 ed.emp-shop.se
 ed.emp-shop.sk
+edge.adobedc.net
 edge-mobile-static.azureedge.net.iberostar.com
 edge.ricoh-europe.com
 edge.staging.fullstory.com
@@ -9854,6 +9856,7 @@ events.issmarketintelligence.com
 events.jokerly.com
 events.jotform.com
 events.kangan.edu.au
+events.limango.com
 events-logs.doctolib.com
 events.marketingcube.com.au
 events.matterport.com
@@ -13315,6 +13318,7 @@ k50.rtl2.de
 k54nw.pw
 k5a.io
 k5app.byjus.com
+k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 kabokc.webuy.com
 kaden.netoff.co.jp
 ka.ilius.net
@@ -13700,7 +13704,7 @@ link-acceptance.alan.com
 link.adhdinsight.com
 link.admin.kodakmoments.com
 link.afterpay.com
-link.ag.fanlink.clubmanagergame.com
+link.ag.fan
 link.alerts.busuu.app
 link.angelstudios.com
 link.announce.busuu.app
@@ -13718,6 +13722,7 @@ link-ccontact.focuscura.com
 link.cdl.freshly.com
 link.cheerz.com
 link.clickipo.com
+link.clubmanagergame.com
 link.cluno.com
 link.cofyz.com
 link.collectivebenefits.com
@@ -19204,6 +19209,7 @@ pingback.issuu.com
 ping.cavelab.dev
 ping.dozuki.com
 ping.fastsimon.com
+ping.hashnode.com
 ping.hedlund.xyz
 ping.hungama.com
 ping.instantsearchplus.com
@@ -19781,6 +19787,7 @@ purpose.maxizoo.ie
 purpose.maxizoo.pl
 purposepipe.com
 pushmaster-cdn.xyz
+pushvisit.xyz
 pushypipe.com
 puzzle.spiriteq.com
 puzzlingproperty.com
@@ -21083,6 +21090,7 @@ sc.rbs.com
 sc.rbs.co.uk
 screechingfurniture.com
 screechingslip.com
+screechingstocking.com
 screechingstove.com
 sc.restplatzboerse.de
 sc.rhapsody.com
@@ -32207,6 +32215,7 @@ zelle.odencat.com
 zelten.fritz-berger.de
 zenaps.com
 zenedge.actonservice.com
+zephyrlabyrinth.com
 zestycrime.com
 zestywire.com
 zfctrack.net
