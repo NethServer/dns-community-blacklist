@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 17JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -5913,6 +5913,7 @@ b.pscp.live
 bpsemea.hilton.com
 bps.ricoh.co.uk
 bps.ricoh.ie
+bpt.webedia-group.com
 b.publicmobile.ca
 bqacmp.vidaxl.no
 bqhkix.mosmexa.ru
@@ -6732,8 +6733,6 @@ cmp.nouvelobs.com
 cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
-cmpworker.dotesports.com
-cmpworker.primagames.com
 cmrcustomer.americanexpress.co.uk
 cmr.customer.americanexpress.de
 cm-sg.americanexpress.com
@@ -28418,6 +28417,7 @@ tracking.vitalant.org
 tracking.vodafone.com
 tracking.vodafone.co.uk
 tracking.voordeeluitjes.nl
+tracking.voxeus.com
 tracking.wao-corp.com
 tracking.wao.ne.jp
 tracking.waterfrontmedia.com
