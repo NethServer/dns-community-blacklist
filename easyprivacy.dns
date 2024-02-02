@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 31JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 02FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3821,10 +3821,12 @@ analytics.academy.com
 analytics.adam.page
 analytics.adfreetime.com
 analytics.adliners.de
+analytics.adobe.io
 analytics.adobe.ly
 analytics.adonisjs.com
 analytics.adultswim.co.uk
 analytics.ae.com
+analytics.agenedia.com
 analytics.agoda.com
 analytics.aimtell.com
 analytics.airindierberger.fi
@@ -7162,10 +7164,12 @@ contact.spacesworks.com
 contact.tsr-net.co.jp
 contactus.53.com
 contact-us.adp.ca
+contador.biobiochile.cl
 contadores.miarroba.com
 contadores.miarroba.es
 content22.bmo.com
 content22.citibank.com.au
+content22.citibankonline.com
 content22.online.citi.com
 content.4teamwork.ch
 content.accelalpha.com
@@ -7697,6 +7701,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2pt12ct4kmq21.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
@@ -10744,6 +10749,7 @@ gfn1.ugap.fr
 gfnokk.natro.com
 gfv4.destinia.co.za
 g.getsimpler.me
+gg.vevor.com
 ghdlry.greetz.nl
 ghd.vsee.me
 ghnwss.fmsstores.gr
@@ -20118,6 +20124,7 @@ realogicinc.actonservice.com
 realsolutions.americanexpress.fr
 realsolutions.americanexpress.it
 realsolutions.americanexpress.se
+realtime.bbcl.cl
 realtimely.io
 realtime-profiling.datarize.ai
 reaonq.xn--hdks770u8f0a8dvzft.net
@@ -21840,6 +21847,7 @@ s.glimesh.tv
 sg.lucanet.com
 sgms.greatschools.org
 s.goat.com
+s.gofile.io
 s.grace.com
 sgsb.aba.com
 sgstats.com
