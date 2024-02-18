@@ -5786,11 +5786,9 @@ tagcontrol-cdn.evidon.com
 tagcontrolapi.evidon.com
 trackermap.evidon.com
 loader.vertica.evidon.com
-www.insights.evidon.com
 activemonitoring.evidon.com
 analytics.evidon.com
 info1.evidon.com
-insights.evidon.com
 amp.evidon.com
 bank.dt00.net
 dev.bank.dt00.net
@@ -12232,18 +12230,13 @@ tag.mtrcs.samba.tv
 dev.api.recommendations.samba.tv
 spotlight.samba.tv
 devices.samba.tv
-tag.mtrcs.samba.tv
 usw2-prod.api.recommendations.samba.tv
 stage.api.recommendations.samba.tv
 prod.api.recommendations.samba.tv
 insights.samba.tv
 pro-us.api.recommendations.samba.tv
 realtime.data.samba.tv
-mp-pixel.mtrcs.samba.tv
-pixel.mtrcs.samba.tv
 usw2-preprod.api.recommendations.samba.tv
-analytics.samba.tv
-pixel.metrics.samba.tv
 www.popin.cc
 47news.popin.cc
 a.popin.cc
@@ -12578,7 +12571,6 @@ info.jivox.com
 jvxsync.jivox.com
 mycroft.jivox.com
 player.jivox.com
-playercdn.jivox.com
 www.playercdn.jivox.com
 pxi.jivox.com
 pxl.jivox.com
@@ -27509,7 +27501,6 @@ tracking.purechat.com
 widget.purechat.com
 widgetapi.purechat.com
 www.evidon.com
-amp.evidon.com
 info.evidon.com
 jenkins.evidon.com
 l3.evidon.com
@@ -40730,7 +40721,6 @@ stickies.proper.io
 www.monitoring.proper.io
 adpainter.proper.io
 ehash.proper.io
-www.monitoring.proper.io
 s2s.proper.io
 exactvisitor.com
 www.exactvisitor.com
