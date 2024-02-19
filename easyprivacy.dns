@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 19FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -4205,6 +4205,7 @@ analytics.cartoonnetwork.co.uk
 analytics.cartoonnetworkindia.com
 analytics.cartoonnetwork.jp
 analytics.cartoonnetworkmena.com
+analytics.castel.jp
 analytics.cdf.cl
 analytics.ceneo.pl
 analytics.certifriedit.com
@@ -4271,6 +4272,7 @@ analytics.eggoffer.com
 analyticsehnwe.servicebus.windows.net
 analytics.eikko.ai
 analytics.eikondigital.it
+analytics.eip.telegraph.co.uk
 analytics.emol.com
 analytics.erepublic.com
 analytics.ericafischerphotography.com
@@ -12572,6 +12574,7 @@ g-stats.openhost.es
 gsupplyair.carte-gr.total.fr
 gsyegj.shatura.com
 gtgvze.chintai.net
+gtm.diamond.jp
 gtm.wise.com
 gtreus.aliexpress.com
 gtrk.s3.amazonaws.com
@@ -30565,6 +30568,7 @@ stmetrics.bbva.com.co
 stmetrics.bbva.es
 stmetrics.bbva.mx
 stmetrics.bbva.pe
+stm.komplett.no
 stms.53.com
 stms.newline53.com
 st.newyorklife.com
@@ -32350,6 +32354,7 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
+tracker.oval.id
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -36019,6 +36024,7 @@ wssgmstats.vibbo.com
 wsstats.coches.net
 wstats.e-wok.tv
 wstats.gameblog.fr
+wstats.slashed.cloud
 wsuqzu.armani.com
 wsytyz.tts.ru
 wszwgs.cocopanda.fi
