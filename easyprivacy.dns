@@ -9,12 +9,13 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 21FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
-# This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-# Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
+# This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
+# There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
+# Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
 
-# List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
+# If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
 00px.net
 07b3.pandasuite.io
@@ -13638,6 +13639,7 @@ imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
 impression.clickinc.com
+impression-tracker-service-5eimuebuhq-lz.a.run.app
 impress.vcita.com
 improving.wuzhuiso.com
 imrworldwide.com
@@ -15751,7 +15753,6 @@ link.nextaveapp.com
 link.nextlevelsports.com
 link.nilclub.com
 link.notifications.busuu.app
-link.nubank.com.br
 link.nutty.chat
 link.offers.kodakmoments.com
 link.olympya.com
@@ -30200,6 +30201,7 @@ stats.reto.tv
 stats.revitfamily.app
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
+stats.rip
 stats.robotika.ax
 stats.rocketbeans.tv
 stats.rocketvalidator.com
@@ -32354,7 +32356,6 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
-tracker.oval.id
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -32464,6 +32465,7 @@ tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
 tracking.agora.io
 tracking.aifsabroad.com
+tracking.ai.rakuten.co.jp
 tracking.air-worldwide.com
 tracking.aita.gov.vn
 tracking.allopneus.com
@@ -33919,6 +33921,7 @@ trk.daimlertruck.com
 trk.darkreading.com
 trk.datacenterknowledge.com
 trk.datacenterworld.com
+trk.decido.io
 trk.delma.hu
 trk.delma.ro
 trk.delphiquest.com
