@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 26FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4092,6 +4092,7 @@ amo.myoyster.mx
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 ampltd2.medal.tv
+ampltd.medal.tv
 ampltd.top.gg
 am.siemensplmevents.com
 ams.lelong.com.my
@@ -16384,7 +16385,6 @@ log.m.sm.cn
 log.nordot.jp
 log.olark.com
 log.outbrain.com
-log.outbrainimg.com
 log.pinterest.com
 log.pipeline.datarize.io
 log.popin.cc
@@ -21822,6 +21822,7 @@ pay.truemoney.me
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pb.i.sogou.com
+pbjs-stream.bydata.com
 pbm-email.rightwayhealthcare.com
 pbox.no.photobox.com
 pbox.photobox.at
@@ -33859,6 +33860,7 @@ trk.altis.com.gr
 trk.americancityandcounty.com
 tr.kang.espmp-cufr.net
 trk.anthology.com
+trkapi.impact.com
 trk.appliedintelligence.live
 trk.arozone.cn
 trk.arozone.com
@@ -35300,6 +35302,7 @@ vhpabx.herffjones.com
 vhrbxb.vidaxl.nl
 vi.adviso.ca
 video-ad-stats.googlesyndication.com
+video-analytics-api.cloudinary.com
 video.bzfd.it
 videoevents.outbrain.com
 video.funnelbox.com
