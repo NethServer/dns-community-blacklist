@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4173,7 +4173,6 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.avis.de
 analytics.aweber.com
-analytics.b2.ai
 analytics.banksneveraskthat.com
 analytics.basistheory.com
 analytics-batch.blitz.gg
@@ -5728,6 +5727,7 @@ aqorez.yamo.bio
 aqouep.aquaphor.ru
 aqr.actonservice.com
 aqwvwn.cultfurniture.com
+ar1.aza.io
 aragenbio.actonservice.com
 aragonresearch.actonservice.com
 ar.allrun.fr
@@ -21633,6 +21633,7 @@ ovmrti.sassyclassy.de
 ovrsso.gemo.fr
 ovyrak.viajeselcorteingles.es
 o.webmd.com
+owen.prolitteris.ch
 owp-hk.americanexpress.com
 owp-sg-prop.americanexpress.com
 owp-tw.americanexpress.com
