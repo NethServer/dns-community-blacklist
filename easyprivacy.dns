@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 04MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4383,6 +4383,7 @@ analytics.martin-fieber.de
 analytics.matchbin.com
 analytics.mattmcadams.com
 analytics.maxroll.gg
+analytics.mbga.jp
 analytics.mc500.info
 analytics.media-proweb.de
 analytics.meituan.net
@@ -8967,6 +8968,7 @@ ddlcvm.clas.style
 dd.leboncoin.fr
 ddmfrg.modivo.bg
 dd.nytimes.com
+ddome-tag.blablacar.com
 ddsndt.azubiyo.de
 dealercontent.homehardware.ca
 dealerrelations.cargurus.com
@@ -22373,6 +22375,7 @@ prism.tramclockmunich.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
 privacy.outdoorsg.com
+privateapi.click
 private.cervicalcancer-risk.com
 privateclient.hubinternational.com
 private.roche.com
