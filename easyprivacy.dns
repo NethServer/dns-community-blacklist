@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6446,6 +6446,7 @@ bluekai.com
 bluelp.2ask.blue.com.hk
 bluemarblepayroll.actonservice.com
 bluemountains.actonservice.com
+blue.nbc4i.com
 blueoyster.click
 blue-rocket.actonservice.com
 bluvue.actonservice.com
@@ -10885,6 +10886,7 @@ eurotax-sk.autovistagroup.com
 eurotaxsrbija-si.autovistagroup.com
 eusdbk.philosophyofficial.com
 eu.sharpmarketing.eu
+eval.privateapi.click
 e.vcty.co
 evenement.ricoh.fr
 event1.thermofisher.com
@@ -11217,6 +11219,7 @@ feedback.nslsc-csnpe.ca
 feedme.use-beez.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+feliz.data.tm-awx.com
 f-emc.ngsp.gov.vn
 femetrics.grammarly.io
 feqbqn.rent.com
@@ -22378,7 +22381,6 @@ prism.tramclockmunich.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
 privacy.outdoorsg.com
-privateapi.click
 private.cervicalcancer-risk.com
 privateclient.hubinternational.com
 private.roche.com
