@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 13MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3925,6 +3925,7 @@ a.getemoji.me
 a.getflowbox.com
 agexpo.americanexpress.com
 aggelakia.openapp.link
+aggle.net
 agkn.com
 agma-analytics.de
 agnes.waz.de
@@ -7434,6 +7435,7 @@ c.newyorker.com
 cn-go.experian.com
 cnlbxi.zoopla.co.uk
 cn.mywd.com
+cnna.io
 cnpxwl.cheapcaribbean.com
 cnsecurity.actonservice.com
 cns-service.actonservice.com
@@ -10886,7 +10888,6 @@ eurotax-sk.autovistagroup.com
 eurotaxsrbija-si.autovistagroup.com
 eusdbk.philosophyofficial.com
 eu.sharpmarketing.eu
-eval.privateapi.click
 e.vcty.co
 evenement.ricoh.fr
 event1.thermofisher.com
@@ -11654,6 +11655,7 @@ gccmembershiprewards.americanexpress.it
 gcn.tuv.com
 gcoiys.cutsclothing.com
 gcowhi.thesalarycalculator.co.uk
+gcprivacy.com
 gct.americanexpress.com
 gc.titans.com.au
 gcudsn.tradetested.co.nz
@@ -33141,6 +33143,7 @@ track.pexi.nl
 track.plygem.com
 track.postkodlotteriet.se
 track.pricespider.com
+track.prod.smash.pet
 track.qoof.com
 track.quad.com
 track.realtimeboard.com
@@ -34811,6 +34814,7 @@ t-s.msimmunology.com
 t.soec.ca
 t.soonersports.com
 t.southernmiss.com
+t.spbx.app
 t-s.perjeta.com
 t.splicky.com
 tsp.onjoyri.de
