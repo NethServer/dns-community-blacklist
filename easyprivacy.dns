@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 20MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7072,6 +7072,7 @@ cdl.booksy.com
 cdl.lvsafe.io
 cdn1.skrill.com
 cdn7.baunetz.de
+cdn.ad-platform.jmty.jp
 cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdnhst.xyz
@@ -8441,6 +8442,7 @@ d3sbxpiag177w8.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
+d401.dollartree.com
 d4ax0r5detcsu.cloudfront.net
 d6ek.pandasuite.io
 d761erxl2qywg.cloudfront.net
@@ -12562,6 +12564,7 @@ greencharge.actonservice.com
 green-griffin-860.appspot.com
 greenjapan-cname.green-japan.com
 greif.actonservice.com
+grgnsht.nzxt.com
 gr-go.experian.com
 grn.openapp.link
 grofag.hollandandbarrett.ie
@@ -12641,6 +12644,7 @@ gzbcuy.mamarella.com
 gzjroa.bradsdeals.com
 gzlxvg.papy.co.jp
 h00c.sfr.fr
+h031.familydollar.com
 h353.ncadvertiser.com
 h559.stamfordadvocate.com
 h5.analytics.126.net
