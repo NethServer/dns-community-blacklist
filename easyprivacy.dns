@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -18402,6 +18402,7 @@ mckbpe.united-arrows.co.jp
 mckiey.thun.com
 m.communications.ihmvcu.org
 mcrmqv.joiasprime.com.br
+mcs-ie.tiktokw.eu
 mcs.tiktokv.us
 mcs.us.tiktokv.com
 mcs-va.tiktokv.com
@@ -23671,7 +23672,6 @@ s.ameriprisestats.com
 sametrics.finn.no
 samia.net.anwalt.de
 sam.manager-magazin.de
-sams.manager-magazin.de
 sams.spiegel.de
 samt.frankly.ch
 samt.swisscanto.com
@@ -30703,6 +30703,7 @@ studentadvantage.actonservice.com
 studio.joinsalut.com
 study.jcu.edu.au
 study.vu.edu.au
+sturton-lation.com
 st.wir-entdecken-bayern.de
 styles.hautelook.com
 su1.les-suites.ca
