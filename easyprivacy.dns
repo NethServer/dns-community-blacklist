@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 25MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6209,6 +6209,7 @@ baton.cuetv.online
 bats.video.yahoo.com
 battlenet.openapp.link
 bavvgo.zingat.com
+baxter.olx.org
 bayshoresystems.actonservice.com
 bbanywhere.links.rosieapp.com
 bbbb.blackboard.com
@@ -6329,7 +6330,6 @@ beuniquelyinsured.selective.com
 bewaslac.com
 b.ewd.io
 beyond.bluewolf.com
-beyondmeasure.rigoltech.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfeagv.chicwish.com
 bfg.loanzify.app
@@ -8025,6 +8025,7 @@ count.munhwa.com
 count.paycounter.com
 count.rin.ru
 count-server.sharethis.com
+count.sibbo.net
 count.upc.rakuten.co.jp
 count.xxxssk.com
 count.yandeg.ru
@@ -8450,6 +8451,7 @@ d810.mysanantonio.com
 d81mfvml8p5ml.cloudfront.net
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 da.bodenhaus.de
+dabu.askmediagroup.com
 dacocorp.actonservice.com
 dadispapi.gmarket.co.kr
 d.adlpo.com
@@ -9139,6 +9141,7 @@ dgmolb.irishjobs.ie
 dg.ptl.irco.com
 d.groc.press
 dgztiz.conrad.se
+dh0c1bz67fuho.cloudfront.net
 d.haberler.com
 dhdaa.duke.edu
 dhlsupplychain.dhl.com
@@ -16696,6 +16699,7 @@ lxztgb.musee-pla.com
 ly8c.caci-online.fr
 lydallpm.actonservice.com
 lyegyo.bluenile.com
+lyfnh.io
 lyfrir.purehockey.com
 lyonsdown.actonservice.com
 l.your.md
@@ -23301,6 +23305,7 @@ rum.api.intuit.com
 rum.azioncdn.net
 rum.azion.com
 rum.condenastdigital.com
+rum.corewebvitals.io
 rum.ingress.layer0.co
 rum.kobo.com
 rum.layer0.co
