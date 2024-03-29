@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 29MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12612,6 +12612,7 @@ guia.edge46.testandtarget.omniture.com
 guidepointglobal.actonservice.com
 guideposts.actonservice.com
 guitarlearning.deplike.com
+gulf.moneroocean.stream
 guq9.vente-unique.it
 gurgle.pcmag.com
 gurgle.spiceworks.com
@@ -34768,7 +34769,6 @@ tr.wuei.espmp-agfr.net
 tr.www.cloudflare.com
 trx3.famousfix.com
 trx-cdn.zip.co
-trx-hub.com
 tr.xlead.digital
 tr.xleads.digital
 trx.zip.co
