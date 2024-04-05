@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 05APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3405,6 +3405,8 @@ accuride.actonservice.com
 accutrain.actonservice.com
 accuzip.actonservice.com
 accwww9.53kf.com
+ac.dun.163.com
+ac.dun.163yun.com
 ac-ebis.otoraku.jp
 ac-ebis-otrk.usen.com
 ac-ebis-stb.usen.com
@@ -4092,6 +4094,7 @@ a.mobify.com
 amo.myoyster.mx
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
+amplitude.chess.com
 ampltd2.medal.tv
 ampltd.medal.tv
 ampltd.top.gg
@@ -7310,6 +7313,7 @@ client-analytics.mts.ru
 client-log.box.com
 client-logger.beta.salemove.com
 client-logger.salemove.com
+clientlog.music.163.com
 client-metrics.chess.com
 clients.belairdirect.com
 clientservice.alphasimplex.com
@@ -11473,6 +11477,7 @@ fptls2.com
 fptls3.com
 fptls.com
 fpt.microsoft.com
+fp-upload.dun.163.com
 fpxewa.ilmeteo.it
 fq9vy0muyqi3.www.madrigalmaps.com
 fqcqnb.dwr.com
@@ -24737,6 +24742,7 @@ senior-systems.actonservice.com
 sense.cliexa.com
 sentiment.icis.com
 sentry.arc.io
+sentry.music.163.com
 seoab.io
 seo.tkc110.jp
 sep02.hinagiku-life.jp
@@ -30810,6 +30816,7 @@ suunta.visma.fi
 suydnc.wwf.it
 svarcom.actonservice.com
 svc2.sc.com
+svc.eu01.miro.com
 svibeacon.onezapp.com
 svmarketing.destinationtoronto.com
 svmarketing.torcvb.com
@@ -33484,6 +33491,7 @@ trck.propo.co.jp
 trck.repesta.com
 trck.rework-s.com
 trckr.nordiskemedier.dk
+trcksplt.miro.com
 trck.spoteffects.net
 trck.stefany.co.jp
 trck.www4.earlywarning.com
