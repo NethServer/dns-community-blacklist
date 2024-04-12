@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 12APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8133,6 +8133,7 @@ c.snow.com
 csp-collector.appspot.com
 cspmkl.gruppal.com
 csp-reporting.cloudflare.com
+csp.secureserver.net
 csr11.net.asambeauty.com
 csr.onet.pl
 cstats.sankakucomplex.com
@@ -10950,6 +10951,7 @@ events2.www.edenfantasys.com
 events.accuity.com
 events.air.tv
 events.api.godaddy.com
+events.api.secureserver.net
 events.attentivemobile.com
 events.audiate.me
 events.auth.gid.ru
@@ -20523,6 +20525,7 @@ mpjtif.viabovag.nl
 mp.pitchero.com
 m.premier.info.shutterstock.com
 m.providers.alto.com
+mp.theepochtimes.com
 mqejtk.theproteinworks.com
 mqesfg.bpm-power.com
 mqhaxf.keds.com
