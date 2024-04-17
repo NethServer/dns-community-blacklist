@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 17APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3406,7 +3406,6 @@ accutrain.actonservice.com
 accuzip.actonservice.com
 accwww9.53kf.com
 ac.dun.163.com
-ac.dun.163yun.com
 ac-ebis.otoraku.jp
 ac-ebis-otrk.usen.com
 ac-ebis-stb.usen.com
@@ -4375,6 +4374,7 @@ analytics.live.com
 analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
+analytics.lunaweb.cloud
 analytics.lunge.de
 analytics.m7g.twitch.tv
 analytics.maikel.pro
@@ -6006,6 +6006,7 @@ avantifinance.actonservice.com
 avasgtest.branch.rocks
 avaya-engage.avaya.com
 avbtkz.locknlockmall.com
+ave-caesar-mas.modivo.io
 avertium.actonservice.com
 avid.actonservice.com
 aviite.freaksstore.com
@@ -6226,6 +6227,7 @@ barnes.send.cm
 barracuda.carte-gr.total.fr
 basket.mondo.link
 bat.bing.com
+bat.bing.net
 bat.maydream.com
 baton.cuetv.online
 bats.video.yahoo.com
@@ -6538,7 +6540,6 @@ boss.openapp.link
 bot.asksyllable.com
 botb.rtl2.de
 botdetection.hbrsd.com
-botsrv2.com
 bot.stackbots.com
 bot.streaktrivia.com
 bounceexchange.com
@@ -7140,6 +7141,7 @@ cgctsw.mytour.vn
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
+c.gq.com
 cgqkhc.trendyol.com
 cgsisl.owllabs.com
 cgvgga.mackenzie-childs.com
@@ -22828,6 +22830,7 @@ qcaebg.nos.pt
 qc.arstechnica.com
 qcblzn.pinkpanda.it
 qceyjl.cellularoutfitter.com
+qc.gq.com
 qcgtoz.cwjobs.co.uk
 qcmxuy.hardloop.de
 qc.newyorker.com
