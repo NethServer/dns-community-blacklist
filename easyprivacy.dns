@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 06MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12949,6 +12949,7 @@ hk-go.experian.com
 hkj8.evobanco.com
 hkskqs.belvilla.fr
 hktracker.hankookilbo.com
+hk-trc-events.taboola.com
 hlagkl.vinatis.com
 hleouh.feelunique.com
 hlms.ecologie.gouv.fr
@@ -37530,6 +37531,7 @@ zisr3w3i2csfa76m.edge41.testandtarget.omniture.com
 ziwewm.tecovas.com
 zjbfke.centerparcs.be
 zjkpxw.tesco.hu
+zjptg.com
 zjrbwb.markenschuhe.de
 zjzain.aboutyou.bg
 zjzste.tom-tailor.de
