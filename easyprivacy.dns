@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4310,6 +4310,7 @@ analytics.gamesdrive.net
 analytics.gazeta.pl
 analytics.geastore.com
 analytics.geekyminds.net
+analytics.genial.ly
 analytics.geoutletstore.com
 analytics.gestore.com
 analytics.getshogun.com
@@ -12421,7 +12422,6 @@ go.oilkings.ca
 go.ondutydoc.com
 go.onecart.co.za
 go.onefc.com
-go.oracle.com
 go.oroinc.com
 go.ortholive.com
 go.ovsoftware.nl
@@ -22481,6 +22481,7 @@ pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
 pm.geniusmonkey.com
+p.minds.com
 pmmpjb.matratzen-concord.de
 pm.pmu.fr
 pnaagn.haekplanter-heijnen.dk
@@ -23553,6 +23554,7 @@ rw.net.rewe.de
 rwohdj.motocard.com
 rwpuqm.underarmour.es
 rwrnkb.lifelongcollectibles.com
+r.wz.de
 rxaap.actonservice.com
 rx.capsulecares.com
 rxhsry.sortiraparis.com
@@ -31810,6 +31812,7 @@ telemetry.moveworks.com
 telemetry.navispherecarrier.com
 telemetry.phenixrts.com
 telemetry.reembed.com
+telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
 telemetry.tableausoftware.com
@@ -32650,6 +32653,7 @@ tracker-rec.smart-bdash.com
 tracker.services.vaix.ai
 tracker.shanon-services.com
 tracker.shopclues.com
+tracker.smartframe.io
 tracker.smartseminar.jp
 tracker.softcube.com
 tracker.ssl0d.com
