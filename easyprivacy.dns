@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -11138,6 +11138,7 @@ evolutionmarketing.actonservice.com
 evrget.nikkan-gendai.com
 evs.icy-lake.kickstarter.com
 ev.stellarlabs.ai
+evt.24.com
 evt-api.ntm.eu
 evt.houzz.com
 evupmg.olehenriksen.com
@@ -13056,6 +13057,7 @@ hstats.hepsiburada.com
 htcnbx.odkarla.cz
 htc.oaken.com
 htmgrl.jollyroom.no
+htplayground.com
 htqfxh.vuch.cz
 htrace.wetvinfo.com
 httr.redskins.com
@@ -31352,6 +31354,7 @@ tags.esri.com
 tags.esri.rw
 tags.fullcontact.com
 tags.globo.com
+tags.hilabel.nl
 tag.shopping-feed.com
 tags.igeo.com.bo
 tags.johnlewis.com
@@ -35635,6 +35638,7 @@ vfgte.com
 vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
 vfo.voyage-prive.co.uk
+vf.startpage.com
 vfvcxv.naturhaeuschen.de
 vfzxaz.bloomingdales.ae
 vg247-p2.vg247.com
