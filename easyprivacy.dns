@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 24MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -16609,6 +16609,7 @@ log.tagtic.cn
 logtail.com
 logtake.weidian.com
 log.targetpush.co.kr
+log.tossinvest.com
 log.ttbc-hcm.gov.vn
 log.v.ssp.yahoo.com
 log.webnovel.com
@@ -22004,6 +22005,7 @@ paladion.actonservice.com
 pal-v.actonservice.com
 pampopholf.com
 panda.kasika.io
+panorama.wixapps.net
 pa.opqr.co
 papemz.rcwilley.com
 pappagallu.onefootball.com
@@ -32819,6 +32821,7 @@ tracking.barcodegiant.com
 tracking.barcodesinc.com
 tracking.base.de
 tracking.bbgevent.app
+tracking.b-cdn.net
 tracking.behaarteladies.de
 tracking.bettingexpert.com
 tracking.biz.alabamapower.com
@@ -33203,6 +33206,7 @@ tracking.plascoid.com
 tracking.plinga.de
 tracking.precisely.com
 tracking.precollege.wisc.edu
+tracking.prepr.io
 tracking.prodesa.com
 tracking.pro.engie.fr
 tracking.prophet.com
@@ -35926,6 +35930,7 @@ was.vodafone.de
 was.vodafone.nl
 watch.jawwy.tv
 watch.stctv.com
+watchtower.graindata.com
 watch.vipa.me
 waterlooberlin.viessmann.ca
 water.tetrapak.com
