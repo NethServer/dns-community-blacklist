@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 27MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4166,6 +4166,7 @@ analytics.amig.com
 analytics.andrewsmith.com.au
 analytics.angelina-fieber.com
 analytics-api.klickly.com
+analyticsapi.qogita.com
 analytics-api.samsunghealthcn.com
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -4250,6 +4251,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.cookiefirst.dev
 analytics.corusent.com
+analytics.cosmonova.net
 analytics.crazygames.com
 analytics.crowdkeep.com
 analytics.cycleworld.com
@@ -4492,6 +4494,7 @@ analytics.prezly.com
 analytics-production.hapyak.com
 analytics.productreview.com.au
 analytics-proxy.springboard.com
+analytics.qogita.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
 analytics.qualityunit.com
