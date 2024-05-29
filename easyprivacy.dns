@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 29MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8201,6 +8201,7 @@ csymrm.24mx.fr
 csyqts.tmon.co.kr
 ct5m.citadium.com
 cta.onguard.com
+ct.beslist.nl
 ct.capterra.com
 ct.corpusapp.com
 ctc.wolterskluwer.com
@@ -16625,6 +16626,7 @@ look-ahead.nurturemarketing.com
 loopcybersec.com
 l.ooyala.com
 lord.actonservice.com
+lordofthesuperfrogs.com
 lotte.myomee.com
 loveeveryday.brighterkind.com
 lowermybills.actonsoftware.com
@@ -20910,6 +20912,7 @@ natsp.xing.com
 nats.xing.com
 navfja.answear.hu
 navigation-timing.meinestadt.de
+navigator-analytics.tweakwise.com
 nbcnews.black.news
 nbcxa65t001z.net.jumia.ug
 nbfopy.jjshouse.com
@@ -21900,6 +21903,7 @@ p2.danskebank.fi
 p2.danskebank.no
 p2.danskebank.se
 p2r14.com
+p2ro4u.trybawaryjny.pl
 p3tq.pandasuite.io
 p5mcwdbu.ginzo-buy.jp
 p7cloud.net
@@ -22566,6 +22570,7 @@ prairiedog.hashnode.com
 praluent-e.regeneron.com
 prassas.openapp.link
 prasserie.openapp.link
+pr-bh.ybp.yahoo.com
 pr.blogflux.com
 pr.cision.com
 pr.cision.co.uk
@@ -33239,6 +33244,7 @@ tracking.risk.lexisnexis.co.jp
 tracking.risk.lexisnexis.com
 tracking.risk.lexisnexis.com.br
 tracking.risk.lexisnexis.co.uk
+tracking.rocketleague.com
 tracking.rogers.com
 tracking.rootinc.com
 tracking.rti-inc.com
@@ -34592,6 +34598,7 @@ tr.mattressman.co.uk
 tr.mcom03b.espmp-aufr.net
 tr.mcom04p.espmp-aufr.net
 tr.m.cwisas.com
+tr.mediafin.be
 tr.melhores-propostas.pt
 tr.membres.boursorama.info
 tr.mep.enkiapp.io
@@ -35856,6 +35863,7 @@ w3n.llbean.com
 w3-reporting.reddit.com
 w4.air-worldwide.com
 w4o7aea80ss3-a.akamaihd.net
+w6.chabad.org
 w740.newstimes.com
 w7.berlin.de
 w7.berliner-silvester.de
