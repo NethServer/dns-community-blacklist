@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -33774,6 +33774,7 @@ trck.asset.malcotools.com
 trck.atnenga.com
 trck.bdi-services.de
 trck.comms.watlow.com
+trck.coomeet.com
 trck.copeland.com
 trck.e.atradius.com
 trck.el.supremapoker.com.br
@@ -34002,6 +34003,7 @@ tr.em.cdiscountpro.com
 tr.emc.moethennessy.com
 tr.e.m-entreprise.fr
 trends.newsmaxwidget.com
+trends.privacywall.org
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr
 tr.enquetes.actionlogement.fr
