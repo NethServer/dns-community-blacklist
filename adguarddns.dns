@@ -9,7 +9,7 @@
 #
 
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 10JUN24 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 12JUN24 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -168,6 +168,7 @@
 1.07swz.com
 1080872514.rsc.cdn77.org
 1085549509.rsc.cdn77.org
+1089006802.rsc.cdn77.org
 1090pjopm.de
 10945-2.s.cdn15.com
 10945-5.s.cdn15.com
@@ -250,6 +251,7 @@
 1381a.xyz
 1383a.xyz
 1385a.xyz
+1396762586.rsc.cdn77.org
 13b3403320.com
 13b696a4c1.com
 13niao20230422.live
@@ -257,6 +259,7 @@
 1417571542.rsc.cdn77.org
 1437953666.rsc.cdn77.org
 1441085683.rsc.cdn77.org
+1448063843.rsc.cdn77.org
 1473763790.rsc.cdn77.org
 1482434718.rsc.cdn77.org
 148dfe140d0f3d5e.com
@@ -458,6 +461,7 @@
 1.pncdn.cn
 1pqfa71mc.de
 1push.io
+1qe.info
 1qi.info
 1.qjhm.net
 1qkmxbt.com
@@ -947,6 +951,7 @@
 43t53c9e.de
 44180055.cn
 44288fa514.com
+442fc29954.com
 445d1bd01a.com
 44629.com
 44a9217f10.com
@@ -1226,6 +1231,7 @@
 68amt53h.de
 68aq8q352.com
 68d6b65e65.com
+691f42ad.xyz
 692881.com
 693836.com
 6969aa.cn
@@ -1415,6 +1421,7 @@
 80xmedia.com
 8105bfd0ff.com
 8131.qizhihaotian.cn
+814272c4.xyz
 81438456aa.com
 8170a1da9e.com
 82308721ac.com
@@ -3771,6 +3778,7 @@ adspyglass.com
 adspynet.com
 adsquirrel.ai
 ads.rd.linksynergy.com
+adsreference.com
 ads-resources.waze.com
 adsring.com
 ads.rmbl.ws
@@ -5666,6 +5674,7 @@ analitits.com
 analoganalytics.com
 analogousemmafootprints.com
 analogydid.com
+anal.sataniskwijt.be
 analy1.dtnnetwork.be
 analy.qq.com
 analyse.bcovery.com
@@ -5785,6 +5794,7 @@ analytics-cms.whitebeard.me
 analytics.cnd-motionmedia.de
 analytics.cn.ru
 analytics.cocolog-nifty.com
+analytics.code.dccouncil.gov
 analytics.code.illusion.jp
 analytics.codigo.se
 analytics-coletor-site.ojc.com.br
@@ -5978,6 +5988,7 @@ analytics.nianticlabs.com
 analytics.nikkasystems.com
 analytics.nodecraft.com
 analytics.nova.foxsports.com
+analytics.ntlc.com.vn
 analytics.oceanengine.com
 analytics.octaglobal.com
 analytics.omniscientai.com
@@ -6210,6 +6221,7 @@ ancientconspicuousuniverse.com
 ancientsend.com
 ancxeftgyu.top
 ancznewozw.com
+and4.junglebeariwtc4.com
 andall.servicesql.info
 andappjaxzfo.com
 andbeyond.media
@@ -6351,6 +6363,7 @@ anqnbzyjlknbm.top
 an.reflektion.com
 ans7tv.net
 anseisjulus.com
+anselmbowwows.com
 anstossassents.life
 anstv.net
 answeredthechi.org
@@ -6874,6 +6887,7 @@ aqc.gucheng.com
 aqcutwom.xyz
 aqdha.com
 aqdkciossswu.com
+aqeivzm.icu
 aqewvatwqzoigh.com
 aqiefntjh.com
 aqiemc.xyz
@@ -8150,6 +8164,7 @@ b477.life
 b4dda3f4a1.com
 b4g7k9d2.com
 b50faca981.com
+b51475b8.xyz
 b57dqedu4.com
 b57eb5adb4.com
 b58ncoa1c07f.com
@@ -8697,6 +8712,7 @@ bbrnpj.xyz
 bbsgsmmqviaob.xyz
 bbtta91.shop
 bbttf26.shop
+bbuildersget.com
 bbuni.com
 bbvbyzzyrebek.top
 bbwcbdurxalsks.com
@@ -9662,7 +9678,9 @@ bing001.shop
 bing003.shop
 bing005.shop
 bing007.shop
+bing009.shop
 binga01.shop
+binga03.shop
 bingoocy.com
 binhchonanhduthicuabe2022.weebly.com
 binhchonduthitainang2022mua3.weebly.com
@@ -10018,6 +10036,7 @@ blownabolishmentabbreviate.com
 blownsuperstitionabound.com
 blowssubplow.com
 bloxplay.com
+blrpbt.xyz
 blrupz.xyz
 blthwbe.xyz
 bltmjevd.xyz
@@ -10133,6 +10152,7 @@ bnds6.site
 bnds7.site
 bnds8.site
 bn.dxlive.com
+bnevymqyjji.com
 bnfhxszj.xyz
 bnfoeabisp.com
 bnfyzszm.icu
@@ -11715,6 +11735,7 @@ cardloomed.com
 cardshinhan.com
 card-tindung.com
 card-tindung-vp.com
+cardzstorezone.com
 careersadorable.com
 careersletbacks.com
 careerslowblond.com
@@ -12997,6 +13018,7 @@ ckmbig.xyz
 ck.ncclick.co.kr
 ckodsxyjdql.com
 ckofrnk.com
+ckqebz.cn
 ckrf1.com
 ckrrmwqh.com
 ckspodaotjotkn.com
@@ -14691,6 +14713,7 @@ countrynot.com
 count-server.sharethis.com
 count.sibbo.net
 countus.fr
+count.vidsrc.pro
 countvoncount.goguardian.com
 count.xxxssk.com
 count.yandeg.ru
@@ -16633,6 +16656,7 @@ d9tnvwv7i2n85.cloudfront.net
 d9v72urx9pbbc.cloudfront.net
 d9yk47of1efyy.cloudfront.net
 da066d9560.com
+da2323.com
 da26k71rxh0kb.cloudfront.net
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 da327va27j0hh.cloudfront.net
@@ -18075,6 +18099,7 @@ dipseypurism.com
 diptaich.com
 diptersowar.website
 dipusdream.com
+dipxmakuja.com
 diqnioryshzpge.com
 dircont3.com
 dirdumsthetch.com
@@ -18961,6 +18986,7 @@ dq3yxnlzwhcys.cloudfront.net
 dqbukuvuy.com
 dqcgkpp.icu
 dqdrsgankrum.org
+dqeaa.com
 dqfhudpnwdk.com
 dqgmtzo.com
 dqhezw.com
@@ -21446,6 +21472,7 @@ everywheresavourblouse.com
 eveteaemo.com
 evfisahy.xyz
 evfrnqvextppij.com
+evgaow.xyz
 evgywgur.com
 eviclick.pro
 evidenceguidance.com
@@ -23418,6 +23445,7 @@ forklacy.com
 forlumineoner.com
 forlumineontor.com
 formalcabinet.com
+formalhood.com
 formalitydetached.com
 formalyzer.com
 formarshtompchan.com
@@ -24739,6 +24767,7 @@ geo.theawesomer.com
 geo.thehindu.com
 geotrkclknow.com
 geovisite.ovh
+geo.wpforms.com
 geo.xcel.io
 geo.yahoo.com
 geozo.com
@@ -24849,6 +24878,8 @@ gez.io
 gfbdb1.com
 gfbpijvtoxpit.com
 gfbxgrfnljmxs.com
+gfdfegg.cn
+gfdfgfgr.cn
 gfdgfhh.cn
 gfhkcfdqaongo.com
 gfjn5.xyz
@@ -25135,6 +25166,7 @@ gjapplog.ucweb.com
 gjc.gjirafa.com
 gjfeblixctsojx.xyz
 gjffrtfkhf.xyz
+gjhjjhgc.cn
 gjhksxthokyjlm.com
 gjigle.com
 gjipd.xyz
@@ -25528,8 +25560,12 @@ goaodaj.com
 goaserv.com
 goasrv.com
 goatcounter.com
+goat.hepicgamerz.com
 goatmod.xyz
+goat.nhimmeo.cf
+goat.skeetstats.xyz
 goatsnulls.com
+goat.tailspace.net
 goavoafu.com
 gobacktothefuture.biz
 gobanspagodas.com
@@ -27705,6 +27741,7 @@ hnjkcnntdg.com
 hnkhgw.com
 hnkyxyknp.com
 hnl.ijgocb.cn
+hnmrw.net
 hnrgmc.com
 hnrjign.cn
 hnshangzhongxia.com
@@ -28181,6 +28218,7 @@ hsi2i.fun
 hskywgpickh.com
 hslbahu.top
 hsmrabnj.com
+hsoubnp.icu
 hspbotdetection.azurewebsites.net
 hspdiom.cn
 hsrvv.com
@@ -30492,6 +30530,7 @@ ivvyusvh.com
 ivwbox.de
 ivycarryingpillar.com
 ivy.pconline.com.cn
+ivz7x63ymy.ru
 iwanad.baidu.com
 iwandlo.top
 iwanshang8.asia
@@ -30527,6 +30566,7 @@ iwuh.org
 iwwdcglj.com
 iwwmaq.xyz
 iwxtbaoqgcxfdd.xyz
+iwyrldaeiyv.com
 ixbwwwv.com
 ixcbqp.com
 ixgrvdfktpm.com
@@ -30784,6 +30824,7 @@ jc1.dayfund.com.cn
 jc32arlvqpv8.com
 jcbjcb9.cn
 jcedzifarqa.com
+jcfnbhqo.icu
 jchklt.com
 jcigoiimudrzow.com
 jciwztfj.com
@@ -31344,6 +31385,7 @@ joyvowdig.com
 jozbun.icu
 jozvmvxi.com
 jpaasne.e.shifen.com
+jpalertcert.com
 jp-axia.m0mentum.net
 jpayu6di.icu
 jpbfwdtejwoewas.xyz
@@ -31369,6 +31411,7 @@ jqafetxoermhue.com
 jqbddp.xyz
 jqcyacoxrvada.com
 jqdnvg.com
+jqfql.top
 jqgqrsvcaos.xyz
 jqitetsk.com
 jqk2me2mzf.ru
@@ -32207,6 +32250,7 @@ khuyenmaitanthu.com
 khuyenmaivangonline.club
 khuyenmaivimomo.weebly.com
 khvib-canhan.com
+kh-vibquocte.com
 khvphqpsl.com
 khzyojb.cn
 kiaughsviner.com
@@ -32376,6 +32420,7 @@ kjfhenoqfyfljo.com
 kjgb11.com
 kjgqsrejwsthwiw.com
 kjgzctn.com
+kjipko.xyz
 kjisypvbsanmlem.xyz
 kjjbgclciiay.xyz
 kjjjusb.xyz
@@ -33088,6 +33133,7 @@ lagqmwyvqr.com
 lagrys.xyz
 lagt.cloud
 laharal.com
+lahar.com.br
 lahemal.com
 laichook.net
 laidapproximatelylacerate.com
@@ -41385,6 +41431,7 @@ omenreprimanddesigner.com
 omentadido.com
 omes-sec.heytapmobile.com
 ometria.com
+omfghellobrosjda38.org
 omfiydlbmy.com
 omg2.com
 omgpm.com
@@ -44289,6 +44336,7 @@ plausible.ams.to
 plausiblecdn.co
 plausible.citynews.ovh
 plausibleio.workers.dev
+plausible.omgapi.org
 plausible.scimago.es
 plausible.simplelogin.io
 plausible.vucar.vn
@@ -46419,6 +46467,7 @@ pzphmkf.xyz
 pzpivx.xyz
 pzqfmhy.com
 pzqqstb.icu
+pztezl.xyz
 pztjlr.xyz
 pzwdtz.com
 pzwjonv.icu
@@ -46583,6 +46632,7 @@ qfhatlntjtpyit.com
 qfhzki.com
 qfisatztut.com
 qfjherc.com
+qfjsliy.top
 qfoodskfubk.com
 qfwjgivatds.com
 qfyavpwmraqibv.com
@@ -47404,6 +47454,7 @@ rapanearozzer.cfd
 rapemineral.com
 rapepush.net
 rapesensual.com
+rapfdf.xyz
 raphanyleman.top
 raphanysteers.com
 raphidewakener.com
@@ -47573,6 +47624,7 @@ rdiono.cn
 rdiul.com
 rdjbhghljkrca.com
 rdji.top
+rdnplpj.cn
 rdpcom.com
 rdpsht.xyz
 rdpyjpljfqfwah.xyz
@@ -48488,6 +48540,7 @@ retoxo.com
 retrack.q-divisioncdn.de
 retrayan.com
 retreatregular.com
+retrefsf.cn
 retrieval-bd.duote.com
 retrievalterminalcourse.com
 retrievebuoyancy.com
@@ -49242,6 +49295,7 @@ rqhere2.com
 rqhere.com
 r.qip.ru
 rqmob.com
+rqnefp.xyz
 rqnomljdot.xyz
 rqnvci.com
 rqrvfp.xyz
@@ -53540,6 +53594,7 @@ ssedonthep.info
 ssery.com
 ssestherssa.com
 sseudorassb.com
+ssevt.com
 ssgg.chazidian.com
 ssindserving.com
 sskzlabs.com
@@ -53879,6 +53934,7 @@ stats.abbi.io
 stats.administrarweb.es
 statsadvance-01.net
 statsadv.dadapro.com
+stats.afrocave.com
 stats.agrar.nu
 statsale.com
 stats-a.maxthon.com
@@ -53900,6 +53956,7 @@ stats.bizweb.vn
 stats.blogg.se
 stats.blogoscoop.net
 stats.bluebillywig.com
+stats.boringproxy.io
 statsbox.nl
 stats-bq.stylight.net
 stats.bradmax.com
@@ -53957,6 +54014,7 @@ stats.harpercollins.com
 stats.hc.score.dmp.zalo.me
 stats.helsingborg.se
 stats.heyoya.com
+stats.how.wtf
 stats.hstatic.net
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
@@ -54301,6 +54359,7 @@ stlog.dmarket.docomo.ne.jp
 stlpnom.xyz
 stlpyypg.com
 stluserehtem.com
+st.mapleranks.com
 stoachaigog.com
 stoaphalti.com
 stoapoothu.com
@@ -55624,6 +55683,7 @@ tangcuongbanlinh.com
 tangcuongsinhluc.site
 tangerinetogetherparity.com
 tang-han-muc-the-visa-vn.com
+tang-han-muc-tin-dung-vn.com
 tanghanmuc-vn.com
 tanglesoonercooperate.com
 tanglike.biz
@@ -55769,6 +55829,7 @@ taumeln.com
 tauphaub.net
 taurinkimonos.uno
 taurse.com
+tausaakcntiwp.com
 tauspenup.top
 tautcare.pro
 tautenstapetta.com
@@ -56316,6 +56377,7 @@ thautselr.com
 thautsie.net
 thauwhoxaulr.com
 thaveksi.net
+thavrils.com
 thawbootsamplitude.com
 thawheek.com
 thawpublicationplunged.com
@@ -62509,6 +62571,7 @@ vn-sp.xyz
 vnsshoppe.com
 vn-sukien.online
 vn-taikhoan.online
+vntanghanmucvisadebit.com
 vn-thongtin.shop
 vntiki11.com
 vn-tiki.com
@@ -63776,6 +63839,7 @@ wfdlrirntafl.com
 wffbdim.com
 wffgqahhhohdfkp.com
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+wfjslie.top
 wfnetwork.com
 wfnpay.com
 wfodwkk.com
@@ -65636,6 +65700,7 @@ xukang09.cn
 xukevxdf.com
 xukou.net
 xukpresesmr.info
+xuldtcip.icu
 xulizui6.com
 xunsfr.xyz
 xuoizbtl.xyz
@@ -66357,6 +66422,7 @@ yqmxfz.com
 yqpalfulpst.com
 yqragd.com
 yqxhslsqaqkbd.com
+yqxrjthpbolqq.com
 yr9n47004g.com
 yrcedupgqe.com
 yrcpsfqoyi.com
