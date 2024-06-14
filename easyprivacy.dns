@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 14JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -16614,6 +16614,7 @@ logs.mezmo.com
 log.snapdeal.com
 logs.naukri.com
 logs.netflix.com
+logs.openbank.com
 logs-partners.coupang.com
 logs.spilgames.com
 logstash-3.radio-canada.ca
@@ -30133,6 +30134,7 @@ stats.fishersci.com
 stats.fishersci.de
 stats.fishersci.it
 stats.flightsphere.com
+stats.flixhq.live
 stats.florianfritz.net
 stats.flowphantom.com
 stats.fomo.com
