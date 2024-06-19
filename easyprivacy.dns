@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 19JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6415,6 +6415,7 @@ bigbtmbvdzda.freelancer.taxmachine.be
 bigcustomernetwork.actonservice.com
 bigdata.clarin.com
 b.iheart.southwest.com
+bi.heyloyalty.com
 bi.irisdating.com
 bijkep.hotelesestelar.com
 bilahh.feuvert.fr
@@ -11156,6 +11157,7 @@ evt.24.com
 evt-api.ntm.eu
 evt.houzz.com
 evupmg.olehenriksen.com
+ew3.io
 ewfarp.kappa.com
 ewfrnd.stockmann.ru
 eworfe.babyartikel.de
@@ -22418,6 +22420,7 @@ plausible.regex.help
 plausible.retune.de
 plausible.safing.io
 plausible.sbw.org
+plausible.server.hakai.app
 plausible.shadygrovepca.org
 plausible.simplelogin.io
 plausible.srijn.net
