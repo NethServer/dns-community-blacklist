@@ -537,7 +537,6 @@ analytics.facebook.com #Facebook - Tracker
 analytics.faw.sky.com #Sky - Tracker
 analytics.feeder.co #First Party - Tracker
 analytics.ff.avast.com #Avast - Tracker
-analytics.flatart.agency #First Party - Tracker
 analytics.flipperdevices.com #First Party - Tracker
 analytics.formstack.com #First Party - Tracker
 analytics.freemake.com #First Party - Tracker
@@ -751,7 +750,6 @@ atdmt.com #Facebook - Advertising
 atemda.com #WO Programmatic Digital - Tracker
 atgsvcs.com #Unknown - Tracker
 ati-host.net #Unknown - Tracker
-atomz.com #Adobe - Tracker
 atonementimmersedlacerate.com #AdMeasures - Advertising
 attentivemobile.com #Attentive - Tracker
 attn.tv #Attentive - Tracker
@@ -882,7 +880,6 @@ bilgin.pro #Unknown - Advertising
 bilsyndication.com #Unknown - Tracker
 bingads.com #Microsoft - Advertising
 bingads.microsoft.com #Microsoft - Advertising
-bisrv.com #Unknown - Tracker
 bitmedia.io #Bitmedia - Advertising
 bitmovin.com #Bitmovin - Tracker
 bizible.com #Bizible - Tracker
@@ -966,7 +963,6 @@ bullionyield.com #Bullion Yield - Advertising
 bumlam.com #Unknown - Tracker
 bunintruder.com #AdMeasures - Advertising
 buoydeparturediscontent.com #AdMeasures - Advertising
-burt.io #Burt Corp - Tracker
 buysellads.com #BuySellAds - Advertising
 buysellads.net #BuySellAds - Advertising
 buysub.com #Unknown - Tracker
@@ -4510,19 +4506,29 @@ mkt12063.com #IBM Silverpop - Advertising
 mkt12064.com #IBM Silverpop - Advertising
 mkt12065.com #IBM Silverpop - Advertising
 mkt12066.com #IBM Silverpop - Advertising
+mkt12067.com #IBM Silverpop - Advertising
 mkt1207.com #IBM Silverpop - Advertising
 mkt12072.com #IBM Silverpop - Advertising
 mkt12074.com #IBM Silverpop - Advertising
 mkt12076.com #IBM Silverpop - Advertising
 mkt12077.com #IBM Silverpop - Advertising
+mkt12078.com #IBM Silverpop - Advertising
 mkt1208.com #IBM Silverpop - Advertising
+mkt12080.com #IBM Silverpop - Advertising
+mkt12081.com #IBM Silverpop - Advertising
 mkt12082.com #IBM Silverpop - Advertising
 mkt12083.com #IBM Silverpop - Advertising
+mkt12084.com #IBM Silverpop - Advertising
 mkt12087.com #IBM Silverpop - Advertising
 mkt12088.com #IBM Silverpop - Advertising
 mkt12089.com #IBM Silverpop - Advertising
 mkt1209.com #IBM Silverpop - Advertising
+mkt12090.com #IBM Silverpop - Advertising
+mkt12092.com #IBM Silverpop - Advertising
 mkt12094.com #IBM Silverpop - Advertising
+mkt12095.com #IBM Silverpop - Advertising
+mkt12096.com #IBM Silverpop - Advertising
+mkt12097.com #IBM Silverpop - Advertising
 mkt1210.com #IBM Silverpop - Advertising
 mkt1211.com #IBM Silverpop - Advertising
 mkt1212.com #IBM Silverpop - Advertising
@@ -14040,7 +14046,6 @@ proxyclick.com #Proxyclick - Tracker
 prpops.com #Unknown - Advertising
 prscripts.com #Unknown - Advertising
 prx.wayfair.com #First Party - Tracker
-pseepsie.com #Unknown - Advertising
 pshtrk.com #Spiroox - Tracker
 psplugin.com #Vergic - Tracker
 pss.alicdn.com #Alibaba - Tracker
@@ -14158,7 +14163,6 @@ realytics.io #Realytics - Tracker
 rebelmouse.io #Rebelmouse - Tracker
 rebrandly.com #ClickMeter - Tracker
 rebuyengine.com #ReBuy - Tracker
-recordingperky.com #AdMeasures - Advertising
 redevents-bigdata.redefine.pl #First Party - Tracker
 redeye.international #Unknown - Tracker
 redir.metaservices.microsoft.com #Microsoft - Tracker
@@ -14167,7 +14171,6 @@ redshell.io #Red Shell - Tracker
 rees46.com #REES46 - Tracker
 reevoo.com #Unknown - Tracker
 refersion.com #Refersion - Advertising
-refinedads.com #Unknown - Advertising
 refinery89.com #Refinery89 - Advertising
 register.collector.scopely.io #First Party - Tracker
 regulationprivilegescan.top #Unknown - Advertising
@@ -14808,7 +14811,6 @@ smetrics.jcrew.com #Adobe - Tracker
 smetrics.jewson.co.uk #Adobe - Tracker
 smetrics.jimmobile.be #Adobe - Tracker
 smetrics.jjill.com #Adobe - Tracker
-smetrics.joefresh.com #Adobe - Tracker
 smetrics.johnfrieda.com #Adobe - Tracker
 smetrics.jre-travel.com #Adobe - Tracker
 smetrics.kaercher.com #Adobe - Tracker
