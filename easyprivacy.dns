@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 21JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8064,6 +8064,7 @@ counter.reddigital.ru
 counter.scribblelive.com
 counters.freewebs.com
 counter.sibnet.ru
+counter.smotrim.ru
 counter.snackly.co
 counter.subtitlebee.com
 counter.tldw.me
@@ -11327,6 +11328,7 @@ fdowic.hoiku.mynavi.jp
 fdt.kraken.com
 fdxtbs.meeters.org
 featured.bradyid.com
+feature-flag-edge.live.clickbus.net
 febcyv.joshi-spa.jp
 fec1.optimhome.com
 fedexfield.redskins.com
@@ -12926,6 +12928,7 @@ hirsung.de
 hi.streetworkoutlist.com
 hi.syllable.ai
 hitachi-hightech-as.actonservice.com
+hit.cnbce.com
 hit.interia.pl
 hitmse.altinbas.com
 hit.mybestpro.com
@@ -35849,6 +35852,7 @@ v.shopify.com
 vsqyaz.sweetwater.com
 vs.target.com
 vstat.borderlessbd.com
+vstat.rtr-vesti.ru
 vstats.me
 vst.sibnet.ru
 vs.verisure.fr
