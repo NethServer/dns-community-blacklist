@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 24JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -39,6 +39,7 @@
 12915784.help.sanvello.com
 12build.actonservice.com
 13js1lbtbj3.sparkloop.app
+1438976156.recolution.de
 1558334541.rsc.cdn77.org
 16134024.artcollection.io
 161779.publy.co
@@ -8520,6 +8521,7 @@ da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 da.bodenhaus.de
 dabu.askmediagroup.com
 dacocorp.actonservice.com
+dadalytics.it
 dadispapi.gmarket.co.kr
 d.adlpo.com
 da.freo.nl
@@ -9765,6 +9767,7 @@ dumpster.cam4.com
 d.uni-medias.com
 dup.baidustatic.com
 duprelogistics.actonservice.com
+durchsichtig.xyz
 durst-group.actonservice.com
 duu8lzqdm8tsz.cloudfront.net
 dv59b.montecarlomeeting.com
@@ -13077,6 +13080,7 @@ hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
 hstats.hepsiburada.com
+hstatstest.hepsiburada.com
 htcnbx.odkarla.cz
 htc.oaken.com
 htmgrl.jollyroom.no
@@ -17023,6 +17027,7 @@ mandrillapp.zola.com
 mantis.edge47.testandtarget.omniture.com
 manufacturing.autodeskcommunications.com
 ma.pasco.com
+mapixl.com
 mapp.biryanibykilo.com
 mapp.ewm.co.uk
 mapp.jysk.dk
@@ -20458,6 +20463,7 @@ mggakg.littleblack.co.kr
 m.giftry.com
 mg.info.averydennison.com
 mgixgn.wittchen.com
+mgln.ai
 mg.mistrasgroup.com
 mgn.ebis.xn--olsz5f0ufw02b.net
 m.go4.io
@@ -22264,6 +22270,7 @@ pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
+pixel.driveniq.com
 pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
