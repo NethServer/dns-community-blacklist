@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -22331,7 +22331,6 @@ pkg.balluff.com
 pkiawn.konvy.com
 pkimbc.bestsecret.com
 pkmvjx.my-store.ch
-pks-analytics.raenonx.cc
 pktbag.flighthub.com
 pktytp.membershop.lv
 pl.1feed.app
@@ -23142,7 +23141,6 @@ receive.wmcdp.io
 recoverypoint.actonservice.com
 recruit.go.apprenticeshipcommunity.com.au
 recruiting.dukekunshan.edu.cn
-recs-api.conde.digital
 recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
@@ -29345,7 +29343,6 @@ ssc.zeriamerikes.com
 ssdc.bawag.com
 ssdc.easybank.at
 ssdl.actonservice.com
-ssevt.com
 ssfllp.actonservice.com
 sshhfy.ray-ban.com
 s.sick.com
@@ -32387,7 +32384,6 @@ t.montecarlosbm.com
 tmpbr.getgifted.com
 tmrhpl.nurse-agent.com
 tms.53.com
-tms.danzz.ch
 tms.dmp.wi-fi.ru
 tms.eharmony.ca
 tms.fmm.io
@@ -37593,6 +37589,7 @@ zelten.fritz-berger.de
 zenaps.com
 zenedge.actonservice.com
 zesgky.belambra.fr
+zfctrack.net
 zftces.hoiku-job.net
 zftrez.unisportstore.no
 zfvdeu.novaconcursos.com.br
@@ -37600,6 +37597,7 @@ zgfilz.propertyfinder.eg
 zgqgig.skillbox.ru
 zgumwv.stepstone.de
 zgwxoy.autoscout24.ro
+zhctrack.net
 zhcxvk.qvc.com
 zhduni.rizap.jp
 zhihu-web-analytics.zhihu.com
