@@ -325,6 +325,7 @@ adservice.google.com.pe #Google - Advertising
 adservice.google.com.pk #Google - Advertising
 adservice.google.pt #Google - Advertising
 adservice.google.ru #Google - Tracker
+adservings.ru #Unknown - Advertising
 adsessionserv.com #Unknown - Advertising
 adsfac.eu #Unknown - Advertising
 adsgainer.com #Unknown - Advertising
@@ -646,6 +647,7 @@ androidtvwatsonfe-pa.googleapis.com #Google Android TV - Advertising
 anglezinccompassionate.com #AdMeasures - Advertising
 aniview.com #Aniview - Advertising
 anm.co.uk #Associated Newspapers - Advertising
+anonymous-analytics.tonkeeper.com #First Party - Tracker
 anrdoezrs.net #Anrdoezrs - Tracker
 answerscloud.com #ForeSee - Tracker
 antiadblocksystems.com #Unknown - Advertising
@@ -824,6 +826,7 @@ beacon.qq.com #QQ - Tracker
 beacon.riskified.com #Riskified - Tracker
 beacon.searchspring.io #Searchspring - Tracker
 beacon.walmart.com #First Party - Tracker
+beacon.wikia-services.com #First Party - Tracker
 beaconimages.netflix.net #Netflix - Tracker
 beacons.gcp.gvt2.com #Google - Tracker
 beacons.gvt2.com #Google - Tracker
@@ -1011,6 +1014,7 @@ cedeimprovise.com #AdMeasures - Advertising
 cedexis-radar.net #CedexisRadar - Tracker
 cedexis-test.com #CedexisRadar - Tracker
 cedexis.com #CedexisRadar - Tracker
+cellrebel.com #Cellrebel - Tracker
 celtra.com #Celtra - Advertising
 censusabattoir.com #AdMeasures - Advertising
 center.io #Leadpages - Advertising
@@ -1107,6 +1111,7 @@ cmcore.com #Unknown - Tracker
 cmdspassets.com #Unknown - Advertising
 cn-rtb.com #RollerAds - Advertising
 cnzz.com #CNZZ - Tracker
+co-buying.com #Buyapowa - Advertising
 coastlineahead.com #AdMeasures - Advertising
 cobwebcomprehension.com #AdMeasures - Advertising
 codigo.se #Codigo - Tracker
@@ -2235,6 +2240,7 @@ measurelib.com #Unknown - Tracker
 measurement-lab.org #Measurement Lab - Tracker
 medals.bizrate.com #TBC - Tracker
 medi-8.net #Medi8 - Tracker
+media-adv.market.yandex.ru #First Party - Advertising
 media.complex.com #Complex - Tracker
 media.net #Yahoo - Advertising
 media6degrees.com #Unknown - Tracker
@@ -13882,9 +13888,17 @@ pf.newegg.com #Newegg - Tracker
 pghub.io #Tapad - Advertising
 pglstatp-toutiao.com #Unknown - Advertising
 pgteu1-excel-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu1-powerpoint-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu1-word-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu2-excel-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu2-powerpoint-telemetry-vip.officeapps.live.com #Microsoft - Tracker
 pgteu2-word-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu3-excel-telemetry-vip.officeapps.live.com #Microsoft - Tracker
 pgteu3-powerpoint-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu3-word-telemetry-vip.officeapps.live.com #Microsoft - Tracker
 pgteu4-excel-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu4-powerpoint-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu4-word-telemetry-vip.officeapps.live.com #Microsoft - Tracker
 phluant.com #Phluant - Tracker
 phone.igexin.com #Igexin Spyware - Tracker
 phonograph2.voxmedia.com #Vox - Tracker
@@ -15332,7 +15346,6 @@ stsdk.vivoglobal.com #Vivo - Tracker
 stylitics.com #Stylitics - Tracker
 sub2tech.com #Unknown - Tracker
 successfulpatience.com #AdMeasures - Advertising
-successfultogether.co.uk #Unknown - Tracker
 successionflimsy.com #AdMeasures - Advertising
 sugarcrm.com #SugarCRM - Tracker
 suibyuming.com #Suibmob - Advertising
@@ -15359,7 +15372,6 @@ surveyi.com #Surveyi - Tracker
 survicate.com #Survicate - Tracker
 survio.com #Survio - Tracker
 svibeacon.onezapp.com #First Party - Tracker
-sw-rail-7.com #Lead Forensics - Tracker
 swa.vodafone.pt #Adobe - Tracker
 swaptrap.live #Unknown - Advertising
 switchadhub.com #Unknown - Advertising
@@ -15475,7 +15487,6 @@ tkqlhce.com #Unknown - Tracker
 tl.foxnews.com #First Party - Tracker
 tl813.com #Unknown - Tracker
 tm-awx.com #Trinity Mirror Midland Group - Tracker
-tm1-001.com #Lead Forensics - Tracker
 tml.clmbtech.com #Times Internet - Advertising
 tms-api.shalltry.com #Infinix Tracker - Tracker
 tmyzer.com #The Moneytizer - Advertising
@@ -15551,6 +15562,7 @@ tracking.csgipe.com #First Party - Tracker
 tracking.digitalocean.com #First Party - Tracker
 tracking.epicgames.com #First Party - Tracker
 tracking.forbetterforworse.co.uk #First Party - Tracker
+tracking.game8.co #First Party - Tracker
 tracking.hawksearch.com #First Party - Tracker
 tracking.india.miui.com #Miui - Tracker
 tracking.intl.miui.com #Miui - Tracker
@@ -15803,6 +15815,7 @@ visitortracklog.com #Unknown - Tracker
 visualrevenue.com #Outbrain - Tracker
 visualwebsiteoptimizer.com #Visual Website Optimizer - Tracker
 vizu.com #Unknown - Tracker
+vk-analytics.ru #Unknown - Tracker
 vlitag.com #vlitag.com - Tracker
 vlogerads.com #Unknown - Advertising
 vmn.net #Visicom - Tracker
