@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -18908,6 +18908,7 @@ marketing.dreamlawn.com
 marketing.dreamstyleremodeling.com
 marketing.driveline.co.nz
 marketing.driveulu.com
+marketing.dropbox.com
 marketing.dryvit.com
 marketing.dscdredge.com
 marketing.ducenit.com
@@ -25698,6 +25699,7 @@ sats.mailbrew.com
 sats.manager-magazin.de
 sat.soluall.net
 sats.spiegel.de
+sa.uswitch.com
 s.autopilotapp.com
 save.salary.com.au
 save.smartsalary.com.au
@@ -33421,6 +33423,7 @@ tfoyfx.dukefotografia.com
 tfpeev.chanluu.com
 t.freelancer.com
 t.friars.com
+t.fullres.net
 tfunqc.domonet.jp
 tfuodg.memolife.de
 t.fuzeon.com
