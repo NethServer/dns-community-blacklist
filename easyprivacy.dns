@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 12JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4512,6 +4512,7 @@ adppartner.solutions.adpinfo.com
 adpromo.peppynet.com
 ad.rejichoice.jp
 adrtx.net
+ads-collector.luizalabs.com
 adscore.com
 ads.dandelionchocolate.jp
 adsdk.yandex.ru
@@ -7684,6 +7685,7 @@ brvelocity.eccocar.com
 brwanacars.eccocar.com
 brwerental.eccocar.com
 b.rwjf.org
+brwsrfrm.com
 brycys.24mx.se
 bryurent.eccocar.com
 bsbmex.flaschenpost.ch
@@ -8145,6 +8147,7 @@ cjnbqe.glamira.com.mx
 cjulor.marimekko.jp
 ck123.io
 ck.connatix.com
+c.keltis.com
 ckies.net
 ckpxtt.justfly.com
 cksfgh.jaycar.com.au
@@ -8942,6 +8945,7 @@ coop.vmware.com
 cooyxg.tennis-point.de
 copilot-telemetry.githubusercontent.com
 co.promo.skf.com
+core-apps.b-cdn.net
 corporate.americanexpress.it
 corporate.averydennison.com
 corporatecard.americanexpress.nl
@@ -9122,6 +9126,7 @@ csp-collector.appspot.com
 cspmkl.gruppal.com
 csp-reporting.cloudflare.com
 csp.secureserver.net
+csp.yandex.net
 csr11.net.asambeauty.com
 csr.onet.pl
 cstats.sankakucomplex.com
@@ -16769,6 +16774,7 @@ ladxxr.sonovente.com
 la.idgenterprise.com
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
+lambda-url.us-east-1.on.aws
 lammico.actonservice.com
 lam.promo.skf.com
 landing-activemeetings.wolterskluwer.com
@@ -18492,6 +18498,7 @@ ma.revideco.se
 maricich.actonservice.com
 marine.promo.skf.com
 ma.ri.se
+markadver.com
 markentive.actonservice.com
 market.bellelily.com
 marketing.100days.co.il
@@ -21851,6 +21858,7 @@ mhs.hrm.healthgrades.com
 mhwbhn.tohapi.fr
 mhz-design.actonservice.com
 miao.baidu.com
+michiganrobotflower.com
 microfocus.qm-g.com
 microlearning.att.com
 microlise.actonservice.com
@@ -22832,6 +22840,7 @@ ojm4.palladiumhotelgroup.com
 ojmxro.yatsan.com
 ojufuk.vincecamuto.com
 ojvxtz.junonline.jp
+ok88okg.infinityscans.net
 okhwxl.rnainc.jp
 oksiqv.styletread.com.au
 oktagv.immobilienscout24.at
@@ -32686,6 +32695,7 @@ syqhvv.vivense.com
 sys.hager.com
 sysmon.kakaku.com
 systancia-scp.actonservice.com
+system-beta.b-cdn.net
 system.nefiber.com
 sytuzk.nissanvimontlaval.com
 syvvsv.artex.com.br
@@ -33930,6 +33940,7 @@ t.pmu.fr
 tp.mytoys.de
 t.poconoraceway.com
 t.pointandplace.com
+t.poki.io
 t.popsugar.com
 t.portland5.com
 tp.otto.de
