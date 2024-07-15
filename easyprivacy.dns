@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 15JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7650,6 +7650,7 @@ brmov.eccocar.com
 brmuvif.eccocar.com
 brmuvon.eccocar.com
 brnc.seidecor.com.br
+broadstreet.ai
 b.rohde-schwarz.com
 bronxvanilla.openapp.link
 brooklynway.openapp.link
@@ -8505,6 +8506,7 @@ collector.mazeberry.com
 collector.megaxh.com
 collector.pi.spectrum.net
 collector-px0py5pczn.octopart.com
+collector.quillbot.com
 collector.schibsted.io
 collector-soompi.viki.io
 collector.sspinc.io
@@ -12226,6 +12228,7 @@ events.jotform.com
 events.kangan.edu.au
 events.limango.com
 events-logs.doctolib.com
+events.mapbox.com
 events.marketingcube.com.au
 events.matterport.com
 events.mbrl.ae
@@ -12957,6 +12960,7 @@ gastdn.wolfandbadger.com
 gatan.actonservice.com
 gateway.aimia.com
 gateway.foresee.com
+ga-tracker-dot-detmir-bonus.appspot.com
 gawayez.e-postserv.com
 ga.webdigi.co.uk
 gay-hotvideo.net
@@ -15107,6 +15111,7 @@ imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
 impression.clickinc.com
+impressions.svc.abillion.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
 impress.vcita.com
 improve.tempest.com
@@ -16774,7 +16779,6 @@ ladxxr.sonovente.com
 la.idgenterprise.com
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
-lambda-url.us-east-1.on.aws
 lammico.actonservice.com
 lam.promo.skf.com
 landing-activemeetings.wolterskluwer.com
@@ -17911,6 +17915,7 @@ lltmch.zurifurniture.com
 lltrck.com
 llwoyl.mirraw.com
 l.lyfshort.com
+lma.npaw.com
 lmavci.eloquii.com
 lmeniu.timberland.com.au
 lmepbq.com
