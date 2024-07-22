@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7050,6 +7050,7 @@ b2bmarketingsb.swisscom.ch
 b2bmarketingsb.swisscom.com
 b2bmarketing.swisscom.ch
 b2bmkt.lge.co.kr
+b3mxnuvcer.com
 b536mpmxoqxa.www.themoneytizer.com
 b5j6itccyluq.nofluffjobs.com
 b629.electronicdesign.com
@@ -8464,6 +8465,7 @@ collab9.actonservice.com
 collaborate.blackboard.com
 collect2.allianz.ch
 collect.adplogger.no
+collect.air1.com
 collect.alipay.com
 collect.allianz.ch
 collect.allianz-technology.ch
@@ -8487,6 +8489,7 @@ collection.e-satisfaction.com
 collection.saga.co.uk
 collections.equifax.com
 collect.iteam-dress.com
+collect.klove.com
 collect.meilleurtaux.com
 collector2c.zhihuishu.com
 collector5.zipy.ai
@@ -10012,6 +10015,7 @@ data.your.hesta.com.au
 data.your.hestaformercy.com.au
 daten.union-investment.de
 datum.appfleet.com
+datum.jsdelivr.com
 dav.davrontech.com
 dax.yle.fi
 dazdmx.cobra.fr
@@ -10747,7 +10751,6 @@ donjigrad.viessmann.rs
 dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
-doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dot.nonolive.com
 dotvox.actonservice.com
@@ -17995,6 +17998,7 @@ logger007.cam4.com
 logger.bzu.kr
 logger.kataweb.it
 logger.nerdwallet.com
+logger.omio.com
 logger.rm.uol.com.br
 logger.snackly.co
 logger.torimochi-ad.net
@@ -23496,6 +23500,7 @@ paramedicexam.quantresear.ch
 pardko.pricerunner.com
 parentapp.byjus.com
 parents.app.playosmo.com
+parsley.detik.com
 partenaireslld.temsys.fr
 partnerapp.kravein.com.au
 partnerapp.urbanclap.com
@@ -23894,6 +23899,7 @@ plausible.tac.dappstar.io
 plausible.tasteslikeme.ca
 plausible.tlschedule.com
 plausible.treelightsoftware.com
+plausible.tubemagic.com
 plausible.urbanekuensteruhr.de
 plausible.veszelovszki.com
 plausible.visitu.com
@@ -23948,7 +23954,6 @@ pl.kanbanmail.app
 pl.kis-nagy.art
 pl.letsblock.it
 pll.pearlinsurance.com
-pl.lucida.to
 pl.maya-astro.fi
 pl.mynorthstarapp.com
 p.logbox.io
@@ -23964,6 +23969,7 @@ pl.sharpmarketing.eu
 pls.skycastle.dev
 pl.terraintinker.com
 pl-topgal.m-shop.me
+p.lucida.to
 plugs.jameco.com
 plusavecmoins.adp.ca
 pl.venusafe.com
@@ -32778,6 +32784,7 @@ tag.myplay.com
 tagourounakia.openapp.link
 tag.rightmessage.com
 tag.rmp.rakuten.com
+tags.air1.com
 tags.aljazeera.com
 tags.aljazeera.net
 tags.catapultx.com
@@ -32792,6 +32799,7 @@ tags.hilabel.nl
 tag.shopping-feed.com
 tags.igeo.com.bo
 tags.johnlewis.com
+tags.klove.com
 tags.master-perf-tools.com
 tags.op-palvelut.fi
 tags.refinery89.com
@@ -33178,6 +33186,7 @@ t.classiccenter.com
 t.clic2buy.com
 t.cofcsports.com
 t.collinscenterforthearts.com
+t.cometlytrack.com
 t.comms.thetimes.co.uk
 t.cozone.com
 t.csurams.com
@@ -33404,6 +33413,7 @@ test.takedwn.ws
 testtarget.jeep.com
 test.thei.co
 test.thomsonreuters.com
+test.torrentfreak.com
 test.vast
 test.zeus-wifi.jp
 t.etraveli.com
@@ -34145,6 +34155,7 @@ tracker.myth.dev
 tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
+tracker.nocodelytics.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
 tracker.prom.ua
