@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 24JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -124,6 +124,7 @@
 40caidaylimpia.catzolab.net
 4251.tech
 4399stat.5054399.com
+46rtpw.ru
 48z7wyjdsywu.www.revistaferramental.com.br
 492733704185584515.academyforconsciousculture.com
 4b.oktium.com
