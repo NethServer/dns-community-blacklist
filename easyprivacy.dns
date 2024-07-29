@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 29JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5014,6 +5014,7 @@ analytics.cdf.cl
 analytics.ceneo.pl
 analytics.certifriedit.com
 analytics.ceu.com
+analytics-cf.bigcrunch.com
 analytics.changiairport.com
 analytics.chase.com
 analytics.chattarize.de
@@ -7165,6 +7166,7 @@ beacon.flow.io
 beaconhealthsystem.hrm.healthgrades.com
 beacon.klm.com
 beacon.qq.com
+beacon.radiko.jp
 beacon.riskified.com
 beacon.samsclub.com
 beacon.searchspring.io
@@ -12513,7 +12515,6 @@ feedback.imsmetals.com
 feedback.lifeguardarena.com
 feedback.nslsc-csnpe.ca
 feedme.use-beez.com
-feliz.data.tm-awx.com
 f-emc.ngsp.gov.vn
 femetrics.grammarly.io
 feppiu.systemaction.es
@@ -23731,6 +23732,7 @@ pixel.driveniq.com
 pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
+pixel.fohr.co
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
