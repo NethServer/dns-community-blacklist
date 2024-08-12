@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 12AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8117,6 +8117,7 @@ chpspb.bubbleroom.fi
 chrczt.vite-envogue.de
 christian.lifeway.com
 christians.lifeway.com
+chronicle.medal.tv
 chrooo.soccerandrugby.com
 ch.sharpmarketing.eu
 churro.noteapps.info
@@ -8345,6 +8346,7 @@ clp-mms.cloudpro.co.uk
 cl.promo.skf.com
 clrt.ai
 cls7.theushuaiaexperience.com
+cl.t3n.de
 cltgtstor001.blob.core.windows.net
 cltr.irlmail.org
 cltxxq.cruises.united.com
@@ -9504,6 +9506,7 @@ daifez.thebay.com
 dajdnm.splits59.com
 dallas-content.cresa.com
 da.maif.fr
+d.analyticsmania.com
 da.netease.com
 danielsmoving.actonservice.com
 danv01ao0kdr2.cloudfront.net
@@ -13970,6 +13973,8 @@ gsyegj.shatura.com
 gtgvze.chintai.net
 gtm.diamond.jp
 gtmfsstatic.getgoogletagmanager.com
+gtm.lercio.it
+gtm.mandesager.dk
 gtm.wise.com
 gtreus.aliexpress.com
 gtrk.s3.amazonaws.com
@@ -26697,6 +26702,8 @@ s.grace.com
 s.grigora.com
 sgsb.aba.com
 sgstats.com
+sgtm.tagmanageritalia.it
+sgtm.tennis-point.de
 s.guelphmercury.com
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
@@ -30830,6 +30837,7 @@ ssc.wa.gto.db.com
 ssc.zeriamerikes.com
 ssdc.bawag.com
 ssdc.easybank.at
+ss.esade.edu
 ssevt.com
 ssfllp.actonservice.com
 ssgamf.stories.com
@@ -31156,8 +31164,10 @@ sstats.wmagazine.com
 sstats.www.o2.cz
 sstats.yourchi.org
 s.stcatharinesstandard.ca
+sst.colemanfurniture.com
 sst.cooperativa.cl
 s.stgeorgeafc.com.au
+sst.shopware.com
 ssuork.sixt.at
 ssuperstats.observepoint.com
 ssushe.kennethcole.com
@@ -32390,6 +32400,7 @@ strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 strawberry.basf.com
 stream.9now.com.au
+stream.corporatefinanceinstitute.com
 streams.cablecar.sph.com.sg
 streamstats.prd.dlive.tv
 str.foodnetwork.ca
@@ -35304,6 +35315,7 @@ trck.medlem.elogit.no
 trck.medtronic.com
 trck.my.elca.ch
 trck.naco-do.com
+trckng.dainese.com
 trck.nuwlnuwl.com
 trck.propo.co.jp
 trck.repesta.com
@@ -36619,6 +36631,7 @@ trvonu.k-manga.jp
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 tr.wa.wordappeal.com
+tr.wbstraining.de
 tr.webantenna.info
 tr.welcome.easyviaggio.com
 tr.welcome.easyviajar.com
