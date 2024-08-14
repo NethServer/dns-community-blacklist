@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 14AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4609,6 +4609,7 @@ aehudh.rakumachi.jp
 a.ekero.se
 a.electerious.com
 aem-collector.daumkakao.io
+a.emea01.idio.episerver.net
 aeotgu.asi-reisen.de
 aep-target.credit-suisse.com
 aepxlg.adobe.com
@@ -24514,7 +24515,6 @@ qtycwy.modivo.cz
 qualitas-app.hotdoc.com.au
 quantserve.com
 qubitanalytics.appspot.com
-query.petametrics.com
 quest.epoise.com
 questintegrity.actonservice.com
 question.snapiio.com
