@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 23AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5089,6 +5089,7 @@ analytics.esporteinterativo.com.br
 analytics.eventbrite.com
 analytics.evo.co.uk
 analytics.faceitanalytics.com
+analytics.faprika.net
 analytics.favcy.com
 analytics.ferguson.com
 analytics.firespring.com
@@ -9030,6 +9031,7 @@ cp.rootielearning.com
 cpt.itv.com
 cpx.golem.de
 cpxl.golem.de
+cpx.smind.si
 cpx.to
 cqbbpf.geewiz.co.za
 cqbkhv.anacapri.com.br
@@ -12354,6 +12356,7 @@ explore.landcentral.com
 explore.revenera.com
 explore-uat.agilent.com
 explore.waldenu.edu
+exp.notion.so
 expo.nada.org
 exprealty377.myre.io
 exr-mms.expertreviews.co.uk
@@ -17957,6 +17960,7 @@ log.china.cn
 log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
+log.collectaction.com
 log.cookieyes.com
 log.cpex.cz
 log.dance
@@ -23805,6 +23809,7 @@ plausible.canpoi.com
 plausible.citynews.ovh
 plausible.conveyal.com
 plausible.corbettbarr.com
+plausible.corsme.com
 plausible.countingindia.com
 plausible.dailytics.com
 plausible.deploymentfromscratch.com
