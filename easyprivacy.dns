@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 26AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7946,6 +7946,7 @@ cars.smartleasing.com.au
 c.arstechnica.com
 carte.fleet-page.total.fr
 cartoon.hardalist.com
+cartx.cloud
 cascadion.thermo.com
 cascadion.thermofisher.com
 cashbeet.com
@@ -22619,8 +22620,10 @@ nqozgp.botland.com.pl
 nqxnvy.levi.com.hk
 nqyuel589fq5.esgrounding.com
 nra.locktonaffinity.net
+nr-data.noelleeming.co.nz
 nrg.red-by-sfr.fr
 nrjcur.pomelofashion.com
+nr.noelleeming.co.nz
 nrquff.supurgemarket.com
 nrrgyk.hair-gallery.it
 nr.static.mmcdn.com
@@ -34090,6 +34093,7 @@ tracker.affiliate.iqbroker.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
 trackerapi.truste.com
+tracker.au.zitcha.app
 tracker.azet.sk
 tracker.beezup.com
 tracker.bestshopping.com
@@ -34124,6 +34128,7 @@ tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.mrpfd.com
 tracker.mspy.com
+tracker.multisearch.io
 tracker.myth.dev
 tracker.myyschool.xyz
 tracker.nbcuas.com
@@ -37066,6 +37071,7 @@ us.onkyo.actonservice.com
 us.pdc.micloud.xiaomi.net.iberostar.com
 us.promo.skf.com
 us.ricoh-usa.com
+usr.interactiveone.com
 usrkrz.zdravcity.ru
 ussco-dev.actonservice.com
 ussolutions.equifax.com
