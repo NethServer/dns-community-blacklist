@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 30AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -23826,6 +23826,7 @@ plausible.dingran.me
 plausible.doctave.com
 plausible.dragonfru.it
 plausible.ejs.dev
+plausible.elbisebul.com
 plausible.eurostocks.nl
 plausible.exploreandcreate.com
 plausible.external.sine.foundation
@@ -24292,6 +24293,7 @@ px-intl.ucweb.com
 pxjkbj.bostonproper.com
 pxlgnpgecom-a.akamaihd.net
 pxl.indeed.com
+pxlstat.com
 px.marchex.io
 px.mountain.com
 pxmzlk.redfin.com
@@ -33824,7 +33826,6 @@ tm.swp.de
 t.msz-bahn.de
 tmt.intelligence.informa.com
 tm.tradetracker.net
-tm.uol.com.br
 tm.urssaf.fr
 tmvasapp.fitnessyard.com
 tm.vendemore.com
@@ -34123,6 +34124,7 @@ tracker.financialcontent.com
 tracker.gamedock.io
 tracker.gamemonkey.org
 tracker.gleanview.com
+tracker.grupanya.com
 tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
@@ -34142,7 +34144,6 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
 tracker.novage.com.ua
-tracker.openwebtorrent.com
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
