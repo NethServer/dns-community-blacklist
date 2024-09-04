@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 04SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5150,7 +5150,6 @@ analytics.idfnet.net
 analytics.ihg.com
 analytics.ikyu.com
 analytic.simplyhealth.co.uk
-analytics.infobae.com
 analytics.inquisitr.com
 analytics.iraiser.eu
 analytics.ishopchangi.com
@@ -6792,7 +6791,6 @@ audiencies.ccma.cat
 audiofly.actonservice.com
 audit.303br.net
 audit.median.hu
-audit.qiuwen.net.cn
 audit.shaa.it
 audsoa.narumiya-online.jp
 audxht.effeweg.nl
@@ -8258,7 +8256,6 @@ click.trycaviar.com
 click.trycobble.com
 click.tv.repubblica.it
 click.uol.com.br
-click.vgnett.no
 click.vocus.com
 click.zoominformation.com
 client-analytics.braintreegateway.com
@@ -9381,7 +9378,6 @@ d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1qnmu4nrib73p.cloudfront.net
-d1qpxk1wfeh8v1.cloudfront.net
 d1r27qvpjiaqj3.cloudfront.net
 d1r2sy6oc0ariq.cloudfront.net
 d1r55yzuc1b1bw.cloudfront.net
@@ -10641,7 +10637,6 @@ dl.nalbes.com
 dl.nekropol-khv.ru
 dloeloqua.danskespil.dk
 d-log.asahi.co.jp
-d-log.bs-asahi.tv
 d-log.tv-asahi.co.jp
 dl.oneworldonesai.com
 dl.orders.accredo.com
@@ -10806,7 +10801,6 @@ drugtest.questdiagnostics.com
 druzja.canmart.co.kr
 drvive.lamoda.ru
 dryvit.actonservice.com
-ds2.independer.nl
 ds-aksb-a.akamaihd.net
 d.santemagazine.fr
 dsbahmgppc0j4.cloudfront.net
@@ -18042,7 +18036,6 @@ logsdk.kwai-pro.com
 log.seekda.com
 logservice1.hicloud.com
 logservice.hicloud.com
-logs.ggweb.nl
 logs.hotstar.com
 log.sina.cn
 logs.mezmo.com
@@ -21996,7 +21989,6 @@ mlinks.helloalfred.com
 mlkblr.la-becanerie.com
 mlkklg.suncamp.de
 mlmswk.janpara.co.jp
-mlm-tracking-service.meinestadt.de
 mlqzau.koffer.com
 ml-sys.xyz
 m.luckym.ca
@@ -22517,7 +22509,6 @@ nidays.suisse.ni.com
 nidays.switzerland.ni.com
 nigelmidnightrappers.com
 nikitas.openapp.link
-nil.naver.com
 nimblebird.co
 nimbleswan.io
 ninja.akamaized.net
@@ -24474,6 +24465,7 @@ qtycwy.modivo.cz
 qualitas-app.hotdoc.com.au
 quantserve.com
 qubitanalytics.appspot.com
+query1.petametrics.com
 quest.epoise.com
 questintegrity.actonservice.com
 question.snapiio.com
@@ -24726,7 +24718,6 @@ remnkv.doda.jp
 remote.carte-gr.total.fr
 removeads.workers.dev
 remp.nv.ua
-rem-track.bild.de
 renaultbankdirekt.efscle.com
 renting.aldautomotive.es
 rent.mgrc.com
@@ -26588,7 +26579,6 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
-services.haaretz.co.il
 services.princes-trust.org.uk
 services.releasepoint.com
 service.trustpid.com
@@ -30872,7 +30862,6 @@ ssmr2.so-net.ne.jp
 ssmr.nuro.jp
 ssmr.so-net.ne.jp
 ssmr.sonynetwork.co.jp
-ssp.hinet.net
 ss.photospecialist.at
 ss.photospecialist.co.uk
 ss.photospecialist.de
@@ -31301,7 +31290,6 @@ stat.mtv3.fi
 stat.mydaddy.cc
 stat.ncl.com
 stat.nyheter24.se
-stat.ouedkniss.com
 stat.outrigger.com
 stat.ovh
 stat.praceamzda.cz
@@ -32168,6 +32156,7 @@ stats.zimri.net
 stats.zotabox.com
 stat.taxlive.nl
 statt-collect.herokuapp.com
+stat.testme.cloud
 stat.thegeneral.com
 stat.tiara.daum.net
 stat.tiara.kakao.com
@@ -33202,7 +33191,6 @@ td.emails.domain.com.au
 t.depaulbluedemons.com
 tdep.bunzlonline.nl
 tdep.growwwdigital.com
-tdep.kvk.nl
 tdep.sdim.nl
 tdep.suncamp.be
 tdep.suncamp.de
@@ -33272,6 +33260,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.boxt.co.uk
+telemetry.canva.com
 telemetry.chrobinson.com
 telemetry.commonspirit.org
 telemetry.dematic.com
@@ -34941,7 +34930,6 @@ track.pricespider.com
 track.prod.smash.pet
 track.qoof.com
 track.quad.com
-track.realtimeboard.com
 track.reservationcounter.com
 track.rheinpfalz.de
 track.roomster.com
@@ -37757,7 +37745,6 @@ web.slimjoy.sk
 web.solesource.com
 webstat.4music.com
 webstat.garanti.com.tr
-webstat.kuwo.cn
 webstat.qiumibao.com
 webstats.americanbar.org
 webstats.bijenpatel.com
