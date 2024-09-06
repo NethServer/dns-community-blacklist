@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 06SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4234,6 +4234,7 @@ ad7.bigmir.net
 ada8-2.ampleur.jp
 ada8.ampleur.jp
 ad-a8.www.zeiri4.com
+ad.aceplanet.co.kr
 ad.aim-universe.co.jp
 ad.aloodo.com
 adat.borsonline.hu
@@ -4402,6 +4403,7 @@ ad.jibunde-esute.com
 ad.kddi-fs.com
 ad.kirara-support.jp
 adl.bankofthewest.com
+adlc-exchange.toast.com
 adless.io
 adl.kkguan.com
 adlog.com.com
