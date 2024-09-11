@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 11SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -13676,7 +13676,6 @@ go.piccolo.mobi
 go.picsart.com
 go.pinoy.innovatedating.com
 go.planetnine.com
-go.playbackbone.com
 go.player2app.com
 go.plygem.com
 go.poland.innovatedating.com
@@ -31337,6 +31336,7 @@ stats.aixbrain.de
 stats.albert-kropp-gmbh.de
 stats.alibhai.co
 stats.alleaktien.de
+stats.allenai.org
 stats.alocreativa.com
 stats.amaeya.media
 stats.am.ai
@@ -36912,6 +36912,7 @@ uidpcx.planet.fr
 uifesg.modulor.de
 uigwgn.france-abonnements.fr
 uijciz.gunze.jp
+uilogging.tcdevops.com
 uilwmi.coop.nl
 uim.tifbs.net
 uinpmz.iichi.com
@@ -36979,6 +36980,7 @@ unitusccu.actonservice.com
 universaldev.taylormadegolf.com
 universal.okane-reco-plus.com
 universal.shakaguide.com
+unleash.livepix.gg
 unm.emol.com
 unsubscribe.datadelivers.com
 unsubscribe.email.verizon.com
