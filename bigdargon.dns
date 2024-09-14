@@ -211,12 +211,6 @@ advertising.microsoft.com
 fp.advertising.microsoft.com
 analytics.live.com
 rad.live.com
-measure.office.com
-config.fp.measure.office.com
-fp.measure.office.com
-upload.fp.measure.office.com
-upload2.fp.measure.office.com
-wan.measure.office.com
 insitez.blob.core.windows.net
 tenmaxsgads.blob.core.windows.net
 ad.atdmt.com
@@ -1504,6 +1498,7 @@ as.ad-brix.com
 campaign.ad-brix.com
 config.ad-brix.com
 events.iap.unity3d.com
+events.mz.unity3d.com
 hwstats.unity3d.com
 stats.unity3d.com
 analytics.unity3d.com
@@ -1515,6 +1510,20 @@ perf-events.cloud.unity3d.com
 userreporting.cloud.unity3d.com
 analytics.uca.cloud.unity3d.com
 data-optout-service.uca.cloud.unity3d.com
+iads.unity3d.com
+a-uap.iads.unity3d.com
+c.iads.unity3d.com
+cdn.iads.unity3d.com
+icon-uap.iads.unity3d.com
+o-pxt.iads.unity3d.com
+o.iads.unity3d.com
+mediation.unity3d.com
+gw.mediation.unity3d.com
+i-adq.mediation.unity3d.com
+i-sdk.mediation.unity3d.com
+o-adq.mediation.unity3d.com
+o-iab.mediation.unity3d.com
+o-sdk.mediation.unity3d.com
 admediator.unityads.unity3d.com
 ads-brand-postback.unityads.unity3d.com
 ads-game-configuration.unityads.unity3d.com
@@ -1552,13 +1561,6 @@ ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 httpkafka-master.ads.prd.ie.internal.unity3d.com
 httpkafka.ads.prd.ie.internal.unity3d.com
 publisher-event.ads.prd.ie.internal.unity3d.com
-iads.unity3d.com
-a-uap.iads.unity3d.com
-c.iads.unity3d.com
-cdn.iads.unity3d.com
-icon-uap.iads.unity3d.com
-o-pxt.iads.unity3d.com
-o.iads.unity3d.com
 a.applvn.com
 applvn.com
 d.applvn.com
@@ -9803,10 +9805,6 @@ abtasty.com
 try.abtasty.com
 hubvisor.io
 cdn.hubvisor.io
-data.adobedc.net
-adobecorp.data.adobedc.net
-adobemobiledev.data.adobedc.net
-esdk.data.adobedc.net
 edge.adobedc.net
 cdn.tt.omtrdc.net
 hb.omtrdc.net
@@ -10388,6 +10386,9 @@ adservrs.com
 tg1.adservrs.com
 ads.rwadx.com
 rwadx.com
+adnz.co
+api.adnz.co
+cdn.adnz.co
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11989,6 +11990,7 @@ analytics.bkav.com.vn
 analytics.digi8.vn
 analytics.evgcdn.net
 analytics.evn.com.vn
+analytics.explus.vn
 analytics.fsoft.com.vn
 analytics.gotama.link
 analytics.hapo.vn
@@ -12026,6 +12028,7 @@ btrack.homedy.com
 bubblyzucchini.com
 campaign.gitiho.com
 cdn.api-connect.io
+cdptracker.hocmai.com.vn
 clicker.chiaki.vn
 clientinfo.phimmoizz.net
 collect.ovp.vn
@@ -12751,6 +12754,7 @@ ads-bi.zenkube.com
 ads-click.com
 ads-ios-sdk.ogury.co
 ads-static.conde.digital
+ads-to.click
 ads.4tube.com
 ads.5ci.lt
 ads.6789live.com
@@ -13073,6 +13077,7 @@ adserverpub.com
 adserversolutions.com
 adserving.unibet.com
 adservinginternational.com
+adsession.exacdn.com
 adsessionserv.com
 adsfac.eu
 adsfac.net
@@ -13378,6 +13383,7 @@ alstrome9riya10.com
 alternativecpmgate.com
 altronopubacc.com
 altwi-cha.com
+alwingulla.com
 alxgtyqhio.com
 alxkpafhaka.com
 amanda-cle.info
@@ -14668,6 +14674,7 @@ dc-storm.com
 dckifhpovvbpb.com
 dcyaglnhuvf.com
 dd1xbevqx.com
+dead-put.com
 deadpantruck.com
 dealdotcom.com
 deanmediagroup.com
@@ -15055,6 +15062,7 @@ ergadx.com
 eringosdye.com
 ermin-oxj.info
 erosyndc.com
+errantstetrole.com
 eryondistain.com
 escortlarbul.com
 esellerate.net
@@ -15313,6 +15321,7 @@ fteadcofpo.com
 ftte.xyz
 ftuaxqokbxow.com
 fubmalafdti.com
+fudukrujoa.com
 fuffscreigh.website
 fulgidbirls.life
 fullfilmolify.com
@@ -16071,6 +16080,7 @@ jollytestpartying.com
 jomtingi.net
 joopaish.com
 joredi.com
+joudauhee.com
 jouncystelar.guru
 joygaskin.com
 jpeavgtcixi.com
@@ -16079,6 +16089,7 @@ jpovulldaghw.com
 js.xzjhome.cc
 jscdn.greeter.me
 jtkctpvlsilycn.com
+jtoabhvw.com
 jtokaxswunka.com
 jtujmyhhuo.com
 jucysh.com
@@ -16908,6 +16919,7 @@ nougatdimetry.com
 novem.pl
 novemberassimilate.com
 novemberseatsuccession.com
+npipajajn.com
 npugpilraku.com
 nqmanxtemqvlne.com
 nrc.tapas.net
@@ -17230,6 +17242,7 @@ ozongees.com
 ozqoztrkoaj.com
 ozsoekwgy.com
 ozwvkazrik.com
+ozxakfawm.com
 p23hxejm1.com
 p4r24.eu
 pacekami.com
@@ -18021,6 +18034,7 @@ rxpsaofevrikmi.com
 ryeqnyvbncdvg.com
 rympsxilkdqywd.com
 rzaathjhibpe.com
+s.eunow4u.com
 s.nitropay.com
 s.zkcdn.net
 s2517.com
@@ -18174,6 +18188,7 @@ sheltermilligrammillions.com
 shelvesparticipate.com
 shestour.net
 shhxgqpaxvdjn.com
+shiglangee.net
 shinystat.com
 shinystat.it
 shiowbafrrra.com
@@ -18873,6 +18888,7 @@ trustedcpmrevenue.com
 trustedgatetocontent.com
 trustednotice.news
 trusterejecta.com
+trustisimportant.fun
 trustlearningclearly.com
 truthful-quote.pro
 tsiwqtng8huauw30n.com
@@ -19347,6 +19363,7 @@ worldwide-cash.net
 worn-brown.pro
 worriednumber.com
 worstideatum.com
+worstspotchafe.com
 wotlinkmeatmen.digital
 woubitpopess.life
 wouhaugiby.com
@@ -19961,6 +19978,7 @@ events.jora.com
 events.launchdarkly.com
 events.mapbox.com
 events.newsroom.bi
+events.ocdn.eu
 events.redditmedia.com
 events.shoplytics.com
 events.split.io
@@ -20347,6 +20365,7 @@ track.datetrck.com
 track.easeus.com
 track.gotprofits.com
 track.hubspot.com
+track.hydro.online
 track.lacunads.com
 track.lexico.com
 track.mobgc.com
@@ -20420,6 +20439,7 @@ wa.metro.co.uk
 wc-tracking.lavasoft.com
 wct-2.com
 web-t.9gag.com
+web-tracking.engagebay.com
 web.mxradon.com
 webmetrics.mayoclinic.org
 weborama.net
