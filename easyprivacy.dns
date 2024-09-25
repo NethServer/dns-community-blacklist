@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 25SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8155,7 +8155,6 @@ cksfgh.jaycar.com.au
 ckygge.mohd.it
 ckyhec.maxisport.com
 clanker-events.squarespace.com
-clanto.cloud
 clariant.actonservice.com
 clarice.streema.com
 clarity-infographic.zebra.com
@@ -14030,6 +14029,7 @@ harpra-companion.harvinar.com
 harpra-companion-test.harvinar.com
 harris.ni.com
 harvester.cms.markiza.sk
+harvest.graindata.com
 hasslefree.redwingshoes.com
 hauhws.asgoodasnew.de
 hauixd.halistores.com
@@ -19998,6 +19998,8 @@ matheranalytics.com
 mathilde-ads.com
 math.meistercody.com
 mat.lgdisplay.com
+mato.clanto.cloud
+matomo.clanto.cloud
 matrix42.actonservice.com
 matrix.elecle.bike
 matrix.hbo.com
@@ -33528,7 +33530,6 @@ thebdx.actonservice.com
 thecea.actonservice.com
 thefontzone.com
 theme.echovisuals.com
-the-ozone-project.com
 thequickbooksteam.intuit.ca
 t.herceptin.com
 t.herdzone.com
@@ -34120,6 +34121,7 @@ tracker.ai.xiaomi.com
 trackerapi.truste.com
 tracker.au.zitcha.app
 tracker.azet.sk
+tracker.bang.com
 tracker.beezup.com
 tracker.bestshopping.com
 tracker.blutv.com
