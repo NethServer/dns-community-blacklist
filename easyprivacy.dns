@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 27SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4911,12 +4911,15 @@ a.munters.nl
 a.munters.se
 a.munters.us
 amvtwk.thebottleclub.com
+ana.3751chat.com
+ana.chat.shalove.net
 anaconda.net.anwalt.de
 ana.e-ticket.co.jp
 anal.doubledouble.top
 analitica.webrpp.com
 analitik.bik.gov.tr
 anal.sataniskwijt.be
+ana.luvul.net
 analyse.bcovery.com
 analyse.hinemos.info
 analysis.aws.locondo.jp
@@ -5514,6 +5517,7 @@ analyzer2.fc2.com
 analyzer51.fc2.com
 analyzer.fc2.com
 anapp.adobe.com
+ana.skypemeet.net
 ana.tv5unis.ca
 an.avast.com
 an.avast.ru
@@ -12283,6 +12287,7 @@ event.tagtoo.co
 event.thermofisher.com
 event.thermoscientific.cn
 event.thermoscientific.com
+event-tracker-library.mediaownerscloud.com
 event-tracking.hellohealthgroup.com
 event.webcollage.net
 everesttech.net
@@ -24212,6 +24217,7 @@ protosell.actonservice.com
 protys.protys.fr
 providentcrm.actonservice.com
 prowareness.actonservice.com
+proxima.midjourney.com
 proxy.dzeio.com
 proxy.trysavvy.com
 pr.prnewswire.com
