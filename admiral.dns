@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 23SEP24 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 30SEP24 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -23,7 +23,6 @@
 5mcwl.pw
 6ldu6qa.com
 82o9v830.com
-abandonedaction.com
 aboardamusement.com
 aboardkettle.com
 aboardlevel.com
@@ -52,7 +51,6 @@ agreeabletouch.com
 aheadday.com
 aheadmachine.com
 ak0gsh40.com
-alertarithmetic.com
 alikeaddition.com
 alikearm.com
 aliveachiever.com
@@ -118,12 +116,10 @@ billowybead.com
 bleachbubble.com
 bleachscarecrow.com
 blushingbeast.com
-blushingboundary.com
 blushingwar.com
 boatsvest.com
 boilingbeetle.com
 boilingcredit.com
-boilingumbrella.com
 boredcrown.com
 bouncyfront.com
 bouncyproperty.com
@@ -233,7 +229,6 @@ crowdedmass.com
 cubchannel.com
 cumbersomecar.com
 cumbersomecarpenter.com
-cumbersomecloud.com
 curiouschalk.com
 curioussuccess.com
 curlycannon.com
@@ -269,7 +264,6 @@ defensevest.com
 delegatediscussion.com
 deliciousducks.com
 delightdriving.com
-desertedrat.com
 desirebucket.com
 desiredirt.com
 detailedglue.com
@@ -300,7 +294,6 @@ dustywave.com
 ejyymghi.com
 elasticchange.com
 elderlyinsect.com
-elderlyscissors.com
 elderlytown.com
 elephantqueue.com
 embellishedmeadow.com
@@ -347,7 +340,6 @@ fearlessfaucet.com
 featherstage.com
 feeblestamp.com
 feignedfaucet.com
-fertilefeeling.com
 fewkittens.com
 finalizeforce.com
 financefear.com
@@ -450,8 +442,8 @@ hurtgrape.com
 hypnoticwound.com
 hystericalcloth.com
 hystericalfinger.com
-hystericalhelp.com
 i9w8p.pw
+icebergindigo.com
 illinvention.com
 illustriousoatmeal.com
 immensehoney.com
@@ -486,7 +478,6 @@ justicejudo.com
 k54nw.pw
 kaputquill.com
 kitesquirrel.com
-laboredlight.com
 laboredlocket.com
 lameletters.com
 lamplow.com
@@ -494,7 +485,6 @@ laughcloth.com
 leaplunchroom.com
 leftliquid.com
 liftedknowledge.com
-lightcushion.com
 literatelight.com
 livelumber.com
 livelylaugh.com
@@ -510,7 +500,6 @@ lumpylumber.com
 lyricshook.com
 maddeningpowder.com
 magnetairport.com
-magnificentmist.com
 maniacalappliance.com
 markedmeasure.com
 marketspiders.com
@@ -536,7 +525,6 @@ miscreantmine.com
 miscreantmoon.com
 mixedreading.com
 modularmental.com
-moldyicicle.com
 moorshoes.com
 motionflowers.com
 motionlessbelief.com
@@ -544,7 +532,6 @@ movemeal.com
 muddledaftermath.com
 mundanepollution.com
 mushywaste.com
-mysteriousmonth.com
 naivestatement.com
 nappyattack.com
 nebulousamusement.com
@@ -562,7 +549,6 @@ nostalgicknot.com
 nostalgicneed.com
 nulldiscussion.com
 nullnorth.com
-numberlessring.com
 oafishobservation.com
 obscenesidewalk.com
 observantice.com
@@ -571,7 +557,6 @@ omniscientfeeling.com
 operationchicken.com
 oppositeoperation.com
 optimallimit.com
-outgoinggiraffe.com
 overconfidentfood.com
 overratedchalk.com
 owlsr.us
@@ -645,7 +630,6 @@ pumpedpancake.com
 pumpedpurpose.com
 punyplant.com
 puzzlingproperty.com
-quacksquirrel.com
 quaintcan.com
 quantumlagoon.com
 quietknowledge.com
@@ -676,7 +660,6 @@ reconditeprison.com
 reconditerake.com
 reconditerespect.com
 referdriving.com
-reflectivestatement.com
 regularplants.com
 relationrest.com
 repeatsweater.com
@@ -841,7 +824,6 @@ stiffgame.com
 stiffstem.com
 stockingsneeze.com
 stormyachiever.com
-stormyfold.com
 straightnest.com
 strangesink.com
 streetsort.com
@@ -901,8 +883,6 @@ toecircle.com
 toomanyalts.com
 torpidtongue.com
 toweringanswer.com
-tranquilamulet.com
-tranquilcanyon.com
 tranquilside.com
 trappush.com
 treadbun.com
