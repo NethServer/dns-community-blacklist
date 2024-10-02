@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 02OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -33161,6 +33161,7 @@ t.birchlane.com
 tbjasp.cyrillus.de
 tbknig.ecc.jp
 t.blablacar.com
+t.blog.livedoor.jp
 t.bluehens.com
 tbmgyz.centerparcs.de
 t.bucky.uwbadgers.com
