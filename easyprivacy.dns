@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 04OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4873,6 +4873,7 @@ americanwatergroup.actonservice.com
 americasbrandperformancesupport.hilton.com
 amer.juniper.net
 amersc.actonservice.com
+amethyst.6pm.com
 amethyst.zappos.com
 ametrics.finn.no
 ametrics.lumen.com
@@ -7740,6 +7741,7 @@ budibu.saksfifthavenue.com
 buf.lemonde.fr
 bugdsm.buffalo-boots.com
 bugjyl.jkattire.co.uk
+bugsnag.shopbop.amazon.dev
 build.1tap.tax
 build.bildgta.ca
 bulgaria.openapp.link
@@ -19992,6 +19994,7 @@ marshinsurance.actonservice.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
+marty.zappos.com
 mas.hronboard.me
 mas.marsh.com
 ma.smartplanes.se
@@ -22113,6 +22116,7 @@ motion.kollmorgen.com
 motista.actonservice.com
 motm.adp.ca
 motorsports.locktonaffinity.net
+motu-teamblue.services
 mousebusters.odencat.com
 move.azets.com
 move.azets.dk
@@ -22717,6 +22721,7 @@ nvxlag.liligo.fr
 nwajdf.zakzak.co.jp
 nwbmvq.jockey.com
 nwfkjx.gadventures.com
+nwr.static.mmcdn.com
 nws.naltis.com
 nwvupz.cljoias.com.br
 nwwucx.palemoba.com
@@ -35020,6 +35025,7 @@ track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
 track.zapimoveis.com.br
+track.zappos.com
 tr.acq-pjms.fr
 trac.roomster.com
 tr.actiflip.devisdirect.com
