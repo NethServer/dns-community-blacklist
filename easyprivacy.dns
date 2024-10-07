@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 07OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4955,7 +4955,6 @@ analytics.30m.com
 analytics.3c5.com
 analytics.academy.com
 analytics.adam.page
-analytics.adfreetime.com
 analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
@@ -5157,6 +5156,7 @@ analytics.hottopic.com
 analytics-hub.3plearning.com
 analytics.id.amazongames.com
 analytics.idfnet.net
+analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
 analytic.simplyhealth.co.uk
@@ -6778,7 +6778,6 @@ at.norisbank.de
 atom-log.3.cn
 a.topya.com
 at.postbank.de
-atrack.allposters.com
 a.transportgruppen.se
 a.trivita.com
 ats.alot.com
@@ -7161,6 +7160,7 @@ beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdnma.com
+beacon.cdn.qq.com
 beaconcdn.qq.com
 beacon.dropbox.com
 beacon.errorception.com
@@ -13105,6 +13105,7 @@ get.informedmortgage.com
 get.ingomoney.com
 get.instalocum.com
 get.jan.ai
+getjan.io
 get.jaranda.kr
 get.kabbee.com
 getl4w.lookout.com
@@ -14465,7 +14466,6 @@ iduk.barcodesgroup.com
 id-ward.com
 idx.lat
 ie-business.vodafone.com
-iedc.fitbit.com
 ieeowa.marcjacobsbeauty.com
 iefiop.raizs.com.br
 ieg.intel.com
@@ -15058,6 +15058,7 @@ imap2.carte-gr.total.fr
 imap.happ.social
 imbhdu.housedo.co.jp
 imeetcentral.pgi.com
+img2021.navyfederal.org
 img.aonunited.com
 img.biospace.com
 img.buch.ch
@@ -18030,6 +18031,7 @@ loglady.skypicker.com
 log-lb.skyperfectv.co.jp
 log.mediacategory.com
 log.medietall.no
+log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
 log.m.sm.cn
@@ -23741,7 +23743,6 @@ pixel.europapress.net
 pixel.facebook.com
 pixel.fohr.co
 pixel.homebook.pl
-pixel.honestjohn.co.uk
 pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
@@ -33270,7 +33271,6 @@ t.ecomms.origin.com.au
 te.creation-l.de
 t.ecupirates.com
 teczbq.amicashop.com
-ted.dailymail.co.uk
 teefiksummin.visma.fi
 teen.zubie.com
 te.frankonia.at
