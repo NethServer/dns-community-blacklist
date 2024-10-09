@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 09OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -16204,6 +16204,7 @@ i.shelf.im
 ish.tumedia.no
 isjoui.cainz.com
 is.lg.com
+is-log.furunavi.jp
 isoplexis.actonservice.com
 isovav.akomeya.jp
 i.spyn.co
