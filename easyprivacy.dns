@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 18OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -20,7 +20,6 @@
 000scripps.hb.omtrdc.net
 00px.net
 07b3.pandasuite.io
-0d8is908gby1.www.terraform.com.ar
 0ddf.pandasuite.io
 0.myikas.com
 0.net.easyjet.com
@@ -163,13 +162,11 @@
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 757d.pandasuite.io
 76ef.pandasuite.io
-76zvoxo5yx0l.www.eldorado.gg
 7701534.emails.tntdrama.com
 771fnypadw0j.pt.themoneytizer.com
 78rkcgj4i8c6.www.cefirates.com
 7hdl8dlfjm4g.www.cybernetman.com
 7lbd4.armandthiery.fr
-7mvmjg.www.emanualonline.com
 7mx.eider.com
 7mx.eidershop.com
 7q1z79gxsi.global.ssl.fastly.net
@@ -180,7 +177,6 @@
 8147563.your-way.bk.com
 8820.pandasuite.io
 8d4b.pandasuite.io
-8e0905osvgw5.taleez.com
 8ehhtsv9bo7i.monkeylearn.com
 8ezc.sfr.fr
 8ue4rp6yxyis.www.tapmyback.com
@@ -7830,6 +7826,7 @@ c0012.brsimg.com
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 c1hit.zerkalo.io
+c319tpiw462o.segops.madisonspecs.com
 c3metrics.medifast1.com
 c4c9.pandasuite.io
 c4cm.actonservice.com
@@ -8282,6 +8279,7 @@ client-logger.salemove.com
 client-log.karte.io
 clientlog.music.163.com
 client-metrics.chess.com
+client.perimeterx.net
 clients.belairdirect.com
 clients.hermes-investment.com
 clients.intact.ca
@@ -10690,6 +10688,7 @@ dl.wooribank.com.kh
 dl.workindia.in
 dlxpix.net
 dlzbax.street-academy.com
+dlziqh9bo7.boring.fm
 dl.zola.com
 d.mail.levi.com
 dmarkconsulting.actonservice.com
@@ -10874,7 +10873,6 @@ dvvkov.agrieuro.de
 dw0c.sfr.fr
 dw7u.hotelsbarriere.com
 dwbotr.ssg.com
-dwdlpqm6d4ra.test1.emanualonline.com
 dwglgp.dunelm.com
 d.whoscall.com
 d.wi-fi.ru
@@ -14409,6 +14407,7 @@ hzymxd.nocibe.fr
 hzzyhl.jobs.ch
 i218435.net
 ia.51.la
+ia84berzxy7v.de.themoneytizer.com
 iaalxo.vans.ru
 iabdly.hoselink.com.au
 iabgvi.usadosbr.com
@@ -16288,6 +16287,7 @@ javvso.newone-shop.com
 jazzyzest.cfd
 jbbljg.autoscout24.bg
 jbezdi.ilsole24ore.com
+jc917x3.adaptive.marketing
 jcaqvl.twinset.com
 jcblar.floridarentals.com
 jcimgi.bestcuckoo.co.kr
@@ -16366,7 +16366,6 @@ jhzwle.ryuryumall.jp
 jiciqm.antalyahomes.com
 jifflenow.actonservice.com
 jifjai.instamotion.com
-jii3gnhro.www.emanualonline.com
 jiktq0fr9hv6.meleton.ru
 jill.fc.yahoo.com
 jinair.nsc.jinair.com
@@ -18380,6 +18379,7 @@ m1.stadiumgoods.com
 m2t.actonservice.com
 m2.washmen.com
 m3ds.subarumetropolitain.com
+m3uef4b38brmbntdzx.franchiseplus.nl
 m4zoxtrcea1k.controlconceptsusa.com
 m6c4t9vmqarj.www.cefirates.com
 ma.a3.se
@@ -22274,6 +22274,7 @@ mx.mywd.com
 mxpdsu.bhv.fr
 mx.promo.skf.com
 mxsvjc.hackers.ac
+my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com
 mya.actonservice.com
 myakiu.trendhim.ch
 myapp.branch.rocks
@@ -23105,6 +23106,7 @@ om.vrbo.com
 omvzcq.vidaxl.be
 omxodt.shredoptics.com
 o.myomnicard.in
+omyvimmw9wsk.t.mahapowerex.eu
 om.zdnet.com.au
 on.allposters.com
 on.art.com
@@ -23391,7 +23393,6 @@ p2.danskebank.dk
 p2.danskebank.fi
 p2.danskebank.no
 p2.danskebank.se
-p2ro4u.trybawaryjny.pl
 p3tq.pandasuite.io
 p5mcwdbu.ginzo-buy.jp
 p7cloud.net
@@ -24590,7 +24591,6 @@ ratings-events.standardandpoors.com
 r.atlasearth.com
 rat.rakuten.co.jp
 rba-screen.healthsafe-id.com
-rbat6ac0zzjd.www.terraform.com.ar
 r.bbci.co.uk
 rbbgnn.hanshintigers.jp
 rbcore-wlc-3.net.jumia.co.ke
@@ -32493,6 +32493,7 @@ support.panasonic.eu
 support.ricoh.de
 support.ricoh.fr
 supvka.colancolan.com
+surfshark.events
 suriwl.petsmart.com
 surpreendaapp.hanzo.com.br
 survey.communication.qualfon.com
@@ -37013,6 +37014,7 @@ unitusccu.actonservice.com
 universaldev.taylormadegolf.com
 universal.okane-reco-plus.com
 universal.shakaguide.com
+unl1zvy2zuyn.franchiseplus.nl
 unleash.livepix.gg
 unm.emol.com
 unsubscribe.datadelivers.com
@@ -37450,6 +37452,8 @@ vzcfqp.unibet.fr
 vzeyba.shopee.co.id
 vzhjnw.officedepot.com
 vzynem.lamporochljus.se
+w2g-mtrx.w2g.tv
+w2g-ping.b-cdn.net
 w38ju82bano4.cv.gerardbosch.xyz
 w3.air-worldwide.com
 w3.aktionaersbank.de
@@ -37469,6 +37473,7 @@ w88.m.espn.go.com
 w88.natgeo.pt
 w88.natgeotv.com
 w88.nationalgeographic.com
+w9g7dlhw3kaank.www.eldorado.gg
 wa1.otto.de
 waaf1.aldi-gaming.de
 waaf1.aldilife.com
@@ -38960,6 +38965,7 @@ ybzcmz.momoshop.com.tw
 ycembr.net-a-porter.com
 ychqww.aboutyou.lv
 ycjhuh.stripe-club.com
+yctjw54slxrwwlh.trybawaryjny.pl
 ydbcct.nikigolf.jp
 ydbeuq.superpharm.pl
 ydccky.direnc.net
