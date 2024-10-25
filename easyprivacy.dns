@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 25OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5452,6 +5452,7 @@ analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
 analytics.vixcloud.co
+analytics.vortexscans.com
 analytics.warnertv.fr
 analytics.wavebox.io
 analytics.wayland.app
@@ -14177,6 +14178,7 @@ hits.antena3.com
 hits.dealer.com
 hitserver.ibope.com.br
 hits.getelevar.com
+hits.gokwik.co
 hits.guardian.co.uk
 hits.informer.com
 hit.skrz.cz
@@ -24280,6 +24282,7 @@ puiwrs.misterspex.de
 pulsar.ebay.com
 pulse.delta.com
 pulse.munsonhealthcare.org
+pulse.shopflo.com
 pumlmb.netcologne.de
 pumpkin.abine.com
 pu.pretunique.fr
@@ -30525,6 +30528,7 @@ sqtivj.vidaxl.hr
 squirrel.cividi.ch
 squirrel.malaynahocker.com
 sr59t7wbx5.claricelin.com
+src.freshmarketer.in
 srd1-pdx.net.jumia.ci
 srepdata.12newsnow.com
 srepdata.13wmaz.com
