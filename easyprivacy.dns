@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5630,6 +5630,7 @@ api.elliehuxtable.com
 api.fuck.education
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
+api.june.so
 a.pikabu.ru
 apilog-web.acfun.cn
 api.ryanyao.design
@@ -31299,6 +31300,7 @@ statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.wibiya.com
+statistiek.rijksoverheid.nl
 statistik.apartments-tirolerhaus.at
 statistik.simaja.de
 stat.iteye.com
