@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 04NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4957,6 +4957,7 @@ analytics.adobe.ly
 analytics.adultswim.co.uk
 analytics.agenedia.com
 analytics.agoda.com
+analytics.ahrefs.dev
 analytics.aimtell.com
 analytics.airindia.com
 analytics.airtron.com
@@ -15590,7 +15591,6 @@ info.moneycontrol.network18online.com
 info.monsooninc.com
 info.morganfranklin.com
 info.motion10.nl
-info.mouser.com
 info.msconsultants.com
 info.m.seek.com.au
 info.m.seek.co.nz
@@ -33877,7 +33877,6 @@ tm.urssaf.fr
 tmvasapp.fitnessyard.com
 tm.vendemore.com
 tmwkya.jh-profishop.at
-tmx.bestbuy.com
 tmxjdr.benaza.ro
 tmx.td.com
 tmy8.madeindesign.ch
@@ -37250,7 +37249,6 @@ vfo4.carrefour-banque.fr
 vfo.voyage-prive.co.uk
 vf.startpage.com
 vfvcxv.naturhaeuschen.de
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
