@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12929,6 +12929,7 @@ fzgpzp.opodo.de
 fzlnk.com
 fzqjvw.oakandluna.com
 fzu4.bysidecar.com
+g10102301085.co
 g10300385420.co
 g11686975765.co
 g11885060100.co
@@ -32169,6 +32170,7 @@ stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
 stats.vican.me
+stats.vidbinge.com
 stats.viddler.com
 stats.vidyome.com
 stats.visions.ch
@@ -32899,7 +32901,6 @@ tao.barstoolsports.com
 t.ao.consumerfinancereport.com
 t.ao.walletjoy.com
 tap.carling.com
-taplytics-umami.grubhub.com
 t.appsflyer.com
 t.appstatesports.com
 t.arcade.show
