@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 15NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -11974,6 +11974,7 @@ enroll.workforcewellness.com
 en-sg.siemensplmevents.com
 ens.luzernerzeitung.ch
 ens.tagblatt.ch
+entail-insights.com
 enterombacerick.com
 enterprise2.secureforms.mcafee.com
 enterprise.dnb.ca
