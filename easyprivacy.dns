@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 18NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7312,7 +7312,6 @@ bjfbac.hyundaivaudreuil.com
 bjpsuk.fray-id.com
 bjqnpe.i-office1.net
 bjuvux.andgino.jp
-b.karte.io
 bk.brookeo.fr
 bke.actonservice.com
 bkifg.actonservice.com
@@ -11309,7 +11308,6 @@ ekphpa.perfectlypriscilla.com
 elastoproxy.actonservice.com
 elcaminohospital.hrm.healthgrades.com
 elconfidencialdigital.actonservice.com
-ele26126.jscrambler.com
 e-learning.brainshark.com
 electricity2.tokyu-ps.jp
 electrifai.actonservice.com
@@ -12210,6 +12208,7 @@ events.btw.so
 events.careallies.com
 events.centex.com
 events.chaordicsystems.com
+events.character.ai
 events.cigna.com
 events.clips4sale.com
 events.coface.com
@@ -18068,6 +18067,7 @@ logs.51cto.com
 logs.animaapp.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
+logs.chatboost-cv.algoage.co.jp
 logsdk.kwai-pro.com
 log.seekda.com
 logservice1.hicloud.com
@@ -24166,6 +24166,7 @@ prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 proditor.sparda.de
 prod.nitrosniffer.ottogroup.io
+prodregistryv2.org
 prod.tracking.refinitiv.com
 product.cel-fi.com
 product.cloud.travelport.com
@@ -35536,6 +35537,7 @@ tr.enedis-infos.fr
 tr.enews.customsolutions.fr
 tr.enquetes.actionlogement.fr
 t.rentcafe.com
+t.rentio.jp
 tr.entreprise.axa.fr
 tr.entreprise-pro.info
 tr.envie-de-bien-manger.espmp-aufr.net
