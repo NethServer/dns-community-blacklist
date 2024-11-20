@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 20NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9188,6 +9188,7 @@ ct.pinterest.com
 ctr-iwb.nmg.de
 ctrkd.ilsole24ore.com
 ctr-opc.nmg.de
+ctr.po-kaki-to.com
 ct.taskhuman.com
 cttest.branch.rocks
 c-t.topya.com
@@ -17998,6 +17999,7 @@ log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
 log.collectaction.com
+logcollector.note.com
 log.cookieyes.com
 log.cpex.cz
 log.dance
@@ -23414,6 +23416,7 @@ pabgey.siepomaga.pl
 pacstainless.actonservice.com
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
+pac.thetimes.com
 paeppk.spar-mit.com
 page1solutions.actonservice.com
 page.asraymond.com
