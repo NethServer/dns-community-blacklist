@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6397,6 +6397,7 @@ app.solutions.intermec.com
 app.soonersports.com
 app.sortedai.com
 app.soultime.com
+apps-pbd.ctraffic.io
 apps.shakaguide.com
 apps.software.netsimplicity.com
 apps.spectrum-member.com
@@ -12205,6 +12206,7 @@ events.baselime.io
 events.bendigotafe.edu.au
 events.blackboard.com
 events.brightline.tv
+events.bsky.app
 events.btw.so
 events.careallies.com
 events.centex.com
@@ -12940,6 +12942,7 @@ g11885060100.co
 g1188506010.co
 g12083144435.co
 g12281228770.co
+g1386590346.co
 g1584674682.co
 g1584674684.co
 g1782759015.co
@@ -32409,7 +32412,6 @@ strack.www.allianzcare-corporate.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 strawberry.basf.com
-stream.9now.com.au
 stream.corporatefinanceinstitute.com
 stream-log.dditscdn.com
 streams.cablecar.sph.com.sg
@@ -34207,6 +34209,7 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
 tracker.novage.com.ua
+tracker.prod.ams3.k8s.hyperia.sk
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -37161,6 +37164,7 @@ ut.econnect.utexas.edu
 u-test.getgoose.com
 utexas.actonservice.com
 utgckq.reductionrevolution.com.au
+utics.nodejibi.in
 ut.iggroup.com
 utjzyz.phillips.com
 utklhk.kojima.net
