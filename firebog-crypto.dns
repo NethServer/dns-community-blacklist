@@ -9,7 +9,7 @@
 #
 
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 04DEC24 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 06DEC24 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -11561,7 +11561,6 @@ melqdjqiekcv.com
 mem.serverpower.net
 memescan.io
 mempool.com
-mempool.space
 menjyhvs.bid
 mensfreedom.ru
 meowcoin.lol
