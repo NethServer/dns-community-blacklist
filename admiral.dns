@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 02DEC24 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 09DEC24 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -77,7 +77,6 @@ arrivegrowth.com
 aspiringattempt.com
 astonishingfood.com
 astralhustle.com
-attractiveafternoon.com
 attractivecap.com
 audioarctic.com
 auspiciousyard.com
@@ -150,7 +149,6 @@ buttonladybug.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorstatement.com
-calendarrate.com
 callousbrake.com
 calmcactus.com
 capablecup.com
@@ -205,8 +203,6 @@ combbit.com
 combcattle.com
 comfortablecheese.com
 commonswing.com
-completecabbage.com
-complextoad.com
 conceptualizereading.com
 concernedcondition.com
 condemnedcomb.com
@@ -222,6 +218,7 @@ copycarpenter.com
 copyrightaccesscontrols.com
 cosmosjackson.com
 courageousbaby.com
+coverapparatus.com
 crabbychin.com
 crafthenry.com
 cratecamera.com
@@ -310,6 +307,7 @@ enormousearth.com
 enormousfoot.com
 entertainskin.com
 enthusiasticdad.com
+enthusiasticring.com
 enthusiastictemper.com
 enviousshape.com
 enviousthread.com
@@ -359,6 +357,7 @@ forgetfulflowers.com
 forgetfulsnail.com
 fortunatemark.com
 frailfruit.com
+frantictrail.com
 frightenedpotato.com
 frogator.com
 fronttoad.com
@@ -496,6 +495,7 @@ magnetairport.com
 markedmeasure.com
 marketspiders.com
 marriedmailbox.com
+massivebasket.com
 massivemark.com
 materialmilk.com
 materialparcel.com
@@ -516,7 +516,6 @@ minorcattle.com
 minuteburst.com
 miscreantmoon.com
 mixedreading.com
-modifyeyes.com
 modularmental.com
 moorshoes.com
 motionflowers.com
@@ -579,6 +578,7 @@ piquantpigs.com
 piquantprice.com
 pizzasnut.com
 placidperson.com
+platescarecrow.com
 playfulriver.com
 pleasantpump.com
 plotparent.com
@@ -617,6 +617,7 @@ puffypurpose.com
 pumpedpancake.com
 pumpedpurpose.com
 punyplant.com
+quaintborder.com
 quaintcan.com
 quantumlagoon.com
 quietknowledge.com
@@ -692,6 +693,7 @@ scaredsidewalk.com
 scaredsnake.com
 scaredstomach.com
 scarfsmash.com
+scarfthought.com
 scatteredheat.com
 scatteredstream.com
 scenicdrops.com
@@ -767,6 +769,7 @@ sombersquirrel.com
 sombersurprise.com
 songsterritory.com
 sophisticatedstove.com
+sordidstation.com
 soresidewalk.com
 soresneeze.com
 sorethunder.com
@@ -794,7 +797,6 @@ stakingslope.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
-standingnest.com
 stayaction.com
 steadfastseat.com
 steadfastsound.com
@@ -829,9 +831,11 @@ superficialsquare.com
 swellstocking.com
 swordgoose.com
 syllablesight.com
+synonymousrule.com
 synthesizescarecrow.com
 tangibleteam.com
 tangyamount.com
+tastelesstoes.com
 tastelesstrees.com
 tastesnake.com
 tawdryson.com
@@ -861,6 +865,7 @@ tiresomethunder.com
 toomanyalts.com
 torpidtongue.com
 toweringanswer.com
+tranquilcanyon.com
 tranquilside.com
 trappush.com
 treadbun.com
@@ -899,7 +904,9 @@ venusgloria.com
 verdantanswer.com
 verseballs.com
 virtualvincent.com
+vivaciousveil.com
 voraciousgrip.com
+voyagepotato.com
 vq1qi.pw
 warmafterthought.com
 warmquiver.com
