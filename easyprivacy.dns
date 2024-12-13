@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 13DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12284,7 +12284,6 @@ events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
-events.split.io
 events.squarespace.com
 events.storifyme.com
 events.tafensw.edu.au
@@ -13895,7 +13894,6 @@ go.worldwinner.com
 go.wtcmachinery.com
 go.wu.com
 go.www4.earlywarning.com
-goya.rutube.ru
 go.you-app.com
 go.zakatpedia.com
 go.zapyle.com
@@ -23518,6 +23516,7 @@ pages.vuzion.cloud
 pages.wardsintelligence.informa.com
 pages.zenefits.com
 page.thalesgroup.com
+pageviews.tray.com.br
 page.vital4.net
 paginaseloqua.unisabana.edu.co
 paintersusainc.actonservice.com
@@ -33627,6 +33626,7 @@ tidy.intel.in
 tidy.intel.la
 tif.ionos.com
 tiglck.technopolis.bg
+tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
 timeclock.mytoolr.com
