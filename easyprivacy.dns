@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 16DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -18071,6 +18071,7 @@ log.ren.tv
 log.rhythmtowers.com
 log.rutube.ru
 logs.51cto.com
+logs.adplay.ru
 logs.animaapp.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
@@ -31296,6 +31297,7 @@ stat.dbschenker.com
 stat.detelefoongids.nl
 statdynamic.com
 stat.eagleplatform.com
+stat.fly.codes
 stat.funshion.net
 stat.glaze.ai
 stat.gomastercard.com.au
