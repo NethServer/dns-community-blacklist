@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 18DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -26645,6 +26645,7 @@ services.eclerx.com
 services.edc.ca
 services.princes-trust.org.uk
 services.releasepoint.com
+service.techzine.eu
 service.trustpid.com
 service.vrp.com
 servicing.business.hsbc.com
