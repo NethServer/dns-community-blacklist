@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 20DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4672,6 +4672,7 @@ a.foxsportswest.com
 a.foxsportswisconsin.com
 afoykb.ebook.de
 afpd.groundwidgets.com
+afrdtech.com
 africa.edm.globalsources.com
 africafr.promo.skf.com
 africa.promo.skf.com
@@ -20352,6 +20353,7 @@ me.sigsauer.com
 message.alldata.com
 messages.blackhat.com
 message.sonicwall.com
+mesure-pro.engie.fr
 met1.hp.com
 met2.hp.com
 metallic.actonservice.com
