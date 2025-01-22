@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22JAN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -10534,6 +10534,7 @@ dclnxirp001cou.net.jumia.co.tz
 dc.luzygas.ahorraconrepsol.com
 dc.madridistas.com
 dcnkrd.baseballsavings.com
+dco.coupang.com
 dc.realmadrid.com
 dc.realmadridnext.com
 dc.reiseversicherung.de
