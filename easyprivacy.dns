@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29JAN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -25163,6 +25163,7 @@ plausible.exploreandcreate.com
 plausible.external.sine.foundation
 plausible.f1laps.com
 plausible.factly.in
+plausible.flamekiller.org
 plausible.flowcv.io
 plausible.getlean.digital
 plausible.giveatip.io
@@ -25899,6 +25900,7 @@ questions.theanswerco.com
 questrominfo.bu.edu
 questtest.epoise.com
 quickkoala.io
+quicklyedit.com
 quick.openapp.link
 quickpcfixer.click
 quicksandear.com
