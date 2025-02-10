@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 03FEB25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 10FEB25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -74,6 +74,7 @@ applesarmy.com
 aquaticowl.com
 ar1nvz5.com
 archswimming.com
+ariseboundary.com
 arizonapuzzle.com
 aromamirror.com
 arrivegrowth.com
@@ -241,6 +242,7 @@ cushionpig.com
 cutecalculator.com
 cutechin.com
 cutepopcorn.com
+cuteturkey.com
 damagedadvice.com
 damageddistance.com
 damdoor.com
@@ -425,6 +427,7 @@ handnorth.com
 handsomeindustry.com
 handsomelythumb.com
 handsomeyam.com
+handyfield.com
 handyfireman.com
 harborcub.com
 hatefulrequest.com
@@ -516,6 +519,7 @@ lyricshook.com
 maddeningpowder.com
 magnetairport.com
 makeshiftmine.com
+markedcrayon.com
 markedmeasure.com
 marketspiders.com
 marriedmailbox.com
@@ -546,6 +550,7 @@ mixedreading.com
 modularmental.com
 moorshoes.com
 motionflowers.com
+motionlessbag.com
 motionlessbelief.com
 mountainouspear.com
 movemeal.com
@@ -643,6 +648,7 @@ previousplayground.com
 pricklydebt.com
 pricklypollution.com
 producecopy.com
+productivepear.com
 profitrumour.com
 profusesupport.com
 promopassage.com
@@ -733,6 +739,7 @@ samplesamba.com
 sandstrophies.com
 satisfycork.com
 savoryorange.com
+savorystructure.com
 scarceshock.com
 scarcesign.com
 scarcestream.com
@@ -897,6 +904,7 @@ syllablesight.com
 synthesizescarecrow.com
 tangibleteam.com
 tangyamount.com
+tarttendency.com
 tastelesstrees.com
 tastesnake.com
 tawdryson.com
@@ -917,6 +925,7 @@ thingsafterthought.com
 thirdrespect.com
 thirstytwig.com
 thomastorch.com
+thrillasoft.com
 thrivecover.com
 ticketaunt.com
 ticketjolly.com
