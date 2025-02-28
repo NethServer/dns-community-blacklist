@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26FEB25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28FEB25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7440,6 +7440,7 @@ bi.banggood.com
 biberukalap.com
 bibglj.timberland.fr
 bi.concordesolutions.com
+bicp-analytics.postscript.io
 bidder.mediams.mb.softbank.jp
 bidgx.com
 bidswitch.net
@@ -15374,6 +15375,7 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
+id.a-mx.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -23238,7 +23240,6 @@ money.clerkie.io
 monicaatron.com
 mon.ingservices.nl
 monitor-api.blackcrow.ai
-monitor.azure.com
 monitor.channel4.com
 monitor-frontend-collector.a.bybit-aws.com
 monitoring.iraiser.eu
