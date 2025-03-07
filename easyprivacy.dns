@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07MAR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -19016,6 +19016,7 @@ lodlww.carcon.co.jp
 lofo3l15c674.platform.replai.io
 log000.goo.ne.jp
 log-185a61e7.bendigobank.com.au
+log-2ffe60ee.westpac.com.au
 log2.sina.cn
 log.adplex.co.kr
 log-ads.r7.com
@@ -40167,6 +40168,7 @@ wt.vhb.de
 wt.viagogo.net
 wucvvh.surpricenow.com
 wup-185a61e7.bendigobank.com.au
+wup-2ffe60ee.westpac.com.au
 wvlirb.lexoffice.de
 wvoudw.magaseek.com
 wvrukp.globalcyclingnetwork.com
