@@ -9,7 +9,7 @@
 #
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 12MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 14MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -2708,7 +2708,6 @@ link.dana.id
 link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
-link.springer.com
 link.swa.info
 link.sylikes.com
 link.wizzair.com
