@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 14MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 17MAR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5544,6 +5544,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.viture.dev
 analytics.vixcloud.co
 analytics.vortexscans.com
 analytics.warnertv.fr
@@ -5737,6 +5738,7 @@ apilog-web.acfun.cn
 api.ryanyao.design
 apis.4bn.xyz
 apisensor.actonservice.com
+api-visitor-analytics.intercom.com
 api-websystems.landing.ni.com
 api.wipmania.com
 apiwmda.58.com.cn
@@ -22416,6 +22418,7 @@ metrics.norvir.com
 metrics-now.experian.com
 metrics.nowtv.com
 metrics.nrma.com.au
+metrics.nsureapi.com
 metrics.ntnews.com.au
 metrics.n-tv.de
 metrics.nu.nl
@@ -23973,6 +23976,7 @@ o398.trumbulltimes.com
 o3gxzoewxl1x.cp.zomro.com
 o68c.sfr.fr
 o8.hyatt.com
+o9tt6h08li.execute-api.eu-west-1.amazonaws.com
 oabnmx.jewelryexchange.com
 oae6.carrefour-banque.fr
 oafishchance.com

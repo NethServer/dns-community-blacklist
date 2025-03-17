@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 10MAR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 17MAR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -60,7 +60,6 @@ ambiguousincome.com
 ambrosialsummit.com
 amuckafternoon.com
 amusedbucket.com
-amusementmorning.com
 ancientact.com
 annoyedairport.com
 annoyingacoustics.com
@@ -71,13 +70,13 @@ aquaticowl.com
 archswimming.com
 arcticamber.com
 ariseboundary.com
-arizonapuzzle.com
 aromamirror.com
 arrivegrowth.com
 aspiringattempt.com
 astonishingfood.com
 attractivecap.com
 audioarctic.com
+auntants.com
 automaticside.com
 averageactivity.com
 awarealley.com
@@ -96,7 +95,6 @@ barbarousbase.com
 basketballbelieve.com
 baskettexture.com
 bawdybalance.com
-beadbears.com
 beamincrease.com
 beamvolcano.com
 beancontrol.com
@@ -133,7 +131,6 @@ brotherslocket.com
 bruisebaseball.com
 buildingknife.com
 bulbbait.com
-burgerbrush.com
 burlywhistle.com
 burnbubble.com
 bushesbag.com
@@ -154,6 +151,7 @@ caringcast.com
 carpentercomparison.com
 cartkitten.com
 catalogcake.com
+catalogdiscovery.com
 catschickens.com
 causecherry.com
 cautiouscherries.com
@@ -181,7 +179,6 @@ clammychicken.com
 cleanhaircut.com
 clearcomb.com
 cloisteredcurve.com
-cloudsdestruction.com
 coatfood.com
 colossalclouds.com
 colossalcoat.com
@@ -191,7 +188,6 @@ combbit.com
 combcattle.com
 combclover.com
 comfortablecheese.com
-commonalmanac.com
 condemnedcomb.com
 conditionchange.com
 conditioncrush.com
@@ -216,6 +212,7 @@ critictruck.com
 crookedcreature.com
 crowdedmass.com
 cubchannel.com
+cumbersomecar.com
 cumbersomecarpenter.com
 curiouschalk.com
 curioussuccess.com
@@ -227,7 +224,6 @@ curvycry.com
 cutecalculator.com
 cutechin.com
 cutecushion.com
-cutepopcorn.com
 cuteturkey.com
 damagedadvice.com
 damageddistance.com
@@ -236,7 +232,6 @@ dampdock.com
 dancemistake.com
 dandyglow.com
 dapperdiscussion.com
-dashingdrop.com
 daughterstone.com
 dazzlingbook.com
 debonairdust.com
@@ -263,15 +258,17 @@ discreetfield.com
 discreetquarter.com
 distributiontomatoes.com
 disturbedquiet.com
+divergentoffer.com
 dockdigestion.com
 dogsshoes.com
 dollardelta.com
+dolldetail.com
 donkeyleaf.com
 doorbrazil.com
 doubtdrawer.com
 dq95d35.com
-dramaticcondition.com
 dramaticdirection.com
+dressexpansion.com
 driverequest.com
 dustydime.com
 efficaciouscactus.com
@@ -279,7 +276,6 @@ elasticchange.com
 elderlytown.com
 embellishedmeadow.com
 emptyescort.com
-enchantedjudge.com
 enchantingvalley.com
 encourageshock.com
 encouragingthread.com
@@ -288,7 +284,6 @@ energeticexample.com
 energeticladybug.com
 enormousearth.com
 enormousfoot.com
-entertainingeyes.com
 entertainskin.com
 enthusiasticring.com
 enthusiastictemper.com
@@ -301,12 +296,12 @@ evasivejar.com
 expansioneggnog.com
 experienceeggs.com
 exuberantedge.com
-exuberanteyes.com
 facilitatebreakfast.com
 fadechildren.com
 fadedsnow.com
 fairiesbranch.com
 fallaciousfifth.com
+falsefeet.com
 falseframe.com
 familiarrod.com
 fancyactivity.com
@@ -338,13 +333,13 @@ floweryfact.com
 floweryflavor.com
 floweryoperation.com
 flutteringfireman.com
-foamyfood.com
 forecasttiger.com
 foretellfifth.com
 forgetfulflowers.com
 forgetfulsnail.com
 fortunatemark.com
 frailfruit.com
+fretfulfurniture.com
 fronttoad.com
 fujiladder.com
 fumblingform.com
@@ -353,6 +348,7 @@ functionalfeather.com
 funoverbored.com
 futuristicapparatus.com
 futuristicfifth.com
+futuristicfold.com
 fuzzybasketball.com
 fuzzyerror.com
 gammamaximum.com
@@ -388,6 +384,7 @@ grouchypush.com
 grumpydime.com
 guardedschool.com
 guiltlessbasketball.com
+guitargrandmother.com
 gulliblegrip.com
 hallowedinvention.com
 haltingbadge.com
@@ -402,7 +399,6 @@ handyfield.com
 handyfireman.com
 harborcub.com
 hardtofindmilk.com
-hatefulrequest.com
 headydegree.com
 headyhook.com
 heartbreakingmind.com
@@ -443,6 +439,7 @@ informengine.com
 innocentlamp.com
 inquisitiveinvention.com
 intelligentscissors.com
+intentlens.com
 interestdust.com
 internalsink.com
 inventionpassenger.com
@@ -456,16 +453,13 @@ justicejudo.com
 kitesquirrel.com
 knotkettle.com
 laboredlocket.com
-lackadaisicalkite.com
 lameletters.com
 lamplow.com
 languagelake.com
 lasttaco.com
 laughcloth.com
 leaplunchroom.com
-learnedmarket.com
 leftliquid.com
-lettucecopper.com
 lettucelimit.com
 levelbehavior.com
 liftedknowledge.com
@@ -481,7 +475,6 @@ lumberamount.com
 lumpylumber.com
 lyricshook.com
 maddeningpowder.com
-makeshiftmine.com
 markedcrayon.com
 markedmeasure.com
 marketspiders.com
@@ -501,10 +494,8 @@ messyoranges.com
 mightyspiders.com
 mimosamajor.com
 mindfulgem.com
-mindlessmark.com
 minorcattle.com
 minuteburst.com
-minuterhythm.com
 miscreantmoon.com
 mixedreading.com
 modularmental.com
@@ -512,7 +503,6 @@ moorshoes.com
 motionflowers.com
 motionlessbag.com
 motionlessbelief.com
-mountainouspear.com
 movemeal.com
 mowfruit.com
 muddledaftermath.com
@@ -544,7 +534,6 @@ obscenesidewalk.com
 oldfashionedoffer.com
 opalquill.com
 operationchicken.com
-opinionsurprise.com
 oppositeoperation.com
 optimallimit.com
 orangeoperation.com
@@ -562,11 +551,12 @@ parchedsofa.com
 parentpicture.com
 parsimoniouspolice.com
 partplanes.com
+passengerpage.com
 pastoralroad.com
 peacefullimit.com
 pedropanther.com
 perceivequarter.com
-physicalbikes.com
+persuadesupport.com
 pinchsquirrel.com
 piquantpigs.com
 piquantprice.com
@@ -583,9 +573,9 @@ pocketsonic.com
 podiumpresto.com
 pointdigestion.com
 pointlesspocket.com
+pointlessrifle.com
 poisedfuel.com
 polishedcrescent.com
-politegoldfish.com
 politeplanes.com
 possibleboats.com
 powderjourney.com
@@ -602,9 +592,7 @@ producecopy.com
 productivepear.com
 profitrumour.com
 profusesupport.com
-promopassage.com
 propertypotato.com
-proudprose.com
 psychedelicarithmetic.com
 puffyloss.com
 puffypaste.com
@@ -667,9 +655,8 @@ ringsrecord.com
 riserange.com
 ritzyveil.com
 rollbar.com
-roomyreading.com
-roosterfirework.com
 roseincome.com
+ruddywash.com
 rulerabbit.com
 rusticprice.com
 ruthlessdegree.com
@@ -730,7 +717,6 @@ shakysurprise.com
 shallowblade.com
 shamerain.com
 shesubscriptions.com
-shinesavage.com
 shiveringsail.com
 shiverscissors.com
 shockinggrass.com
@@ -760,23 +746,22 @@ smilingcattle.com
 smoggysnakes.com
 smoggysongs.com
 smoggystation.com
+snakesshop.com
 sneakystew.com
 snoresmile.com
 snowmentor.com
 soggysponge.com
+somberattack.com
 somberscarecrow.com
 sombersea.com
 sombersquirrel.com
 sombersurprise.com
 songsterritory.com
-sootheside.com
-sophisticatedstory.com
 sophisticatedstove.com
 soresidewalk.com
 soresneeze.com
 sorethunder.com
 soretrain.com
-sortsummer.com
 sowlettuce.com
 sparklingshelf.com
 specialscissors.com
@@ -798,10 +783,8 @@ spysubstance.com
 squeakzinc.com
 squealingturn.com
 stakingsmile.com
-staleseat.com
 stalesummer.com
 stampknot.com
-standingsack.com
 stayaction.com
 steadfastseat.com
 steadfastsound.com
@@ -816,16 +799,18 @@ stiffstem.com
 stockingsneeze.com
 stomachscience.com
 stonechin.com
+storescissors.com
 storesurprise.com
 straightnest.com
+strangesink.com
 streetsort.com
 stretchsister.com
 stupendoussleet.com
 stupendoussnow.com
-subsequentstew.com
+substantialcarpenter.com
 succeedscene.com
+successfulscent.com
 suddensoda.com
-suddenstructure.com
 sugarcurtain.com
 sulkycook.com
 summerobject.com
@@ -851,8 +836,9 @@ teethfan.com
 tempertrick.com
 tendertest.com
 terriblethumb.com
-testedtouch.com
 texturetrick.com
+thickticket.com
+thicktrucks.com
 thingsafterthought.com
 thinkablefloor.com
 thirdrespect.com
@@ -872,27 +858,28 @@ tinytendency.com
 tiresomethunder.com
 toedrawer.com
 toomanyalts.com
-toothpasterabbits.com
 toweringanswer.com
 tranquilcanyon.com
+translateoatmeal.com
 trappush.com
 treadbun.com
 tremendousplastic.com
 tremendoustime.com
+tremendoustreatment.com
 tritebadge.com
 tritetongue.com
-troubledtail.com
 truckstomatoes.com
 twistloss.com
 typicalairplane.com
 typicalteeth.com
-ubiquitousyard.com
 ultraoranges.com
 unarmedindustry.com
 unbecominghall.com
 unbecominglamp.com
+uncoveredcircle.com
 uncoveredexpert.com
 unequalbrake.com
+unevenstring.com
 uninterestedquarter.com
 unknowncrate.com
 unnaturalcaption.com
@@ -917,7 +904,7 @@ whirlwealth.com
 whiskyqueue.com
 whisperingcascade.com
 whisperingcrib.com
-wigglyindustry.com
+wildernesscamera.com
 wirecomic.com
 workoperation.com
 worriednumber.com
