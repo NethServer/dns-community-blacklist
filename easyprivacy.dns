@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 21MAR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -33941,6 +33941,7 @@ stats.thomasbandt.com
 stats.thomasvitale.com
 stats.tiffany.ie
 stats.tijdschrift.zenleven.nl
+stats.tiktoker.win
 stats.time2unfold.com
 stats.timkhoury.com
 stats.timmo.immo
@@ -41209,6 +41210,7 @@ yoifwi.levi.com.ph
 yoiku-sub.yoiku.support
 yo.inbots.online
 yolo.philipbjorge.com
+yotrack.cdn.ybn.io
 yottlyscript.com
 youate.co
 youborafds01.com
