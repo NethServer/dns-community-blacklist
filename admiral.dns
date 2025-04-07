@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 31MAR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 07APR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -58,6 +58,7 @@ ambiguousalarm.com
 ambiguousanger.com
 ambiguousdinosaurs.com
 ambiguousincome.com
+ambitiousagreement.com
 ambrosialsummit.com
 amuckafternoon.com
 amusedbucket.com
@@ -176,6 +177,7 @@ charmingplate.com
 chemicalcoach.com
 cherriescare.com
 chesscolor.com
+chickensstation.com
 childlikecrowd.com
 childlikeform.com
 chingovernment.com
@@ -251,6 +253,7 @@ debonairtree.com
 decidedrum.com
 decisivebase.com
 decisivedrawer.com
+decisiveducks.com
 decoroustitle.com
 decoycreation.com
 deerbeginner.com
@@ -282,7 +285,9 @@ dolldetail.com
 donkeyleaf.com
 doorbrazil.com
 doubtdrawer.com
+doubtfulrainstorm.com
 dq95d35.com
+dragzebra.com
 dramaticdirection.com
 dressexpansion.com
 driverequest.com
@@ -336,6 +341,7 @@ faultyfowl.com
 fearfulfish.com
 fearlessfaucet.com
 featherstage.com
+feebleshock.com
 feeblestamp.com
 feignedfaucet.com
 fewkittens.com
@@ -368,10 +374,12 @@ functionalcrown.com
 functionalfeather.com
 funoverbored.com
 futuristicapparatus.com
+futuristicfairies.com
 futuristicfifth.com
 futuristicfold.com
 fuzzybasketball.com
 fuzzyerror.com
+fuzzyflavor.com
 gammamaximum.com
 gaudyairplane.com
 gaudybeginner.com
@@ -401,6 +409,7 @@ grayreceipt.com
 greasegarden.com
 greasysquare.com
 greetzebra.com
+greyinstrument.com
 gripcorn.com
 groovyornament.com
 grouchypush.com
@@ -589,6 +598,7 @@ peacefullimit.com
 pedropanther.com
 perceivequarter.com
 persuadesupport.com
+petiteumbrella.com
 pinchsquirrel.com
 pinpointpotato.com
 piquantpigs.com
@@ -636,7 +646,7 @@ puffypurpose.com
 pumpedpancake.com
 pumpedpurpose.com
 punyplant.com
-quaintlake.com
+quaintcan.com
 quantumlagoon.com
 quantumshine.com
 quietknowledge.com
@@ -654,12 +664,14 @@ rainyrule.com
 rangecake.com
 rangeplayground.com
 raresummer.com
+readgoldfish.com
 readingguilt.com
 readymoon.com
 readysnails.com
 realizedoor.com
 realizerecess.com
 rebelhen.com
+rebelsubway.com
 rebelswing.com
 receptivebranch.com
 receptivereaction.com
@@ -747,6 +759,7 @@ secretturtle.com
 seedscissors.com
 selectivesummer.com
 selfishsnake.com
+separatesilver.com
 separatesort.com
 serenesurf.com
 servebom.com
@@ -757,6 +770,7 @@ shakesuggestion.com
 shakysurprise.com
 shallowblade.com
 shamerain.com
+sharppatch.com
 shesubscriptions.com
 shiveringsail.com
 shiverscissors.com
@@ -852,10 +866,12 @@ stonechin.com
 storescissors.com
 storeslope.com
 storesurprise.com
+stormyachiever.com
 straightnest.com
 strangesink.com
 streetsort.com
 stretchsister.com
+strivesidewalk.com
 stupendoussleet.com
 stupendoussnow.com
 stupidsnake.com
@@ -872,6 +888,7 @@ superficialspring.com
 superficialsquare.com
 sweepsheep.com
 swellstocking.com
+swimslope.com
 swordgoose.com
 syllablesight.com
 synthesizescarecrow.com
@@ -922,6 +939,7 @@ treadbun.com
 tremendousplastic.com
 tremendoustime.com
 tremendoustreatment.com
+trickycelery.com
 tritebadge.com
 tritetongue.com
 truckstomatoes.com
@@ -959,6 +977,7 @@ wakefulcook.com
 warmafterthought.com
 warmquiver.com
 warnwing.com
+wateryvan.com
 wellgroomedhydrant.com
 whineattempt.com
 whirlwealth.com
