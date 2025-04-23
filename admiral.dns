@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 14APR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 23APR25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -20,6 +20,7 @@
 2znp09oa.com
 2znp09oa.com
 4jnzhl0d0.com
+5mcwl.pw
 82o9v830.com
 aboardamusement.com
 aboardlevel.com
@@ -60,6 +61,7 @@ ambitiousagreement.com
 ambrosialsummit.com
 amuckafternoon.com
 amusedbucket.com
+amusementmorning.com
 ancientact.com
 annoyedairport.com
 annoyingacoustics.com
@@ -68,7 +70,6 @@ anxiousapples.com
 applesarmy.com
 aquaticowl.com
 archswimming.com
-arcticamber.com
 aromamirror.com
 arrivegrowth.com
 aspiringattempt.com
@@ -105,7 +106,6 @@ bewilderedbattle.com
 bewilderedblade.com
 bhcumsc.com
 billowybead.com
-bitterbear.com
 bleachbubble.com
 bleachscarecrow.com
 blushingbeast.com
@@ -167,7 +167,6 @@ chalkoil.com
 changeablecats.com
 channelcamp.com
 charmingplate.com
-chemicalcoach.com
 cherriescare.com
 chesscolor.com
 chickensstation.com
@@ -190,8 +189,8 @@ combativecar.com
 combativedetail.com
 combbit.com
 combcattle.com
-combclover.com
 comfortablecheese.com
+commonalmanac.com
 conceptualizereading.com
 condemnedcomb.com
 conditionchange.com
@@ -209,7 +208,6 @@ courageousbaby.com
 crabbychin.com
 crafthenry.com
 cratecamera.com
-crayoncompetition.com
 creatorcherry.com
 creaturecabbage.com
 critictruck.com
@@ -236,6 +234,7 @@ dampdock.com
 dancemistake.com
 dandyglow.com
 dapperdiscussion.com
+dashingdrop.com
 daughterstone.com
 dazzlingbook.com
 debonairdust.com
@@ -271,7 +270,6 @@ divergentoffer.com
 dockdigestion.com
 dollardelta.com
 dolldetail.com
-doorbrazil.com
 doubtdrawer.com
 doubtfulrainstorm.com
 dq95d35.com
@@ -345,13 +343,11 @@ floweryoperation.com
 flutteringfireman.com
 forecasttiger.com
 foretellfifth.com
-forgetfulflowers.com
 forgetfulsnail.com
 fortunatemark.com
 frailfruit.com
 fretfulfurniture.com
 fronttoad.com
-fujiladder.com
 fumblingform.com
 functionalcrown.com
 functionalfeather.com
@@ -363,6 +359,7 @@ futuristicfold.com
 fuzzybasketball.com
 fuzzyerror.com
 fuzzyflavor.com
+fvl1f.pw
 gammamaximum.com
 gaudyairplane.com
 gaudybeginner.com
@@ -400,6 +397,7 @@ guiltlessbasketball.com
 guitargrandmother.com
 gulliblecamp.com
 gulliblegrip.com
+h78xb.pw
 haltingbadge.com
 haltingdivision.com
 haltinggold.com
@@ -410,6 +408,7 @@ handsomelythumb.com
 handsomeyam.com
 handyfireman.com
 harborcub.com
+hatefulrequest.com
 headydegree.com
 headyhook.com
 heartbreakingmind.com
@@ -433,6 +432,7 @@ hurtgrape.com
 hypnoticwound.com
 hystericalcloth.com
 hystericalfinger.com
+i9w8p.pw
 illinvention.com
 illustriousoatmeal.com
 immensehoney.com
@@ -449,7 +449,6 @@ infamousstream.com
 innocentlamp.com
 inquisitiveinvention.com
 intelligentscissors.com
-interestdust.com
 internalsink.com
 inventtango.com
 irritatingfog.com
@@ -458,21 +457,20 @@ j93557g.com
 jailbulb.com
 joblessdrum.com
 justicejudo.com
+k54nw.pw
 kitesquirrel.com
 kittyaction.com
-knotkettle.com
 knottysticks.com
 laboredlocket.com
+lackadaisicalkite.com
 lameletters.com
 lamplow.com
-languagelake.com
 lasttaco.com
 laughcloth.com
 laughdrum.com
 leapfaucet.com
 leaplunchroom.com
 leftliquid.com
-levelbehavior.com
 liftedknowledge.com
 livelumber.com
 livelylaugh.com
@@ -490,7 +488,6 @@ mailboxmeeting.com
 markedmeasure.com
 marketspiders.com
 marriedmailbox.com
-materialisticfan.com
 materialmilk.com
 materialmoon.com
 materialparcel.com
@@ -507,6 +504,7 @@ metroaverage.com
 mightyspiders.com
 mimosamajor.com
 mindfulgem.com
+mindlessmark.com
 minorcattle.com
 minuteburst.com
 miscreantmoon.com
@@ -522,7 +520,6 @@ mushywaste.com
 naivestatement.com
 nappyattack.com
 nebulousamusement.com
-negotiatetime.com
 neighborlywatch.com
 nervoussummer.com
 netizen.co
@@ -663,7 +660,6 @@ restrainstorm.com
 rhetoricalactivity.com
 rhetoricalloss.com
 rhymezebra.com
-rhythmmoney.com
 rhythmrule.com
 richstring.com
 righteouscrayon.com
@@ -676,6 +672,7 @@ ringsrecord.com
 riserange.com
 ritzyveil.com
 rollbar.com
+roosterfirework.com
 roseincome.com
 ruddycast.com
 ruddywash.com
@@ -690,7 +687,6 @@ samestretch.com
 samplesamba.com
 sandstrophies.com
 satisfycork.com
-satisfyingshow.com
 savoryorange.com
 scarceshock.com
 scarcesign.com
@@ -753,7 +749,6 @@ silentwrench.com
 siliconslow.com
 sillyscrew.com
 simplesidewalk.com
-simplisticstem.com
 simulateswing.com
 sincerebuffalo.com
 sincerepelican.com
@@ -764,7 +759,6 @@ sixscissors.com
 skillfuldrop.com
 slaysweater.com
 slimopinion.com
-sloppycalculator.com
 smashshoe.com
 smashsurprise.com
 smilingcattle.com
@@ -836,6 +830,7 @@ strivesidewalk.com
 stupendoussleet.com
 stupendoussnow.com
 stupidsnake.com
+subsequentstew.com
 substantialcarpenter.com
 substantialstraw.com
 succeedscene.com
@@ -858,6 +853,7 @@ tangyamount.com
 tastelesstrees.com
 tastesnake.com
 tawdryson.com
+tdzvm.pw
 tedioustooth.com
 teenytinycellar.com
 teenytinyshirt.com
@@ -865,11 +861,11 @@ teenytinytongue.com
 tempertrick.com
 tendertest.com
 terriblethumb.com
+testedtouch.com
 texturetrick.com
 thickticket.com
 thicktrucks.com
 thingsafterthought.com
-thinkablefloor.com
 thirdrespect.com
 thirstyswing.com
 thomastorch.com
@@ -883,7 +879,6 @@ tidytrail.com
 tightpowder.com
 tinytendency.com
 tiresomethunder.com
-toedrawer.com
 toomanyalts.com
 topichawaii.com
 toweringanswer.com
@@ -903,6 +898,8 @@ tutorthing.com
 twistloss.com
 typicalairplane.com
 typicalteeth.com
+tzwaw.pw
+ubiquitousyard.com
 ultraoranges.com
 unarmedindustry.com
 unbecominghall.com
@@ -913,7 +910,6 @@ unequalbrake.com
 unevenstring.com
 uninterestedquarter.com
 unknowncrate.com
-unnaturalcaption.com
 untidyrice.com
 unusedquestion.com
 unusedstone.com
@@ -928,6 +924,7 @@ verifyvegetable.com
 verseballs.com
 virtualvincent.com
 voraciousgrip.com
+vq1qi.pw
 wakefulcook.com
 warmafterthought.com
 warmquiver.com
