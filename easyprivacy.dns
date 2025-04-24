@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 23APR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4726,6 +4726,7 @@ af.shozankan-shop.com
 aftermath.actonservice.com
 aftermathbrother.com
 afterschoolallstars.actonservice.com
+aftership-pixel.com
 a.fxnetworks.com
 agcjee.sklep-nasiona.pl
 agcmtb.nameit.com
@@ -5418,6 +5419,7 @@ analytics.recamov.com
 analytics.rechtslupe.org
 analytics.recruitics.com
 analytics.redlink.com.ar
+analytics.refurbed.de
 analytics.reliant.com
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev.com
@@ -8336,6 +8338,7 @@ cdn7.baunetz.de
 cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdnhst.xyz
+cdnlogs.org
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
@@ -9955,6 +9958,7 @@ d3uvwl4wtkgzo1.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
 d401.dollartree.com
 d4ax0r5detcsu.cloudfront.net
+d5yoctgpv4cpx.cloudfront.net
 d6ek.pandasuite.io
 d712.theinformation.com
 d761erxl2qywg.cloudfront.net
@@ -12453,6 +12457,7 @@ emzorz.allergybuyersclub.com
 enablement.vmware.com
 enablis.actonservice.com
 enbazj.ilbianconero.com
+enc-90128738.b-cdn.net
 enchantedjudge.com
 enchantedrock.actonservice.com
 enchantedskyline.com
@@ -14943,6 +14948,7 @@ h5.analytics.126.net
 h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
+hacx60.com
 hal.courrierinternational.com
 halcyoncanyon.com
 halcyonsculpture.com
@@ -23455,6 +23461,7 @@ msitec.actonservice.com
 m.smartmatch.email
 m.sm.princess.com
 msr.p-antiaging.com
+mstat.mos.ru
 mstm.motorsport.com
 ms.topschooljobs.org
 ms-trackingapi.phenompeople.com
@@ -25799,6 +25806,7 @@ purpose.maxizoo.fr
 purpose.maxizoo.ie
 purpose.maxizoo.pl
 purposepipe.com
+pushd.netky.tech
 pushmaster-cdn.xyz
 pushspring.actonservice.com
 pushvisit.xyz
@@ -26332,6 +26340,7 @@ remine.actonservice.com
 remnkv.doda.jp
 remote.carte-gr.total.fr
 removeads.workers.dev
+remp-beam.golem.de
 remp.nv.ua
 renaultbankdirekt.efscle.com
 rentinfinity.com
@@ -31781,6 +31790,7 @@ smf.southernmetalfab.com
 sm.groc.press
 smilewound.com
 smilingcattle.com
+smilingmaster.com
 smilingshake.com
 smilingswim.com
 smilingwaves.com
@@ -34632,7 +34642,6 @@ swa.vodafone.cz
 swa.vodafone.pt
 swa.wowcher.co.uk
 s.wayfair.com
-sw.broadcom.com
 swdced.open32.nl
 swebanalytics.acs.org
 swebanalytics.degulesider.dk
@@ -34852,6 +34861,7 @@ tags.stepstone.com
 tag.statshop.fr
 tagtracking.vibescm.com
 tag.triboomedia.it
+tag.weezmo.com
 t.airasia.com
 takigx.tourneau.com
 takingbackjuly.com
@@ -36603,6 +36613,7 @@ tracking.game8.co
 tracking.game8.jp
 tracking.gameforge.de
 tracking.gartner.com
+tracking.gaslicht.com
 tracking.gelia.com
 tracking.getapp.com
 tracking.global-demand02.nec.com
@@ -38666,6 +38677,7 @@ tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.sportswear.np6.com
+tr.standardadmin.org
 tr.strategie.gouv.fr
 tr.suedkurier.de
 tr.suivi-client-edf.com
@@ -39832,6 +39844,7 @@ visitors.gigianddavid.com
 visitping.rossel.be
 visit-prod-us.occa.ocs.oraclecloud.com
 visit.sendheirloom.com
+visit-server.inmobi-choice.io
 visit.tenplay.com.au
 visit.xchina.pics
 visma.e-conomic.dk
