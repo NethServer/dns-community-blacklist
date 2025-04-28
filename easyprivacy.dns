@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28APR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5742,6 +5742,7 @@ api-js.mixpanel.com
 api.june.so
 a.pikabu.ru
 apilog-web.acfun.cn
+api-metric.gosweb.gosuslugi.ru
 api.ryanyao.design
 apis.4bn.xyz
 api.sae.systems
@@ -6843,6 +6844,7 @@ assistant.dg1.com
 association.locktonaffinity.net
 as.stylebook.de
 assure360.actonservice.com
+astarsbuilding.com
 astat.nikkei.com
 as.techbook.de
 ast-en.adp.ca
@@ -6936,6 +6938,7 @@ aud.banque-france.fr
 audience-mostread.r7.com
 audience.newscgp.com
 audience.standardchartered.com.tw
+audiencies.3cat.cat
 audiencies.ccma.cat
 audioarctic.com
 audiofly.actonservice.com
@@ -9433,6 +9436,7 @@ count.candou.com
 count.carrierzone.com
 count.darkreader.app
 counter.1i.kz
+counter247.live
 counter2.blog.livedoor.com
 counter.blogoscoop.net
 counter.bloke.com
@@ -9504,6 +9508,8 @@ cp.phiilu.com
 cppm-kc2.net.jumia.ci
 cp.rootielearning.com
 cpt.itv.com
+cpt.postnl.be
+cpt.postnl.nl
 cpx.golem.de
 cpxl.golem.de
 cpx.smind.si
@@ -9590,6 +9596,7 @@ cs42.pikabu.ru
 cs43.pikabu.ru
 csalhh.okay.cz
 cs.analytics.lego.com
+cs.bankmillennium.pl
 csbmey.viherpeukalot.fi
 cs.coopeservidores.fi.cr
 cscsexam.quantresear.ch
@@ -9912,6 +9919,7 @@ d21y75miwcfqoq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
+d24luoisenoi7j.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d276.ourmidland.com
 d2cpw6kwpff7n5.cloudfront.net
@@ -10066,6 +10074,7 @@ data.automaticas.realmadrid.com
 data.avid.com
 data.b2bmail.adobe.com
 data.babista.de
+data.barry-callebaut.com
 data.bilibili.com
 data.b.information.blau.de
 data.bioplanet.be
@@ -10273,6 +10282,7 @@ data.euk.nespresso.com
 data.europe.coca-cola.com
 data.events.cbussuper.com.au
 data.events.pokerstars.dk
+data-events.uniplaces.com
 data.e.visionmondiale.ca
 data.e.worldvision.ca
 data.fans.alexalbon.com
@@ -11302,6 +11312,7 @@ dm-target.thermofisher.com
 dmtgo.upc.biz
 dmuwlm.fonteynspas.com
 dmvbpz.swimoutlet.com
+dmxhgf4zuwdvu.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 d.nativendo.de
 dna.uol.com.br
@@ -12668,7 +12679,6 @@ enthusiasticdad.com
 enthusiastictemper.com
 entryhit.wp.pl
 en-us.coloplastcare.com
-envato.market
 enviousshape.com
 enviousthread.com
 eofjtw.jjshouse.se
@@ -14137,6 +14147,7 @@ gj.mmstat.com
 gjmovc.epapoutsia.gr
 gjndsa.amaro.com
 gkcqyo.aquazzura.com
+gke.econodata.com.br
 gkfdkf.jdsports.co.uk
 gk.gkservices.com
 gkgygj.verivox.de
@@ -16668,6 +16679,7 @@ info.oh-ins.com
 info.ohlogistics.com
 info.omep.org
 info.onlinetech.com
+info.onwd.com
 info.ortecfinance.com
 info.osiriseducational.co.uk
 info.osufoundation.org
@@ -16948,6 +16960,7 @@ info.zoominfotechnologies.com
 info.zoomintel.com
 info.zuidema.nl
 ingest.coincodex.com
+ingesteer.services-prod.nsvcs.net
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 in-go.experian.com
@@ -17147,6 +17160,7 @@ invite.urbanclap.com
 invite.youmail.com
 inv.mksp.io
 inx-corp.actonservice.com
+inzicht.cz.nl
 ioactiveinc.actonservice.com
 iob.imgur.com
 iobyeq.dallmayr-versand.de
@@ -19012,6 +19026,7 @@ link.zulily.com
 link.zurp.com
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+liquid.agora.pl
 li.rtl2.de
 listen.trakks.com
 listen.tunein.com
@@ -19725,6 +19740,7 @@ markedcrayon.com
 markedmeasure.com
 markedpail.com
 markentive.actonservice.com
+marker.konograma.com
 market.bellelily.com
 marketing.100days.co.il
 marketing.1-800boardup.com
@@ -23455,6 +23471,7 @@ msa-emea.secureforms.partnermcafee.com
 msafoy.eyebuydirect.com
 msa-uki.secureforms.partnermcafee.com
 msbainfo.fbe.hku.hk
+msboul.gruenwelt.de
 ms.dzen.ru
 mseeru.faz.net
 msfvwi.sieuthiyte.com.vn
@@ -24653,6 +24670,7 @@ osuwzo.oyunfor.com
 osvdtm.theshopyohjiyamamoto.jp
 os.vudu.com
 o.swisscom.ch
+otel-collector.lenta.tech
 othanasis.openapp.link
 othisf.tagomago.pl
 otisxx.sullyn.com
@@ -25183,6 +25201,7 @@ pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
 pixel.kknews.cc
+pixel.leadlovers.app
 pixel.lilystyle.ai
 pixel.locker2.com
 pixel.mintigo.com
@@ -26124,6 +26143,8 @@ radiantlullaby.com
 radiateprose.com
 radiometer.actonservice.com
 radio.moodybible.org
+raf.postnl.be
+raf.postnl.nl
 railwayrainstorm.com
 railwayreason.com
 raintwig.com
@@ -26158,6 +26179,7 @@ ratings-events.standardandpoors.com
 r.atlasearth.com
 rat.rakuten.co.jp
 raven.adeptmind.ai
+raw.vidyard.com
 razzweb.com
 rba-screen.healthsafe-id.com
 r.bbci.co.uk
@@ -28775,6 +28797,7 @@ s.mannes.tech
 smart.boxtone.com
 smartcam.adt-worldwide.com
 smart-data-systems.com
+smartmetrics.co.uk
 smartworksforme.actonservice.com
 smashquartz.com
 smashshoe.com
@@ -33065,6 +33088,7 @@ sst.colemanfurniture.com
 sst.cooperativa.cl
 s.stgeorgeafc.com.au
 sst.shopware.com
+sst.vrijopnaam.nl
 ssuork.sixt.at
 ssuperstats.observepoint.com
 ssushe.kennethcole.com
@@ -34078,6 +34102,7 @@ stats.tunt.lv
 stats.twhl.xyz
 stats.ubiwiz.com
 stats.ulixes.pl
+stats.uniplaces.com
 stats.united-domains.de
 stats.unka.space
 stats.unusualtourist.com
@@ -35206,6 +35231,7 @@ tastesnake.com
 ta.taxslayer.com
 tatehj.nylaarp.com
 tatpek.com
+ta.trs.cn
 t.auburntigers.com
 t.auditedmedia.org.au
 t.augustaentertainmentcomplex.com
@@ -37229,6 +37255,7 @@ training.hager.co.uk
 training.indigobusiness.co.uk
 training.thunderhead.com
 traka8.crypto-mall.org
+trakle01.online
 tr.alex.espmp-agfr.net
 tr.allianz-trade.com
 tr.allopneus.com
@@ -38865,6 +38892,7 @@ t-s.perjeta.com
 t.splicky.com
 tsp.onjoyri.de
 ts.popsugar.com
+t.sports.ru
 t.spot.im
 t-s.revealvirology.com
 t-s.rheumatoidarthritis.com
@@ -38979,6 +39007,7 @@ twjobq.sixt.es
 twjobq.sixt.fr
 twjobq.sixt.nl
 twkbui.mansion-review.jp
+two.cm.com
 twoeej.carrefour.fr
 two.tio.nl
 tw.reppublika.com
@@ -39126,6 +39155,7 @@ uigwgn.france-abonnements.fr
 uijciz.gunze.jp
 uilogging.tcdevops.com
 uilwmi.coop.nl
+uimarketpro.com
 uim.tifbs.net
 uinpmz.iichi.com
 uiusqp.crowdcow.com
@@ -39166,6 +39196,7 @@ ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
 umami.aigenerations.net
+umami.askrella.de
 umami.heroku.uk
 umami.wakarimasen.moe
 umazvs.raybiotech.com
@@ -39193,6 +39224,7 @@ understoodocean.com
 undurs.1md.org
 unequalbrake.com
 unequaltrail.com
+uni7.uniplaces.com
 unicontainers.com
 unifiedwfo.verintsystemsinc.com
 unifilabs.actonservice.com
@@ -41478,6 +41510,7 @@ xljqqe.hsn.com
 xludzt.alfastrah.ru
 xlvvy4msxr.coolinastore.com
 xmcvqq.pinkpanda.ro
+xmetrics.camsoda.com
 xmfugv.tgn.co.jp
 xmohlh.melia.com
 xmqrvx.jewelry-queen-shop.com
@@ -41679,6 +41712,7 @@ yourhealth.bassett.org
 yourhealth.cooperhealth.org
 yourhealth.sahealth.com
 yourhealth.wellness.providence.org
+yourlifedream.com
 your.maas.ptvgroup.com
 your.mapandguide.ptvgroup.com
 your.mapandmarket.ptvgroup.com
