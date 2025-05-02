@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02MAY25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5438,6 +5438,7 @@ analytics.runpath.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
+analytics.scorpion.co
 analytics-scripts.cablelabs.com
 analytics.seagate.com
 analyticssec.overwolf.com
@@ -9439,6 +9440,7 @@ count.darkreader.app
 counter.1i.kz
 counter247.live
 counter2.blog.livedoor.com
+counter.asobeans.jp
 counter.blogoscoop.net
 counter.bloke.com
 counter.cam-content.com
@@ -11821,7 +11823,6 @@ ed.emp-shop.no
 ed.emp-shop.pl
 ed.emp-shop.se
 ed.emp-shop.sk
-edge.adobedc.net
 edge.afco.com
 edge.bell.ca
 edge.bigbrothercanada.ca
@@ -33145,6 +33146,7 @@ standingnest.com
 standingsack.com
 standtrouble.com
 stan.xing.com
+stape.brascast.com
 starchild.odencat.com
 starget.aircanada.com
 starget.airmiles.ca
@@ -34875,6 +34877,7 @@ tag.elevaate.io
 tag.flagship.io
 tagger.opecloud.com
 tagger.ope.scmp.com
+tagging.shiftdigitalapps.io
 tagging.sliponline.nl
 tagging.steelseries.com
 tag.goldenbees.fr
@@ -39982,6 +39985,7 @@ vpemsb.autocasion.com
 vpf4.euskaltelofertas.com
 vphsiv.gsshop.com
 vpivyf.meshki.com.au
+vplayeranalytics.vidgyor.com
 vpl.voyage-prive.pl
 vpmdiq.propertyfinder.qa
 vppst.iltrovatore.it
