@@ -45356,6 +45356,8 @@ metrics.brave.com
 adblock-data.s3.brave.com
 adblock-data.brave.com
 analytics.brave.com
+collector.bsg.brave.com
+usage-ping.brave.com
 vuorrions.shop
 fomiln.com
 analytics.23video.com
@@ -49580,6 +49582,7 @@ incoming.telemetry.mozilla.org
 public-data.telemetry.mozilla.org
 probes.telemetry.mozilla.org
 loop.telemetry.mozilla.org
+telemetry-incoming.r53-2.services.mozilla.com
 marketing-cdn.doodle.com
 mkt.e.doodle.com
 iyfbodn.com
@@ -62308,3 +62311,4 @@ vbt.io
 www.vbt.io
 analytics.tixr.com
 metrics.datadome.co
+suggest.dzen.ru
