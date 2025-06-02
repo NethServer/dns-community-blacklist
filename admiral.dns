@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 26MAY25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 02JUN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -20,7 +20,6 @@
 2znp09oa.com
 2znp09oa.com
 4jnzhl0d0.com
-5mcwl.pw
 82o9v830.com
 abilityscale.com
 abjectattempt.com
@@ -241,6 +240,7 @@ carefuldolls.com
 caringcast.com
 carloforward.com
 carpentercomparison.com
+carscannon.com
 cartelsalsa.com
 cartkitten.com
 carvecakes.com
@@ -268,7 +268,6 @@ changeablecats.com
 channelcamp.com
 chargecracker.com
 charmingplate.com
-charscroll.com
 cheerycraze.com
 cherriescare.com
 chessbranch.com
@@ -302,8 +301,8 @@ cobaltoverture.com
 coffeesidehustle.com
 coldbalance.com
 coldcallpro.com
-coldcreatives.com
 coloradoserves.com
+colossalchance.com
 colossalclouds.com
 colossalcoat.com
 colossalcry.com
@@ -337,6 +336,7 @@ convertbatch.com
 cooingcoal.com
 coolestcatcare.com
 coolguesthouse.com
+coordinatedbedroom.com
 coordinatedcoat.com
 copycarpenter.com
 copyrightaccesscontrols.com
@@ -356,7 +356,6 @@ crabbychin.com
 crafthenry.com
 crashchance.com
 cratecamera.com
-craterbox.com
 crawlclocks.com
 creatorcherry.com
 creatorpassenger.com
@@ -391,6 +390,7 @@ cushiondrum.com
 cutecalculator.com
 cutechin.com
 cyclopsdial.com
+dailydivision.com
 damagedadvice.com
 damageddistance.com
 damdoor.com
@@ -416,7 +416,6 @@ degreechariot.com
 delicatecascade.com
 deliciousducks.com
 delightdriving.com
-deltafault.com
 deluxecrate.com
 dependenttrip.com
 deployinput.com
@@ -428,7 +427,6 @@ detailedkitten.com
 detectdinner.com
 detectdiscovery.com
 detourgame.com
-deviceworkshop.com
 devilishdinner.com
 dewdroplagoon.com
 difficultfog.com
@@ -443,6 +441,7 @@ discreetquarter.com
 distributionpocket.com
 distributiontomatoes.com
 disturbedquiet.com
+divergentoffer.com
 dockdigestion.com
 dogbedscentral.com
 dollardelta.com
@@ -492,6 +491,7 @@ enchantedskyline.com
 enchantingdiscovery.com
 enchantingtundra.com
 enchantingvalley.com
+encourageshock.com
 encouragingthread.com
 endurablebulb.com
 energeticexample.com
@@ -612,6 +612,7 @@ friedone.com
 friendlycrayon.com
 friendlyfold.com
 frogator.com
+frogtray.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -619,9 +620,9 @@ fumblingform.com
 functionalcrown.com
 functionalfeather.com
 funoverbored.com
-funoverflow.com
 furnstudio.com
 furryfork.com
+furryhorses.com
 fusedcontent.com
 futuristicapparatus.com
 futuristicfifth.com
@@ -629,7 +630,6 @@ futuristicframe.com
 fuzzyaudio.com
 fuzzybasketball.com
 fuzzyerror.com
-fvl1f.pw
 gammamaximum.com
 gardenovens.com
 gaudyairplane.com
@@ -691,7 +691,7 @@ guiltlessbasketball.com
 gulliblegrip.com
 gustocooking.com
 gustygrandmother.com
-h78xb.pw
+habitualhumor.com
 halcyoncanyon.com
 halcyonsculpture.com
 hallowedinvention.com
@@ -749,7 +749,6 @@ hyperlegend.com
 hypnoticwound.com
 hystericalcloth.com
 hystericalfinger.com
-i9w8p.pw
 idyllicjazz.com
 illinvention.com
 illustriousoatmeal.com
@@ -758,6 +757,7 @@ imminentshake.com
 importantmeat.com
 importedinsect.com
 impossibleexpansion.com
+impossiblemove.com
 impulsejewel.com
 impulselumber.com
 incomehippo.com
@@ -802,11 +802,10 @@ juiceblocks.com
 justconfig.com
 justicejudo.com
 justpickaname.com
-k54nw.pw
 keenquill.com
-kibbleandbytes.com
 kidpowers.com
 kindhush.com
+kitesquirrel.com
 kitetuning.com
 knifetreasury.com
 knitstamp.com
@@ -826,6 +825,7 @@ launchjack.com
 lazychord.com
 leafpilot.com
 leaplunchroom.com
+learnedmarket.com
 leftliquid.com
 lemonpackage.com
 lemonsandjoy.com
@@ -975,7 +975,6 @@ netizen.co
 nevitable.com
 newarkdriving.com
 newartreview.com
-newsletterjet.com
 niftygraphs.com
 niftyhospital.com
 niftyjelly.com
@@ -1012,6 +1011,7 @@ onlywoofs.com
 opalquill.com
 operationchicken.com
 operationnail.com
+oppositeoperation.com
 optimallimit.com
 opulentsylvan.com
 orientedargument.com
@@ -1060,7 +1060,6 @@ pietexture.com
 pigeonsetc.com
 pinchsquirrel.com
 pincourse.com
-pinkbonanza.com
 piquantgrove.com
 piquantmeadow.com
 piquantpigs.com
@@ -1106,6 +1105,7 @@ powerfulblends.com
 powerfulcopper.com
 preciousplanes.com
 predictplate.com
+prefixpatriot.com
 prepareplanes.com
 presetrabbits.com
 prettylearning.com
@@ -1207,6 +1207,7 @@ remixslot.com
 rentinfinity.com
 repeatsweater.com
 replaceroute.com
+repulsiverequest.com
 resonantbrush.com
 resonantrock.com
 respectrain.com
@@ -1483,6 +1484,7 @@ steelmaiden.com
 steepsister.com
 steepsquirrel.com
 stepcattle.com
+stepplane.com
 stepwisevideo.com
 stereoproxy.com
 stereotypedsugar.com
@@ -1566,7 +1568,6 @@ tasksimplify.com
 tastelesstrees.com
 tastesnake.com
 tawdryson.com
-tdzvm.pw
 teacupbooks.com
 tealjewel.com
 tearfulglass.com
@@ -1653,7 +1654,6 @@ twistloss.com
 twistsweater.com
 typicalairplane.com
 typicalteeth.com
-tzwaw.pw
 ubiquitoussea.com
 ubiquitousyard.com
 ultraoranges.com
@@ -1720,7 +1720,6 @@ voidgoo.com
 volatileprofit.com
 volatilevessel.com
 voraciousgrip.com
-vq1qi.pw
 waitingnumber.com
 wantingwindow.com
 warmafterthought.com
