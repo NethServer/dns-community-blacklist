@@ -54,9 +54,9 @@ curl -fsS 'https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Black
 curl -fsS 'https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts2' | grep -v -e '^#' -e 'localhost' -e '^$' -e 'broadcasthost' -e '0.0.0.0$' | sed 's/\r$//' |sed 's/\local$//' | less | awk '{print $2}' >> ultimate.dns
 curl -fsS 'https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3' | grep -v -e '^#' -e 'localhost' -e '^$' -e 'broadcasthost' -e '0.0.0.0$' | sed 's/\r$//' |sed 's/\local$//' | less | awk '{print $2}' >> ultimate.dns
 
-# FirstParty Trackers
+# FirstParty Trackers (Not working: broken list)
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Trackers\n# Confidence      : 4\n#\n" > firstparty.dns
-curl -fsS 'https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt' | grep -v -e '^#' -e 'localhost' -e '^$' | less | awk '{print $2}' >> firstparty.dns
+# curl -fsS 'https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt' | grep -v -e '^#' -e 'localhost' -e '^$' | less | awk '{print $2}' >> firstparty.dns
 
 # DigitalSide
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Malware\n# Confidence      : 4\n#\n" > digitalside.dns
@@ -70,9 +70,9 @@ curl -fsS https://v.firebog.net/hosts/Prigent-Crypto.txt >> firebog-crypto.dns
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Phising\n# Confidence      : 4\n#\n" > phisingarmy.dns
 curl -fsS https://phishing.army/download/phishing_army_blocklist_extended.txt | grep -v -e '^#' >> phisingarmy.dns
 
-# Firebog Shalla-mal
+# Firebog Prigent-Malware
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Malware\n# Confidence      : 4\n#\n" > firebog-malware.dns
-curl -fsS https://v.firebog.net/hosts/Shalla-mal.txt >> firebog-malware.dns
+# curl -fsS https://v.firebog.net/hosts/Prigent-Malware.txt >> firebog-malware.dns
 
 # Abuse.ch
 echo -e "#\n# Commmunity DNS list\n#\n#\n#\n# Maintainer      : Community\n# Category        : Malware\n# Confidence      : 4\n#\n" > abuse_ch.dns
