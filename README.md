@@ -62,6 +62,8 @@ Source: [Ultimate Hosts Blacklist](https://github.com/Ultimate-Hosts-Blacklist/U
 
 First-party trackers host list
 
+(NOTE: Not working or broken)
+
 Source: [Geoffrey Frogeye](https://hostfiles.frogeye.fr/)
 
 ## digitalside.dns
@@ -82,7 +84,7 @@ Source: [Phishing Army](https://phishing.army)
 
 ## firebog-malware.dns
 
-(NOTE: Outdated)
+Firebog Prigent-Malware List
 
 Source: [Firebog](https://firebog.net/)
 
