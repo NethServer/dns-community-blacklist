@@ -23,11 +23,15 @@ Source: [Steven Black Hosts](https://github.com/StevenBlack/hosts)
 
 Mobile ad provider
 
+(NOTE: Outdated)
+
 Source: [Adaway.org](https://github.com/AdAway/AdAway/wiki/HostsSources)
 
 ## disconnectme.dns
 
 Ad filter list by Disconnect
+
+(NOTE: Outdated)
 
 Source: [Firebog](https://firebog.net/)
 
@@ -42,6 +46,8 @@ Source: [yoyo.org](https://pgl.yoyo.org/adservers/)
 Source: [Firebog](https://firebog.net/)
 
 ## mvps.dns
+
+(NOTE: Outdated)
 
 Source: [MVPS](https://winhelp2002.mvps.org/)
 
@@ -76,6 +82,8 @@ Source: [Phishing Army](https://phishing.army)
 
 ## firebog-malware.dns
 
+(NOTE: Outdated)
+
 Source: [Firebog](https://firebog.net/)
 
 ## abuse_ch.dns
@@ -91,6 +99,8 @@ Extra rules for StevenBlack's hosts project
 Source: [Fade Mind](https://github.com/FadeMind/hosts.extras)
 
 ## wally3k.dns
+
+(NOTE: Outdated)
 
 Source: [Firebog](https://firebog.net/)
 
@@ -160,6 +170,8 @@ Primary  Block Lists created to have a little more control over what is being bl
 
 RE sites that deal with illegal drugs. Including RX drugs illegal to posses in the US
 
+(NOTE: Outdated)
+
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
 ## facebook-nl.dns
@@ -168,6 +180,8 @@ Primary  Block Lists created to have a little more control over what is being bl
 
 Block FB and FB related / owned services
 
+(NOTE: Outdated)
+
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
 ## fraud-nl.dns
@@ -175,6 +189,8 @@ Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 Primary  Block Lists created to have a little more control over what is being blocked.
 
 Sites create to fraud
+
+(NOTE: Outdated)
 
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
@@ -208,6 +224,8 @@ Primary  Block Lists created to have a little more control over what is being bl
 
 Knows sites that allow for illegal downloads
 
+(NOTE: Outdated)
+
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
 ## porn-nl.dns
@@ -224,6 +242,8 @@ Primary  Block Lists created to have a little more control over what is being bl
 
 Known sites that host or contain ransomware
 
+(NOTE: Outdated)
+
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
 ## redirect-nl.dns
@@ -231,6 +251,8 @@ Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 Primary  Block Lists created to have a little more control over what is being blocked.
 
 Sites that redirect your from your intended site
+
+(NOTE: Outdated)
 
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
@@ -240,6 +262,8 @@ Primary  Block Lists created to have a little more control over what is being bl
 
 Sites that intend to scam
 
+(NOTE: Outdated)
+
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 
 ## tracking-nl.dns
@@ -247,5 +271,7 @@ Source: [The Block List Project](https://github.com/blocklistproject/Lists)
 Primary  Block Lists created to have a little more control over what is being blocked.
 
 Sites dedicated to tracking and gathering visitor info
+
+(NOTE: Outdated)
 
 Source: [The Block List Project](https://github.com/blocklistproject/Lists)
