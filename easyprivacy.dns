@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 11JUN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5383,6 +5383,7 @@ analytics.productreview.com.au
 analytics.propensity.com
 analytics-proxy.springboard.com
 analytics.pyksid.com
+analytics.python.org
 analytics.qogita.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
@@ -6874,6 +6875,7 @@ atl-b24-link.ip.twelve99.net.iberostar.com
 atlkse.aosom.it
 at.maxblue.de
 at.mclaren.com
+atmtd.com
 at.neom.com
 at.norisbank.de
 atom-log.3.cn
@@ -12868,6 +12870,7 @@ events.tryamped.com
 events.tubecup.org
 events.turbosquid.com
 events.ubembed.com
+events.verifymy.io
 events.verticurl.com
 events.whisk.com
 event.syftdata.com
@@ -34213,6 +34216,7 @@ subscriptions.e.silverfernfarms.com
 subscriptions.opentext.com
 subscriptions.outbound.luxair.lu
 subscriptions.reedpop.com
+subseaagent.com
 subseacare.com
 subseasecurity.com
 subsequentstew.com
@@ -35837,6 +35841,7 @@ towerfcu.actonservice.com
 t.owlsports.com
 townhouses.woodlea.com.au
 townsquareinteractive.actonservice.com
+toysbasics.com
 toytakeover.com
 t.paciolan.com
 tp.ackermann.ch
