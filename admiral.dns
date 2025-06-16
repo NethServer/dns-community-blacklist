@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 09JUN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 16JUN25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -25,6 +25,7 @@ abilityscale.com
 abjectattempt.com
 aboardamusement.com
 aboardlevel.com
+abovechat.com
 abruptroad.com
 absentairport.com
 absorbingband.com
@@ -79,6 +80,7 @@ amethystzenith.com
 amuckafternoon.com
 amusedbucket.com
 amusementmorning.com
+analogwonder.com
 analyzecorona.com
 ancientact.com
 annoyedairport.com
@@ -201,6 +203,7 @@ broadcastbed.com
 brotherslocket.com
 brownboxgroup.com
 bruisebaseball.com
+brunchforher.com
 buildingknife.com
 bulbbait.com
 bumpermash.com
@@ -274,6 +277,7 @@ chessquery.com
 childlikecrowd.com
 childlikeexample.com
 childlikeform.com
+chilledliquid.com
 chingovernment.com
 chipperisle.com
 chivalrouscord.com
@@ -348,6 +352,7 @@ cozydusk.com
 cozyhillside.com
 cozytryst.com
 crabbychin.com
+crackedsafe.com
 crafthenry.com
 crashchance.com
 cratecamera.com
@@ -361,6 +366,7 @@ crookedcreature.com
 crowdedmass.com
 cruisetourist.com
 crunchcontrol.com
+cryptvalue.com
 crystalboulevard.com
 crystalstatus.com
 cubchannel.com
@@ -393,10 +399,12 @@ dandydune.com
 dandyglow.com
 dapperdiscussion.com
 dashingdrop.com
+datastoried.com
 daymodern.com
 dazzlingbook.com
 debonairdust.com
 debonairtree.com
+debugentity.com
 decidedrum.com
 decisivebase.com
 decisivedrawer.com
@@ -421,6 +429,7 @@ detailedkitten.com
 detectdinner.com
 detectdiscovery.com
 detourgame.com
+deviceseal.com
 devilishdinner.com
 dewdroplagoon.com
 difficultfog.com
@@ -459,6 +468,7 @@ eagerflame.com
 eagerknight.com
 earnbaht.com
 earthups.com
+earthyfarm.com
 eatablesquare.com
 echochief.com
 echoinghaven.com
@@ -487,6 +497,7 @@ enchantingtundra.com
 enchantingvalley.com
 encourageshock.com
 encouragingthread.com
+endlesstrust.com
 endurablebulb.com
 energeticexample.com
 energeticladybug.com
@@ -519,6 +530,7 @@ expansioneggnog.com
 exquisiteartisanship.com
 extractobservation.com
 extralocker.com
+extramonies.com
 exuberantedge.com
 fabcharting.com
 fabledsoul.com
@@ -535,7 +547,9 @@ falsesight.com
 familiarrod.com
 fancyactivity.com
 fancydune.com
+fancygrove.com
 fangfeeling.com
+fantastictone.com
 farethief.com
 farmergoldfish.com
 farshake.com
@@ -561,6 +575,8 @@ fewkittens.com
 filtercutter.com
 finalizeforce.com
 financefear.com
+finestpiece.com
+finitecube.com
 firecatfilms.com
 fireworkcamp.com
 firstendpoint.com
@@ -594,6 +610,7 @@ foretellfifth.com
 forevergears.com
 forgetfulsnail.com
 fortunatemark.com
+fractalcoast.com
 frailfruit.com
 framebanana.com
 franticroof.com
@@ -625,6 +642,7 @@ fuzzyerror.com
 gammamaximum.com
 gardenovens.com
 gaudyairplane.com
+geekactive.com
 geekbackyard.com
 generalprose.com
 generateoffice.com
@@ -654,6 +672,7 @@ gluedpixel.com
 godseedband.com
 goldfishgrowth.com
 gondolagnome.com
+goodbark.com
 gorgeousedge.com
 gossamerwing.com
 gracefulmilk.com
@@ -727,11 +746,13 @@ homebizplaza.com
 homelycrown.com
 homeslick.com
 honeybulb.com
+honeywhipped.com
 honorablehydrant.com
 honorableland.com
 hookconference.com
 hospitablehall.com
 hospitablehat.com
+howdyinbox.com
 humdrumhobbies.com
 humdrumtouch.com
 hurtgrape.com
@@ -740,6 +761,7 @@ hyperlegend.com
 hypnoticwound.com
 hystericalcloth.com
 hystericalfinger.com
+idolscene.com
 idyllicjazz.com
 illinvention.com
 illustriousoatmeal.com
@@ -793,7 +815,6 @@ juiceblocks.com
 justconfig.com
 justicejudo.com
 justpickaname.com
-justwebcards.com
 keenquill.com
 kidpowers.com
 kindhush.com
@@ -831,7 +852,6 @@ likethedog.com
 limepeal.com
 livelumber.com
 livelylaugh.com
-livelyreward.com
 livingsleet.com
 lizardslaugh.com
 llamavoice.com
@@ -893,6 +913,7 @@ meatydime.com
 meddleplant.com
 mediatescarf.com
 mediavine.com
+mediumshort.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -971,6 +992,7 @@ newartreview.com
 niftygraphs.com
 niftyhospital.com
 niftyjelly.com
+niftyreports.com
 nightwound.com
 nimbleplot.com
 nodethisweek.com
@@ -1186,13 +1208,13 @@ reconditerake.com
 reconditerespect.com
 redbricksoap.com
 reflectpaint.com
-refundradar.com
 regexmail.com
 regularplants.com
 regulatesleet.com
 rehabilitatereason.com
 relationrest.com
 releasepath.com
+reloadphoto.com
 rememberdiscussion.com
 remixslot.com
 rentinfinity.com
@@ -1227,7 +1249,6 @@ ritzyveil.com
 roadwalks.com
 robotgarages.com
 rockagainst.com
-rockpebbles.com
 rockstarwriter.com
 rollbar.com
 rollconnection.com
@@ -1618,6 +1639,7 @@ tracecontent.com
 trackcaddie.com
 traderbyte.com
 tradetooth.com
+trafficviews.com
 tranquilcan.com
 tranquilcanyon.com
 tranquilplume.com
@@ -1661,7 +1683,6 @@ unequaltrail.com
 unicontainers.com
 uninterestedquarter.com
 unitedscans.com
-unknowncontrol.com
 unknowncrate.com
 unknownidea.com
 unloadyourself.com
@@ -1741,6 +1762,7 @@ whispermeeting.com
 whoogled.com
 whymaze.com
 wildcommittee.com
+wildernesscamera.com
 wildwoodavenue.com
 windflamesky.com
 wirecomic.com
