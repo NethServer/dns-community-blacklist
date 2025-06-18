@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 18JUN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9836,6 +9836,7 @@ d1xfq2052q7thw.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
 d1z9vm58yath60.cloudfront.net
 d20kffh39acpue.cloudfront.net
+d20vwa69zln1wj.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d21y75miwcfqoq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
