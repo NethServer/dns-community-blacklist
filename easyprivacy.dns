@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 27JUN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -16864,6 +16864,7 @@ insights.jackporter.com
 insights.journey.world
 insights.labcorp.com
 insights.morrismohawk.ca
+insights.mtv.a2d.tv
 insights-mxp-cdn.coursecareers.com
 insights.networks.global.fujitsu.com
 insights.nexansdatacenter.com
@@ -26547,6 +26548,10 @@ r.skimresources.com
 rs.mail.ru
 rsotku.mitsui-shopping-park.com
 r.sportsie.com
+rsra.cdn-fileserver.com
+rsra-ph.cdn-fileserver.com
+rsras.cdn-fileserver.com
+rsras-ph.cdn-fileserver.com
 rs.sinajs.cn
 rs.smc.tf
 rstat.rockmostbet.com
@@ -32229,6 +32234,7 @@ squirrel.cividi.ch
 squirrel.malaynahocker.com
 squishybears.com
 sr59t7wbx5.claricelin.com
+sra-px.cdn-fileserver.com
 src.freshmarketer.in
 srd1-pdx.net.jumia.ci
 srepdata.12newsnow.com
@@ -41571,6 +41577,7 @@ your.vissim.ptvgroup.com
 your.vistro.ptvgroup.com
 your.visum.ptvgroup.com
 your.xserver.ptvgroup.com
+youseasky.com
 you.stage.pixellot.link
 yoxeha.afloral.com
 ypbfjo.paulsmith.co.jp
