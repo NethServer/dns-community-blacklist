@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 04JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -11675,6 +11675,7 @@ eclick.baidu.com
 ecn-analytics.emc.com
 ecn-analytics-nssl.emc.com
 ecn-ldr.de
+ecommerce-events.adscale.com
 ecomm.events
 ecommstats.s3.amazonaws.com
 econnect.actonservice.com
@@ -13751,6 +13752,7 @@ generateoffice.com
 genesis.malwarebytes.com
 gentian-frd.hjapi.com
 geobar.ziffdavisinternational.com
+geo.bdg.com
 geo.brobible.com
 geoedge.be
 geo.emol.cl
