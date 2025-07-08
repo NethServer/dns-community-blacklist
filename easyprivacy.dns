@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -19071,6 +19071,7 @@ logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.chatboost-cv.algoage.co.jp
 logsdk.kwai-pro.com
+logs.dynamicauth.com
 log.seekda.com
 logservice1.hicloud.com
 logservice.hicloud.com
@@ -23973,6 +23974,7 @@ observe.metarouter.io
 observe-nexus.pointandplace.com
 observer.ip-label.net
 obseu.netgreencolumn.com
+obs.jollyoutdoorjogger.com
 obs.system1onesource.com
 obtfhl.bellemaison.jp
 oca.microsoft.com
@@ -28380,6 +28382,7 @@ share.yugengamers.com
 sharing.kptncook.com
 sharkskids.com
 sh.b.inhaabit.com
+shdid.me
 s.hdsupplysolutions.com
 sheeta.nrj-play.fr
 sheideal.com
@@ -33902,6 +33905,7 @@ stats.vdsnow.ru
 stats.vican.me
 stats.vidbinge.com
 stats.viddler.com
+stats.videasy.net
 stats.vidyome.com
 stats.visions.ch
 stats.vk-portal.net
