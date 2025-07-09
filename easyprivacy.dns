@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 09JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -19096,6 +19096,7 @@ log.ttbc-hcm.gov.vn
 log-upload-os.hoyolab.com
 log-upload-os.hoyoverse.com
 log.webnovel.com
+log.willie.nl
 log.worldsoft-cms.info
 logx-experimentation.iherb.com
 logx.optimizely.com
@@ -24955,6 +24956,7 @@ pine.nervecentral.com
 pingback.giphy.com
 pingback.issuu.com
 ping.dozuki.com
+ping.fastsimon.com
 ping.hashnode.com
 ping.hungama.com
 pingjs.qq.com
@@ -24969,6 +24971,7 @@ pint-dev-branch.airship.com
 pionmj.companyshop24.de
 pipe-collect.ebu.io
 pipedream.wistia.com
+pipeline.nachtkastje.nl
 pipelinepub.actonservice.com
 piper.amocrm.ru
 pippio.com
@@ -26495,6 +26498,7 @@ rockpebbles.com
 rockstarwriter.com
 roedwy.imidapeptide.com
 ro-go.experian.com
+roibest-report-sdk.qiliangjia.com
 roinjg.mkluzkoviny.cz
 roiscs.actonservice.com
 rollbar.actonservice.com
