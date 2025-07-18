@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 18JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5253,6 +5253,7 @@ analytics.kkb.com.tr
 analytics.klickly.com
 analytics.komiku.org
 analytics.kongregate.io
+analytics.kurocore.com
 analytics.laregione.ch
 analytics.lasegunda.ecn.cl
 analytics.lemoolah.com
@@ -32223,6 +32224,7 @@ spookystitch.com
 spoonsilk.com
 sportsnearby.com
 sportyforum.com
+spotlersearchanalytics.com
 spotlessstamp.com
 spottednoise.com
 sp.pcoptimum.ca
