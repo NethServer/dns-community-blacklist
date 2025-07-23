@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 23JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8575,6 +8575,7 @@ clicks.tableau.com
 click-staging.food.mercato.com
 click-staging.getdreams.co
 clicks.thehive.hqo.co
+clickstream.sberbank.ru
 clicks.tunein.com
 clicks.tyuwq.com
 click.sutra.co
@@ -11211,6 +11212,7 @@ dmdgdu.atmosphera.com
 dmepyodjotcuks.com
 dm-event.net
 dmkt.solutions.cas.org
+dmndfrcstng.com
 d.m-net.de
 dmpcdn.el-mundo.net
 dmp.citynews.ovh
@@ -25088,6 +25090,7 @@ pizzasnut.com
 pjbncv.ode.co.kr
 pjgaez.autouncle.at
 pjh7.us.chantelle.com
+p.jmlp.app
 pjmryh.zapatos.es
 pjstat.com
 pjtshn.floraprima.de
@@ -32693,7 +32696,6 @@ sstats.backcountry.com
 sstats.bbt.com
 sstats.belgiantrain.be
 sstats.bever.nl
-sstats.bitdefender.com
 sstats.bnpparibasfortis.be
 sstats.bonappetit.com
 sstats.bookhostels.com
@@ -33829,6 +33831,7 @@ stats.southswindon-pc.gov.uk
 stats.spark.co.nz
 stats.sparkloop.app
 stats.splinder.com
+stats.spreadsimple.com
 stats.spreadtheworld.net
 stats.sprune.com
 stats.sqlteam.com
@@ -34687,6 +34690,7 @@ tags.aljazeera.net
 tags.catapultx.com
 tags.cmp.tail.digital
 tags.dxmdp.com
+tagservice.maximus.mobkoi.com
 tags.esri.ca
 tags.esri.com
 tags.esri.rw
@@ -35102,6 +35106,7 @@ t.cometlytrack.com
 t.commandbar.com
 t.comms.thetimes.co.uk
 t.cozone.com
+t.cpurls.net
 t.csurams.com
 t.cubuffs.com
 tczulp.econea.cz
@@ -35531,6 +35536,7 @@ tiglck.technopolis.bg
 tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
+time.aktion-mensch.de
 timeclock.mytoolr.com
 timejs.game.163.com
 timing.uhrforum.de
