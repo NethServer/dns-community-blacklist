@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5265,6 +5265,7 @@ analytics.littlekingdesigns.com
 analytics.liveact.cri-mw.jp
 analytics.livesense.marketing
 analytics.livestream.com
+analytics.loadweb.com
 analytics.logsss.com
 analytics.lunaweb.cloud
 analytics.lunge.de
@@ -5593,6 +5594,7 @@ analytics.yola.net
 analytics.yollamedia.com
 analytics.yomedia.vn
 analytics.yugen.to
+analytics.yyggames.com
 analytics.zagg.com
 analytics.zevvle.com
 analytics.ziftsolutions.com
@@ -7429,6 +7431,7 @@ bi.concordesolutions.com
 bicp-analytics.postscript.io
 bidder.mediams.mb.softbank.jp
 bidgx.com
+bidpapers.com
 bidswitch.net
 bienvenido.americanindustriesgroup.com
 bigcustomernetwork.actonservice.com
@@ -7965,6 +7968,7 @@ budibu.saksfifthavenue.com
 buf.lemonde.fr
 bugdsm.buffalo-boots.com
 bugjyl.jkattire.co.uk
+bugpizza.com
 bugsnag.shopbop.amazon.dev
 build.1tap.tax
 build.bildgta.ca
@@ -9844,6 +9848,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
+d1tqsoh7s4xjz9.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
@@ -27458,6 +27463,7 @@ scrippscookingchannel.cookingchanneltv.com
 scrippsfoodnetnew.foodnetwork.com
 scrippshgtvnew.hgtv.com
 script.ac
+scripts.dadata.com.br
 scripts.psyma.com
 scrollservice.com
 scrubswim.com
