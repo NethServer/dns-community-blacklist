@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 04AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -25621,6 +25621,7 @@ psilikaki.openapp.link
 p.skimresources.com
 psmastersendgrid.branch.rocks
 ps.pmu.fr
+p.spotidownloader.com
 pspqlm.rndsystems.com
 psqsjg.coach.com
 psssaraki.openapp.link
