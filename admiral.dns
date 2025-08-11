@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 11AUG25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 08AUG25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -49,6 +49,7 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
+admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -360,7 +361,9 @@ crimsonmeadow.com
 critictruck.com
 crookedcreature.com
 crowdedmass.com
+cruisetourist.com
 crunchcontrol.com
+cryptvalue.com
 crystalboulevard.com
 cubchannel.com
 cubepins.com
@@ -391,6 +394,7 @@ dampdock.com
 dandydune.com
 dandyglow.com
 dapperdiscussion.com
+dashingdirt.com
 dashingdrop.com
 daymodern.com
 dazzlingbook.com
@@ -431,6 +435,7 @@ direfuldesk.com
 disagreeabledrop.com
 discreetfield.com
 discreetquarter.com
+distributionneck.com
 distributionpocket.com
 distributiontomatoes.com
 disturbedquiet.com
@@ -705,6 +710,7 @@ hatefulrequest.com
 headydegree.com
 headyhook.com
 healflowers.com
+hearinglizards.com
 heartbreakingmind.com
 hearthorn.com
 heavydetail.com
@@ -786,6 +792,7 @@ jubilantvista.com
 jubilantwhisper.com
 juicebard.com
 juiceblocks.com
+justconfig.com
 justicejudo.com
 justpickaname.com
 justwebcards.com
@@ -825,6 +832,7 @@ likethedog.com
 limepeal.com
 livelumber.com
 livelylaugh.com
+livelyreward.com
 livingsleet.com
 lizardslaugh.com
 llamavoice.com
@@ -865,6 +873,7 @@ mantrafox.com
 mapbasin.com
 mapcommand.com
 marblediscussion.com
+markahouse.com
 markedcrayon.com
 markedmeasure.com
 marketspiders.com
@@ -910,6 +919,7 @@ mimosamajor.com
 mindfulgem.com
 mindlessmark.com
 minorcattle.com
+minusmental.com
 minuteburst.com
 miscreantmoon.com
 missionrewards.com
@@ -926,6 +936,7 @@ moorshoes.com
 morefriendly.com
 mostdishy.com
 motionflowers.com
+motionlessbag.com
 motionlessbelief.com
 motionlessmeeting.com
 movemeal.com
@@ -1021,6 +1032,7 @@ panoramicplane.com
 papamug.com
 parallelbulb.com
 parchedsofa.com
+pardonpopular.com
 parentpicture.com
 parsimoniouspolice.com
 partplanes.com
@@ -1061,7 +1073,6 @@ pluckypocket.com
 pluckyzone.com
 pocketfaucet.com
 pocketsonic.com
-podiumpresto.com
 podname.com
 poemprompt.com
 poeticpackage.com
@@ -1109,6 +1120,7 @@ propertypotato.com
 propsynergy.com
 protestcopy.com
 psychedelicarithmetic.com
+psychedelicchess.com
 publicsofa.com
 puffyloss.com
 puffypaste.com
@@ -1256,6 +1268,7 @@ scaredsnakes.com
 scaredsong.com
 scaredstomach.com
 scaredstory.com
+scaredswing.com
 scarefowl.com
 scarfsmash.com
 scatteredheat.com
@@ -1306,6 +1319,7 @@ settleshoes.com
 shadeship.com
 shaggytank.com
 shakegoldfish.com
+shakyseat.com
 shakysurprise.com
 shallowart.com
 shallowblade.com
@@ -1368,7 +1382,6 @@ smoggystation.com
 snacktoken.com
 snakemineral.com
 snakeslang.com
-snakesshop.com
 snappyreport.com
 snapsgate.com
 sneakwind.com
@@ -1397,6 +1410,7 @@ soulclicking.com
 soundstocking.com
 sowlettuce.com
 spaceaffinity.com
+spadelocket.com
 spareapp.com
 sparkgoal.com
 sparklingshelf.com
@@ -1586,6 +1600,7 @@ ticklesign.com
 tidymitten.com
 tidytrail.com
 tightpowder.com
+timeterritory.com
 tinyswans.com
 tinytendency.com
 tiredthroat.com
