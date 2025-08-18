@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 18AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5122,6 +5122,7 @@ analytics.competitoor.com
 analytics.conad.it
 analytics.concorsicartoonito.it
 analytics-consent-manager-v2-prod.azureedge.net
+analytics.consumerrights.wiki
 analytics.contentexchange.me
 analytics.contents.by-fw.jp
 analytics.convertlanguage.com
@@ -10421,6 +10422,7 @@ data.smartmkt.future.smart.com
 data.sm.princess.com
 data.smspromo.consumercellular.com
 data.socio.realmadrid.net
+datasphere-sbsvc.sharethis.com
 data.sportdeutschland.tv
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
@@ -13206,6 +13208,7 @@ fhrpqp.futfanatics.com.br
 fiawmk.empik.com
 fiber.zayo.com
 fiduciaryfirst.actonservice.com
+fieldconfig.com
 fight.offtherecord.com
 fiimox.lebenskraftpur.de
 filament-stats.herokuapp.com
@@ -28450,6 +28453,7 @@ silentwrench.com
 siliconslow.com
 sillyscrew.com
 s.imagica.ai
+simetra.tracking.ringieraxelspringer.tech
 simg.bwin.be
 simg.bwin.com
 simg.bwin.es
@@ -35410,6 +35414,7 @@ t.govandals.com
 t.gowyo.com
 t.goxavier.com
 t.gozips.com
+t.greenbids.ai
 t.griztix.umt.edu
 tgsdiw.dedoles.de
 t.gseagles.com
@@ -40535,6 +40540,7 @@ wsnrfb.modlily.com
 ws-pro-pull.kwai.net.iberostar.com
 wssgmstats.vibbo.com
 wsstats.coches.net
+wstats.ageverif.com
 wstats.e-wok.tv
 wstats.gameblog.fr
 wstats.slashed.cloud
