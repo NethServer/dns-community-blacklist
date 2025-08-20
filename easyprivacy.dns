@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 20AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6671,6 +6671,7 @@ ap.shouta.co
 apssdc.epoise.com
 apssdctest.epoise.com
 aptare.actonservice.com
+aptoide-mmp.aptoide.com
 a.publicmobile.ca
 apwip.actonservice.com
 apwip-dev.actonservice.com
@@ -7212,6 +7213,7 @@ b.aecf.org
 baffae.alcott.eu
 bagbeam.com
 bagbgo.unitednude.eu
+bagsurprise.com
 bahamashello.com
 bahrpo.dint.co.kr
 bahyei.himaraya.co.jp
@@ -17185,6 +17187,7 @@ jailbulb.com
 ja-jp-a8.etudehouse.com
 ja-jp.siemensplmevents.com
 jambwe.transsibinfo.com
+jamexport.com
 jams.wiki
 janzoz.1001pneus.fr
 jaomlf.giftmall.co.jp
@@ -34637,6 +34640,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tag.cribnotes.jp
 tag.digops.sincro.io
+tag.eisa.mercari.com
 tag.elevaate.io
 tag.flagship.io
 tagger.opecloud.com
