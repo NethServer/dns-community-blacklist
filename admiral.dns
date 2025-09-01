@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 27AUG25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 01SEP25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -40,6 +40,7 @@ accuratecoal.com
 acidicstraw.com
 acidpigs.com
 acridtwist.com
+actoramusement.com
 actuallysheep.com
 actuallysnake.com
 adamantsnail.com
@@ -202,6 +203,7 @@ broaddoor.com
 brotherslocket.com
 brownboxgroup.com
 bruisebaseball.com
+brunchforher.com
 buildingknife.com
 bulbbait.com
 bumpermash.com
@@ -241,7 +243,6 @@ carefuldolls.com
 caringcast.com
 carloforward.com
 carpentercomparison.com
-carscannon.com
 cartelsalsa.com
 cartkitten.com
 carvecakes.com
@@ -313,6 +314,7 @@ cometquote.com
 comfortablecheese.com
 commonalmanac.com
 comparereaction.com
+conceptualizereading.com
 condemnedcomb.com
 conditionchange.com
 conditioncrush.com
@@ -364,7 +366,6 @@ crookedcreature.com
 crowdedmass.com
 cruisetourist.com
 crunchcontrol.com
-cryptvalue.com
 crystalboulevard.com
 cubchannel.com
 cubepins.com
@@ -396,6 +397,7 @@ dandydune.com
 dandyglow.com
 dapperdiscussion.com
 dashingdrop.com
+datastoried.com
 daymodern.com
 dazzlingbook.com
 debonairdust.com
@@ -463,6 +465,7 @@ eagerflame.com
 eagerknight.com
 earnbaht.com
 earthups.com
+earthyfarm.com
 eatablesquare.com
 echochief.com
 echoinghaven.com
@@ -491,6 +494,7 @@ enchantingdiscovery.com
 enchantingtundra.com
 enchantingvalley.com
 encouragingthread.com
+endlesstrust.com
 endurablebulb.com
 energeticexample.com
 energeticladybug.com
@@ -526,10 +530,12 @@ experienceeggs.com
 exquisiteartisanship.com
 extractobservation.com
 extralocker.com
+extramonies.com
 exuberantedge.com
 fabcharting.com
 fabledsoul.com
 facilitatebreakfast.com
+fadechildren.com
 fadedsnow.com
 fairfeeling.com
 fairiesbranch.com
@@ -580,6 +586,7 @@ flameuncle.com
 flimsycircle.com
 flimsythought.com
 flippedfunnel.com
+flockflame.com
 floodprincipal.com
 flourishingcollaboration.com
 flourishingendeavor.com
@@ -609,6 +616,7 @@ frequentflesh.com
 friedone.com
 friendlycrayon.com
 friendlyfold.com
+frogator.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -616,6 +624,7 @@ fumblingform.com
 functionalcrown.com
 functionalfeather.com
 funoverbored.com
+furnstudio.com
 furryfork.com
 fusedcontent.com
 futuristicapparatus.com
@@ -628,9 +637,11 @@ fuzzyflavor.com
 gammamaximum.com
 gardenovens.com
 gaudyairplane.com
+geekactive.com
 geekbackyard.com
 generalprose.com
 generateoffice.com
+gentlemoonlight.com
 getadmiral.com
 getdrip.com
 getwagtail.com
@@ -737,6 +748,7 @@ honorableland.com
 hookconference.com
 hospitablehall.com
 hospitablehat.com
+howdyinbox.com
 humdrumhobbies.com
 humdrumtouch.com
 hurtgrape.com
@@ -795,7 +807,6 @@ jubilantvista.com
 jubilantwhisper.com
 juicebard.com
 juiceblocks.com
-justconfig.com
 justicejudo.com
 justpickaname.com
 justwebcards.com
@@ -871,12 +882,10 @@ makesimpact.com
 maliciousmusic.com
 managedpush.com
 manamoment.com
-maniacalappliance.com
 mantrafox.com
 mapbasin.com
 mapcommand.com
 marblediscussion.com
-markahouse.com
 markedcrayon.com
 markedmeasure.com
 marketspiders.com
@@ -896,6 +905,7 @@ meatydime.com
 meddleplant.com
 mediatescarf.com
 mediavine.com
+mediumshort.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -1035,7 +1045,6 @@ parchedsofa.com
 parentpicture.com
 parsimoniouspolice.com
 partplanes.com
-passengerpage.com
 passivepolo.com
 pastoralroad.com
 pawsnug.com
@@ -1220,6 +1229,7 @@ rigidveil.com
 rigorlab.com
 ringplant.com
 ringsrecord.com
+riserange.com
 ritzyrepresentative.com
 ritzyveil.com
 roadwalks.com
@@ -1357,7 +1367,6 @@ sincerepelican.com
 sinceresubstance.com
 singroot.com
 sinkportal.com
-sittingpets.com
 sixauthority.com
 sixscissors.com
 sizzlingsmoke.com
@@ -1624,7 +1633,6 @@ tranquilplume.com
 tranquilveil.com
 tranquilveranda.com
 trappush.com
-trapteaching.com
 treadbun.com
 treatoceans.com
 tremendousplastic.com
@@ -1722,7 +1730,7 @@ waterywave.com
 waveinverter.com
 waxsirens.com
 wayjoyfarm.com
-wearywater.com
+wearbasin.com
 websitesdude.com
 wellgroomedapparel.com
 wellgroomedhydrant.com
