@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4556,6 +4556,7 @@ adscore.com
 ads.dandelionchocolate.jp
 adsdk.yandex.ru
 ad.shinjuku-mens-chuoh.com
+adsmeasurement.com
 adsnid.wagyushop.com
 adspsp.com
 adstats.tencentmusic.com
@@ -4801,6 +4802,7 @@ aip.actonservice.com
 a.ipoque.com
 aircuity.actonservice.com
 airefcoinc.actonservice.com
+airplanecoffee.com
 air-weigh.actonservice.com
 ai.thermo.com
 ai.thermofisher.com
@@ -9847,6 +9849,7 @@ d10lpsik1i8c69.cloudfront.net
 d11bdev7tcn7wh.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d16hi2v1mh7lg7.cloudfront.net
 d1733r3id7jrw5.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
@@ -14089,6 +14092,7 @@ global.successfactors.com
 global.zenprise.com
 globo-ab.globo.com
 glookup.info
+gloomyseason.com
 gloriousbeef.com
 glowingmeadow.com
 gluedpixel.com
@@ -15362,6 +15366,7 @@ ideadevice.actonservice.com
 ideas.nanawall.com
 i.degoo.com
 identification.hotmart.com
+identitypxl.app
 i-dev.villa.ge
 idg1.idgarages.com
 idgptg.esm-computer.de
@@ -23822,6 +23827,7 @@ no9pldds1lmn3.soundcloud.com
 noa0.compteczam.fr
 noa.yahoo.com
 nocaadobefpc.optus.com.au
+nodenotify.com
 nodethisweek.com
 noflake-aggregator-http.narvar.com
 nogxjk.dackonline.se
@@ -27318,6 +27324,7 @@ savoryink.com
 savoryorange.com
 savorystructure.com
 sawap.equifax.com
+s.axon.ai
 sayac.kapital.com.tr
 say.hello.navan.com
 say.hello.tripactions.com
@@ -35507,6 +35514,7 @@ t.hawkeyesports.com
 thebasiccompanies.actonservice.com
 thebdx.actonservice.com
 thebigvan.com
+thebrainybulb.com
 thecea.actonservice.com
 thecrazychili.com
 thefishstops.com
@@ -35594,6 +35602,7 @@ timing.whenandhowagency.com
 timit.mno.link
 tim.nextinpact.com
 t.indeed.com
+tinybluewhale.com
 tinyswans.com
 tinytendency.com
 t.ionos.com
