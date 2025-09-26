@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 26SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4143,6 +4143,7 @@ ac-ebis.usen-insurance.com
 ac-ebis.usen-pos.com
 ac-ebis.usen-service.com
 ac-ebis.usen-store.com
+acebunny.com
 acelogger.heraldcorp.com
 acemetrics.aaa.com
 acemetrix.actonservice.com
@@ -5046,6 +5047,7 @@ analytics.americanfunds.com
 analytics.amig.com
 analytics.andrewsmith.com.au
 analytics-api.gemcommerce.com
+analytics.api.justeattakeaway.com
 analytics-api.klickly.com
 analyticsapi.qogita.com
 analytics-api.samsunghealthcn.com
@@ -7481,6 +7483,7 @@ bioagiliytix.actonservice.com
 bioanalyticalmarketing.eurofins-info.com
 bio.chups.co
 biophysicsgroup.actonservice.com
+bi.pst.tech
 birthdaybelief.com
 bisko.mall.tv
 bismetrics.experian.com
@@ -8635,6 +8638,7 @@ clients.hermes-investment.com
 clients.intact.ca
 clients.nbc-insurance.ca
 client.trustaff.com
+climbingright.com
 cl.inhaabit.com
 cliquelead.com
 c.live.com
@@ -9607,6 +9611,7 @@ csvtt.bmolife.com
 csvtu.bmolending.com
 csymrm.24mx.fr
 csyqts.tmon.co.kr
+cs.zg-api.com
 ct5m.citadium.com
 ct.beslist.nl
 ct.capterra.com
@@ -14775,6 +14780,7 @@ groupevents.sixflags.com
 groups.heatexperience.com
 grow.business.xerox.com
 grow.national.biz
+growth-channel.net
 growthmodemarketing.actonservice.com
 grumpydime.com
 grumpydrawer.com
@@ -17547,6 +17553,7 @@ jzauch.motostorm.it
 jzgfhr.nordicnest.com
 jzoxch.menswearhouse.com
 jzprtb.1stdibs.com
+jzq915.playmobil.com
 jzqfac.bestsecret.ch
 k50.rtl2.de
 k5app.byjus.com
@@ -24107,6 +24114,7 @@ offers.storagepipe.com
 offgridcrops.com
 offshorecyclone.com
 offshoregeology.com
+ofgreencolumn.com
 ofkqiy.knowfashionstyle.com
 ofqkbk.proclipusa.com
 ofvosb.jumbo.com.tr
@@ -25106,6 +25114,7 @@ pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
+pixel.patch.com
 pixel.poptok.com
 pixel.pub.lilyai.net
 pixel.redgifs.com
@@ -40193,6 +40202,7 @@ web.autobodytoolmart.com
 web.b2bimperialfashion.com
 web.b2bpleasefashion.com
 web.bankofscotland.de
+web-beacon.starii-rover.com
 web.campaign.cfs.com.au
 web.campaign.jaked.com
 web.campaign.miriade.com
