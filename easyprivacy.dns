@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6869,6 +6869,7 @@ as.welt.de
 as.wieistmeineip.de
 aswpsdkus.com
 asxxlo.interflora.es
+async-px.dynamicyield.com
 as.yomonda.de
 at.360.audion.fm
 a.tactics.com
@@ -8885,6 +8886,7 @@ collector.pi.spectrum.net
 collector-px0py5pczn.octopart.com
 collector.quillbot.com
 collector.schibsted.io
+collector.spankbang.party
 collector.sspinc.io
 collector.taoxh.life
 collector.t-idr.com
@@ -8937,6 +8939,7 @@ commercial.inform.equifax.com
 commonalmanac.com
 commondreams.actonservice.com
 comms.adss.com
+comms.bps.org.uk
 comms.cigna.co.uk
 comms.cigna.es
 comms.cignaglobalhealth.com
@@ -10502,6 +10505,7 @@ data.umfrage.blau.de
 data.umfrage.nettokom.de
 data.umfrage.whatsappsim.de
 data.vdi-wissensforum.de
+data.vevor.com
 data.vinsolutions.com
 data.volksfreund.de
 data.voyager.dev.cjmadobe.com
@@ -10530,7 +10534,6 @@ dba4.pandasuite.io
 dbbest.actonservice.com
 dbex-tracker-v2.driveback.ru
 dbhbgz.suitableshop.nl
-dbhsejcg-meetup-com.cdnjs.network
 dbj.quebecregion.com
 dbl.cadriamarketing.com
 dbmbfe.pegipegi.com
@@ -25977,6 +25980,7 @@ quiltquick.com
 quinceimaging.actonservice.com
 quirklogic.actonservice.com
 quirkybliss.com
+quirkybodega.com
 quirkysugar.com
 quixoticnebula.com
 quizzicalpartner.com
@@ -26693,6 +26697,7 @@ ruhpbn.zhigaojixie.com
 rum.api.intuit.com
 rum.azioncdn.net
 rum.azion.com
+rum.cdnpure.com
 rum.condenastdigital.com
 rum.corewebvitals.io
 rum.cronitor.io
@@ -27314,6 +27319,7 @@ sanmet.originenergy.com.au
 sa.oprah.com
 sapi.tremendous.com
 sappmetrics.sprint.com
+sa.recoding.tech
 sa.reebok.co.uk
 sa.scorpion.co
 sasc.solidworks.com
@@ -28129,6 +28135,7 @@ seespice.com
 see.wasteorshare.com
 see.yousoon.com
 sefkal.openapp.link
+segapi.whop.com
 segment-api.inrix.com
 segment.lalr.co
 segmentor.snowfox-ai.com
@@ -34777,6 +34784,7 @@ tags.johnlewis.com
 tags.klove.com
 tags.master-perf-tools.com
 tags.op-palvelut.fi
+tags.premiumads.com.br
 tags.pw.adn.cloud
 tags.soloway.ru
 tags.stepstone.com
@@ -35288,6 +35296,7 @@ telemetry.jivosite.com
 telemetry.marketscope.com
 telemetry.moveworks.com
 telemetry.navispherecarrier.com
+telemetry.nav.no
 telemetry.owenscorning.com
 telemetry.phenixrts.com
 telemetry.proton.me
@@ -38958,6 +38967,7 @@ tyvuwf.lameteoagricole.net
 tzgurwizule3.app.cardahealth.com
 tzovkp.aboutyou.at
 u0crsrah75fy.camberlion.com
+u1sdata.webullfintech.com
 u.20minutes.fr
 u.20mn.it
 u299.libelle-lekker.be
@@ -40493,7 +40503,6 @@ westevents.presidio.com
 wevbgr.vidaxl.it
 wezbvq.heine-shop.nl
 wfmcgd.msccruzeiros.com.br
-wf.typesquare.com
 wgeaqi.laredoute.gr
 wgnrrd.culturekings.com
 wgpepw.boatoutfitters.com
