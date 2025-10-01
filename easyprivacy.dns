@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8872,6 +8872,7 @@ collector.betway.be
 collector.betway.com
 collector.cint.com
 collector.clareity.net
+collector.dgnet.ltd.uk
 collector-direct.xhamster.com
 collector.ex.co
 collector.fiverr.com
@@ -8933,6 +8934,7 @@ commanslabdpp.carte-gr.total.fr
 commanslabdspace.carte-gr.total.fr
 commerce.bing.com
 commerce.edc.ca
+commercial-analytics-collector.news.co.uk
 commercial.davey.com
 commercial.equifax.com
 commercial.inform.equifax.com
@@ -11312,6 +11314,7 @@ domorewithless.adp.ca
 domself.de
 d.omsnative.de
 donjigrad.viessmann.rs
+do-not-tracker.org
 dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
@@ -11791,6 +11794,7 @@ edge.truist.com
 edge.truistmomentum.com
 edge.truistsecurities.com
 edge.wnetwork.com
+ediemidnightzombies.com
 ed.large.be
 ed.large.nl
 edm.healthroundtable.org
@@ -12952,6 +12956,7 @@ everesttech.net
 evergage1.actonservice.com
 eversource.actonservice.com
 evhvza.sodimac.com.br
+eviltracker.net
 e.viously.com
 evkjai.grandado.com
 ev.moneymade.io
@@ -25015,6 +25020,7 @@ phlebotomyexam.quantresear.ch
 phoenix-content.cresa.com
 phoenix.thexlife.co
 phonecup.com
+phoneresult.com
 phonetrack.hukumkaikka.in
 photography.hursey.com
 photohints.com
@@ -36257,6 +36263,7 @@ tracker-server.high-cdn.com
 tracker.services.vaix.ai
 tracker.shanon-services.com
 tracker.shopclues.com
+trackersimulator.org
 tracker.smartframe.io
 tracker.smartseminar.jp
 tracker.softcube.com
