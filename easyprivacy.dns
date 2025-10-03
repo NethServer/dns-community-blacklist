@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 03OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4551,6 +4551,7 @@ ad-platform.jmty.jp
 adppartner.solutions.adpinfo.com
 adpromo.peppynet.com
 ad.rejichoice.jp
+adrsbl.io
 adrtx.net
 ads-collector.luizalabs.com
 adscore.com
@@ -4859,6 +4860,7 @@ aliasanvil.com
 alias.cloud-marketing.dimensiondata.com
 alibabapizza.openapp.link
 alicat.actonservice.com
+a.lifehacker.ru
 alikeaddition.com
 alinks.outcomes4me.com
 a.linkz.ai
@@ -23509,6 +23511,7 @@ mxsvjc.hackers.ac
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com
 mya.actonservice.com
 myakiu.trendhim.ch
+myangular.life
 myapp.branch.rocks
 my.bake-club.com
 mybjjg.vlan.be
@@ -35432,6 +35435,7 @@ test.pooler.io
 testreferral.upay.lk
 test-share.glorify-app.com
 test.shigoto-web.com
+test.showvid.ws
 test.siriusdecisions.com
 test.smrtp.link
 testsocial.eduthrill.com
