@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5442,6 +5442,7 @@ analytics.runpath.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
+analytics.sayprimer.com
 analytics.scorpion.co
 analytics-scripts.cablelabs.com
 analytics.seagate.com
@@ -7431,6 +7432,7 @@ bft5.destinia.fr
 bfvlgp.appstory.co.kr
 b.fxnetworks.com
 bfzikn.l-wine.ru
+bgalytics.com
 bgaycm.exvital-shop.de
 b.getmaintainx.com
 b.gett.com
@@ -24934,6 +24936,7 @@ pciokm.glamuse.com
 p.classroombookings.com
 pcm.symantec.com
 pcnphysio-com.ca-eulerian.net
+p.codio.com
 pcp.coupert.com
 pc.personalcreations.com
 p.cquotient.com
