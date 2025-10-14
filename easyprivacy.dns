@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 10OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -25537,7 +25537,6 @@ prenesi-mojm.mercator.si
 prepareplanes.com
 presetrabbits.com
 presscoder.com
-prettyeasycafe.com
 prettylearning.com
 preview.fi-institutional.com.au
 previousplayground.com
