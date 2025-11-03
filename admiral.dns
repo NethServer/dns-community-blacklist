@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 01NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 03NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -25,7 +25,6 @@ abilityscale.com
 abjectattempt.com
 aboardamusement.com
 aboardlevel.com
-abovechat.com
 abruptroad.com
 absentairport.com
 absorbingband.com
@@ -154,6 +153,7 @@ billowybead.com
 billowybelief.com
 binspiredtees.com
 birthdaybelief.com
+bitterbear.com
 blackbrake.com
 bleachbubble.com
 bleachscarecrow.com
@@ -270,6 +270,7 @@ chargecracker.com
 charmingplate.com
 cheerycraze.com
 cherriescare.com
+cherriescloud.com
 chessbranch.com
 chesscolor.com
 chesscrowd.com
@@ -726,7 +727,6 @@ hatefulrequest.com
 headydegree.com
 headyhook.com
 healflowers.com
-hearinglizards.com
 heartbreakingmind.com
 hearthorn.com
 heavydetail.com
@@ -772,7 +772,6 @@ impulselumber.com
 incomehippo.com
 incompetentjoke.com
 inconclusiveaction.com
-incrediblesugar.com
 infamousstream.com
 innocentlamp.com
 inputicicle.com
@@ -793,7 +792,6 @@ j93557g.com
 jadeitite.com
 jaderooster.com
 jailbulb.com
-jewelcheese.com
 joblessdrum.com
 joyfulharbor.com
 joyfulkeen.com
@@ -897,6 +895,7 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
+marrowleaves.com
 massivemark.com
 materialisticmoon.com
 materialmilk.com
@@ -1088,12 +1087,14 @@ plotrabbit.com
 pluckypocket.com
 pluckyzone.com
 pocketfaucet.com
+podiumpresto.com
 podname.com
 poemprompt.com
 poeticpackage.com
 pointdigestion.com
 pointlesspocket.com
 pointlessprofit.com
+pointlessrifle.com
 poisedfuel.com
 poisedpig.com
 polishedcrescent.com
@@ -1131,7 +1132,6 @@ productsurfer.com
 profitrumour.com
 profusesupport.com
 promiseair.com
-promopassage.com
 propertypotato.com
 propsynergy.com
 protestcopy.com
@@ -1274,7 +1274,6 @@ satisfycork.com
 savoryink.com
 savoryorange.com
 savorystructure.com
-sayinnovation.com
 scarceshock.com
 scarcesign.com
 scarcestream.com
@@ -1339,14 +1338,12 @@ settleshoes.com
 shadeship.com
 shaggytank.com
 shakegoldfish.com
-shakyseat.com
 shakysurprise.com
 shallowart.com
 shallowblade.com
 shamerain.com
 shapecomb.com
 sheargovernor.com
-sheideal.com
 shesubscriptions.com
 shinypond.com
 shirtsidewalk.com
@@ -1377,7 +1374,6 @@ sincerepelican.com
 sinceresubstance.com
 singroot.com
 sinkportal.com
-sittingpets.com
 sixauthority.com
 sixscissors.com
 sizzlingsmoke.com
@@ -1644,6 +1640,7 @@ toytakeover.com
 tracecontent.com
 traderbyte.com
 tradetooth.com
+trafficviews.com
 tranquilcan.com
 tranquilcanyon.com
 tranquilplume.com
