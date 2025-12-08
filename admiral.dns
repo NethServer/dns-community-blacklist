@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 01DEC25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 08DEC25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -109,7 +109,6 @@ averageactivity.com
 awakebird.com
 awarealley.com
 awzbijw.com
-axiomaticalley.com
 axiomaticanger.com
 azuremystique.com
 azurestealth.com
@@ -153,6 +152,7 @@ billowybead.com
 billowybelief.com
 binspiredtees.com
 birthdaybelief.com
+bitterbear.com
 blackbrake.com
 bleachbubble.com
 bleachscarecrow.com
@@ -189,6 +189,7 @@ bravebone.com
 bravecalculator.com
 breadbalance.com
 breakableinsurance.com
+breakerror.com
 breakfastboat.com
 breezybright.com
 breezygrove.com
@@ -274,7 +275,6 @@ childlikecrowd.com
 childlikeexample.com
 childlikeform.com
 chingovernment.com
-chinsnakes.com
 chipperisle.com
 chivalrouscord.com
 chubbycreature.com
@@ -319,7 +319,6 @@ configchain.com
 confirmglobal.com
 confusedcart.com
 connectashelf.com
-consciouschairs.com
 consciouscheese.com
 consciousdirt.com
 consultantchow.com
@@ -409,7 +408,6 @@ deerbeginner.com
 defeatedbadge.com
 defensevest.com
 degreechariot.com
-delegatediscussion.com
 delicatecascade.com
 deliciousducks.com
 delightdriving.com
@@ -753,7 +751,6 @@ illustriousoatmeal.com
 immensehoney.com
 imminentshake.com
 importantmeat.com
-importedincrease.com
 importedinsect.com
 impossibleexpansion.com
 impulsejewel.com
@@ -776,7 +773,6 @@ iridescentdusk.com
 itemslice.com
 ivykiosk.com
 j93557g.com
-jadeitite.com
 jaderooster.com
 jailbulb.com
 joblessdrum.com
@@ -1039,7 +1035,6 @@ pawsnug.com
 peacefullimit.com
 pedropanther.com
 pegsbuttons.com
-perceivequarter.com
 perkyjade.com
 phonecup.com
 photohints.com
@@ -1513,7 +1508,7 @@ subsequentstew.com
 substantialgrade.com
 substantialstraw.com
 succeedscene.com
-suddensidewalk.com
+suddensnake.com
 suddensoda.com
 sugarcurtain.com
 suggestionbridge.com
