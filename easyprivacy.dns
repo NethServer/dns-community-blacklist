@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08DEC25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 10DEC25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3905,6 +3905,7 @@ abbqns.gowabi.com
 abc.bayer04.de
 abcd.coderays.com
 abclegal.actonservice.com
+ab.dns-finder.com
 abdpac.williamsshoes.com.au
 abdrjm.eurostarshotels.de
 abemms.atp-autoteile.de
@@ -25046,6 +25047,7 @@ p.classroombookings.com
 pcm.symantec.com
 pcnphysio-com.ca-eulerian.net
 p.codio.com
+p.controld.com
 pcp.coupert.com
 pc.personalcreations.com
 p.cquotient.com
