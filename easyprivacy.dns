@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12DEC25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 15DEC25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3856,7 +3856,6 @@ aa-metrics.salonboard.com
 aa-metrics.s-lms.net
 aa-metrics.tabroom.jp
 aa-metrics.trip-ai.jp
-aamt.msnbc.com
 aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
@@ -4864,6 +4863,7 @@ ali8.alinea.fr
 aliasanvil.com
 alias.cloud-marketing.dimensiondata.com
 alibabapizza.openapp.link
+alib.nine.com.au
 alicat.actonservice.com
 a.lifehacker.ru
 alikeaddition.com
@@ -5138,6 +5138,7 @@ analytics.codeskulptor.org
 analytics.codigo.se
 analytics.cognyte.com
 analytics-coletor-site.ojc.com.br
+analytics-collect.karakuri.ai
 analytics.combatefreestyle.com
 analytics.competitoor.com
 analytics.conad.it
@@ -5222,6 +5223,7 @@ analytics.genial.ly
 analytics.geoutletstore.com
 analytics.gestore.com
 analytics.getshogun.com
+analytics.getsnworks.com
 analytics.gewaterheater.com
 analytics.glance.inmobi.com
 analytics.global.sky.com
@@ -9407,6 +9409,7 @@ coop.vmware.com
 coordinatedcoat.com
 cooyxg.tennis-point.de
 copilot-telemetry.githubusercontent.com
+copperstills.net
 copycarpenter.com
 copyfranchise.com
 copyrightaccesscontrols.com
@@ -9506,6 +9509,7 @@ count.yandeg.ru
 courageousbaby.com
 covenant.psjhealth.org
 coverlayer.com
+cowbelltime.com
 cowhmc.docmorris.de
 coyizl.embracon.com.br
 cozydusk.com
@@ -11936,6 +11940,7 @@ eicyds.qoo10.jp
 eifeou.pandahall.com
 eiftfa.fashionette.de
 eightgreens.com
+eighthlayer.net
 eikwax.marmot.com
 eimcqw.dickies.com
 e-img.hover.to
@@ -12713,6 +12718,7 @@ era.easyvoyage.com
 erb.tremblant.ca
 e.replacementdevicelawsuit.com
 erepublic.actonservice.com
+e.revenue.cat
 ergrbp.hobidunya.com
 ermiph.petermanningnyc.com
 eroar.lionsclubs.org
@@ -15122,6 +15128,7 @@ hesprh.sony.jp
 heuida.shopafrm.com
 hevqaz.submarino.com.br
 heyaxr.fashiondays.bg
+heycomputers.com
 hfc195b.com
 hf.forevernetworks.com
 hfmogh.piatradesign.ro
@@ -15468,6 +15475,7 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
+icywinter.com
 id.a-mx.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
@@ -19619,6 +19627,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madoverrice.com
 madrid.report.botm.transparentedge.io
 m.aecrimecentral.com
 maeketing.net.gafas.es
@@ -36626,6 +36635,8 @@ tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.cdiscount.com
+tracking.cds.dmm.co.jp
+tracking.cds.dmm.com
 tracking.cello-square.com
 tracking.cengage.com
 tracking.cenomicenters.com
@@ -39914,6 +39925,7 @@ vanishmemory.com
 vapxga.sieh-an.de
 varys.asongofzandc.xyz
 vatrack.hinet.net
+vault.gostatera.com
 vazulp.graniph.com
 vbe.voyage-prive.be
 vbkryy.pasonacareer.jp
@@ -40702,6 +40714,7 @@ whispermeeting.com
 whitepapers.blackboard.com
 whitepapers.rockwellautomation.com
 whoami.akamai.net.iberostar.com
+wholepagecache.com
 whoogled.com
 whqkyq.leasingmarkt.de
 whwiab.pamono.it
