@@ -8,6 +8,7 @@
 # Confidence      : 4
 #
 
+
 1-cl0ud.com
 1-creative-1.com
 1000mercis.com
@@ -576,6 +577,7 @@ analytics.ip-profis.de
 analytics.live-panorama.com
 analytics.live.com
 analytics.magelan.it
+analytics.meaww.com
 analytics.microsoft.com
 analytics.msn.com
 analytics.newsinc.com
@@ -615,6 +617,7 @@ apeachsky.com
 apero-bigdata.com
 apester.com
 api.b2c.com
+api.crowdin.com
 api.mobula.sdk.duapps.com
 api.wipmania.com
 api.worldsense.com
@@ -699,10 +702,16 @@ as133873.net
 as134124.net
 as55819.net
 ashfordinvestments.com
+asia-analyzer-appstore.vivoglobal.com
+asia-comonrt-stsdk.vivoglobal.com
+asia-comort-stsdk.vivoglobal.com
+asia-ex-adlog.vivoglobal.com
+asia-exstsdk.vivoglobal.com
 asocials.com
 aspirer.xyz
 assoc-amazon.jp
 astutemetrics.com
+asus.router.com
 at.amgdgt.com
 atdmt.com
 atemda.com
@@ -1401,6 +1410,7 @@ cquotient.com
 crash.steampowered.com
 crashdump.spotify.com
 crashlytics.com
+crawler.algolia.com
 crazyegg.com
 crealytics.com
 createabetterinternet.com
@@ -1617,6 +1627,7 @@ displaymarketplace.com
 displaywords.com
 displaywords.net
 disqusads.com
+distillery.wistia.com
 distralytics.com
 dl-rms.com
 dleke.com
@@ -2044,6 +2055,7 @@ generalsearches.com
 genericlink.com
 genieesspv.jp
 geo.query.yahoo.com
+geo2.adobe.com
 geoadnxs.com
 geoadnxs.net
 geoadnxs.org
@@ -2760,6 +2772,8 @@ meteora.co
 meteora.us
 metric.asos.com
 metric.gstatic.com
+metric.ind.rediff.com
+metric.rediff.com
 metrics.aftonbladet.se
 metrics.apple.com
 metrics.argos.co.uk
@@ -2768,6 +2782,7 @@ metrics.cbc.ca
 metrics.ctvdigital.net
 metrics.expressen.se
 metrics.foxnews.com
+metrics.icloud.com
 metrics.ikea.com
 metrics.marksandspencer.com
 metrics.mzstatic.com
@@ -2775,12 +2790,10 @@ metrics.nt.vc
 metrics.oetker.de
 metrics.plex.tv
 metrics.raptr.com
-metric.ind.rediff.com
-metric.rediff.com
 metrics.tiscover.com
 metrics.toptenreviews.com
-metricswindow.com
 metricsishare.rediff.com
+metricswindow.com
 metrigo.com
 mgid.com
 mgsvc.com
@@ -12898,6 +12911,7 @@ mouseflow.com
 mouseflow.net
 mouseflow.org
 mouseflow.us
+mousegesturesapi.com
 moutaihotel.cn
 movfile.net
 movingos.com
@@ -12908,6 +12922,8 @@ movoxy.net
 mparticle.com
 mpdotrk.com
 mpire.com
+mplusps.ims.vodafone.com
+mpluswf.ims.vodafone.com
 mplxtms.com
 mpn-analytics.mokonocdn.com
 mpstat.us
@@ -13056,6 +13072,7 @@ netcommunities.com
 netline.com
 netlog.ru
 netmng.com
+netperform-is.vodafone.com.tr
 netscope.data.marktest.pt
 netseer.com
 netshelter.net
@@ -13106,6 +13123,7 @@ nodes.npm9sh75p.com
 notice1-09.com
 notice1-11.com
 notice1-12.com
+notification.tubecup.net
 notificationmessaging.com
 novao.com
 novao.net
@@ -13117,6 +13135,7 @@ nspmotion.com
 nster.net
 nt.vc
 ntv.io
+ntvp.wpu.sh
 nuffnang.com.sg
 nuggad.net
 numerino.cz
@@ -13316,6 +13335,7 @@ pingmemessenger.mobi
 pingmemessenger.net
 pingmemessenger.us
 pipeaota.com
+pipedream.wistia.com
 pipeschannels.com
 pippio.com
 piwik.bahag.com
@@ -13566,6 +13586,7 @@ rebrand.today
 rebranded.link
 rebrandly.com
 rebrandly.pro
+rebrandlydomain.com
 reclaimthenet.com
 recomenda.com.br
 red.tingrinter.com
@@ -14045,6 +14066,7 @@ smartology.co
 smartology.net
 smartpassage.com
 smartstream.tv
+smarturl.it
 smb-store.c66.me
 smct.co
 smetrics.mcafee.com
@@ -14098,6 +14120,7 @@ solidinc.net
 solorpowernowme.com
 solution.weborama.fr
 solvemedia.com
+songlytics.net
 sonobi.com
 soos.soliver.de
 soosooka.com
@@ -14137,6 +14160,7 @@ spylog.ru
 spynet2.microsoft.com
 spynetalt.microsoft.com
 spyvisit.com
+src.labeldollars.com
 srv123.com
 srv4pub.com
 srvntrk.com
@@ -14381,6 +14405,12 @@ touchcommerce.london
 touchstoneresearch.com
 tqlkg.com
 tqn.com
+tr-domaincfg.vivoglobal.com
+tr-romsp-unifyconfig.vivoglobal.com
+tr-st-sl.vivoglobal.com
+tr-timesync.vivoglobal.com
+tr-vcode-api.vivoglobal.com
+tr-vcode-od.vivoglobal.com
 traaack.com
 track-flow.com
 track-mv-01.com
@@ -14427,6 +14457,7 @@ track.platinum-giveaways.com
 track.pplnk.com
 track.prize-wave.com
 track.productsup.com
+track.rediff.com
 track.searchignite.com
 track.securedvisit.com
 track.shop2market.com
@@ -14463,6 +14494,7 @@ tracker.mattel.com
 tracker.mc-svc-c.it
 tracker.mcontact.pro
 tracker.neon-images.com
+tracker.nice-prod.pro
 tracker.openholidayguide.de
 tracker.oplkw.com
 tracker.softgarden.de
@@ -14624,6 +14656,7 @@ trustedsite.com
 truviewanalytics.com
 truviewdata.com
 trychameleon.com
+ts.market.mi-img.com
 ttmdduyuru.net
 ttxm.co.uk
 tubemogul.com
@@ -14727,11 +14760,11 @@ useitbetter.com
 user-agent-tracker.herokuapp.com
 user-api.com
 usergrid.com
-usmetric.rediff.com
 userreplay.net
 userreport.com
 userstats.com
 userzoom.com
+usmetric.rediff.com
 usyncapp.com
 utarget.ru
 utmtrk2.smileycentral.com
@@ -14744,6 +14777,7 @@ valdelabs.com
 valtrk.com
 valueclick.com
 valueclick.ne.jp
+vasgenerete.site
 vcmedia.vn
 vcommission.com
 vdna-assets.com
@@ -14799,6 +14833,7 @@ visualvote.com
 visualwebsiteoptimizer.com
 vizu.com
 vncovers.com
+vodafonetr.sc.omtrdc.net
 voicefive.com
 voluumtrk.com
 voluumtrk2.com
@@ -14902,8 +14937,6 @@ wickhillnews.com
 wikia-beacon.com
 win30000.com
 win30000.net
-pipedream.wistia.com
-distillery.wistia.com
 wistia.net
 wobbegongmedia.net
 woopic.com
@@ -15046,35 +15079,3 @@ zxad.net
 zylpfood.com
 zzhengre.com
 zzword.com
-src.labeldollars.com
-track.rediff.com
-tracker.nice-prod.pro
-vasgenerete.site
-ntvp.wpu.sh
-notification.tubecup.net
-rebrandlydomain.com
-metrics.icloud.com
-geo2.adobe.com
-api.crowdin.com
-crawler.algolia.com
-ts.market.mi-img.com
-smarturl.it
-asus.router.com
-tr-vcode-od.vivoglobal.com
-tr-vcode-api.vivoglobal.com
-tr-st-sl.vivoglobal.com
-tr-domaincfg.vivoglobal.com
-tr-timesync.vivoglobal.com
-tr-romsp-unifyconfig.vivoglobal.com
-asia-ex-adlog.vivoglobal.com
-asia-analyzer-appstore.vivoglobal.com
-asia-exstsdk.vivoglobal.com
-asia-comort-stsdk.vivoglobal.com
-asia-comonrt-stsdk.vivoglobal.com
-netperform-is.vodafone.com.tr
-vodafonetr.sc.omtrdc.net
-mplusps.ims.vodafone.com
-mpluswf.ims.vodafone.com
-analytics.meaww.com
-mousegesturesapi.com
-songlytics.net
