@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 14JAN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -10420,6 +10420,7 @@ data.mail.telia.dk
 data.mailtest.lexmei.online
 data.main-ding.de
 data.mainpost.de
+data.manga-passion.de
 data.mapp.com
 data.markadsmal.islandsbanki.is
 data.marketing.aeptest.a.intuit.com
@@ -27640,6 +27641,7 @@ sc.cmt.com
 sc.coutts.com
 sc.cvent.com
 sc.disneylandparis.com
+scdn.literatur-couch.de
 sc.doctorwho.tv
 scenicapparel.com
 scenicchicago.com
@@ -27650,6 +27652,7 @@ scheduling.qualifi.hr
 schinnerer.actonservice.com
 sc.hl.co.uk
 sc.hm.com
+scholarloop.com
 sc.holtsmilitarybank.co.uk
 schwacke.autovistagroup.com
 schwaebischhall.efscle.com
@@ -28364,6 +28367,7 @@ sedgwickpooling.sedgwick.com
 seedscissors.com
 seek.intel.com
 seekmyshop.com
+seekremote.com
 seek.uwa.edu.au
 seenvault.com
 seespice.com
@@ -35743,6 +35747,7 @@ t.fullres.net
 tfunqc.domonet.jp
 tfuodg.memolife.de
 t.fuzeon.com
+t.gazetteer.co
 t.gazyva.com
 tgbfha.lily-brw.com
 t.gene.com
