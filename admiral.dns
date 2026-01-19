@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 16JAN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 19JAN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -24,6 +24,7 @@ abilityscale.com
 abjectattempt.com
 aboardamusement.com
 aboardlevel.com
+abovechat.com
 abruptroad.com
 absentairport.com
 absorbingband.com
@@ -75,6 +76,7 @@ ambrosialsummit.com
 amethystzenith.com
 amuckafternoon.com
 amusedbucket.com
+amusementmorning.com
 analyzecorona.com
 ancientact.com
 annoyedairport.com
@@ -119,6 +121,7 @@ bahamashello.com
 baitbaseball.com
 balancebreath.com
 balloonbelieve.com
+balloonbit.com
 ballsbanana.com
 bananabarrel.com
 bandborder.com
@@ -202,6 +205,7 @@ brunchforher.com
 buildingknife.com
 bulbbait.com
 bumpermash.com
+bumpydevelopment.com
 bunchance.com
 bungeesleeves.com
 burgersalt.com
@@ -209,6 +213,7 @@ burnbubble.com
 burntwist.com
 bushesbag.com
 businessbells.com
+bustlinganimal.com
 bustlingbook.com
 butterbulb.com
 butterburst.com
@@ -314,6 +319,7 @@ configchain.com
 confirmglobal.com
 confusedcart.com
 connectashelf.com
+consciouschairs.com
 consciouscheese.com
 consciousdirt.com
 consumerknowhow.com
@@ -386,6 +392,7 @@ dampdock.com
 dandydune.com
 dandyglow.com
 dapperdiscussion.com
+dashingdrop.com
 datastoried.com
 daymodern.com
 dazzlingbook.com
@@ -491,7 +498,6 @@ enormousearth.com
 enormousfoot.com
 enterdrama.com
 entertainskin.com
-enthusiasticring.com
 enthusiastictemper.com
 enviousshape.com
 enviousthread.com
@@ -501,6 +507,7 @@ essayspin.com
 etherealbamboo.com
 ethereallagoon.com
 etherealpinnacle.com
+etherealripple.com
 evanescentedge.com
 evasivejar.com
 eventexistence.com
@@ -606,6 +613,7 @@ fumblingform.com
 functionalcrown.com
 functionalfeather.com
 funoverbored.com
+furnstudio.com
 furryfork.com
 fusedcontent.com
 futuristicfifth.com
@@ -669,6 +677,7 @@ grouchypush.com
 grumpydime.com
 grumpydrawer.com
 guardeddirection.com
+guardedgovernor.com
 guardedschool.com
 guessdetail.com
 guidecent.com
@@ -868,6 +877,7 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
+massivemark.com
 materialisticmoon.com
 materialmilk.com
 materialmoon.com
@@ -1326,6 +1336,7 @@ shylibrary.com
 sicksmash.com
 sierrakermit.com
 signaturepod.com
+silentcredit.com
 silentjackal.com
 silentwrench.com
 siliconslow.com
@@ -1340,6 +1351,7 @@ sincerepelican.com
 sinceresubstance.com
 singroot.com
 sinkportal.com
+sittingpets.com
 sixauthority.com
 sixscissors.com
 sizzlingsmoke.com
@@ -1498,6 +1510,7 @@ subjectivepoint.com
 sublimequartz.com
 subseaagent.com
 subseasecurity.com
+subsequentstew.com
 substantialgrade.com
 substantialstraw.com
 succeedscene.com
@@ -1558,6 +1571,7 @@ tendertest.com
 tenhourweek.com
 tennistie.com
 terriblethumb.com
+terrifictooth.com
 testadmiral.com
 testedtouch.com
 texturetrick.com

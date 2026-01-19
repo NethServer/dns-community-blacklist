@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 19JAN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4733,6 +4733,7 @@ a.fxnetworks.com
 agcjee.sklep-nasiona.pl
 agcmtb.nameit.com
 agcs-knowledge.allianz.com
+agencysignals.com
 agentcomm.mercuryinsurance.com
 a.getemoji.me
 a.getflowbox.com
@@ -5203,6 +5204,7 @@ analytics.faceitanalytics.com
 analytics.faprika.net
 analytics.fatmedia.io
 analytics.favcy.com
+analytics-fe.digital-cloud.medallia.com
 analytics-fe.digital-cloud-prem.medallia.com
 analytics.ferguson.com
 analytics.firespring.com
@@ -8371,6 +8373,7 @@ cc.swiftype.com
 cctrkom.creditcards.com
 ccztgy.elgiganten.dk
 cdanjoyner4374.myre.io
+cdapi.collegedunia.com
 cd.chemistanddruggist.co.uk
 cdeatz.spartoo.it
 cdfhpj.automobile.it
@@ -8847,7 +8850,6 @@ cnpxwl.cheapcaribbean.com
 cnsecurity.actonservice.com
 cns-service.actonservice.com
 cnstats.cdev.eu
-cnstrc.com
 cnt.3dmy.net
 cntccc.publicrec.com
 cnt.hd21.com
@@ -13582,6 +13584,7 @@ fortunatemark.com
 forwardslashetc.com
 fossilzero.com
 fourier.taobao.com
+fourlevelsgame.com
 fourmtagservices.appspot.com
 fourpawsahead.com
 fourtimessmelly.com
@@ -23542,6 +23545,7 @@ mp.pitchero.com
 m.premier.info.shutterstock.com
 mprkxf.teebooks.com
 m.providers.alto.com
+mp.sintra.ai
 mp.theepochtimes.com
 mqesfg.bpm-power.com
 mqhaxf.keds.com
@@ -33277,6 +33281,7 @@ staging.refer.wagr.us
 stahhx.inversapub.com
 stahl.actonservice.com
 stakedances.com
+stakeschips.com
 stakingbasket.com
 stakingshock.com
 stakingsmile.com
@@ -34434,6 +34439,7 @@ st.iceportal.de
 sticketsmetrics.masters.com
 stiffgame.com
 stiffstem.com
+stillpeace.com
 st.img-bahn.de
 stimulatingsneeze.com
 stingsquirrel.com
@@ -35899,8 +35905,10 @@ tiglck.technopolis.bg
 tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
+tiltonbots.com
 time.aktion-mensch.de
 timeclock.mytoolr.com
+timecrossed.com
 timejs.game.163.com
 timing.uhrforum.de
 timing.whenandhowagency.com
@@ -37560,6 +37568,7 @@ tr.attribuly.com
 travel.caradonna.com
 travel.cruisesforless.com
 travel.ec-ovc.com
+travelerpic.com
 travelmarketreport.actonservice.com
 travel.onlinevacationcenter.com
 travel.stage.x.unikoom.com
@@ -40068,6 +40077,7 @@ veqvek.ctvnews.ca
 veqvek.much.com
 veqvek.thebeaverton.com
 veqvek.tsn.ca
+veradata.network
 vercel-vitals.axiom.co
 verdantanswer.com
 verdantlabyrinth.com
