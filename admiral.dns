@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 19JAN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 21JAN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -213,7 +213,6 @@ burnbubble.com
 burntwist.com
 bushesbag.com
 businessbells.com
-bustlinganimal.com
 bustlingbook.com
 butterbulb.com
 butterburst.com
@@ -677,7 +676,6 @@ grouchypush.com
 grumpydime.com
 grumpydrawer.com
 guardeddirection.com
-guardedgovernor.com
 guardedschool.com
 guessdetail.com
 guidecent.com
@@ -1351,7 +1349,6 @@ sincerepelican.com
 sinceresubstance.com
 singroot.com
 sinkportal.com
-sittingpets.com
 sixauthority.com
 sixscissors.com
 sizzlingsmoke.com
