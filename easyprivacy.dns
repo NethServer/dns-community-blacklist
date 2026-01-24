@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24JAN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5182,6 +5182,7 @@ analytics.discountpowertx.com
 analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
+analytics.distributednews.com
 analytics.dvidshub.net
 analytics.dv.socure.io
 analytics.edgekey.net
@@ -5199,6 +5200,7 @@ analytics.erepublic.com
 analytics.ericafischerphotography.com
 analytics.esporteinterativo.com.br
 analytics.eventbrite.com
+analytics.everythingstream.com
 analytics.evo.co.uk
 analytics.faceitanalytics.com
 analytics.faprika.net
@@ -7373,6 +7375,7 @@ beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
 beacon.klm.com
+beacon.peakhour.io
 beacon.qq.com
 beacon.radiko.jp
 beacon.riskified.com
@@ -10313,6 +10316,7 @@ data.email.virginatlantic.com
 data.email.yourmessage.aviva.co.uk
 data.email.yousee.dk
 data.em.assurancewireless.com
+data.emb-api.com
 data.embeddables.com
 data.emdev.officedepot.com
 data.emea.coca-cola.com
@@ -11849,6 +11853,7 @@ ed1.newtekone.com
 ed4online.actonservice.com
 e.darpro-solutions.com
 edavbu.vittz.co.kr
+eddl.cdi.services.sap.com
 edeals.rbp.com
 edeals.rhymebiz.com
 ed.emp.at
@@ -12810,6 +12815,7 @@ etgkbu.unieuro.it
 etherealbamboo.com
 ethereallagoon.com
 etherealpinnacle.com
+eth.llamarpc.com
 etk.locusrobotics.com
 etl.springbot.com
 et.nytimes.com
@@ -19222,6 +19228,7 @@ lnk.welthee.com
 lnntnt.hsastore.com
 lntvby.banggood.com
 lnxfgm.party-calendar.net
+loaddisplay.com
 loadedhearts.com
 loader-cdn.azureedge.net
 load.nootiz.com
@@ -23435,6 +23442,7 @@ mm.morrellinc.com
 mmobsz.edenviaggi.it
 m.moomoo.com
 mm.openapp.link
+mm-sdk-analytics.api.cx.metamask.io
 mmulsx.comet.it
 mmwlwm.autoscout24.pl
 m.mylifetime.com
@@ -23978,6 +23986,7 @@ nfudeh.jadebag.co.kr
 ngazee.novostroy-m.ru
 ngc1.nsm-corp.com
 ngcbjq.frecuento.com
+ngds.sap.com
 ngghll.me.co.kr
 ngs.actonservice.com
 ngueja.2ememain.be
@@ -23993,6 +24002,7 @@ ni8.lafuma-boutique.com
 ni8.lafuma.com
 niblewren.co
 nicefollows.com
+nicehuh.com
 nidays.austria.ni.com
 nidays.suisse.ni.com
 nidays.switzerland.ni.com
@@ -36220,6 +36230,7 @@ t.mydialoginsight.com
 t.mynexity.fr
 t.nativendo.de
 t.navysports.com
+t.nc0.co
 tncid.app
 tncpzu.marelbo.com
 tnegqr.bohme.com
@@ -36688,6 +36699,7 @@ tracking.americas.business.samsung.com
 tracking.analysis.hibu.com
 tracking.apac.business.samsung.com
 tracking-api-4lasu2nlcq-ew.a.run.app
+tracking-api.bookzone.ro
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking.arabiancentres.com
