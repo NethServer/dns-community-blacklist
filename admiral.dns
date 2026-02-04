@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 02FEB26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 04FEB26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -205,7 +205,6 @@ brunchforher.com
 buildingknife.com
 bulbbait.com
 bumpermash.com
-bumpydevelopment.com
 bunchance.com
 bungeesleeves.com
 burgersalt.com
@@ -360,7 +359,6 @@ crookedcreature.com
 crowdedmass.com
 cruisetourist.com
 crunchcontrol.com
-cryptvalue.com
 crystalboulevard.com
 cubchannel.com
 cubepins.com
@@ -605,7 +603,6 @@ frequentflesh.com
 friedone.com
 friendlycrayon.com
 friendlyfold.com
-frogtray.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -616,7 +613,6 @@ funoverbored.com
 furnstudio.com
 furryfork.com
 fusedcontent.com
-futuristicfear.com
 futuristicfifth.com
 futuristicframe.com
 fuzzyaudio.com
@@ -875,7 +871,6 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
-marrowleaves.com
 massivemark.com
 materialisticmoon.com
 materialmilk.com
@@ -1316,7 +1311,6 @@ shadeship.com
 shaggytank.com
 shakegoldfish.com
 shakesea.com
-shakyseat.com
 shakysurprise.com
 shakytaste.com
 shallowart.com
@@ -1454,7 +1448,6 @@ stakingshock.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
-stampknot.com
 starkscale.com
 startercost.com
 startingcars.com
