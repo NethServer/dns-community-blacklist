@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11FEB26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13FEB26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4884,6 +4884,7 @@ allergy.thermofisher.com
 alliantdata.actonservice.com
 alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
+allnewhost.com
 alloutdubstep.com
 alloy-web.zvuk.com
 allreach.actonservice.com
@@ -7570,6 +7571,7 @@ bkpoef.jules.com
 bkrtx.com
 bksckn.minhacasasolar.com.br
 bkstg.flyx.me
+blackbelted.com
 blackbirdventures.actonservice.com
 blackbook.coniferhealth.com
 blackbrake.com
@@ -8200,6 +8202,7 @@ calltrack.co
 calmcactus.com
 calmradio.actonservice.com
 calmstudent.com
+calvarycards.com
 calvera-telemetry.polaris.me
 calypsocapsule.com
 ca.macheq.com
@@ -8269,6 +8272,7 @@ canadamarketing.travelsavers.com
 candidate.response.ingenovishealth.com
 candid.zone
 candy.sees.com
+cannonborough.com
 cannonchange.com
 canvasandsocks.com
 caowuq.babyliss-romania.ro
@@ -12950,6 +12954,7 @@ event.hackle.io
 event.instiengage.com
 event.jma.or.jp
 event-listener.air.tv
+event-log-api-data-platform-data-lake-prod.gryphline.com
 eventlog.chatlead.com
 event-logger.tagboard.com
 eventlog.inspsearchapi.com
@@ -17295,7 +17300,6 @@ ipn-app.hotdoc.com.au
 i.poker2u.app
 i.pokerbros.net
 i.pokernews.com
-i.posthog.com
 iptmgi.akan.co.kr
 iptmih.hifi-regler.de
 ipummv.pharao24.de
@@ -27043,6 +27047,7 @@ rwdito.carsguide.com.au
 rwevib.harmontblaine.com
 rwfkzw.wuerth.it
 rwhneg.breaking-news.jp
+r.winf.site
 rwlnfq.alindashop.ro
 rw.marchex.io
 rwohdj.motocard.com
