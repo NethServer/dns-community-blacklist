@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18FEB26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 20FEB26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -13043,6 +13043,7 @@ events.ocdn.eu
 events-ocu.zipify.com
 events.oddo-bhf.com
 events.onet.pl
+eventsourcing.ms.harmo.me
 events.paramount.tech
 event.spektare.com
 events.pella.com
