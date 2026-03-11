@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 11MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5110,6 +5110,7 @@ analytics.boxlunch.com
 analytics.brave.com
 analytics.brickaward.com
 analyticsbusiness.ing.ro
+analytics.byecorps.com
 analytics.canaltnt.es
 analytics.capitalgroup.com
 analytics.carambatv.ru
@@ -7512,6 +7513,7 @@ bidgx.com
 bidpapers.com
 bidswitch.net
 bienvenido.americanindustriesgroup.com
+bi-events-collector.spot.im
 bigcustomernetwork.actonservice.com
 bigdata.clarin.com
 bigfishapparel.com
@@ -8221,6 +8223,7 @@ camagess.carte-gr.total.fr
 ca.mattamyhomes.com
 c.amazinglybrilliant.com.au
 camel.headfarming.com
+camelsfestival.com
 camisado.actonservice.com
 campagne.enecozakelijk.nl
 campaign.amadeus.com
@@ -8340,6 +8343,7 @@ c.arstechnica.com
 carte.fleet-page.total.fr
 cartelsalsa.com
 cartkitten.com
+cartlug.com
 cartoon.hardalist.com
 cartx.cloud
 carvecakes.com
@@ -25712,12 +25716,15 @@ p.marqueplace.com
 pmazpg.legalzoom.com
 pm.boostintegrated.com
 pm.dailykos.com
+p.mdb.tools
 p.meilentrio.de
 p.metrilo.com
 pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
 pm.geniusmonkey.com
+p.midbound.click
+p.midbound.net
 pmi.flowplayer.com
 p.minds.com
 pm.pmu.fr
