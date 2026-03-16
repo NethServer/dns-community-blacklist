@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 16MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -10002,6 +10002,7 @@ d1get58iwmjrxx.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1hyarjnwqrenh.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
+d1l6p2sc9645hc.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1qnmu4nrib73p.cloudfront.net
@@ -13566,6 +13567,7 @@ fnoqgg.roninwear.com
 fn-pz.com
 fnvma.milanuncios.com
 foambench.com
+focusfitwear.com
 fog.pixual.co
 fokbrd.impo.ch
 folderplan.com
@@ -17228,10 +17230,8 @@ internal-analytics.odoo.com
 internalcomms.dbschenker.com
 internalcomms.hubinternational.com
 internalcondition.com
-internal-e.posthog.com
 internal.hcltech.com
 internalsink.com
-internal-t.posthog.com
 international.edc.ca
 internationalpayments.americanexpress.com
 international.wandw.ac.nz
@@ -23946,6 +23946,7 @@ neosllc.actonservice.com
 neowiv.brumbrum.it
 nerldv.ullapopken.pl
 nervoussummer.com
+nestbuyers.com
 net1.netski.com
 net.24-ads.com
 net.brillen.de
@@ -25293,6 +25294,7 @@ p.ejs.dev
 pemskb.unitedcinemas.jp
 peoplehr.actonservice.com
 people.mbtionline.com
+pepin.padlet.com
 pepleb.ekosport.de
 peqvwk.notino.at
 perceivequarter.com
@@ -27015,6 +27017,7 @@ rsaard.en-tea.com
 rs.adpinfo.com
 r.sax.sina.com.cn
 rsc.lepoint.fr
+r.sdiapi.net
 rsinqg.homelux.hu
 r.skimresources.com
 rs.mail.ru
@@ -35167,6 +35170,7 @@ tag.digops.sincro.io
 tag.eisa.mercari.com
 tag.elevaate.io
 tag.flagship.io
+tag.gendiscover.com
 tagger.opecloud.com
 tagger.ope.scmp.com
 tag.getamigo.io
