@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 30MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5810,6 +5810,7 @@ api.wipmania.com
 apiwmda.58.com.cn
 apllogistics.actonservice.com
 aplobv.xexymix.com
+aplus.alibaba.com
 apm.tnet.nl
 a.pork.org
 a.pourquoidocteur.fr
@@ -10560,6 +10561,7 @@ data.partner-offers.airmiles.ca
 data.partner-updates.airmiles.ca
 data.pharmacyservices.riteaid.com
 data.phg.palladiumhotelgroup.com
+datapickles.com
 data.pisos.com
 data.pnet.co.za
 data.prewards.palladiumhotelgroup.com
@@ -16306,6 +16308,7 @@ importantmeat.com
 importedinsect.com
 impossibleexpansion.com
 imp.pvnsolutions.com
+impression.appsflyer.com
 impressions.svc.abillion.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
 impress.vcita.com
@@ -24748,6 +24751,7 @@ onecrow.net
 onedropocean.com
 one.godigit.com
 oneid.mmstat.com
+onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
 onelink.taptalk.io
 onem.marketing.onemarketinguxp.com
@@ -27985,6 +27989,7 @@ sdcs.felissimo.co.jp
 s.dc-tag.jp
 sdjthl.tvguide.dk
 sdk-analytics-web.cloud.itau.com.br
+sdk.appsflyer.com
 sdlmaf.bestsecret.at
 sdome.underarmour.co.jp
 sdpimt.lostgolfballs.com
@@ -40705,6 +40710,7 @@ wealthcarecapital.actonservice.com
 wealth.informabi.com
 weare.ballymoregroup.com
 weatherbytes.net
+weatherpush.net
 web1.51.la
 web2.perkinelmer.com
 web3.perkinelmer.com
