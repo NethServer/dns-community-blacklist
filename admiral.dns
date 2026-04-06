@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 30MAR26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 06APR26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -58,7 +58,6 @@ adventurousamount.com
 afraidlanguage.com
 agileformer.com
 agreeablearch.com
-agreeablestew.com
 agreeabletouch.com
 aheadday.com
 aheadgrow.com
@@ -159,7 +158,6 @@ billowybelief.com
 binspiredtees.com
 birthdaybelief.com
 bitterbear.com
-blackbrake.com
 bleachbubble.com
 bleachscarecrow.com
 bleedlight.com
@@ -270,7 +268,6 @@ changeablecats.com
 channelcamp.com
 chargecracker.com
 charmingplate.com
-cheerycraze.com
 cherriescare.com
 chessbranch.com
 chesscolor.com
@@ -387,6 +384,7 @@ cushiondrum.com
 cutecalculator.com
 cutechin.com
 cyclopsdial.com
+dailydivision.com
 damagedadvice.com
 damageddistance.com
 damdoor.com
@@ -458,7 +456,6 @@ drydrum.com
 dustydime.com
 dustyhammer.com
 dyecloud.com
-eagereden.com
 eagerflame.com
 eagerknight.com
 earnbaht.com
@@ -521,7 +518,6 @@ excitingtub.com
 executeknowledge.com
 exhibitsneeze.com
 expansioneggnog.com
-exquisiteartisanship.com
 extractobservation.com
 extralocker.com
 extramonies.com
@@ -533,7 +529,6 @@ fadedsnow.com
 fairfeeling.com
 fairiesbranch.com
 fairygaze.com
-fairytaleflame.com
 faithrowold.com
 fallaciousfifth.com
 falseframe.com
@@ -610,6 +605,7 @@ freezingbuilding.com
 frequentflesh.com
 friedone.com
 friendlycrayon.com
+frogator.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -747,7 +743,6 @@ hypnoticwound.com
 hystericalcloth.com
 hystericalfinger.com
 idolscene.com
-idyllicjazz.com
 illinvention.com
 illustriousoatmeal.com
 immensehoney.com
@@ -779,7 +774,6 @@ jaderooster.com
 jailbulb.com
 joblessdrum.com
 joyfulharbor.com
-joyfulkeen.com
 joyfulvibe.com
 joyoussurprise.com
 jubilantaura.com
@@ -881,6 +875,7 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
+marrowleaves.com
 massivemark.com
 materialisticmoon.com
 materialmilk.com
@@ -894,6 +889,7 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
+mellowbike.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -907,7 +903,6 @@ memorizeneck.com
 mentorsticks.com
 meremark.com
 merequartz.com
-merryopal.com
 merryvault.com
 messagenovice.com
 messmonster.com
@@ -965,6 +960,7 @@ netcuriosity.com
 netizen.co
 nevitable.com
 newarkdriving.com
+newsletterjet.com
 niftygraphs.com
 niftyhospital.com
 niftyjelly.com
@@ -996,7 +992,6 @@ oldfashionedoffer.com
 omgthink.com
 onedropocean.com
 onlywoofs.com
-opalquill.com
 operationchicken.com
 operationnail.com
 optimallimit.com
@@ -1033,7 +1028,6 @@ pawsnug.com
 peacefullimit.com
 pedropanther.com
 pegsbuttons.com
-perkyjade.com
 phonecup.com
 photohints.com
 physicstees.com
@@ -1046,7 +1040,6 @@ piquantgrove.com
 piquantmeadow.com
 piquantpigs.com
 piquantprice.com
-piquantstove.com
 piquantvortex.com
 pixeledhub.com
 pixeltrouble.com
@@ -1083,7 +1076,6 @@ possiblepencil.com
 potatoinvention.com
 powerfulblends.com
 powerfulcopper.com
-preciouseffect.com
 preciousplanes.com
 preciousyoke.com
 predictplate.com
@@ -1226,7 +1218,6 @@ rulerabbit.com
 ruralrobin.com
 rusticprice.com
 ruthlessdegree.com
-ruthlessrobin.com
 sableshelf.com
 sablesmile.com
 sablesong.com
@@ -1290,6 +1281,7 @@ secretturtle.com
 seedscissors.com
 seenvault.com
 seespice.com
+selectionship.com
 selectivesummer.com
 selfishsea.com
 selfishsnake.com
@@ -1301,7 +1293,6 @@ seraphicjubilee.com
 serendipityecho.com
 serenecascade.com
 serenepebble.com
-serenesurf.com
 serenezenith.com
 serenezephyr.com
 servebom.com
@@ -1395,6 +1386,8 @@ soothingglade.com
 sophisticatedstove.com
 soresidewalk.com
 soretrain.com
+sortstructure.com
+soulclicking.com
 soundstocking.com
 sowlettuce.com
 spaceaffinity.com
@@ -1440,6 +1433,7 @@ stakedances.com
 stakingbasket.com
 stakingshock.com
 stakingsmile.com
+staleshow.com
 stalesummer.com
 starkscale.com
 startercost.com
@@ -1459,6 +1453,8 @@ stepcattle.com
 stepwisevideo.com
 stereoproxy.com
 stereotypedsugar.com
+stickssheep.com
+stickysheet.com
 stiffgame.com
 stiffstem.com
 stimulatingsneeze.com

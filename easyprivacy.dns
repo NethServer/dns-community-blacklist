@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 06APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8430,6 +8430,7 @@ cdn.9gtb.com
 cdn-a.raptor.digital
 cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
+cdn.eaec.fpfis.tech.ec.europa.eu
 cdn-eu.usefathom.com
 cdnhst.xyz
 cdnlogs.org
@@ -8469,6 +8470,7 @@ cesario.bt.no
 cfaexam.quantresear.ch
 cfa.fidelity.com
 cf.api.instant.one
+cfapi.upstackdata.io
 cfb.8it.me
 cf.campagnes-france.com
 c.fingerprint.com
@@ -9540,6 +9542,7 @@ counter.cnw.cz
 counter.cropvid.com
 counter.darkreader.app
 counter.drom.ru
+counter-growthbook.minute-ly.com
 counter.hackers.lv
 counter.hyipexplorer.com
 counter.insales.ru
@@ -10046,6 +10049,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
+d2o9p5vky89u4e.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
@@ -12832,6 +12836,7 @@ error-collector.ted.com
 errorreports.couponcabin.com
 errors.darkreader.app
 errors.snackly.co
+error-tracker.pages.dev
 error.videonow.ru
 ert5.rmcsport.tv
 erutinmos.snagajob.com
@@ -17337,7 +17342,6 @@ ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 i.paypal.com
 ipcfgw.pieces.com
 ipcheck.blogsys.jp
-ip-check-perf.radar.cloudflare.com
 ip.chipestimate.com
 ip.cliphunter.com
 ipdmlm.yoriso.com
@@ -22264,6 +22268,7 @@ metrics.diy.com
 metrics.diynetwork.com
 metric.sdl.com
 metrics.dockers.com
+metrics.documentfoundation.org
 metrics.dog.com
 metrics.dollar.com
 metrics.dollargeneral.com
@@ -26978,6 +26983,7 @@ roaddynamics.com
 roadwalks.com
 ro.aiwan4399.com
 roamhousing.com
+roas-service.store-services-prod.remarkable.com
 robotflowermobile.com
 robotgarages.com
 rochelle.wantsext.me
@@ -35766,6 +35772,7 @@ telemetry.navispherecarrier.com
 telemetry.nav.no
 telemetry.owenscorning.com
 telemetry.phenixrts.com
+telemetry.portal.voltdeutschland.org
 telemetry.proton.me
 telemetry.reembed.com
 telemetry.ruthschris.com
