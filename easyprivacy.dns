@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 10APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4129,6 +4129,7 @@ acclog001.shop-pro.jp
 acclog002.shop-pro.jp
 acc.marketing.adobedxcusteng.com
 accountancy.bppeloqua.com
+accountgram.com
 accounting.frbservices.org
 accountsdoor.com
 accumula.actonservice.com
@@ -4969,6 +4970,7 @@ ametrics.mheducation.com
 ametrics.web.dnbbank.no
 amezqu.fabrykaform.pl
 a.micorp.com
+amidsttruly.com
 amigraphics.actonservice.com
 amimon.actonservice.com
 aminks.underarmour.com.tr
@@ -7642,7 +7644,6 @@ blueoyster.click
 blue-rocket.actonservice.com
 bluevinebooks.com
 blushingbeast.com
-blushingbread.com
 bluvue.actonservice.com
 b.lyst.com
 blytheco.actonservice.com
