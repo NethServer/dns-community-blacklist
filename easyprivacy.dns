@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4112,7 +4112,6 @@ ac9kpxbans1l.staging.unstoppabledomains.com
 academics.academicsuperstore.com
 acadian-asset.actonservice.com
 a.careangel.com
-acbp0020171456.page.tl
 accenture.epoise.com
 accenturetest.epoise.com
 acceptcards.americanexpress.co.uk
@@ -8803,7 +8802,6 @@ cloud.trapptechnology.com
 cloud.webtrack.online
 cloudwp.io
 cloverleaf.infor.com
-cl-pbr.cxr.skeepers.io
 clp-mms.cloudpro.co.uk
 clrt.ai
 cls7.theushuaiaexperience.com
@@ -25313,6 +25311,7 @@ pdzutf.sftworks.jp
 peacefullimit.com
 pear.ca-eko-globetrotter.fr
 peards.zevvle.com
+pearpouch.com
 pedropanther.com
 peeringhost.net
 pegasus.unifygroup.com
