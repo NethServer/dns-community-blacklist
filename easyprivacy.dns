@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 17APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7643,6 +7643,7 @@ blueoyster.click
 blue-rocket.actonservice.com
 bluevinebooks.com
 blushingbeast.com
+blushingbread.com
 bluvue.actonservice.com
 b.lyst.com
 blytheco.actonservice.com
@@ -15230,6 +15231,7 @@ healthroundprince.com
 heap-api.com
 heap.drop.com
 hearob.klix.ba
+heartbeat-pearl.vercel.app
 heartbeat.pmd.444.hu
 heartbreakingmind.com
 heartflow.actonservice.com
@@ -17900,7 +17902,6 @@ kiki.rireetchansons.fr
 kikoe.aisei.co.jp
 kimberlyspa.actonservice.com
 kindasingle.com
-kindhush.com
 kindlereunion.com
 kinesis.us-east-1.analytics.edmentum.com
 kingnews.burgerking.co.za
@@ -24407,7 +24408,6 @@ o.catalyst.com.sa
 occidente.ubmmexico.com
 oceanair.actonservice.com
 oceanautomotive.actonservice.com
-oceancloudhosts.com
 ochre-app.hotdoc.com.au
 oci.dyn.com
 ocmxbu.hanatour.com
@@ -27100,6 +27100,7 @@ ruhpbn.zhigaojixie.com
 rum.api.intuit.com
 rum.azioncdn.net
 rum.azion.com
+rum.battle.net
 rum.cdnpure.com
 rum-collector.leaderint.workers.dev
 rum.condenastdigital.com
