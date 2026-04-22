@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12624,6 +12624,7 @@ endurablebulb.com
 energeticexample.com
 energeticladybug.com
 energy.eneco.be
+energyfools.com
 enews.alfaromeo.it
 enews.learninga-z.com
 engage2demand.cisco.com
