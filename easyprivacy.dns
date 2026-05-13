@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12884,6 +12884,7 @@ es-go.experian.com
 e.shop.app
 es.lucanet.com
 es-mktg.vodafone.com
+esoterictools.com
 espaniapizza.openapp.link
 espressoroom.openapp.link
 espy.boehs.org
@@ -13317,6 +13318,7 @@ fa5.dn4.it
 fabcharting.com
 fabledsoul.com
 fabryczna.viessmann.pl
+fabulousbooking.com
 face2.ishoppingapp.com
 facetwealth.actonservice.com
 facey.psjhealth.org
@@ -19302,6 +19304,7 @@ l.lejournaldelamaison.fr
 l.lesnumeriques.com
 l.lilyzhou.com
 llkdiu.chacos.com
+llmometrics.b-cdn.net
 llntrack.messe-duesseldorf.de
 llqutk.skechers.com.au
 llteig.framesdirect.com
@@ -19502,6 +19505,7 @@ log.zongheng.com
 lokalwerben.t-online.de
 lonelyflavor.com
 longingtrees.com
+longloops.com
 loobmf.hardloop.fr
 look-ahead.nurturemarketing.com
 loopcybersec.com
@@ -23424,6 +23428,7 @@ microware.actonservice.com
 micro.workplaceinvesting.fidelity.com
 midas.chase.com
 mi-de-ner-nis3.info
+midnightmead.com
 mie-solutions.actonservice.com
 miexgq.forevernew.co.nz
 mightyspiders.com
@@ -25355,6 +25360,7 @@ pdsgaj.piquadro.com
 pduwvp.chanti.dk
 pdzutf.sftworks.jp
 peacefullimit.com
+peakcreator.com
 pear.ca-eko-globetrotter.fr
 peards.zevvle.com
 pearpouch.com
@@ -35964,7 +35970,6 @@ test.pooler.io
 testreferral.upay.lk
 test-share.glorify-app.com
 test.shigoto-web.com
-test.showvid.ws
 test.siriusdecisions.com
 test.smrtp.link
 testsocial.eduthrill.com
