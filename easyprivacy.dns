@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 27MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -14304,7 +14304,6 @@ glamhawk.com
 glamipixel.com
 glass.autovistagroup.com
 glassbox-hlx-igw.bankofamerica.com
-glasscoyote.com
 glassguide-au.autovistagroup.com
 glassmoni.researchgate.net
 glbgox.djoser.de
@@ -41135,6 +41134,7 @@ workplacesolutions.equifax.com
 workplacesolutions.inform.equifax.com
 work.selecdoo.com
 workspacesolutions.gos1.com
+workwithdrones.com
 worldlever.com
 worldmtcs.nhk.jp
 worldnetpr.actonservice.com
