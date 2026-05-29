@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4982,6 +4982,7 @@ amplitude.chess.com
 ampltd2.medal.tv
 ampltd.medal.tv
 ampltd.top.gg
+ampscamp.net
 am.siemensplmevents.com
 ams.lelong.com.my
 ams.oraclecloud.com
@@ -22683,6 +22684,7 @@ metrics.motorhomebookers.com
 metrics.motortrend.com
 metrics.mrporter.com
 metrics.mrrooter.com
+metrics.mtcgame.com
 metrics.mum.edu
 metrics.mycareforward.com
 metrics.myclubwyndham.com
@@ -34701,6 +34703,7 @@ strack.www.allianzcare.com
 strack.www.allianzcare-corporate.com
 straightnest.com
 straindrinks.com
+strandedgame.com
 strangeclocks.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
@@ -36594,6 +36597,7 @@ track.abrdnifn.com
 track.abrdnjapan.co.uk
 track.abrdnnewindia.co.uk
 track.abrdnpit.co.uk
+track.addevent.com
 track.aimroas.com
 track.americansongwriter.com
 track.asiadragontrust.co.uk
