@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 01JUN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 03JUN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -321,8 +321,6 @@ bucketbean.com
 buildingknife.com
 bulbbait.com
 bumpermash.com
-bumpydevelopment.com
-bunchance.com
 bungeesleeves.com
 burgerbrush.com
 burgersalt.com
@@ -1032,8 +1030,6 @@ glisteningguide.com
 glisteningsign.com
 glitteringbrook.com
 gloriousbeef.com
-gloriouscracker.com
-glossysense.com
 glowingmeadow.com
 gluedpixel.com
 godlygeese.com
@@ -1400,8 +1396,6 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
-medusasailor.com
-mellowbike.com
 mellowhush.com
 mellowmailbox.com
 melodicminute.com
@@ -2372,8 +2366,6 @@ symbolizebeast.com
 synonymousrule.com
 synonymoussticks.com
 synthesizescarecrow.com
-synthesizespoon.com
-systemizecoat.com
 tackytrains.com
 tacojournal.com
 talentedsteel.com
@@ -2464,9 +2456,6 @@ toecircle.com
 toedrawer.com
 tofusquirrel.com
 toolcapital.com
-toomanyalts.com
-toothbrushnote.com
-toothpasterabbits.com
 topcrazypress.com
 topichawaii.com
 torpidtongue.com
