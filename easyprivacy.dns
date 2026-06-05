@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 05JUN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8753,6 +8753,7 @@ client-logger.beta.salemove.com
 client-logger.salemove.com
 client-log.karte.io
 clientlog.music.163.com
+client-logs-a.wbx2.com
 client-metrics.chess.com
 client.perimeterx.net
 clients.belairdirect.com
@@ -10685,6 +10686,7 @@ dax.yle.fi
 daybreaklights.com
 daymodern.com
 dazdmx.cobra.fr
+dazzlescript.com
 dazzlingbook.com
 db7q4jg5rkhk8.cloudfront.net
 dba4.pandasuite.io
@@ -11463,6 +11465,7 @@ doagpm.promart.pe
 dockdigestion.com
 doclec.supersmart.com
 doclen.hypedc.com
+documentstock.com
 docyjy.ryderwear.com
 dodgebugs.com
 do.exaai.chat
@@ -13274,6 +13277,7 @@ eyypxz.canifa.com
 eyzthp.constellation.com
 eyzubm.gooutdoors.co.uk
 ezdjat.shoesme.nl
+e.zg-api.com
 ezgo.advancedtech.com
 ezhddx.thesouledstore.com
 eziccr.dedoles.cz
@@ -14728,7 +14732,6 @@ go.noondate.com
 go.northsidemedia.com
 go.norway.innovatedating.com
 go.nvp.com
-goodbark.com
 google-analytics-cn.com
 googleoptimize-cn.com
 googleoptimize.com
@@ -25467,6 +25470,7 @@ pixel.kknews.cc
 pixel.leadlovers.app
 pixel.lilystyle.ai
 pixel.locker2.com
+pixel.marqo-ep.ai
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
@@ -26337,6 +26341,7 @@ quantumlagoon.com
 quantumshine.com
 qubitanalytics.appspot.com
 queenjam.com
+queen-one.net
 queenskart.com
 query1.petametrics.com
 quest.epoise.com
@@ -42010,6 +42015,7 @@ xdaoxa.footasylum.com
 xdbchs.bradfordexchange.com
 xdcpfs.shopdoen.com
 xdeiaf.elleshop.jp
+x.designboom.com
 x.disq.us
 xdkwsh.farmacialoreto.it
 xdsblm.ullapopken.de
