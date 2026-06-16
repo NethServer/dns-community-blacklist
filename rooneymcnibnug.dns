@@ -65416,6 +65416,7 @@ app-staging.staging.sprig.com
 app-qa25.qa25.sprig.com
 qa50.qa50.sprig.com
 a.sprig.com
+mcp.sprig.com
 kong-admin.staging.sprig.com
 kong.qa99.sprig.com
 app-qa50.qa50.sprig.com
@@ -74756,3 +74757,10 @@ jalebistats.moonfroglabs.com
 jalebiuser.moonfroglabs.com
 events.moonfroglabs.com
 click.inc42.com
+origin-dev-xcmetrics-backend.ns.paramount.tech
+chinougoo.cfd
+go2bank-verify.store
+go2bank-verify.org
+go2bank-verify.online
+go2bank-verify.com
+fidelitybankaccount.com
