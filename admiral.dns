@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 20JUL26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 22JUL26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -229,6 +229,7 @@ captivatingillusion.com
 captivatingpanorama.com
 captivatingperformance.com
 carefuldolls.com
+carelesshat.com
 caringcast.com
 carloforward.com
 cartelsalsa.com
@@ -1551,6 +1552,7 @@ ubiquitoussea.com
 ultraoranges.com
 ultravalid.com
 unaccountablepie.com
+unadvisedengine.com
 unarmedindustry.com
 unbecominghall.com
 unbecominglamp.com
@@ -1561,6 +1563,7 @@ unequaltrail.com
 unicontainers.com
 uninterestedquarter.com
 unitedscans.com
+unknowncontrol.com
 unknowncrate.com
 unknownidea.com
 unloadyourself.com
