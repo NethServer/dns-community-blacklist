@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 29JUL26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 31JUL26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -49,6 +49,7 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
+admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -540,6 +541,7 @@ fivesidedsquare.com
 fixedfold.com
 flakyfeast.com
 flameuncle.com
+flavordecision.com
 flimsycircle.com
 flimsythought.com
 flippedfunnel.com
@@ -1244,7 +1246,6 @@ shallowart.com
 shallowblade.com
 shamerain.com
 shapecomb.com
-sharkskids.com
 sheargovernor.com
 shesubscriptions.com
 shinypond.com
@@ -1368,6 +1369,7 @@ stakingshock.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
+stampknot.com
 startercost.com
 statshunt.com
 statuesqueship.com
@@ -1439,6 +1441,7 @@ supportwaves.com
 surfacesmedia.com
 swankysquare.com
 sweepsheep.com
+sweetslope.com
 swellstocking.com
 swimfreely.com
 swimslope.com
@@ -1655,6 +1658,7 @@ zestyrover.com
 zestywire.com
 zigzagcabin.com
 zipperxray.com
+zippywind.com
 zipthelake.com
 zlp6s.pw
 zonewedgeshaft.com
