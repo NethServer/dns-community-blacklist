@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 31JUL26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 03AUG26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5699,6 +5699,7 @@ an.avast.com
 an.avast.ru
 ancientact.com
 an.constantcontact.com
+andfauna.net
 andlache.com
 android.txtsmarter.com
 a.nelo.mx
@@ -7338,6 +7339,7 @@ barium.cheezdev.com
 barkfactor.com
 barqueue.com
 barracuda.carte-gr.total.fr
+barrelcider.com
 baseboosters.com
 basilfish.com
 basketballbelieve.com
@@ -11314,6 +11316,7 @@ direct-events-collector.spot.im
 directions.mdanderson.org
 direfuldesk.com
 disagreeabledrop.com
+discjockeys.net
 discopond.com
 discover.10play.com.au
 discover2.secureforms.mcafee.com
@@ -12091,6 +12094,7 @@ e.gettyimages.co.nz
 e.gettyimages.in
 e.gettyimages.nl
 e.gettyimages.pt
+eggrecipe.com
 eghrbf.immowelt.at
 egoi.site
 egvemw.aboutyou.ee
