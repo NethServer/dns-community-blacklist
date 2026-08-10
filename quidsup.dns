@@ -1821,7 +1821,6 @@ metrics.plex.tv #First Party - Tracker
 metrics.postoffice.co.uk #First Party - Tracker
 metrics.raptr.com #First Party - Tracker
 metrics.roblox.com #First Party - Tracker
-metrics.sdkbox.com #First Party - Tracker
 metrics.ubuntu.com #First Party - Tracker
 metrics.vinted.lt #First Party - Tracker
 metrics.washingtonpost.com #First Party - Tracker
@@ -13777,7 +13776,6 @@ retentioneering.com #Retentioneering - Tracker
 returnpath.net #Return Path - Tracker
 rev.contractoruk.com #Revive Adserver - Advertising
 revcontent.com #Unknown - Tracker
-revenue.com #World Media Group - Tracker
 revenueflex.com #Unknown - Advertising
 revenuehits.com #RevenueHits - Tracker
 revenuenetworkcpm.com #Unknown - Advertising
@@ -13808,7 +13806,6 @@ rm04.net #IBM Silverpop - Advertising
 rmhfrtnd.com #Unknown - Advertising
 ro-up.vivoglobal.com #Vivo - Tracker
 rockabox.co #Scoota - Tracker
-roia.biz #Unknown - Tracker
 roistat.com #Unknown - Tracker
 rollmeout.xyz #RollerAds - Advertising
 rollserver.xyz #RollerAds - Advertising
@@ -13818,7 +13815,6 @@ rqtrk.eu #Roq.ad - Tracker
 rta2.metro.co.uk #First Party - Tracker
 rtactivate.com #Unknown - Advertising
 rtbanalytics.com #Unknown - Tracker
-rtbidder.net #Unknown - Tracker
 rtmark.net #PropellerAds - Advertising
 rts.mobula.sdk.duapps.com #DU Apps - Tracker
 ru-comonrt-stsdk.vivoglobal.com #Vivo - Tracker
@@ -13827,7 +13823,6 @@ ru4.com #Unknown - Tracker
 rubiconproject.com #Rubicon - Tracker
 rudderlabs.com #RudderStack - Tracker
 rudderstack.com #RudderStack - Tracker
-rum.layer0.co #First Party - Tracker
 rum.ngenix.net #First Party - Tracker
 runative-syndicate.com #Runative - Advertising
 rundsp.com #Unknown - Tracker
@@ -13836,7 +13831,6 @@ s-onetag.com #OneTag - Advertising
 s.click.aliexpress.com #First Party - Tracker
 s.deepl.com #First Party - Tracker
 s3xified.com #AdTech - Advertising
-sa.api.intl.miui.com #Xiaomi - Tracker
 saa.paramountplus.com #Adobe - Tracker
 sabavision.com #Unknown - Tracker
 safestgatetocontent.com #AdMeasures - Advertising
@@ -13872,7 +13866,6 @@ sdkconfig.ad.xiaomi.com #Xiaomi - Tracker
 sdsjweb.com #Unknown - Tracker
 se07.biz #Unknown - Advertising
 search-log-1.tapatalk.com #First Party - Tracker
-searchlinks.com #PartnetLinks - Tracker
 searchmarketing.com #Unknown - Tracker
 seat.it #Seat PG - Tracker
 secureanalytic.com #Push Ads - Tracker
@@ -13883,7 +13876,6 @@ seedtag.com #Seedtag - Advertising
 segment.com #Segment - Tracker
 segment.io #Segment - Tracker
 sekindo.com #Sekindo - Advertising
-sele.co #Sele.Co - Tracker
 semasio.net #Unknown - Tracker
 sematext.com #Sematext - Tracker
 sendgrid.me #Unknown - Tracker
@@ -13894,9 +13886,6 @@ sensors.larkplayerapp.com #First Party - Tracker
 sensors.yodo1api.com #First Party - Tracker
 sentifi.com #Unknown - Tracker
 sentry-api.sberdevices.ru #Sentry - Tracker
-sentry-do.x5.ru #Sentry - Tracker
-sentry-dsn-customers.megamarket.tech #Sentry - Tracker
-sentry.archive.org #Sentry - Tracker
 sentry.ozon.ru #Sentry - Tracker
 sentry.platform24.tv #Sentry - Tracker
 sentry.prusa3d.com #Sentry - Tracker
@@ -13919,29 +13908,19 @@ shealth-analytics-api.samsunghealth.com #Samsung - Tracker
 shemedia.com #SHE Media - Advertising
 shepherd.ff.avast.com #Avast - Tracker
 shinystat.com #Unknown - Tracker
-shop2market.com #Unknown - Tracker
 shoppingshadow.com #ebay - Tracker
-shore.uno #Shore - Tracker
 shukriya90.com #Unknown - Advertising
 sibautomation.com #Send In Blue - Advertising
 sidekickopen01.com #Hubspot - Tracker
 sidekickopen04.com #Hubspot - Tracker
 sidekickopen06.com #Hubspot - Tracker
 sidekickopen07.com #Hubspot - Tracker
-sidekickopen08.com #Hubspot - Tracker
 sidekickopen10.com #Hubspot - Tracker
-sidekickopen13.com #Hubspot - Tracker
-sidekickopen24.com #Hubspot - Tracker
 sidekickopen25.com #Hubspot - Tracker
 sidekickopen68.com #Hubspot - Tracker
 sidekickopen69.com #Hubspot - Tracker
-sidekickopen70.com #Hubspot - Tracker
-sidekickopen72.com #Hubspot - Tracker
-sidekickopen78.com #Hubspot - Tracker
 sidekickopen80.com #Hubspot - Tracker
-sidekickopen81.com #Hubspot - Tracker
 sidekickopen84.com #Hubspot - Tracker
-sidekickopen87.com #Hubspot - Tracker
 sidekickopen90.com #Hubspot - Tracker
 siftscience.com #SiftScience - Tracker
 sigma-statistics-push.proxima.nie.easebar.com #First Party - Tracker
@@ -14003,8 +13982,6 @@ smetrics.abbott #Adobe - Tracker
 smetrics.abbvie.com #Adobe - Tracker
 smetrics.abercrombie.com #Adobe - Tracker
 smetrics.accaglobal.com #Adobe - Tracker
-smetrics.active.com #Adobe - Tracker
-smetrics.activecommunities.com #Adobe - Tracker
 smetrics.aem.playstation.com #Adobe - Tracker
 smetrics.aetn.com #Adobe - Tracker
 smetrics.aetnamedicare.com #Adobe - Tracker
@@ -14013,7 +13990,6 @@ smetrics.aia.com #Adobe - Tracker
 smetrics.aida.de #Adobe - Tracker
 smetrics.aircanada.com #Adobe - Tracker
 smetrics.alka.dk #Adobe - Tracker
-smetrics.allegion.com #Adobe - Tracker
 smetrics.allenedmonds.com #Adobe - Tracker
 smetrics.allianzlife.com #Adobe - Tracker
 smetrics.allstate.com #Adobe - Tracker
@@ -14027,7 +14003,6 @@ smetrics.angara.com #Adobe - Tracker
 smetrics.angi.com #Adobe - Tracker
 smetrics.anixter.com #Adobe - Tracker
 smetrics.anntaylor.com #Adobe - Tracker
-smetrics.ansible.com #Adobe - Tracker
 smetrics.antena3.com #Adobe - Tracker
 smetrics.anthem.com #Adobe - Tracker
 smetrics.apia.com.au #Adobe - Tracker
@@ -14078,7 +14053,6 @@ smetrics.bestbuy.com #Adobe - Tracker
 smetrics.bestinver.es #Adobe - Tracker
 smetrics.bet.com #Adobe - Tracker
 smetrics.beterhoren.nl #Adobe - Tracker
-smetrics.binge.com.au #Adobe - Tracker
 smetrics.bingle.com.au #Adobe - Tracker
 smetrics.bjs.com #Adobe - Tracker
 smetrics.bkstr.com #Adobe - Tracker
@@ -14092,12 +14066,10 @@ smetrics.boston.com #Adobe - Tracker
 smetrics.bostonglobe.com #Adobe - Tracker
 smetrics.britishgas.co.uk #Adobe - Tracker
 smetrics.bt.com #Adobe - Tracker
-smetrics.buffalotracedistillery.com #Adobe - Tracker
 smetrics.bupa.com.au #Adobe - Tracker
 smetrics.buyagift.co.uk #Adobe - Tracker
 smetrics.caesars.com #Adobe - Tracker
 smetrics.cahealthwellness.com #Adobe - Tracker
-smetrics.caleres.com #Adobe - Tracker
 smetrics.calvinklein.us #Adobe - Tracker
 smetrics.capitalone.com #Adobe - Tracker
 smetrics.careplushealthplans.com #Adobe - Tracker
@@ -14110,8 +14082,6 @@ smetrics.casio-intl.com #Adobe - Tracker
 smetrics.casio.com #Adobe - Tracker
 smetrics.casio.jp #Adobe - Tracker
 smetrics.cbc.ca #Adobe - Tracker
-smetrics.cbn.com #Adobe - Tracker
-smetrics.cdiscount.com #Adobe - Tracker
 smetrics.cdw.com #Adobe - Tracker
 smetrics.cedars-sinai.org #Adobe - Tracker
 smetrics.celebritycruises.com #Adobe - Tracker
