@@ -1133,7 +1133,7 @@ segment-data.zqtk.net
 segment-data-us-east.zqtk.net
 api.speedcurve.com
 lux.speedcurve.com
-sts3.wsj
+sts3.wsj.com
 fastlane.rubiconproject.com
 beacon.tru.am
 djibeacon.dowjoneson.com
@@ -3137,7 +3137,7 @@ gonzogrape.gumgum.com
 gumdrops.gumgum.com
 ie-g2.gumgum.com
 insights.gumgum.com
-jp-g2.gumgum.comm
+jp-g2.gumgum.com
 mail1-ie.gumgum.com
 mail1-va.gumgum.com
 mail2-ie.gumgum.com
@@ -12564,7 +12564,7 @@ cdn.jivox.com
 www.cdn.jivox.com
 cdn-as.jivox.com
 cdn-in.jivox.com
-evs.jivox.come
+evs.jivox.com
 playercdn.jivox.com
 creativescdn.jivox.com
 dev.jivox.com
@@ -14559,7 +14559,7 @@ www.infinigrow.com
 app.infinigrow.com
 sp.infinigrow.com
 sc.sp.infinigrow.com
-snowplowanalytics.snowplow
+snowplowanalytics.snowplow.com
 snowplowanalytics.com
 app.snowplowanalytics.com
 static.snowplowanalytics.com
@@ -42832,7 +42832,7 @@ fastweb.cloud4wi.com
 carina.cloud4wi.com
 kafka-manager.cloud4wi.com
 blog.cloud4wi.com
-status.cloud4wi
+status.cloud4wi.com
 vigorous-harbor-449.notion.site
 apps.rokt.com
 adt.rokt.com
@@ -46597,7 +46597,7 @@ page.24supportkit.com
 streaming.jsonmediapacks.com
 js.schema-forms.org
 stylesheet.webstaticcdn.com
-assets.watchasync.
+assets.watchasync.com
 tags.stickloader.info
 apps.marketing-counter.com
 forwardoffernow.com
@@ -74311,8 +74311,8 @@ browser-intake-us2-datadoghq.com
 browser-intake-us3-datadoghq.com
 browser-intake-us4-datadoghq.com
 browser-intake-us5-datadoghq.com
-browser-intake-ap1-datadoghq.com.
-browser-intake-corporateclash.net.
+browser-intake-ap1-datadoghq.com
+browser-intake-corporateclash.net
 browser-intake-datad0g.com
 browser-intake-datadoghq.com
 browser-intake-ddog-gov.com
@@ -74815,3 +74815,6 @@ activecampaign.littlebigbyte.com
 metrics.paddle.com
 pulse-ai.paddle.com
 id.paddle.com
+metrics.documentfoundation.org
+stats.documentfoundation.org
+tracker.documentfoundation.org
