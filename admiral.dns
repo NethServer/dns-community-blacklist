@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 31AUG26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 02SEP26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -797,16 +797,12 @@ losslace.com
 loudlunch.com
 lovelydrum.com
 loveseashore.com
-lp3tdqle.com
-luckyzombie.com
 ludicrousarch.com
 lumberamount.com
 lumberrule.com
 luminousboulevard.com
 luminouscatalyst.com
 luminoussculptor.com
-lumpygnome.com
-lumpyleaf.com
 lumpylumber.com
 lunchroomlock.com
 lustroushaven.com
@@ -1657,7 +1653,6 @@ zestyrover.com
 zestywire.com
 zigzagcabin.com
 zipperxray.com
-zippywind.com
 zipthelake.com
 zlp6s.pw
 zonewedgeshaft.com
