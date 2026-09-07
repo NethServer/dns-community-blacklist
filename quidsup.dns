@@ -942,6 +942,7 @@ counter.dsp.groupminteraction.ru #First Party - Tracker
 counter.insales.com #First Party - Tracker
 counter.lifesitenews.com #First Party - Tracker
 counter.nv.ua #First Party - Tracker
+counter.powr.io #Third Party - Tracker
 counter.pushauction.com #PushAuction - Tracker
 counter.rambler.ru #First Party - Tracker
 counter.simplybook.me #First Party - Tracker
@@ -1816,6 +1817,7 @@ metrics.indazn.com #First Party - Advertising
 metrics.ionos.com #First Party - Tracker
 metrics.kmsmep.com #Bread Financial - Tracker
 metrics.media-amazon.com #Amazon - Tracker
+metrics.mentimeter.com #First Party - Tracker
 metrics.mzstatic.com #Apple - Tracker
 metrics.plex.tv #First Party - Tracker
 metrics.postoffice.co.uk #First Party - Tracker
@@ -14426,12 +14428,9 @@ smetrics.shannons.com.au #Adobe - Tracker
 smetrics.sharecare.com #Adobe - Tracker
 smetrics.sharekhan.com #Adobe - Tracker
 smetrics.shell.co.uk #Adobe - Tracker
-smetrics.shopmyexchange.com #Adobe - Tracker
-smetrics.shoppremiumoutlets.com #Adobe - Tracker
 smetrics.singlife.com #Adobe - Tracker
 smetrics.siriusxm.com #Adobe - Tracker
 smetrics.sivasdescalzo.com #Adobe - Tracker
-smetrics.sj.se #Adobe - Tracker
 smetrics.skipton.co.uk #Adobe - Tracker
 smetrics.sky.com #Adobe - Tracker
 smetrics.sky.it #Adobe - Tracker
@@ -14439,7 +14438,6 @@ smetrics.sleepnumber.com #Adobe - Tracker
 smetrics.sling.com #Adobe - Tracker
 smetrics.smartmove.us #Adobe - Tracker
 smetrics.smbcnikko.co.jp #Adobe - Tracker
-smetrics.softwareag.com #Adobe - Tracker
 smetrics.solarwinds.com #Adobe - Tracker
 smetrics.solinst.com #Adobe - Tracker
 smetrics.sony.jp #Adobe - Tracker
@@ -14463,7 +14461,6 @@ smetrics.suncorp.com.au #Adobe - Tracker
 smetrics.sunglasshut.com #Adobe - Tracker
 smetrics.sunlife.ca #Adobe - Tracker
 smetrics.sunlife.com #Adobe - Tracker
-smetrics.sunlifeglobalinvestments.com #Adobe - Tracker
 smetrics.swinburne.edu.au #Adobe - Tracker
 smetrics.synergy.net.au #Adobe - Tracker
 smetrics.synopsys.com #Adobe - Tracker
@@ -14476,12 +14473,10 @@ smetrics.td.com #Adobe - Tracker
 smetrics.te.com #Adobe - Tracker
 smetrics.telegraph.co.uk #Adobe - Tracker
 smetrics.tesco.com #Adobe - Tracker
-smetrics.textbooks.com #Adobe - Tracker
 smetrics.tfl.gov.uk #Adobe - Tracker
 smetrics.tgw.com #Adobe - Tracker
 smetrics.theathletesfoot.com.au #Adobe - Tracker
 smetrics.thelawyer.com #Adobe - Tracker
-smetrics.theweathernetwork.com #Adobe - Tracker
 smetrics.thewhitecompany.com #Adobe - Tracker
 smetrics.thingspeak.com #Adobe - Tracker
 smetrics.thoughtworks.com #Adobe - Tracker
@@ -14493,11 +14488,9 @@ smetrics.ticketsatwork.com #Adobe - Tracker
 smetrics.tienda.telcel.com #Adobe - Tracker
 smetrics.tiendamonge.com #Adobe - Tracker
 smetrics.time.com #Adobe - Tracker
-smetrics.timeout.com #Adobe - Tracker
 smetrics.tmz.com #Adobe - Tracker
 smetrics.tommy.com #Adobe - Tracker
 smetrics.tommybahama.com #Adobe - Tracker
-smetrics.toofab.com #Adobe - Tracker
 smetrics.totalwine.com #Adobe - Tracker
 smetrics.toyota.com #Adobe - Tracker
 smetrics.traction.com #Adobe - Tracker
@@ -14511,29 +14504,22 @@ smetrics.tsc.ca #Adobe - Tracker
 smetrics.ttiinc.com #Adobe - Tracker
 smetrics.tudorwatch.com #Adobe - Tracker
 smetrics.tv2.dk #Adobe - Tracker
-smetrics.tyro.com #Adobe - Tracker
 smetrics.ubi.com #Adobe - Tracker
 smetrics.uhc.com #Adobe - Tracker
 smetrics.unipolsai.it #Adobe - Tracker
-smetrics.uol.com.br #Adobe - Tracker
 smetrics.ups.com #Adobe - Tracker
 smetrics.usbank.com #Adobe - Tracker
 smetrics.usopen.org #Adobe - Tracker
 smetrics.vcm.com #Adobe - Tracker
-smetrics.verisign.com #Adobe - Tracker
 smetrics.vermontcountrystore.com #Adobe - Tracker
 smetrics.viega.us #Adobe - Tracker
 smetrics.virginatlantic.com #Adobe - Tracker
 smetrics.virginmediabusiness.co.uk #Adobe - Tracker
 smetrics.virginmoney.com.au #Adobe - Tracker
-smetrics.vitacost.com #Adobe - Tracker
 smetrics.vitamix.com #Adobe - Tracker
 smetrics.vodafone.co.uk #Vodafone - Tracker
 smetrics.vodafone.com.tr #Adobe - Tracker
-smetrics.vodafone.es #Adobe - Tracker
 smetrics.vodafone.gr #Adobe - Tracker
-smetrics.vodafone.in #Adobe - Tracker
-smetrics.volusion.com #Adobe - Tracker
 smetrics.vonage.com #Adobe - Tracker
 smetrics.vw.com #Adobe - Tracker
 smetrics.vwfs-service-plans.io #Adobe - Tracker
@@ -14558,7 +14544,6 @@ smetrics.wradio.com.mx #Adobe - Tracker
 smetrics.wyndhamhotels.com #Adobe - Tracker
 smetrics.yaencontre.com #Adobe - Tracker
 smetrics.ybs.co.uk #Adobe - Tracker
-smetrics.yellowpages.com.au #Adobe - Tracker
 smetrics.zales.com #Adobe - Tracker
 smetrics.zalesoutlet.com #Adobe - Tracker
 smetrics1.experian.com #Adobe - Tracker
@@ -14643,8 +14628,6 @@ stats.adobe.com #Adobe CNAME - Tracker
 stats.avito.ru #First Party - Tracker
 stats.bbc.co.uk #BBC - Tracker
 stats.brave.com #First Party - Tracker
-stats.ctvnews.ca #First Party - Tracker
-stats.ebay.com #eBay - Tracker
 stats.gc.apple.com #Apple - Tracker
 stats.gcp.smartmailcloud.com #First Party - Tracker
 stats.glb.paypal.com #First Party - Tracker
@@ -14659,7 +14642,6 @@ stats.medium.build #First Party - Tracker
 stats.merriam-webster.com #Merriam Webster - Tracker
 stats.mos.ru #First Party - Tracker
 stats.newsweek.com #First Party - Tracker
-stats.nextcloud.com #First Party - Tracker
 stats.norton.com #First Party - Tracker
 stats.paypal.com #PayPal - Tracker
 stats.pusher.com #Pusher - Tracker
@@ -14686,7 +14668,6 @@ steepto.com #Unknown - Tracker
 stickyadstv.com #StickyAdsTV - Advertising
 stocks-analytics-events.apple.com #Apple - Tracker
 storeen.ldmnq.com #First Party - Advertising
-stores-counters.wix.com #Wix - Tracker
 stormiq.com #Unknown - Tracker
 storygize.net #Storygize - Tracker
 storyly.io #Storyly - Tracker
