@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 09SEP26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 14SEP26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -131,6 +131,7 @@ basketballbelieve.com
 baskettexture.com
 battlebalance.com
 bawdybalance.com
+beamkite.com
 beamvolcano.com
 beancontrol.com
 bedsberry.com
@@ -204,6 +205,7 @@ bungeesleeves.com
 burgersalt.com
 burnbubble.com
 burntwist.com
+businessbells.com
 bustlingbook.com
 butterbulb.com
 butterburst.com
@@ -235,6 +237,7 @@ cartelsalsa.com
 carvecakes.com
 casualphysics.com
 catalogcake.com
+catalogdiscovery.com
 catschickens.com
 cattlecommittee.com
 causecherry.com
@@ -343,7 +346,6 @@ crimsonmeadow.com
 critictruck.com
 crookedcreature.com
 crowdedmass.com
-cruisetourist.com
 crunchcontrol.com
 crystalboulevard.com
 cubchannel.com
@@ -366,7 +368,6 @@ cushiondrum.com
 cutecalculator.com
 cutechin.com
 cyclopsdial.com
-dailydivision.com
 damagedadvice.com
 damageddistance.com
 damdoor.com
@@ -657,9 +658,9 @@ gustocooking.com
 gustygrandmother.com
 halcyoncanyon.com
 haltingbadge.com
-haltingdivision.com
 hammerhearing.com
 handleteeth.com
+handnorth.com
 handsomehose.com
 handsomeindustry.com
 handsomelyhealth.com
@@ -755,6 +756,7 @@ justicejudo.com
 justpickaname.com
 justwebcards.com
 keenquill.com
+kibbleandbytes.com
 kidpowers.com
 kindhush.com
 kitetuning.com
@@ -1090,11 +1092,9 @@ randisphotos.com
 rangecake.com
 rangeplayground.com
 rangergustav.com
-rarestcandy.com
 raresummer.com
 razzweb.com
 reactjspdf.com
-readgoldfish.com
 readingguilt.com
 readymoon.com
 readysetcard.com
@@ -1223,7 +1223,6 @@ secretturtle.com
 seedscissors.com
 seenvault.com
 seespice.com
-selectionship.com
 selectivesummer.com
 selfishsea.com
 selfishsnake.com
@@ -1324,6 +1323,7 @@ sophisticatedstove.com
 soresidewalk.com
 soretrain.com
 sortstructure.com
+soulclicking.com
 soundstocking.com
 sowlettuce.com
 spaceaffinity.com
@@ -1369,6 +1369,7 @@ stakingshock.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
+stampknot.com
 starkscale.com
 startercost.com
 statshunt.com
@@ -1551,6 +1552,7 @@ uncoveredexpert.com
 understoodocean.com
 unequalbrake.com
 unequaltrail.com
+unicontainers.com
 uninterestedquarter.com
 unitedscans.com
 unknowncrate.com
@@ -1655,6 +1657,7 @@ zestyrover.com
 zestywire.com
 zigzagcabin.com
 zipperxray.com
+zippywind.com
 zipthelake.com
 zlp6s.pw
 zonewedgeshaft.com
