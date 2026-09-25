@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 25SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9850,7 +9850,6 @@ csp.yandex.net
 csr11.net.asambeauty.com
 csr.onet.pl
 c-stat.eu
-cstaticdun.126.net
 cstats.sankakucomplex.com
 c.stext.id
 cstm.baidu.com
@@ -13698,7 +13697,6 @@ firurx.invia.hu
 fishersfinds.com
 fishing.daigostudio.com
 fishingrodsgalore.com
-fishingtoolsbox.com
 fishspies.com
 fitgreatest.com
 fitnessmapper.com
@@ -19693,6 +19691,7 @@ logservice.hicloud.com
 logs.game.qq.com
 logs.hotstar.com
 log.sina.cn
+logs-ingester.prod.zuddl.com
 logs.kaya.delfi.ee
 logs.mezmo.com
 log.snapdeal.com
@@ -19973,6 +19972,7 @@ lujcig.modaforyou.pl
 l.umba.com
 lumberamount.com
 lumenera.actonservice.com
+lumengaming.com
 luminati.io
 luminousboulevard.com
 luminouscatalyst.com
@@ -27277,6 +27277,7 @@ reviewacousticguitar.com
 review.openapp.link
 review.teradata.com
 revivalvoice.com
+rewardangels.com
 rewards-my.greateasternlife.com
 rewards-sg.greateasternlife.com
 reydrj.kozaczek.pl
@@ -32751,6 +32752,7 @@ solarrecharge.net
 solar.sharpmarketing.eu
 solar.sunpower.com
 solar.sunpowercorp.com
+soldoutstubs.com
 soleblinds.com
 solicitud.pacifico.com.pe
 solidfiles.net
@@ -35328,6 +35330,7 @@ suncanny.marvel.com
 suncanny.marvelhq.com
 sunflaggroup.com
 sunlightmetrics.b-cdn.net
+sunlong.net
 sunnylettings.com
 sunsetcampfires.com
 sunsetstatic.com
@@ -36961,6 +36964,7 @@ top.elec.ru
 top-fwz1.mail.ru
 topicalcartel.com
 topicjungle.com
+toplaunch.net
 topsecretapp.net
 top.skyzone.ro
 topspin.npo.nl
@@ -38173,6 +38177,7 @@ trail.thomsonreuters.in
 t.rainide.com
 training.hager.co.uk
 training.indigobusiness.co.uk
+trainingreality.com
 training.thunderhead.com
 traka8.crypto-mall.org
 tr.alex.espmp-agfr.net
@@ -40816,6 +40821,7 @@ velvetquasar.com
 vengefulgrass.com
 venomousvessel.com
 venture-365-inspired.com
+venturemen.com
 venusgloria.com
 venusrevival.com
 veoci.actonservice.com
@@ -41156,6 +41162,7 @@ wa.gmx.co.uk
 wa.gmx.net
 wa.gymboree.com
 waitingnumber.com
+walkourworld.com
 wallet.chain.com
 wa.localworld.co.uk
 wal.wolfram.com
@@ -41298,6 +41305,7 @@ web.care.uhssa.com
 web.care.wakemed.org
 webcasts.de.ni.com
 webcasts.partnermcafee.com
+webclarion.com
 web.collaboration-access.com
 web.collisionservices.com
 web.communications.amouage.com
@@ -41472,6 +41480,7 @@ web.slimjoy.ro
 web.slimjoy.se
 web.slimjoy.sk
 web.solesource.com
+webspa.net
 webspires.net
 webstat.4music.com
 webstat.garanti.com.tr
@@ -41539,6 +41548,7 @@ web.winzer.com
 web.x.ilpost.it
 web.yourerc.com
 we.care.oswegohealth.org
+weeklycurrents.com
 weidenhammer.actonservice.com
 wejpuy.factor75.com
 we.kurly.com
