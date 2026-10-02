@@ -9,7 +9,7 @@
 #
 
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02OCT26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5096,6 +5096,7 @@ analyticsapi.qogita.com
 analytics-api.samsunghealthcn.com
 analytics-api-s.cloudinary.com
 analytics.apnewsregistry.com
+analytics.app.funnelish.com
 analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
@@ -8079,6 +8080,7 @@ brownmouse.net
 browser.covatic.io
 browserguides.net
 browser.pipe.aria.microsoft.com
+browsertdidticket.m.qq.com
 browser-updater.yandex.net
 brpayless.eccocar.com
 br.potato1.influitive.com
@@ -9809,6 +9811,7 @@ cr-relay.com
 crrm.onjoyri.de
 crs.actonservice.com
 crta.and.co.uk
+crta.dailymail.com
 crta.dailymail.co.uk
 crta.metro.co.uk
 cruisetourist.com
@@ -12148,6 +12151,7 @@ ednqjm.magnanni.com
 ed.originalpress.com
 edpsmart.edpcomunicacao.com.br
 edriving.actonservice.com
+edshowpigs.com
 ed-sys.net
 edtrainingcenter.actonservice.com
 education.bendigotafe.edu.au
@@ -13295,6 +13299,7 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events.santander.co.uk
+events.searchtap.net
 events.shareably.net
 events.shoplift.ai
 events.sk.ht
@@ -14210,6 +14215,7 @@ gastdn.wolfandbadger.com
 gatan.actonservice.com
 gateway.aimia.com
 gateway.foresee.com
+gatherer.m.qq.com
 ga-tracker-dot-detmir-bonus.appspot.com
 gaudyairplane.com
 gawayez.e-postserv.com
@@ -14525,6 +14531,7 @@ gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gk.sina.cn
 gksqdt.reitmans.com
+gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -19671,6 +19678,7 @@ log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
 log.m.sm.cn
+log.news.baidu.com
 log.nordot.jp
 log.olark.com
 log.outbrain.com
@@ -20214,6 +20222,7 @@ ma.pricegain.com
 map.rockwellautomation.com
 ma.prover.com
 marblediscussion.com
+marbleseeds.com
 marceline.wantsext.me
 march.landing.ni.com
 marcomauto.globalfoundries.com
@@ -26433,6 +26442,7 @@ prx6.destinia.ch
 p.ryanhalliday.com
 pr.yokohama-chokin.com
 przucu.elkjop.no
+p.sa7eer.com
 psbiaf.converse.com
 psfcnf.ochsnersport.ch
 psilikaki.openapp.link
@@ -26490,6 +26500,7 @@ pulse.delta.com
 pulse.ecmapps.com
 pulse.genki.world
 pulse.munsonhealthcare.org
+pulsepoint.ideal.house
 pulse.shopflo.com
 pumlmb.netcologne.de
 pumpedpancake.com
@@ -26929,6 +26940,7 @@ realogicinc.actonservice.com
 realsolutions.americanexpress.fr
 realsolutions.americanexpress.it
 realsolutions.americanexpress.se
+realtimeanalytics.yext.com
 realtime.bbcl.cl
 realtimely.io
 realtime-profiling.datarize.ai
@@ -36218,6 +36230,7 @@ t.ecomms.origin.com.au
 te.creation-l.de
 t.ecupirates.com
 teczbq.amicashop.com
+ted.dailymail.co.uk
 tediousbear.com
 tedioustooth.com
 teefiksummin.visma.fi
@@ -37168,6 +37181,7 @@ track.concur.com.au
 track.concur.com.sg
 track.connectwise.com
 track.contently.com
+track.convertfox.com
 track.cordial.io
 track.cornerstonebuildingbrands.com
 track.craudia.com
@@ -38164,6 +38178,7 @@ traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 traffic.taktikal.is
 traffic.wdc.center
+trafik.koopit.ist
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
 tr.agefiseminaires.com
@@ -41511,6 +41526,7 @@ webstats.vodafone.com
 webstats.volvoce.com
 webstats.volvoit.com
 webstat.vodafone.com
+webstat.ws.126.net
 web.tamaris.com
 webt.aqipa.com
 webtarget.astrogaming.com
