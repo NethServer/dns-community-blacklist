@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 05OCT26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 07OCT26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -232,6 +232,7 @@ carefuldolls.com
 caringcast.com
 carloforward.com
 cartelsalsa.com
+cartersci.com
 carvecakes.com
 casualphysics.com
 catalogcake.com
@@ -366,6 +367,7 @@ cushiondrum.com
 cutecalculator.com
 cutechin.com
 cyclopsdial.com
+dailydivision.com
 damagedadvice.com
 damageddistance.com
 damdoor.com
@@ -830,6 +832,7 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
+mellowbike.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -1456,6 +1459,7 @@ tendertest.com
 tenhourweek.com
 tennistie.com
 terriblethumb.com
+terrifictooth.com
 testadmiral.com
 texturetrick.com
 thejavalane.com
@@ -1629,7 +1633,6 @@ wtaccesscontrol.com
 xovq5nemr.com
 yieldingwoman.com
 yourlifedream.com
-zealousfield.com
 zephyrcatalyst.com
 zephyrlabyrinth.com
 zeppelinradio.com
