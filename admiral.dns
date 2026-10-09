@@ -9,7 +9,7 @@
 #
 
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 07OCT26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 09OCT26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -143,6 +143,7 @@ bhcumsc.com
 bikepaws.com
 bikesboard.com
 bilingualgeek.com
+billionpet.com
 billowybead.com
 billowybelief.com
 binspiredtees.com
@@ -274,10 +275,12 @@ cicdserver.com
 ciderfeast.com
 cinemabonus.com
 circlelevel.com
+citizensactive.com
 clammychicken.com
 clarifyverse.com
 cleanhaircut.com
 clearcomb.com
+clickersdigest.com
 cloisteredcurve.com
 cloudhustles.com
 cloudjumbo.com
@@ -346,6 +349,7 @@ crookedcreature.com
 crowdedmass.com
 cruisetourist.com
 crunchcontrol.com
+cryptvalue.com
 crystalboulevard.com
 cubchannel.com
 cubepins.com
@@ -832,7 +836,6 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
-mellowbike.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -1353,6 +1356,7 @@ stakingshock.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
+stampknot.com
 starkscale.com
 startercost.com
 statshunt.com
@@ -1459,13 +1463,11 @@ tendertest.com
 tenhourweek.com
 tennistie.com
 terriblethumb.com
-terrifictooth.com
 testadmiral.com
 texturetrick.com
 thejavalane.com
 therapeuticcars.com
 thesolartime.com
-thickticket.com
 thingsafterthought.com
 thingstaste.com
 thinkitten.com
